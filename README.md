@@ -17,6 +17,17 @@ There are many types of standards in the field of communication. The traditional
 
 </div>
 
+## Citation
+
+```
+@article{luo2025kg2qa,
+  title={KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering},
+  author={Luo, Zhongze and Wan, Weixuan and Zheng, Qizhi and Bai, Yanhong and Sun, Jingyun and Wang, Jian and Wang, Dan},
+  journal={arXiv preprint arXiv:2506.07037},
+  year={2025}
+}
+```
+
 ![img](./kg2qa.png)
 
 ## ft_dataset
