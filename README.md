@@ -4,7 +4,7 @@
 
 **Paper:** [https://arxiv.org/abs/2506.07037](https://arxiv.org/abs/2506.07037) <br>
 
-[Zhongze Luo](https://luozhongze.github.io)#, Weixuan Wan#, Qizhi Zheng, Yanhong Bai, Jingyun Sun, Jian Wang♠, Dan Wang♠  <br>
+[Zhongze Luo](https://luozhongze.github.io)#, Weixuan Wan#, [Qizhi Zheng](https://zhengqizhi30.github.io/), Yanhong Bai, [Jingyun Sun](https://ccec.nefu.edu.cn/info/1039/4807.htm), [Jian Wang](https://ccec.nefu.edu.cn/info/1043/1843.htm)♠, [Dan Wang](https://gr.xjtu.edu.cn/web/alexaustin)♠  <br>
 \# Equal Contribution; ♠ Corresponding authors <br>
 
 **Email:** luozhongze0928@foxmail.com <br>
