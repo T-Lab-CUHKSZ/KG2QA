@@ -17,6 +17,8 @@ There are many types of standards in the field of communication. The traditional
 
 </div>
 
+![img](./kg2qa.png)
+
 ## 1. ft_dataset
 
 This dataset can be used for fine-tuning large language models in the field of communication standards. The data is sourced from `ITU-T Recommendations` and the language is English. You can click [here](https://www.itu.int/en/ITU-T/publications/Pages/recs.aspx) to visit the ITU-T official website and view the source file.
