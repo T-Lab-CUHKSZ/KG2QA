@@ -19,7 +19,7 @@ There are many types of standards in the field of communication. The traditional
 
 ![img](./kg2qa.png)
 
-## 1. ft_dataset
+## ft_dataset
 
 This dataset can be used for fine-tuning large language models in the field of communication standards. The data is sourced from `ITU-T Recommendations` and the language is English. You can click [here](https://www.itu.int/en/ITU-T/publications/Pages/recs.aspx) to visit the ITU-T official website and view the source file.
 
@@ -83,7 +83,71 @@ X series：Data networks, open system communications and security (A total of 17
     X.1770-X.1799：Data protection (II)
 ```
 
-## 2. kg
+## kg
 
+### View the ontology on Protege
+
+Ontology are saved in the ``kg`` folder. After opening ``Protege.exe``, click File-Open and select ``on.rdf`` to open it
+
+### View the knowledge graph on Neo4j
+
+1. Node and relationship data are saved in the ``import`` folder in CSV UTF-8 format. Save this folder in the local Neo4j path, and then ForPKG can be stored and displayed.
+
+```
+D:\neo4j-community-5.18.1\import
+```
+
+2. Restart neo4j
+On the computer, type ``cmd`` to enter the command line. Go to ``neo4j-community-4.3.18\bin``, type ``neo4j restart`` to restart neo4j. In the browser, type ``localhost:7474/browser/`` to enter neo4j.
+
+```
+cd D:\neo4j-community-5.18.1\bin
+neo4j restart
+```
+
+3. Click the database icon and click ``:dbs`` of DBMS
+
+### Explanation
+
+#### Neo4j
+
+```
+1. Import a specific entity type
+LOAD CSV WITH HEADERS FROM 'file:///file_name.csv' AS line # file_name represents a specific entity type, and file_name.csv is the CSV file for that entity type  
+MERGE (:file_name { ID: line.ID, name: line.name, LABEL: line.LABEL })
+
+2. Delete a specific entity type  
+MATCH (r:`file_name`) DETACH DELETE r  // file_name represents a specific entity type  
+
+3. Create all relationships  
+LOAD CSV WITH HEADERS FROM 'file:///roles.csv' AS row  // roles.csv is the CSV file containing all relationships  
+MATCH (fromNode {ID: row.from}), (toNode {ID: row.to})  
+CALL apoc.create.relationship(fromNode, row.relation, {}, toNode) YIELD rel  
+RETURN rel  
+
+4. Delete a specific relationship  
+MATCH ()-[r:duty]-() DETACH DELETE r  
+
+5. Delete all relationships  
+MATCH ()-[r]-() DETACH DELETE r  
+
+6. Display all entities and relationships  
+MATCH (n) RETURN n  
+```
+#### The format of file_name.csv, with a total of 10 entity types  
+```
+ID,name,LABEL  
+```
+### The format of roles.csv  
+```
+from,to,relation  
+```
 ## 3. rag_code
-
+### kg2llm.py
+Ollama Model Remote Access to Knowledge Graph
+### eval.py
+Quantitative Evaluation of Answer Quality using an LLM-based Judge
+### flaskweb.py
+Knowledge Graph QA Web Service Platform
+### fastapi.py
+Knowledge Graph QA API Service Platform
