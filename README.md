@@ -145,11 +145,11 @@ MATCH ()-[r]-() DETACH DELETE r
 6. Display all entities and relationships  
 MATCH (n) RETURN n  
 ```
-#### The format of file_name.csv, with a total of 10 entity types  
+#### The format of file_name.csv
 ```
 ID,name,LABEL  
 ```
-### The format of roles.csv  
+#### The format of roles.csv  
 ```
 from,to,relation  
 ```
