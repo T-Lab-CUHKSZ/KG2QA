@@ -32,10 +32,10 @@ The dataset was obtained by QA extraction of the source file PDF using the `Deep
 | Category | Quantity of QA |
 | :----: | :--: |
 | G.json | 898 |
-| V.json | 1101 |
-| X.json | 3779 |
+| V.json | 1,101 |
+| X.json | 3,779 |
 | test.json | 809 |
-| All Categories | 6587 |
+| All Categories | 6,587 |
 
 The data is derived from ITU-T Recommendations and is taken from three series of recommendations. A total of `288 PDF source files` were selected for QA construction in the three series. The specific category sources are as follows.
 
