@@ -1,0 +1,1983 @@
+ID,name,LABEL
+APP_CON001,ISDNs,APP_CON
+APP_CON002,PSTNs,APP_CON
+APP_CON003,PSPDNs,APP_CON
+APP_CON004,numbering plan interworking,APP_CON
+APP_CON005,public data networks,APP_CON
+APP_CON006,ISDN era,APP_CON
+APP_CON007,packet mode,APP_CON
+APP_CON008,same country,APP_CON
+APP_CON009,international routing principles,APP_CON
+APP_CON010,routing plan for public data networks,APP_CON
+APP_CON011,single-mode optical fibres,APP_CON
+APP_CON012,factory measurements,APP_CON
+APP_CON013,Amendment 1 published in 2012,APP_CON
+APP_CON014,Appendix III,APP_CON
+APP_CON015,telecommunications, information and communication technologies (ICTs),APP_CON
+APP_CON016,Transmission media and optical systems characteristics,APP_CON
+APP_CON017,single-mode fibre and cable,APP_CON
+APP_CON018,digital systems,APP_CON
+APP_CON019,analogue systems,APP_CON
+APP_CON020,quasi -monochromatic regime,APP_CON
+APP_CON021,optical frequency range ν1 to ν2,APP_CON
+APP_CON022,compressed mode of operation,APP_CON
+APP_CON023,transparent mode of operation,APP_CON
+APP_CON024,this Recommendation,APP_CON
+APP_CON025,data received from the DTE,APP_CON
+APP_CON026,transparent mode,APP_CON
+APP_CON027,§ 9,APP_CON
+APP_CON028,This Recommendation | International Technical Report,APP_CON
+APP_CON029,DTE,APP_CON
+APP_CON030,DCE,APP_CON
+APP_CON031,DCE not-ready condition,APP_CON
+APP_CON032,Asynchronous mode of operation,APP_CON
+APP_CON033,Synchronous mode of operation,APP_CON
+APP_CON034,telecommunications,APP_CON
+APP_CON035,Administration,APP_CON
+APP_CON036,Intellectual Property Rights,APP_CON
+APP_CON037,TSB patent database,APP_CON
+APP_CON038,implementors,APP_CON
+APP_CON039,Geneva, 2002,APP_CON
+APP_CON040,ITU-T Recommendation V.50,APP_CON
+APP_CON041,Recommendation V.50,APP_CON
+APP_CON042,data transmission quality,APP_CON
+APP_CON043,telegraph transmission quality,APP_CON
+APP_CON044,telegraph distortion,APP_CON
+APP_CON045,sending distortion,APP_CON
+APP_CON046,transmission channel,APP_CON
+APP_CON047,Recommendation V.53,APP_CON
+APP_CON048,600 bauds - leased circuits,APP_CON
+APP_CON049,1200 bauds - leased circuits,APP_CON
+APP_CON050,600 bauds - switched circuit,APP_CON
+APP_CON051,1200 bauds - switched circuit,APP_CON
+APP_CON052,modulation rates,APP_CON
+APP_CON053,quality of transmission signals,APP_CON
+APP_CON054,unit element,APP_CON
+APP_CON055,single-mode optical fibre,APP_CON
+APP_CON056,1310 nm wavelength region,APP_CON
+APP_CON057,1550 nm region,APP_CON
+APP_CON058,1550 nm wavelength region,APP_CON
+APP_CON059,Appendix I, clause I.6,APP_CON
+APP_CON060,International Telecommunication Union (ITU),APP_CON
+APP_CON061,information and communication technologies (ICTs),APP_CON
+APP_CON062,ITU Telecommunication Standardization Sector (ITU-T),APP_CON
+APP_CON063,technical, operating and tariff questions,APP_CON
+APP_CON064,World Telecommunication Standardization Assembly (WTSA),APP_CON
+APP_CON065,Appendix I – Information about cabled fibre link attributes used for system design,APP_CON
+APP_CON066,system design,APP_CON
+APP_CON067,Appendix II – Information on data collection of G.652.D fibre maximum/minimum chromatic dispersion for boundary line specification,APP_CON
+APP_CON068,boundary line specification,APP_CON
+APP_CON069,Bibliography,APP_CON
+APP_CON070,Change log,APP_CON
+APP_CON071,dispersion-shifted,APP_CON
+APP_CON072,1550 nm,APP_CON
+APP_CON073,clause 7,APP_CON
+APP_CON074,non-linear effects,APP_CON
+APP_CON075,single-mode optical fibre cable links,APP_CON
+APP_CON076,installed links,APP_CON
+APP_CON077,Generic specification,APP_CON
+APP_CON078,Fibre optic communication system design guides,APP_CON
+APP_CON079,Terminology,APP_CON
+APP_CON080,fibre optic cable plant (FOCP),APP_CON
+APP_CON081,access network,APP_CON
+APP_CON082,specific environments,APP_CON
+APP_CON083,optical access network,APP_CON
+APP_CON084,Product specifications,APP_CON
+APP_CON085,Sectional specification for category A1 multimode fibres,APP_CON
+APP_CON086,non-ISDN,APP_CON
+APP_CON087,Recommendation I.411,APP_CON
+APP_CON088,long-distance digital transmission applications,APP_CON
+APP_CON089,long-haul terrestrial line systems,APP_CON
+APP_CON090,submarine cable systems,APP_CON
+APP_CON091,1530-1625 nm region,APP_CON
+APP_CON092,other considerations,APP_CON
+APP_CON093,Recommendation,APP_CON
+APP_CON094,Characteristics of optical systems,APP_CON
+APP_CON095,wavelength range,APP_CON
+APP_CON096,dense wavelength division multiplexing (DWDM) systems,APP_CON
+APP_CON097,coarse wavelength division multiplexing (CWDM) systems,APP_CON
+APP_CON098,coarse wavelength division multiplexing applications,APP_CON
+APP_CON099,dense wavelength division multiplexing systems,APP_CON
+APP_CON100,CWDM,APP_CON
+APP_CON101,DWDM,APP_CON
+APP_CON102,its length,APP_CON
+APP_CON103,simplex transmission,APP_CON
+APP_CON104,duplex transmission,APP_CON
+APP_CON105,telephone-type circuits,APP_CON
+APP_CON106,special quality circuits,APP_CON
+APP_CON107,operation of the DTE,APP_CON
+APP_CON108,Administrations,APP_CON
+APP_CON109,Note 1,APP_CON
+APP_CON110,test mode,APP_CON
+APP_CON111,loop 1 test condition,APP_CON
+APP_CON112,loop 3 test condition,APP_CON
+APP_CON113,Test parameters,APP_CON
+APP_CON114,Block diagram for standard test measuring set-up,APP_CON
+APP_CON115,Parameters of the line characteristics simulator,APP_CON
+APP_CON116,Parameters of the fault simulator,APP_CON
+APP_CON117,Noise sources,APP_CON
+APP_CON118,this subject needs further study,APP_CON
+APP_CON119,white noise,APP_CON
+APP_CON120,modem performance evaluation,APP_CON
+APP_CON121,new to the industry,APP_CON
+APP_CON122,exhaustive study,APP_CON
+APP_CON123,digital carrier systems,APP_CON
+APP_CON124,voiceband signals,APP_CON
+APP_CON125,V-Series,APP_CON
+APP_CON126,ITU-T X.691,APP_CON
+APP_CON127,ITU-T V.61,APP_CON
+APP_CON128,SERIES V: DATA COMMUNICATION OVER THE TELEPHONE NETWORK,APP_CON
+APP_CON129,DATA COMMUNICATION OVER THE TELEPHONE NETWORK,APP_CON
+APP_CON130,General Switched Telephone Network,APP_CON
+APP_CON131,leased point-to-point 2-wire telephone type circuits,APP_CON
+APP_CON132,ITU-T V-SERIES RECOMMENDATIONS,APP_CON
+APP_CON133,General V.1–V.9,APP_CON
+APP_CON134,Interfaces and voiceband modems V.10–V.34,APP_CON
+APP_CON135,Wideband modems V.35–V.39,APP_CON
+APP_CON136,Interface layer specifications for data communication V.200–V.249,APP_CON
+APP_CON137,Modems on digital circuits V.300–V.399,APP_CON
+APP_CON138,information technology,APP_CON
+APP_CON139,transmission errors,APP_CON
+APP_CON140,simple multipoint circuit,APP_CON
+APP_CON141,either direction,APP_CON
+APP_CON142,one direction at a time,APP_CON
+APP_CON143,ITU-T V.70,APP_CON
+APP_CON144,GSTN,APP_CON
+APP_CON145,Recommendation V.70,APP_CON
+APP_CON146,Recommendation H.245,APP_CON
+APP_CON147,ITU-T V.75,APP_CON
+APP_CON148,DSVD terminal control procedures,APP_CON
+APP_CON149,DSVD sessions,APP_CON
+APP_CON150,document,APP_CON
+APP_CON151,topics for study,APP_CON
+APP_CON152,Implementors,APP_CON
+APP_CON153,V.76,APP_CON
+APP_CON154,H.245,APP_CON
+APP_CON155,PSTN,APP_CON
+APP_CON156,general switched telephone network,APP_CON
+APP_CON157,Public Switched Telephone Network (PSTN),APP_CON
+APP_CON158,new session of data transmission,APP_CON
+APP_CON159,WTSA Resolution 1,APP_CON
+APP_CON160,telephone network,APP_CON
+APP_CON161,Synchronous Access Mode,APP_CON
+APP_CON162,duplex,APP_CON
+APP_CON163,primary channel,APP_CON
+APP_CON164,Cellular systems,APP_CON
+APP_CON165,data communication,APP_CON
+APP_CON166,In-band DCE control,APP_CON
+APP_CON167,Synchronous data modes,APP_CON
+APP_CON168,Asynchronous DTE,APP_CON
+APP_CON169,intellectual property,APP_CON
+APP_CON170,Geneva, 2001,APP_CON
+APP_CON171,telecommunication standards,APP_CON
+APP_CON172,public switched telephone network,APP_CON
+APP_CON173,leased point-to-point telephone-type circuits,APP_CON
+APP_CON174,4-wire circuit switched connection,APP_CON
+APP_CON175,leased point-to-point 4-wire digital circuits,APP_CON
+APP_CON176,start-up,APP_CON
+APP_CON177,data mode,APP_CON
+APP_CON178,8.4.1,APP_CON
+APP_CON179,certain aspects,APP_CON
+APP_CON180,Public data networks,APP_CON
+APP_CON181,Integrated Services Digital Networks (ISDNs),APP_CON
+APP_CON182,International user classes of service,APP_CON
+APP_CON183,data transmission services,APP_CON
+APP_CON184,leased circuit data transmission service,APP_CON
+APP_CON185,circuit-switched data transmission service (CSDTS),APP_CON
+APP_CON186,packet-switched data transmission service (PSDTS),APP_CON
+APP_CON187,frame relay data transmission service (FRDTS),APP_CON
+APP_CON188,Recommendations X.3, X.5 or X.8,APP_CON
+APP_CON189,user classes of service,APP_CON
+APP_CON190,in accordance with,APP_CON
+APP_CON191,Circuit-Switched Public Data Network (CSPDN),APP_CON
+APP_CON192,PDN,APP_CON
+APP_CON193,interworking function,APP_CON
+APP_CON194,beginning of a PSTN call,APP_CON
+APP_CON195,several single media or multimedia operating modes,APP_CON
+APP_CON196,V.21 (H) modulation,APP_CON
+APP_CON197,DCE-controlled,APP_CON
+APP_CON198,H.324,APP_CON
+APP_CON199,FCLASS=17.0,APP_CON
+APP_CON200,FCLASS=18.0,APP_CON
+APP_CON201,Telephone Answering Device functions,APP_CON
+APP_CON202,Speakerphone functions,APP_CON
+APP_CON203,Voice states and operation of a voice-capable DCE,APP_CON
+APP_CON204,Non-speakerphone section of a voice DCE,APP_CON
+APP_CON205,Voice states,APP_CON
+APP_CON206,Voice and network signalling support,APP_CON
+APP_CON207,Events (reports sent to the DTE),APP_CON
+APP_CON208,Actions (commands sent to the DCE),APP_CON
+APP_CON209,Call discrimination,APP_CON
+APP_CON210,Hook control under voice,APP_CON
+APP_CON211,voice,APP_CON
+APP_CON212,Timing marks in the voice data stream,APP_CON
+APP_CON213,Compression method and availability of event detection,APP_CON
+APP_CON214,Operation,APP_CON
+APP_CON215,Numeric radix,APP_CON
+APP_CON216,Format conventions,APP_CON
+APP_CON217,Command structure,APP_CON
+APP_CON218,Basic command syntax,APP_CON
+APP_CON219,Extended command syntax,APP_CON
+APP_CON220,Session management,APP_CON
+APP_CON221,Flow control,APP_CON
+APP_CON222,ITU-T X.1011,APP_CON
+APP_CON223,Information and network security,APP_CON
+APP_CON224,General security aspects,APP_CON
+APP_CON225,Guidelines for continuous protection of the service access process,APP_CON
+APP_CON226,continuous protection of the service access process,APP_CON
+APP_CON227,Recommendation ITU-T X.1011,APP_CON
+APP_CON228,DATA NETWORKS,APP_CON
+APP_CON229,OPEN SYSTEM COMMUNICATIONS,APP_CON
+APP_CON230,SECURITY,APP_CON
+APP_CON231,ITU-T X.1031,APP_CON
+APP_CON232,end-to-end communications,APP_CON
+APP_CON233,End users,APP_CON
+APP_CON234,Security controls,APP_CON
+APP_CON235,telecommunication system,APP_CON
+APP_CON236,telecommunication system activities,APP_CON
+APP_CON237,the various external security threats,APP_CON
+APP_CON238,the environment in which the TNSS functions,APP_CON
+APP_CON239,security aspects,APP_CON
+APP_CON240,telecommunication service,APP_CON
+APP_CON241,specific user(s),APP_CON
+APP_CON242,user groups,APP_CON
+APP_CON243,E-government,APP_CON
+APP_CON244,E-commerce,APP_CON
+APP_CON245,mobile office automation (OA),APP_CON
+APP_CON246,digital entertainment,APP_CON
+APP_CON247,Digital live,APP_CON
+APP_CON248,e-education,APP_CON
+APP_CON249,E-health,APP_CON
+APP_CON250,ITU-T X.1034,APP_CON
+APP_CON251,securing the lower layer in a communication network,APP_CON
+APP_CON252,Extensible Authentication Protocol (EAP),APP_CON
+APP_CON253,data communication network,APP_CON
+APP_CON254,later data sessions,APP_CON
+APP_CON255,passive attack,APP_CON
+APP_CON256,server-compromised attack,APP_CON
+APP_CON257,ITU-T X.1035,APP_CON
+APP_CON258,man-in-the-middle attack,APP_CON
+APP_CON259,eavesdropper,APP_CON
+APP_CON260,more secure alternative,APP_CON
+APP_CON261,ITU-T X.1036,APP_CON
+APP_CON262,system or a service,APP_CON
+APP_CON263,role,APP_CON
+APP_CON264,ITU-T X.1037,APP_CON
+APP_CON265,telecommunication organizations,APP_CON
+APP_CON266,IPv6,APP_CON
+APP_CON267,security issues,APP_CON
+APP_CON268,ITU-T X.1038,APP_CON
+APP_CON269,software-defined networking (SDN),APP_CON
+APP_CON270,security protection,APP_CON
+APP_CON271,security requirements,APP_CON
+APP_CON272,new security threats,APP_CON
+APP_CON273,traditional network security threats,APP_CON
+APP_CON274,SDN application layer,APP_CON
+APP_CON275,SDN control layer,APP_CON
+APP_CON276,SDN resource layer,APP_CON
+APP_CON277,security threats,APP_CON
+APP_CON278,denial-of-service (DoS),APP_CON
+APP_CON279,distributed denial-of-service (DDoS),APP_CON
+APP_CON280,ITU-T Y.3300,APP_CON
+APP_CON281,SDN,APP_CON
+APP_CON282,use cases,APP_CON
+APP_CON283,Bypassing a predefined mandatory policy,APP_CON
+APP_CON284,Data eavesdropping attacks by inserting fraudulent flow entries,APP_CON
+APP_CON285,ITU-T X.800,APP_CON
+APP_CON286,Security architecture for Open Systems Interconnection for CCITT applications,APP_CON
+APP_CON287,IETF RFC 4210,APP_CON
+APP_CON288,IETF RFC 5246,APP_CON
+APP_CON289,NIST AES,APP_CON
+APP_CON290,NIST DSS,APP_CON
+APP_CON291,National Institute of Standards and Technology,APP_CON
+APP_CON292,U.S. Department of Commerce,APP_CON
+APP_CON293,Interfaces and voiceband modems,APP_CON
+APP_CON294,Previously CCITT Recommendation,APP_CON
+APP_CON295,Wideband modems V.35 –V.39,APP_CON
+APP_CON296,Error control V.40–V.49,APP_CON
+APP_CON297,Transmission quality and maintenance V.50–V.59,APP_CON
+APP_CON298,Interworking with other networks V.100–V.199,APP_CON
+APP_CON299,Interface layer specifications for data communication,APP_CON
+APP_CON300,Control procedures V.250–V.299,APP_CON
+APP_CON301,Recognized operating agency (ROA),APP_CON
+APP_CON302,ITU-T V.140,APP_CON
+APP_CON303,multimedia terminals,APP_CON
+APP_CON304,digital networks,APP_CON
+APP_CON305,multiprotocol audiovisual terminals,APP_CON
+APP_CON306,digital channels,APP_CON
+APP_CON307,multimedia communications,APP_CON
+APP_CON308,every channel of a multi-channel call,APP_CON
+APP_CON309,odd characteristics of the network,APP_CON
+APP_CON310,restricted,APP_CON
+APP_CON311,H.320,APP_CON
+APP_CON312,remote station,APP_CON
+APP_CON313,telephone transmission network,APP_CON
+APP_CON314,permanent installations,APP_CON
+APP_CON315,subscriber's line terminals,APP_CON
+APP_CON316,remote location,APP_CON
+APP_CON317,ITU-T X.1039,APP_CON
+APP_CON318,ITU-T X.805,APP_CON
+APP_CON319,unauthorized individuals, entities, or processes,APP_CON
+APP_CON320,The property that data has not been altered or destroyed in an unauthorized manner,APP_CON
+APP_CON321,network environments,APP_CON
+APP_CON322,local security policy,APP_CON
+APP_CON323,how and when it occurred,APP_CON
+APP_CON324,an intrusion has been attempted, is occurring, or has occurred,APP_CON
+APP_CON325,ITU-T X-SERIES RECOMMENDATIONS,APP_CON
+APP_CON326,PUBLIC DATA NETWORKS X.1–X.199,APP_CON
+APP_CON327,OPEN SYSTEMS INTERCONNECTION X.200–X.299,APP_CON
+APP_CON328,INTERWORKING BETWEEN NETWORKS X.300–X.399,APP_CON
+APP_CON329,MESSAGE HANDLING SYSTEMS X.400–X.499,APP_CON
+APP_CON330,DIRECTORY X.500–X.599,APP_CON
+APP_CON331,OSI NETWORKING AND SYSTEM ASPECTS X.600–X.699,APP_CON
+APP_CON332,OSI MANAGEMENT X.700–X.799,APP_CON
+APP_CON333,SECURITY X.800–X.849,APP_CON
+APP_CON334,OSI APPLICATIONS X.850–X.899,APP_CON
+APP_CON335,OPEN DISTRIBUTED PROCESSING X.900–X.999,APP_CON
+APP_CON336,INFORMATION AND NETWORK SECURITY,APP_CON
+APP_CON337,Network security,APP_CON
+APP_CON338,Security management,APP_CON
+APP_CON339,Telebiometrics,APP_CON
+APP_CON340,SECURE APPLICATIONS AND SERVICES,APP_CON
+APP_CON341,CYBERSPACE SECURITY,APP_CON
+APP_CON342,Emergency communications X.1300–X.1309,APP_CON
+APP_CON343,Ubiquitous sensor network security X.1310–X.1339,APP_CON
+APP_CON344,PKI related Recommendations X.1340–X.1349,APP_CON
+APP_CON345,CYBERSECURITY INFORMATION EXCHANGE,APP_CON
+APP_CON346,CLOUD COMPUTING SECURITY,APP_CON
+APP_CON347,Overview of cloud computing security,APP_CON
+APP_CON348,Cloud computing security best practices and guidelines,APP_CON
+APP_CON349,Other cloud computing security,APP_CON
+APP_CON350,e-commerce service ecosystems,APP_CON
+APP_CON351,e-commerce business data,APP_CON
+APP_CON352,e-commerce service ecosystem,APP_CON
+APP_CON353,seller,APP_CON
+APP_CON354,buyer,APP_CON
+APP_CON355,e-commerce platform,APP_CON
+APP_CON356,independent software vendor (ISV),APP_CON
+APP_CON357,payment platform,APP_CON
+APP_CON358,logistics platform,APP_CON
+APP_CON359,data lifecycle management,APP_CON
+APP_CON360,ITU-T X.1041,APP_CON
+APP_CON361,VoLTE,APP_CON
+APP_CON362,traditional voice service,APP_CON
+APP_CON363,Internet,APP_CON
+APP_CON364,IMS,APP_CON
+APP_CON365,VoLTE service,APP_CON
+APP_CON366,ITU-T X.1042,APP_CON
+APP_CON367,dynamic and scalable manner,APP_CON
+APP_CON368,cyber attackers,APP_CON
+APP_CON369,centralized firewall service,APP_CON
+APP_CON370,centralized DDoS attack mitigation service,APP_CON
+APP_CON371,centralized honeypot service,APP_CON
+APP_CON372,centralized illegal device management service,APP_CON
+APP_CON373,access control management service,APP_CON
+APP_CON374,network resource,APP_CON
+APP_CON375,SDN-based security services,APP_CON
+APP_CON376,ITU-T X.1043,APP_CON
+APP_CON377,service function chaining,APP_CON
+APP_CON378,network elements,APP_CON
+APP_CON379,requirements,APP_CON
+APP_CON380,interfaces,APP_CON
+APP_CON381,common networking threats,APP_CON
+APP_CON382,Security requirements,APP_CON
+APP_CON383,DDoS attack,APP_CON
+APP_CON384,vulnerabilities due to shared use of physical network devices,APP_CON
+APP_CON385,Eavesdropping,APP_CON
+APP_CON386,Man in the middle attack,APP_CON
+APP_CON387,DoS attacks,APP_CON
+APP_CON388,security vulnerabilities of operating system,APP_CON
+APP_CON389,broken access control,APP_CON
+APP_CON390,networks and applications,APP_CON
+APP_CON391,fixed locations in the network,APP_CON
+APP_CON392,Network attacks,APP_CON
+APP_CON393,Datacentres,APP_CON
+APP_CON394,Intelligent transport systems (ITSs),APP_CON
+APP_CON395,Cyber defence,APP_CON
+APP_CON396,special vehicle (SV) speedup,APP_CON
+APP_CON397,telecommunications network evolution,APP_CON
+APP_CON398,security challenges,APP_CON
+APP_CON399,telecommunications networks,APP_CON
+APP_CON400,real-time network status,APP_CON
+APP_CON401,SDN/NFV networks,APP_CON
+APP_CON402,entities and parties,APP_CON
+APP_CON403,ITU-T X.1047,APP_CON
+APP_CON404,network slice management and orchestration,APP_CON
+APP_CON405,3GPP TR 33.811,APP_CON
+APP_CON406,security for the interface exposed to network slice management,APP_CON
+APP_CON407,integrity protection of the network slice subnet template,APP_CON
+APP_CON408,3GPP TS 33.501,APP_CON
+APP_CON409,3GPP TR 33.813,APP_CON
+APP_CON410,diverse requirements,APP_CON
+APP_CON411,Service Level Agreement (SLA),APP_CON
+APP_CON412,specific requirements,APP_CON
+APP_CON413,Mobile communication,APP_CON
+APP_CON414,automotive,APP_CON
+APP_CON415,manufacturing,APP_CON
+APP_CON416,logistics,APP_CON
+APP_CON417,energy,APP_CON
+APP_CON418,finance,APP_CON
+APP_CON419,healthcare,APP_CON
+APP_CON420,telecommunications organizations,APP_CON
+APP_CON421,Telecommunications organizations,APP_CON
+APP_CON422,data networks,APP_CON
+APP_CON423,open system communications,APP_CON
+APP_CON424,security,APP_CON
+APP_CON425,Data Networks,APP_CON
+APP_CON426,Open System Communications,APP_CON
+APP_CON427,Security,APP_CON
+APP_CON428,international standard,APP_CON
+APP_CON429,information security controls,APP_CON
+APP_CON430,ITU-T X.1052,APP_CON
+APP_CON431,Information security management,APP_CON
+APP_CON432,Telecommunication organizations,APP_CON
+APP_CON433,information security,APP_CON
+APP_CON434,ITU-T X.1051,APP_CON
+APP_CON435,ITU-T X.1053,APP_CON
+APP_CON436,Code of practice for information security controls based on ITU-T X.1051 for small and medium-sized telecommunication organizations,APP_CON
+APP_CON437,small and medium-sized telecommunication organizations,APP_CON
+APP_CON438,Recommendation ITU-T X.1053,APP_CON
+APP_CON439,small and medium-sized telecommunication organizations (SMTOs),APP_CON
+APP_CON440,delivery of telecommunication services,APP_CON
+APP_CON441,ITU-T X.1054,APP_CON
+APP_CON442,governance of information security,APP_CON
+APP_CON443,Governance of information security,APP_CON
+APP_CON444,ISO/IEC 27014,APP_CON
+APP_CON445,Information security, cybersecurity and privacy protection,APP_CON
+APP_CON446,ISO/IEC 27001,APP_CON
+APP_CON447,ITU-T X.1055,APP_CON
+APP_CON448,telecommunication,APP_CON
+APP_CON449,Information security risk,APP_CON
+APP_CON450,Risk profile,APP_CON
+APP_CON451,telecommunication organization,APP_CON
+APP_CON452,Information systems risk,APP_CON
+APP_CON453,Human resources risk,APP_CON
+APP_CON454,many areas of the business,APP_CON
+APP_CON455,Operational risk,APP_CON
+APP_CON456,Network services risk,APP_CON
+APP_CON457,IT services risk,APP_CON
+APP_CON458,Physical risk,APP_CON
+APP_CON459,threats,APP_CON
+APP_CON460,Compliance risk,APP_CON
+APP_CON461,jurisdictions,APP_CON
+APP_CON462,Assets,APP_CON
+APP_CON463,Information,APP_CON
+APP_CON464,Software assets,APP_CON
+APP_CON465,Hardware assets,APP_CON
+APP_CON466,ITU-T X.1056,APP_CON
+APP_CON467,specific security or business requirements,APP_CON
+APP_CON468,security incidents,APP_CON
+APP_CON469,lifecycle,APP_CON
+APP_CON470,DoS/DDoS attack,APP_CON
+APP_CON471,Buffer overflow,APP_CON
+APP_CON472,anomalous condition,APP_CON
+APP_CON473,Security incident,APP_CON
+APP_CON474,adverse event,APP_CON
+APP_CON475,ITU-T X.1057,APP_CON
+APP_CON476,Asset management guidelines,APP_CON
+APP_CON477,Information technology,APP_CON
+APP_CON478,Security techniques,APP_CON
+APP_CON479,Multicast security,APP_CON
+APP_CON480,Assets Globally accessible in IP-based network for Telecommunication organizations (AGIT),APP_CON
+APP_CON481,threats and challenges,APP_CON
+APP_CON482,best practices,APP_CON
+APP_CON483,guidance,APP_CON
+APP_CON484,IP-based networks,APP_CON
+APP_CON485,Residual risk,APP_CON
+APP_CON486,Distributed Denial of Service (DDoS),APP_CON
+APP_CON487,Internet Protocol (IP),APP_CON
+APP_CON488,Information Technology (IT),APP_CON
+APP_CON489,Operating System (OS),APP_CON
+APP_CON490,Personally Identifiable Information (PII),APP_CON
+APP_CON491,Short Message Service (SMS),APP_CON
+APP_CON492,Transmission Control Protocol (TCP),APP_CON
+APP_CON493,Assets globally accessible in IP-based network for telecommunication organizations (AGIT),APP_CON
+APP_CON494,User Datagram Protocol (UDP),APP_CON
+APP_CON495,Uniform Resource Locator (URL),APP_CON
+APP_CON496,Voice over IP (VoIP),APP_CON
+APP_CON497,Voice over Long-Term Evolution (VoLTE),APP_CON
+APP_CON498,Virtual Private Network (VPN),APP_CON
+APP_CON499,World Wide Web (WWW),APP_CON
+APP_CON500,ITU-T V.254,APP_CON
+APP_CON501,assistive and multi-functional communication devices,APP_CON
+APP_CON502,Calendar information,APP_CON
+APP_CON503,parameters specified,APP_CON
+APP_CON504,visual display,APP_CON
+APP_CON505,assistive device,APP_CON
+APP_CON506,multi-functional communication device,APP_CON
+APP_CON507,user,APP_CON
+APP_CON508,ITU-T V.250,APP_CON
+APP_CON509,Serial asynchronous automatic dialling and control,APP_CON
+APP_CON510,ETSI TS 127 007,APP_CON
+APP_CON511,Digital cellular telecommunications system (Phase 2+),APP_CON
+APP_CON512,Universal Mobile Telecommunications System (UMTS),APP_CON
+APP_CON513,LTE,APP_CON
+APP_CON514,ISO 639-1,APP_CON
+APP_CON515,Codes for the representation of names of languages – Part 1: Alpha-2 code,APP_CON
+APP_CON516,ISO 639-2,APP_CON
+APP_CON517,Codes for the representation of names of languages – Part 2: Alpha-3 code,APP_CON
+APP_CON518,ISO/IEC 24751-2,APP_CON
+APP_CON519,Information technology - Individualized adaptability and accessibility in e-learning, education and training,APP_CON
+APP_CON520,person with disabilities,APP_CON
+APP_CON521,devices,APP_CON
+APP_CON522,command sets for devices,APP_CON
+APP_CON523,standard way,APP_CON
+APP_CON524,telephone,APP_CON
+APP_CON525,mobile device systems,APP_CON
+APP_CON526,computers,APP_CON
+APP_CON527,peripherals,APP_CON
+APP_CON528,other computers,APP_CON
+APP_CON529,4-WIRE LEASED TELEPHONE-TYPE CIRCUITS,APP_CON
+APP_CON530,full-duplex mode,APP_CON
+APP_CON531,synchronous mode of operation,APP_CON
+APP_CON532,backward (supervisory) channel,APP_CON
+APP_CON533,each direction of transmission,APP_CON
+APP_CON534,synchronizing signal,APP_CON
+APP_CON535,backward channel,APP_CON
+APP_CON536,Recommendation V.23,APP_CON
+APP_CON537,This file is an extract from the Blue Book,APP_CON
+APP_CON538,2400 bit/s,APP_CON
+APP_CON539,communication channel,APP_CON
+APP_CON540,1200 bit/s,APP_CON
+APP_CON541,use of this channel being optional,APP_CON
+APP_CON542,1800 ± 1 Hz,APP_CON
+APP_CON543,recommended provisionally,APP_CON
+APP_CON544,§ 5.2.2,APP_CON
+APP_CON545,1200 bauds ± 0.01%,APP_CON
+APP_CON546,ITU-T X.1060,APP_CON
+APP_CON547,business objectives,APP_CON
+APP_CON548,vulnerability exploits,APP_CON
+APP_CON549,Advanced Persistent Threat (APT),APP_CON
+APP_CON550,computer security incidents,APP_CON
+APP_CON551,Framework for the creation and operation of a cyber defence centre,APP_CON
+APP_CON552,organizations,APP_CON
+APP_CON553,Cyber insurance acquisition guidelines,APP_CON
+APP_CON554,organizations that adopt cyber insurance,APP_CON
+APP_CON555,impact of a cybersecurity incident,APP_CON
+APP_CON556,cyber incident,APP_CON
+APP_CON557,insured,APP_CON
+APP_CON558,telebiometrics data protection,APP_CON
+APP_CON559,This Recommendation,APP_CON
+APP_CON560,telebiometrics,APP_CON
+APP_CON561,Implementers,APP_CON
+APP_CON562,e-Health,APP_CON
+APP_CON563,world-wide telemedicines,APP_CON
+APP_CON564,data transfer,APP_CON
+APP_CON565,wide-range of medical-related formats and reports,APP_CON
+APP_CON566,telemedicines,APP_CON
+APP_CON567,telebiometrics communications,APP_CON
+APP_CON568,IoT biometric metric applications,APP_CON
+APP_CON569,clinical medical trials,APP_CON
+APP_CON570,bending-loss insensitive,APP_CON
+APP_CON571,high-density network,APP_CON
+APP_CON572,general transport network,APP_CON
+APP_CON573,macrobending loss,APP_CON
+APP_CON574,general transport and datacentre networks,APP_CON
+APP_CON575,access network inside buildings or near buildings,APP_CON
+APP_CON576,datacentre networks,APP_CON
+APP_CON577,access networks,APP_CON
+APP_CON578,general transport networks,APP_CON
+APP_CON579,metro networks,APP_CON
+APP_CON580,ITU-T G.661,APP_CON
+APP_CON581,common to the different types of optical amplifiers,APP_CON
+APP_CON582,optical amplifiers (OAs),APP_CON
+APP_CON583,optically pumped fibres (OFAs),APP_CON
+APP_CON584,semiconductors (SOAs),APP_CON
+APP_CON585,waveguides (POWAs),APP_CON
+APP_CON586,ITU-T Recommendation G.662,APP_CON
+APP_CON587,Generic characteristics of optical amplifier devices and subsystems,APP_CON
+APP_CON588,ITU-T Recommendation G.663,APP_CON
+APP_CON589,Application related aspects of optical amplifier devices and subsystems,APP_CON
+APP_CON590,ITU-T Recommendation G.665,APP_CON
+APP_CON591,ITU-T Recommendation G.680,APP_CON
+APP_CON592,IEC 61290,APP_CON
+APP_CON593,IEC 61291-1,APP_CON
+APP_CON594,transmission span,APP_CON
+APP_CON595,nominal operating conditions,APP_CON
+APP_CON596,normal use,APP_CON
+APP_CON597,limiting operating conditions,APP_CON
+APP_CON598,manufacturer,APP_CON
+APP_CON599,ITU-T G.662,APP_CON
+APP_CON600,transmission networks,APP_CON
+APP_CON601,ITU-T Recommendation A.8,APP_CON
+APP_CON602,IEC 61292-3,APP_CON
+APP_CON603,ITU-T G.663,APP_CON
+APP_CON604,application-related aspects,APP_CON
+APP_CON605,single-channel systems,APP_CON
+APP_CON606,point-to-point,APP_CON
+APP_CON607,point-to-multipoint configurations,APP_CON
+APP_CON608,long-distance networks,APP_CON
+APP_CON609,optical access networks,APP_CON
+APP_CON610,multi-channel systems,APP_CON
+APP_CON611,point-to-multipoint,APP_CON
+APP_CON612,point-to-point configurations,APP_CON
+APP_CON613,exposure to hazardous levels,APP_CON
+APP_CON614,optically safe working conditions,APP_CON
+APP_CON615,IEC 60825-2,APP_CON
+APP_CON616,Safety of laser products,APP_CON
+APP_CON617,Safety of optical fibre communication systems (OFCS),APP_CON
+APP_CON618,optical transport network,APP_CON
+APP_CON619,Guidelines and requirements,APP_CON
+APP_CON620,synchronous digital hierarchy (SDH),APP_CON
+APP_CON621,optical safety,APP_CON
+APP_CON622,earlier Recommendations,APP_CON
+APP_CON623,ITU-T X.1081,APP_CON
+APP_CON624,telecommunication domain,APP_CON
+APP_CON625,ISO/IEC 80000-series,APP_CON
+APP_CON626,quantities and units,APP_CON
+APP_CON627,telecommunication terminals,APP_CON
+APP_CON628,human beings,APP_CON
+APP_CON629,safety issues,APP_CON
+APP_CON630,privacy issues,APP_CON
+APP_CON631,biometric devices,APP_CON
+APP_CON632,telecommunication systems,APP_CON
+APP_CON633,human physiology,APP_CON
+APP_CON634,modem-over-IP networks,APP_CON
+APP_CON635,Modem-over-IP networks,APP_CON
+APP_CON636,one type of network,APP_CON
+APP_CON637,the format required in another type of network,APP_CON
+APP_CON638,V.150 family of Recommendations,APP_CON
+APP_CON639,ITU-T V.150.1,APP_CON
+APP_CON640,ITU-T Rec. V.151,APP_CON
+APP_CON641,ITU-T Rec. V.152,APP_CON
+APP_CON642,ITU-T Rec. T.38,APP_CON
+APP_CON643,real-time Group 3 facsimile communication,APP_CON
+APP_CON644,ITU-T V.151,APP_CON
+APP_CON645,PSTN text telephones,APP_CON
+APP_CON646,IP network,APP_CON
+APP_CON647,text relay,APP_CON
+APP_CON648,transport of text,APP_CON
+APP_CON649,IP networks,APP_CON
+APP_CON650,T.140 character data,APP_CON
+APP_CON651,IETF RFC 2198,APP_CON
+APP_CON652,text over IP,APP_CON
+APP_CON653,context,APP_CON
+APP_CON654,text telephony,APP_CON
+APP_CON655,context of the recommendation,APP_CON
+APP_CON656,V.150.1,APP_CON
+APP_CON657,start-up mode of operation,APP_CON
+APP_CON658,V.152,APP_CON
+APP_CON659,call discrimination procedures,APP_CON
+APP_CON660,visual representation of procedures,APP_CON
+APP_CON661,ITU-T X.1083,APP_CON
+APP_CON662,node or process boundaries,APP_CON
+APP_CON663,ITU-T Recommendations,APP_CON
+APP_CON664,ITU-T X.1084,APP_CON
+APP_CON665,border control,APP_CON
+APP_CON666,physical access control,APP_CON
+APP_CON667,Biometric authentication protocols,APP_CON
+APP_CON668,Open network,APP_CON
+APP_CON669,end-users,APP_CON
+APP_CON670,ITU-T X.509,APP_CON
+APP_CON671,authentication context for biometrics,APP_CON
+APP_CON672,ITU-T X.1086,APP_CON
+APP_CON673,telebiometrics protection procedures,APP_CON
+APP_CON674,biometric data security,APP_CON
+APP_CON675,telebiometrics authentication models,APP_CON
+APP_CON676,telebiometrics vulnerabilities,APP_CON
+APP_CON677,telebiometrics protection guideline,APP_CON
+APP_CON678,operating telebiometric systems,APP_CON
+APP_CON679,mobile devices,APP_CON
+APP_CON680,e-banking,APP_CON
+APP_CON681,procurement services,APP_CON
+APP_CON682,telebiometric applications,APP_CON
+APP_CON683,ITU-T X.1088,APP_CON
+APP_CON684,biometric template,APP_CON
+APP_CON685,cryptographic secure authentication,APP_CON
+APP_CON686,open network environments,APP_CON
+APP_CON687,secure communication,APP_CON
+APP_CON688,ITU-T X.1089,APP_CON
+APP_CON689,Telebiometrics authentication infrastructure (TAI),APP_CON
+APP_CON690,X.509,APP_CON
+APP_CON691,Authentication context for biometrics,APP_CON
+APP_CON692,ISO/IEC 24761,APP_CON
+APP_CON693,Public key infrastructure (PKI),APP_CON
+APP_CON694,Privilege management infrastructure (PMI),APP_CON
+APP_CON695,authentication applications,APP_CON
+APP_CON696,Biometric certificate,APP_CON
+APP_CON697,Biometric policy certificate,APP_CON
+APP_CON698,the needs of the application that is being accessed,APP_CON
+APP_CON699,Biometric device certificate,APP_CON
+APP_CON700,open networks,APP_CON
+APP_CON701,replay attack,APP_CON
+APP_CON702,client (or user),APP_CON
+APP_CON703,server,APP_CON
+APP_CON704,telebiometric systems,APP_CON
+APP_CON705,Information technology – Security techniques – Biometric information protection,APP_CON
+APP_CON706,biometric data,APP_CON
+APP_CON707,biometric reference,APP_CON
+APP_CON708,biometric sample,APP_CON
+APP_CON709,biometrics,APP_CON
+APP_CON710,attacker,APP_CON
+APP_CON711,private information,APP_CON
+APP_CON712,e-health,APP_CON
+APP_CON713,telemedicine,APP_CON
+APP_CON714,electronic means,APP_CON
+APP_CON715,telecommunications systems,APP_CON
+APP_CON716,remote clinical services,APP_CON
+APP_CON717,medical information of patients,APP_CON
+APP_CON718,biometric information for user certification,APP_CON
+APP_CON719,remote medical systems,APP_CON
+APP_CON720,e-health environment,APP_CON
+APP_CON721,vulnerabilities,APP_CON
+APP_CON722,external attacks,APP_CON
+APP_CON723,secure biometric telemedicine,APP_CON
+APP_CON724,e-health services,APP_CON
+APP_CON725,service aspects,APP_CON
+APP_CON726,ITU-T X.1093,APP_CON
+APP_CON727,PKI,APP_CON
+APP_CON728,access control,APP_CON
+APP_CON729,telebiometric authentication,APP_CON
+APP_CON730,telephony,APP_CON
+APP_CON731,radio,APP_CON
+APP_CON732,related technology,APP_CON
+APP_CON733,Biometric technology,APP_CON
+APP_CON734,smart car,APP_CON
+APP_CON735,e-payment,APP_CON
+APP_CON736,e-healthcare services,APP_CON
+APP_CON737,mobile users,APP_CON
+APP_CON738,Wearable devices,APP_CON
+APP_CON739,Mobile devices,APP_CON
+APP_CON740,wearable and mobile devices,APP_CON
+APP_CON741,Personal identification,APP_CON
+APP_CON742,Telebiometric applications,APP_CON
+APP_CON743,pet animals,APP_CON
+APP_CON744,non-cooperative environment,APP_CON
+APP_CON745,guardian,APP_CON
+APP_CON746,Public Data Networks,APP_CON
+APP_CON747,Network Operators,APP_CON
+APP_CON748,Packet Switched Data Networks,APP_CON
+APP_CON749,Circuit-Switched Public Data Networks,APP_CON
+APP_CON750,applicability of its principles,APP_CON
+APP_CON751,worldwide basis,APP_CON
+APP_CON752,international frame relay traffic,APP_CON
+APP_CON753,Public Frame Relay Data Network,APP_CON
+APP_CON754,International Public Data Network,APP_CON
+APP_CON755,Frame Relay/ATM interworking,APP_CON
+APP_CON756,International routing principles,APP_CON
+APP_CON757,routing plan for the Public Data Network,APP_CON
+APP_CON758,International numbering plan for public data networks,APP_CON
+APP_CON759,ITU-T Recommendation V.27,APP_CON
+APP_CON760,LEASED TELEPHONE-TYPE CIRCUITS,APP_CON
+APP_CON761,Recommendation M.1020,APP_CON
+APP_CON762,Administration concerned,APP_CON
+APP_CON763,half-duplex mode,APP_CON
+APP_CON764,carrier frequency,APP_CON
+APP_CON765,Recommendation V.2,APP_CON
+APP_CON766,repeating patterns of 1, 2, 3, 4, 6, 9 and 12 bits,APP_CON
+APP_CON767,modem,APP_CON
+APP_CON768,Recommendation V.27 bis,APP_CON
+APP_CON769,multipoint polling applications,APP_CON
+APP_CON770,much lower grade lines,APP_CON
+APP_CON771,GENERAL SWITCHED TELEPHONE NETWORK,APP_CON
+APP_CON772,4800 bits per second,APP_CON
+APP_CON773,2400 bits per second,APP_CON
+APP_CON774,address translation service,APP_CON
+APP_CON775,customers,APP_CON
+APP_CON776,X.121,APP_CON
+APP_CON777,E.164,APP_CON
+APP_CON778,Recommendation X.25,APP_CON
+APP_CON779,Frame Relay,APP_CON
+APP_CON780,other data networking environments,APP_CON
+APP_CON781,ATM,APP_CON
+APP_CON782,data networking environments,APP_CON
+APP_CON783,1-to-N address translation,APP_CON
+APP_CON784,global significance,APP_CON
+APP_CON785,time-of-day translation,APP_CON
+APP_CON786,interface-specific address translation capability,APP_CON
+APP_CON787,Some networks,APP_CON
+APP_CON788,ISO/IEC 8208,APP_CON
+APP_CON789,Recommendation X.200 | ISO/IEC 7498-1,APP_CON
+APP_CON790,Miscellaneous,APP_CON
+APP_CON791,country,APP_CON
+APP_CON792,escape code mechanism,APP_CON
+APP_CON793,Interworking with other numbering plans,APP_CON
+APP_CON794,Numbering plan for the ISDN era,APP_CON
+APP_CON795,transition period to implementation of NPI mechanism,APP_CON
+APP_CON796,International Numbering plan for public data networks,APP_CON
+APP_CON797,Packet-switched signalling system between public networks providing data transmission services,APP_CON
+APP_CON798,numbering plan interworking principles,APP_CON
+APP_CON799,FR/ATM service interworking,APP_CON
+APP_CON800,Network aspects,APP_CON
+APP_CON801,Frame Relay Data Networks,APP_CON
+APP_CON802,ATM Networks,APP_CON
+APP_CON803,Recommendation I.610,APP_CON
+APP_CON804,networks offering public data services,APP_CON
+APP_CON805,circuit switched services,APP_CON
+APP_CON806,synchronous data networks,APP_CON
+APP_CON807,international portions of public data networks,APP_CON
+APP_CON808,data services,APP_CON
+APP_CON809,national matter,APP_CON
+APP_CON810,ITU-T Recommendation X.131,APP_CON
+APP_CON811,CCITT,APP_CON
+APP_CON812,Recommendation X.1,APP_CON
+APP_CON813,Recommendation X.2,APP_CON
+APP_CON814,international user services and facilities,APP_CON
+APP_CON815,Recommendation X.21,APP_CON
+APP_CON816,Recommendation X.60,APP_CON
+APP_CON817,Recommendation X.71,APP_CON
+APP_CON818,Recommendation X.92,APP_CON
+APP_CON819,Recommendation X.110,APP_CON
+APP_CON820,Recommendation X.213,APP_CON
+APP_CON821,Recommendation X.140,APP_CON
+APP_CON822,conditions specified therein,APP_CON
+APP_CON823,quality of service,APP_CON
+APP_CON824,national or international portions,APP_CON
+APP_CON825,originating national network,APP_CON
+APP_CON826,international portion,APP_CON
+APP_CON827,destination national network,APP_CON
+APP_CON828,network planning,APP_CON
+APP_CON829,planned period,APP_CON
+APP_CON830,one nation,APP_CON
+APP_CON831,performance significant,APP_CON
+APP_CON832,performance criteria,APP_CON
+APP_CON833,three general performance concerns,APP_CON
+APP_CON834,overall service availability,APP_CON
+APP_CON835,available,APP_CON
+APP_CON836,unavailable,APP_CON
+APP_CON837,scheduled service time,APP_CON
+APP_CON838,ITU-T X.135,APP_CON
+APP_CON839,international packet-switched services,APP_CON
+APP_CON840,International packet-switched services,APP_CON
+APP_CON841,recommendation,APP_CON
+APP_CON842,WTSC Resolution No. 1,APP_CON
+APP_CON843,Access,APP_CON
+APP_CON844,User information transfer,APP_CON
+APP_CON845,Disengagement,APP_CON
+APP_CON846,clear indication delay,APP_CON
+APP_CON847,Performance matrix,APP_CON
+APP_CON848,Primary parameters,APP_CON
+APP_CON849,Outage thresholds,APP_CON
+APP_CON850,service,APP_CON
+APP_CON851,international user classes of service in public data networks,APP_CON
+APP_CON852,packet mode terminals,APP_CON
+APP_CON853,Recommendation X.75,APP_CON
+APP_CON854,Recommendation X.323,APP_CON
+APP_CON855,Recommendation X.96,APP_CON
+APP_CON856,communication via public data networks,APP_CON
+APP_CON857,Recommendation X.134,APP_CON
+APP_CON858,packet-switched performance parameters,APP_CON
+APP_CON859,Recommendation X.135,APP_CON
+APP_CON860,international packet-switched service,APP_CON
+APP_CON861,Recommendation X.137,APP_CON
+APP_CON862,Melbourne, 1988,APP_CON
+APP_CON863,All rights reserved,APP_CON
+APP_CON864,ITU-T Recommendation X.137,APP_CON
+APP_CON865,X.130-Series Recommendations,APP_CON
+APP_CON866,PSPDN performance,APP_CON
+APP_CON867,virtual connection portions,APP_CON
+APP_CON868,packet-switched public data networks,APP_CON
+APP_CON869,clause 4/X.136,APP_CON
+APP_CON870,clause 5/X.136,APP_CON
+APP_CON871,clause 6/X.136,APP_CON
+APP_CON872,data packet transfer delay measurements,APP_CON
+APP_CON873,Call progress signals in public data networks,APP_CON
+APP_CON874,International routing principles and routing plan for public data networks,APP_CON
+APP_CON875,Basis for defining packet-switched performance parameters,APP_CON
+APP_CON876,Measurement of performance values for public data networks when providing international packet-switched services,APP_CON
+APP_CON877,General quality of service parameters for communication via public data networks,APP_CON
+APP_CON878,General arrangements for interworking,APP_CON
+APP_CON879,public data networks (PDNs),APP_CON
+APP_CON880,CCITT applications,APP_CON
+APP_CON881,communication requirements,APP_CON
+APP_CON882,service performance,APP_CON
+APP_CON883,Electronic funds transfer,APP_CON
+APP_CON884,specified sample,APP_CON
+APP_CON885,circuit-switched public data networks,APP_CON
+APP_CON886,VBD support,APP_CON
+APP_CON887,clause 7.2,APP_CON
+APP_CON888,clause 10,APP_CON
+APP_CON889,clause 11,APP_CON
+APP_CON890,voice frequencies,APP_CON
+APP_CON891,ITU-T V.153,APP_CON
+APP_CON892,ITU-T V.152,APP_CON
+APP_CON893,ITU-T T.38,APP_CON
+APP_CON894,internal mode of operation,APP_CON
+APP_CON895,ITU-T V.152, clause 6,APP_CON
+APP_CON896,ECG (electro-cardiogram),APP_CON
+APP_CON897,optional,APP_CON
+APP_CON898,required,APP_CON
+APP_CON899,analogue signals,APP_CON
+APP_CON900,Frame Relay/ATM service interworking performance,APP_CON
+APP_CON901,Frame Relay/ATM service interworking,APP_CON
+APP_CON902,Quality of service metrics,APP_CON
+APP_CON903,quality of the end-to-end data connection,APP_CON
+APP_CON904,End-to-end data connection,APP_CON
+APP_CON905,public frame relay data networks,APP_CON
+APP_CON906,PVC and SVC services,APP_CON
+APP_CON907,applicable,APP_CON
+APP_CON908,performance objectives,APP_CON
+APP_CON909,Frame Relay data networks,APP_CON
+APP_CON910,SVC services,APP_CON
+APP_CON911,frame relay network availability,APP_CON
+APP_CON912,frame relay PVC,APP_CON
+APP_CON913,frame relay SVC,APP_CON
+APP_CON914,international frame relay service,APP_CON
+APP_CON915,ITU-T I.356,APP_CON
+APP_CON916,Signalling and service class interworking issues,APP_CON
+APP_CON917,applicability of this Recommendation,APP_CON
+APP_CON918,Frame relay network availability,APP_CON
+APP_CON919,Access Circuit Section,APP_CON
+APP_CON920,Notes 1 and 2,APP_CON
+APP_CON921,ITU-T Rec. G.827,APP_CON
+APP_CON922,National Network Portion,APP_CON
+APP_CON923,International Transit Network Portion,APP_CON
+APP_CON924,Notes 3 and 4,APP_CON
+APP_CON925,International Interoperator Portion,APP_CON
+APP_CON926,Availability performance parameters and objectives for end-to-end international constant bit-rate digital paths,APP_CON
+APP_CON927,Principles for the routing of international frame relay traffic,APP_CON
+APP_CON928,long-term assessment period,APP_CON
+APP_CON929,ITU-T X.148,APP_CON
+APP_CON930,Frame Relay virtual connections,APP_CON
+APP_CON931,PVCs,APP_CON
+APP_CON932,SVCs,APP_CON
+APP_CON933,ITU-T Study Group 17,APP_CON
+APP_CON934,ITU-T Rec. X.l38,APP_CON
+APP_CON935,Clauses 6 through 10,APP_CON
+APP_CON936,Frame Relay networks,APP_CON
+APP_CON937,Frame Relay network infrastructure,APP_CON
+APP_CON938,IP packets,APP_CON
+APP_CON939,routers,APP_CON
+APP_CON940,Public Frame Relay Data Networks,APP_CON
+APP_CON941,Reference connections for traffic engineering of IP access networks,APP_CON
+APP_CON942,One-way transmission time,APP_CON
+APP_CON943,Communications Quality of Service: A framework and definitions,APP_CON
+APP_CON944,End-user multimedia QoS categories,APP_CON
+APP_CON945,Performance objectives and quality of service classes applicable to frame relay,APP_CON
+APP_CON946,Traffic control and congestion control in IP-based networks,APP_CON
+APP_CON947,Internet protocol data communication service,APP_CON
+APP_CON948,Network performance objectives for IP-based services,APP_CON
+APP_CON949,DARPA Internet Program Protocol Specification,APP_CON
+APP_CON950,population of interest,APP_CON
+APP_CON951,performance parameters,APP_CON
+APP_CON952,performance parameter,APP_CON
+APP_CON953,typical locations,APP_CON
+APP_CON954,The international public telecommunication numbering plan,APP_CON
+APP_CON955,Frame Relaying Bearer Service interworking,APP_CON
+APP_CON956,B-ISDN operation and maintenance principles and functions,APP_CON
+APP_CON957,Customer Network Management (CNM),APP_CON
+APP_CON958,customers of network services,APP_CON
+APP_CON959,Services,APP_CON
+APP_CON960,Systems management,APP_CON
+APP_CON961,other related management standards,APP_CON
+APP_CON962,Information technology – Elements of management information related to the OSI physical layer,APP_CON
+APP_CON963,Information technology – Open Systems Interconnection – Systems management overview,APP_CON
+APP_CON964,management information,APP_CON
+APP_CON965,Fault Management,APP_CON
+APP_CON966,Configuration Management,APP_CON
+APP_CON967,Accounting Management,APP_CON
+APP_CON968,Performance Management,APP_CON
+APP_CON969,Security Management,APP_CON
+APP_CON970,CNM supporting services,APP_CON
+APP_CON971,TMN specifications,APP_CON
+APP_CON972,currently defined CNM interfaces,APP_CON
+APP_CON973,Public Data Network (PDN),APP_CON
+APP_CON974,environment,APP_CON
+APP_CON975,Helsinki, March 1-12, 1993,APP_CON
+APP_CON976,test conditions,APP_CON
+APP_CON977,Signal characteristics,APP_CON
+APP_CON978,external interference,APP_CON
+APP_CON979,Detection of generator power-off or circuit failure,APP_CON
+APP_CON980,generator power-off condition,APP_CON
+APP_CON981,receiver not interconnected with a generator,APP_CON
+APP_CON982,Operation from 20 kbit/s to 64 kbit/s,APP_CON
+APP_CON983,Option 1,APP_CON
+APP_CON984,Option 2,APP_CON
+APP_CON985,POINT-TO-POINT 4-WIRE LEASED TELEPHONE-TYPE CIRCUITS,APP_CON
+APP_CON986,special quality leased circuits,APP_CON
+APP_CON987,Recommendation M.1025,APP_CON
+APP_CON988,Recommendation V.27,APP_CON
+APP_CON989,Recommendation V.26,APP_CON
+APP_CON990,transmitter,APP_CON
+APP_CON991,Recommendation V.24,APP_CON
+APP_CON992,digital point-to-point leased circuits,APP_CON
+APP_CON993,testing facilities,APP_CON
+APP_CON994,internal management,APP_CON
+APP_CON995,Customer Network Management Service,APP_CON
+APP_CON996,customer,APP_CON
+APP_CON997,OSI Systems Management context (CMISE),APP_CON
+APP_CON998,customer network management service,APP_CON
+APP_CON999,Fault management,APP_CON
+APP_CON1000,Configuration management,APP_CON
+APP_CON1001,Accounting management,APP_CON
+APP_CON1002,Performance management,APP_CON
+APP_CON1003,Alarm notification service,APP_CON
+APP_CON1004,Fault history service,APP_CON
+APP_CON1005,Trouble report service,APP_CON
+APP_CON1006,Loop setup service,APP_CON
+APP_CON1007,Test host service,APP_CON
+APP_CON1008,Protocol monitoring service,APP_CON
+APP_CON1009,Configuration inquiry service,APP_CON
+APP_CON1010,CNM reconfiguration service,APP_CON
+APP_CON1011,Ordering service,APP_CON
+APP_CON1012,Systematic call redirection service,APP_CON
+APP_CON1013,Periodic billing service,APP_CON
+APP_CON1014,Detailed accounting service,APP_CON
+APP_CON1015,Traffic information service,APP_CON
+APP_CON1016,Quality of service information service,APP_CON
+APP_CON1017,Password change service,APP_CON
+APP_CON1018,Access rights definition service,APP_CON
+APP_CON1019,CNM Alarm Notification Service,APP_CON
+APP_CON1020,CNM Fault History Service,APP_CON
+APP_CON1021,CNM Trouble Report Service,APP_CON
+APP_CON1022,CNM Configuration Inquiry Service,APP_CON
+APP_CON1023,CNM Reconfiguration Service,APP_CON
+APP_CON1024,CNM Ordering Service,APP_CON
+APP_CON1025,CNM cancellation Service,APP_CON
+APP_CON1026,CNM Inventory Inquiry Service,APP_CON
+APP_CON1027,CNM Periodic Billing Service,APP_CON
+APP_CON1028,CNM Detailed accounting service,APP_CON
+APP_CON1029,CNM Traffic Information Service,APP_CON
+APP_CON1030,CNM Quality of Service Information Service,APP_CON
+APP_CON1031,CNM Network statistics service,APP_CON
+APP_CON1032,CNM Service Request service,APP_CON
+APP_CON1033,CUSTOMER definition,APP_CON
+APP_CON1034,CONTRACT definition,APP_CON
+APP_CON1035,ACTION definition,APP_CON
+APP_CON1036,Contact definition,APP_CON
+APP_CON1037,ServiceOrder definition,APP_CON
+APP_CON1038,DATA NETWORKS AND OPEN SYSTEM COMMUNICATIONS,APP_CON
+APP_CON1039,ITU-T X.1702,APP_CON
+APP_CON1040,Random bit generator,APP_CON
+APP_CON1041,quantum phenomena,APP_CON
+APP_CON1042,Randomness extractors,APP_CON
+APP_CON1043,Quantum physics,APP_CON
+APP_CON1044,information theory,APP_CON
+APP_CON1045,Non-deterministic random bit generators (NRBG),APP_CON
+APP_CON1046,quantum physics,APP_CON
+APP_CON1047,Security community,APP_CON
+APP_CON1048,Cryptographic systems,APP_CON
+APP_CON1049,boundary between two networks,APP_CON
+APP_CON1050,internetwork communication of subscribers,APP_CON
+APP_CON1051,testing,APP_CON
+APP_CON1052,testing hosts,APP_CON
+APP_CON1053,issues,APP_CON
+APP_CON1054,network services,APP_CON
+APP_CON1055,accounting purposes,APP_CON
+APP_CON1056,network performance,APP_CON
+APP_CON1057,Overview on networks supporting quantum key distribution,APP_CON
+APP_CON1058,Secure against any deciphering attack with unbounded computational resources,APP_CON
+APP_CON1059,unauthorized manner,APP_CON
+APP_CON1060,cryptographic application,APP_CON
+APP_CON1061,quantum information theory,APP_CON
+APP_CON1062,system exhibiting high levels of PMD,APP_CON
+APP_CON1063,single and multichannel applications,APP_CON
+APP_CON1064,time,APP_CON
+APP_CON1065,optical frequency,APP_CON
+APP_CON1066,ITU-T G.667,APP_CON
+APP_CON1067,devices providing adaptive chromatic dispersion compensation,APP_CON
+APP_CON1068,optical signals,APP_CON
+APP_CON1069,chromatic dispersion,APP_CON
+APP_CON1070,systems,APP_CON
+APP_CON1071,transmission-related aspects,APP_CON
+APP_CON1072,long-haul networks,APP_CON
+APP_CON1073,optical components,APP_CON
+APP_CON1074,various operating conditions,APP_CON
+APP_CON1075,optical networks,APP_CON
+APP_CON1076,Recommendations,APP_CON
+APP_CON1077,IEC 61300-3 series,APP_CON
+APP_CON1078,ITU-T G.650.1,APP_CON
+APP_CON1079,ITU-T G.650.2,APP_CON
+APP_CON1080,ITU-T G.652,APP_CON
+APP_CON1081,ITU-T G.653,APP_CON
+APP_CON1082,flexible grid,APP_CON
+APP_CON1083,fixed and flexible DWDM grid applications,APP_CON
+APP_CON1084,security measures,APP_CON
+APP_CON1085,Quantum key distribution networks (QKDNs),APP_CON
+APP_CON1086,Security threats,APP_CON
+APP_CON1087,KMA links,APP_CON
+APP_CON1088,Key supply links,APP_CON
+APP_CON1089,KSA links,APP_CON
+APP_CON1090,Threats,APP_CON
+APP_CON1091,Control and management links,APP_CON
+APP_CON1092,KMA and KSA,APP_CON
+APP_CON1093,measures on the control and management information,APP_CON
+APP_CON1094,Loss and corruption, and DoS,APP_CON
+APP_CON1095,unknown to a potential eavesdropper,APP_CON
+APP_CON1096,QKD-based applications,APP_CON
+APP_CON1097,unauthorized parties,APP_CON
+APP_CON1098,attackers outside the node,APP_CON
+APP_CON1099,theory of quantum physics,APP_CON
+APP_CON1100,quantum information,APP_CON
+APP_CON1101,quantum key distribution networks,APP_CON
+APP_CON1102,Security requirements and measures for integration of quantum key distribution network and secure storage network,APP_CON
+APP_CON1103,Quantum Key Distribution Network (QKDN),APP_CON
+APP_CON1104,Quantum communication,APP_CON
+APP_CON1105,QKDN,APP_CON
+APP_CON1106,key management policy,APP_CON
+APP_CON1107,QKD link,APP_CON
+APP_CON1108,QKD module,APP_CON
+APP_CON1109,cloud service customers,APP_CON
+APP_CON1110,Security guidelines,APP_CON
+APP_CON1111,big data service providers,APP_CON
+APP_CON1112,Security measures,APP_CON
+APP_CON1113,services and components related to BDaaS,APP_CON
+APP_CON1114,Cloud computing,APP_CON
+APP_CON1115,cloud service category,APP_CON
+APP_CON1116,big data as a service,APP_CON
+APP_CON1117,Security challenges,APP_CON
+APP_CON1118,Data security,APP_CON
+APP_CON1119,Big Data Security,APP_CON
+APP_CON1120,facsimile applications,APP_CON
+APP_CON1121,signal distortion,APP_CON
+APP_CON1122,data signalling rates,APP_CON
+APP_CON1123,modem's operation,APP_CON
+APP_CON1124,initial long train,APP_CON
+APP_CON1125,ANSI TIA/EIA-825 (2000),APP_CON
+APP_CON1126,text telephone operation,APP_CON
+APP_CON1127,Public Switched Telephone Network,APP_CON
+APP_CON1128,5-bit mode,APP_CON
+APP_CON1129,standards for telecommunications,APP_CON
+APP_CON1130,push-button telephone sets,APP_CON
+APP_CON1131,used economically,APP_CON
+APP_CON1132,keyboard telephone sets,APP_CON
+APP_CON1133,Recommendation Q.23,APP_CON
+APP_CON1134,420 Hz,APP_CON
+APP_CON1135,audible signals,APP_CON
+APP_CON1136,electrical signalling,APP_CON
+APP_CON1137,data transmission channel without the simultaneous backward channel,APP_CON
+APP_CON1138,data transmission channel with the simultaneous backward channel,APP_CON
+APP_CON1139,non-simultaneous backward channel,APP_CON
+APP_CON1140,simultaneous backward channel,APP_CON
+APP_CON1141,each frequency transmitted,APP_CON
+APP_CON1142,economic terminals,APP_CON
+APP_CON1143,ITU-T X.1751,APP_CON
+APP_CON1144,security vulnerabilities,APP_CON
+APP_CON1145,security guidelines,APP_CON
+APP_CON1146,big data lifecycle management,APP_CON
+APP_CON1147,telecommunication operators,APP_CON
+APP_CON1148,big data technology,APP_CON
+APP_CON1149,big data services,APP_CON
+APP_CON1150,telecommunication big data services,APP_CON
+APP_CON1151,Security guidelines for big data infrastructure and platform,APP_CON
+APP_CON1152,DATA NETWORKS, OPEN SYSTEM COMMUNICATIONS AND SECURITY,APP_CON
+APP_CON1153,PUBLIC DATA NETWORKS,APP_CON
+APP_CON1154,OPEN SYSTEMS INTERCONNECTION,APP_CON
+APP_CON1155,INTERWORKING BETWEEN NETWORKS,APP_CON
+APP_CON1156,MESSAGE HANDLING SYSTEMS,APP_CON
+APP_CON1157,DIRECTORY,APP_CON
+APP_CON1158,OSI NETWORKING AND SYSTEM ASPECTS,APP_CON
+APP_CON1159,OSI MANAGEMENT,APP_CON
+APP_CON1160,OSI APPLICATIONS,APP_CON
+APP_CON1161,OPEN DISTRIBUTED PROCESSING,APP_CON
+APP_CON1162,SECURE APPLICATIONS AND SERVICES (1),APP_CON
+APP_CON1163,Home network security,APP_CON
+APP_CON1164,Mobile security,APP_CON
+APP_CON1165,Web security (1),APP_CON
+APP_CON1166,Application Security (1),APP_CON
+APP_CON1167,Peer-to-peer security,APP_CON
+APP_CON1168,Networked ID security,APP_CON
+APP_CON1169,IPTV security,APP_CON
+APP_CON1170,information and communication technology (ICT) stakeholders,APP_CON
+APP_CON1171,data collaboration,APP_CON
+APP_CON1172,big data analysis scenarios,APP_CON
+APP_CON1173,Multi-Party Computation (MPC),APP_CON
+APP_CON1174,big data analysis-related areas,APP_CON
+APP_CON1175,Applications of MPC,APP_CON
+APP_CON1176,application scenario description,APP_CON
+APP_CON1177,MPC,APP_CON
+APP_CON1178,information and communication technology (ICT) service providers,APP_CON
+APP_CON1179,data controllers,APP_CON
+APP_CON1180,trusted third parties,APP_CON
+APP_CON1181,trusted third party,APP_CON
+APP_CON1182,data controller,APP_CON
+APP_CON1183,personal purposes,APP_CON
+APP_CON1184,data processor,APP_CON
+APP_CON1185,data principal,APP_CON
+APP_CON1186,Entity to which data relates,APP_CON
+APP_CON1187,dataset,APP_CON
+APP_CON1188,de-identified dataset,APP_CON
+APP_CON1189,relevant organizations,APP_CON
+APP_CON1190,combining organization,APP_CON
+APP_CON1191,data record,APP_CON
+APP_CON1192,single data subject,APP_CON
+APP_CON1193,ICT,APP_CON
+APP_CON1194,PII,APP_CON
+APP_CON1195,TTP,APP_CON
+APP_CON1196,international CUGs,APP_CON
+APP_CON1197,organizational matters,APP_CON
+APP_CON1198,ISDN,APP_CON
+APP_CON1199,Administrations concerned,APP_CON
+APP_CON1200,responsible subscriber,APP_CON
+APP_CON1201,source Administration,APP_CON
+APP_CON1202,destination Administration,APP_CON
+APP_CON1203,both directions,APP_CON
+APP_CON1204,adjacent Administrations,APP_CON
+APP_CON1205,the information described in § 4.1,APP_CON
+APP_CON1206,information described in § 4.1,APP_CON
+APP_CON1207,international data transmission services,APP_CON
+APP_CON1208,optional user facilities,APP_CON
+APP_CON1209,circuit switched data transmission service,APP_CON
+APP_CON1210,per-call basis,APP_CON
+APP_CON1211,certain user classes of service,APP_CON
+APP_CON1212,recommendations,APP_CON
+APP_CON1213,Definitions of interchange circuits,APP_CON
+APP_CON1214,Electrical characteristics,APP_CON
+APP_CON1215,call control procedures,APP_CON
+APP_CON1216,Events of the call control procedures,APP_CON
+APP_CON1217,interim measure,APP_CON
+APP_CON1218,ON condition,APP_CON
+APP_CON1219,current and voltage ranges of the signal receive side,APP_CON
+APP_CON1220,Figure 1/V.31,APP_CON
+APP_CON1221,closed contact condition,APP_CON
+APP_CON1222,§§ 4.1.1 and 4.1.2,APP_CON
+APP_CON1223,see Figure 1/V.31,APP_CON
+APP_CON1224,signal allocation,APP_CON
+APP_CON1225,data,APP_CON
+APP_CON1226,control,APP_CON
+APP_CON1227,timing circuits,APP_CON
+APP_CON1228,compatibility with existing equipment,APP_CON
+APP_CON1229,ON or OFF condition,APP_CON
+APP_CON1230,the same points,APP_CON
+APP_CON1231,Figure 1/V.31 bis,APP_CON
+APP_CON1232,receive side,APP_CON
+APP_CON1233,ON (or 1) condition,APP_CON
+APP_CON1234,any single point,APP_CON
+APP_CON1235,§§ 4.2.1 and 4.2.2,APP_CON
+APP_CON1236,see Note 2,APP_CON
+APP_CON1237,each channel,APP_CON
+APP_CON1238,leased circuit service,APP_CON
+APP_CON1239,centralized multipoint,APP_CON
+APP_CON1240,direct call facility,APP_CON
+APP_CON1241,address call facility,APP_CON
+APP_CON1242,§ 1.2.1,APP_CON
+APP_CON1243,half-duplex operation,APP_CON
+APP_CON1244,optional basis,APP_CON
+APP_CON1245,public data network,APP_CON
+APP_CON1246,all services,APP_CON
+APP_CON1247,Recommendation X.27,APP_CON
+APP_CON1248,mechanical arrangements,APP_CON
+APP_CON1249,Recommendation X.24,APP_CON
+APP_CON1250,§ 4,APP_CON
+APP_CON1251,independent of other subscriber channels,APP_CON
+APP_CON1252,Recommendation X.21, § 2.5,APP_CON
+APP_CON1253,Recommendation X.21, § 2.6.2,APP_CON
+APP_CON1254,Signal element timing provision,APP_CON
+APP_CON1255,Recommendation X.21, § 2.6.3,APP_CON
+APP_CON1256,Recommendation X.21, § 4,APP_CON
+APP_CON1257,Recommendation X.21, § 5,APP_CON
+APP_CON1258,Recommendation X.21, § 6,APP_CON
+APP_CON1259,call control purposes,APP_CON
+APP_CON1260,general telephone network,APP_CON
+APP_CON1261,user class of service,APP_CON
+APP_CON1262,defined user facilities,APP_CON
+APP_CON1263,procedural characteristics of the interface,APP_CON
+APP_CON1264,Recommendation X.20,APP_CON
+APP_CON1265,terminals operating in the packet mode,APP_CON
+APP_CON1266,public correspondence,APP_CON
+APP_CON1267,DTE/DCE interface,APP_CON
+APP_CON1268,Tables C.1 and C.2,APP_CON
+APP_CON1269,interface,APP_CON
+APP_CON1270,ITU-T standard profile,APP_CON
+APP_CON1271,Possible PAD service signals text in Chinese for extended dialogue mode,APP_CON
+APP_CON1272,Chinese,APP_CON
+APP_CON1273,Engaged,APP_CON
+APP_CON1274,(3.5.11),APP_CON
+APP_CON1275,Free,APP_CON
+APP_CON1276,3.5.11,APP_CON
+APP_CON1277,virtual call facility,APP_CON
+APP_CON1278,Start-stop mode DTE,APP_CON
+APP_CON1279,Packet mode DTE,APP_CON
+APP_CON1280,Virtual call facility,APP_CON
+APP_CON1281,packet switched data service,APP_CON
+APP_CON1282,Integrated Services Digital Network (ISDN),APP_CON
+APP_CON1283,X.21,APP_CON
+APP_CON1284,user classes of services 3 to 7, and 19,APP_CON
+APP_CON1285,X.21 bis,APP_CON
+APP_CON1286,X.20 bis,APP_CON
+APP_CON1287,user classes of service 1, 2, 14, 15, 16, 17 and 18,APP_CON
+APP_CON1288,ISDN numbering scheme,APP_CON
+APP_CON1289,Recommendation E.164,APP_CON
+APP_CON1290,user classes of service 3 to 7 or 19 or 1, 2, 14, 15, 16, 17 and 18,APP_CON
+APP_CON1291,ITU-T applications,APP_CON
+APP_CON1292,interworking situations,APP_CON
+APP_CON1293,Facilities that are not visible to end users of a call,APP_CON
+APP_CON1294,international user facilities,APP_CON
+APP_CON1295,detailed procedures applicable for access to ISDN,APP_CON
+APP_CON1296,call control between two PDNs on the same type,APP_CON
+APP_CON1297,two PDNs on the same type,APP_CON
+APP_CON1298,ITU-T recommended services,APP_CON
+APP_CON1299,public data transmission services,APP_CON
+APP_CON1300,ITU-T Recommendation X.302,APP_CON
+APP_CON1301,Recommendation X.300,APP_CON
+APP_CON1302,Recommendation X.301,APP_CON
+APP_CON1303,common channel signalling network (CCSN),APP_CON
+APP_CON1304,Recommendation X.61,APP_CON
+APP_CON1305,call control between two PDNs of the same type,APP_CON
+APP_CON1306,Recommendation X.70,APP_CON
+APP_CON1307,originating network identification utility,APP_CON
+APP_CON1308,destination network identification utility,APP_CON
+APP_CON1309,call,APP_CON
+APP_CON1310,transit network identification utility,APP_CON
+APP_CON1311,clearing network identification (CNIC) utility,APP_CON
+APP_CON1312,call identifier utility,APP_CON
+APP_CON1313,target quality of service parameters,APP_CON
+APP_CON1314,tariffs utility,APP_CON
+APP_CON1315,ISDN (PS),APP_CON
+APP_CON1316,network user identification (NUI) utility,APP_CON
+APP_CON1317,ISDNs (PS),APP_CON
+APP_CON1318,subnetwork,APP_CON
+APP_CON1319,OSI connection-mode network service,APP_CON
+APP_CON1320,Type I subnetwork,APP_CON
+APP_CON1321,Type II subnetwork,APP_CON
+APP_CON1322,Type III subnetwork,APP_CON
+APP_CON1323,Type IV subnetwork,APP_CON
+APP_CON1324,network-connection,APP_CON
+APP_CON1325,network layer,APP_CON
+APP_CON1326,network service,APP_CON
+APP_CON1327,calling network service user,APP_CON
+APP_CON1328,called network service user,APP_CON
+APP_CON1329,type I subnetwork,APP_CON
+APP_CON1330,type II subnetwork,APP_CON
+APP_CON1331,type III subnetwork,APP_CON
+APP_CON1332,Services and Facilities,APP_CON
+APP_CON1333,Interfaces,APP_CON
+APP_CON1334,Transmission, Signalling and Switching,APP_CON
+APP_CON1335,Network Aspects,APP_CON
+APP_CON1336,Maintenance,APP_CON
+APP_CON1337,Administrative Arrangements,APP_CON
+APP_CON1338,Recommendations X.1,APP_CON
+APP_CON1339,packet mode user classes of service DTEs,APP_CON
+APP_CON1340,Functionalities of the ISDN,APP_CON
+APP_CON1341,Arrangements for facilities related to the QOS of the call,APP_CON
+APP_CON1342,Arrangements for facilities related to charging conditions applying to the call,APP_CON
+APP_CON1343,Arrangements for facilities related to specific routing conditions requested by the user of the call,APP_CON
+APP_CON1344,the user of the call,APP_CON
+APP_CON1345,Arrangements for facilities related to protection mechanisms requested by the user of the call,APP_CON
+APP_CON1346,user of the call,APP_CON
+APP_CON1347,Arrangements for facilities to convey user data in addition to the normal data flow in the data transfer phase,APP_CON
+APP_CON1348,data transfer phase,APP_CON
+APP_CON1349,Arrangements for other facilities,APP_CON
+APP_CON1350,Arrangements for internal network utilities (not visible for users),APP_CON
+APP_CON1351,Recommendations X.1 and X.2,APP_CON
+APP_CON1352,circuit-mode operation on ISDN,APP_CON
+APP_CON1353,X.1, categories C, D,APP_CON
+APP_CON1354,categories C, D,APP_CON
+APP_CON1355,Description of the general arrangements for call control within a subnetwork and between subnetworks for the provision of data transmission services,APP_CON
+APP_CON1356,Description of the general arrangements for internal network utilities within a subnetwork and intermediate utilities between subnetworks for the provision of data transmission services,APP_CON
+APP_CON1357,Categories of access for Data Terminal Equipment (DTE) to public data transmission services,APP_CON
+APP_CON1358,Support of packet mode terminal equipment by an ISDN,APP_CON
+APP_CON1359,Recommendation X.322,APP_CON
+APP_CON1360,Recommendation X.302,APP_CON
+APP_CON1361,PSPDN/PSPDN interworking,APP_CON
+APP_CON1362,CSPDN/CSPDN interworking,APP_CON
+APP_CON1363,Recommendation X.10,APP_CON
+APP_CON1364,Recommendation X.305,APP_CON
+APP_CON1365,Recommendation X.223,APP_CON
+APP_CON1366,Recommendation T.70,APP_CON
+APP_CON1367,telematic services,APP_CON
+APP_CON1368,Recommendation X.32,APP_CON
+APP_CON1369,Recommendation X.82,APP_CON
+APP_CON1370,X.10 category B,APP_CON
+APP_CON1371,Recommendation X.321,APP_CON
+APP_CON1372,general principles for interworking between public data networks,APP_CON
+APP_CON1373,support of the OSI network service,APP_CON
+APP_CON1374,I.230-Series Recommendations,APP_CON
+APP_CON1375,I.250-Series Recommendations,APP_CON
+APP_CON1376,X.1 categories L, P,APP_CON
+APP_CON1377,categories K, O,APP_CON
+APP_CON1378,Recommendation X.328,APP_CON
+APP_CON1379,international circuits,APP_CON
+APP_CON1380,loading and noise,APP_CON
+APP_CON1381,nonspeech applications,APP_CON
+APP_CON1382,subscriber' s line terminals,APP_CON
+APP_CON1383,international circuit,APP_CON
+APP_CON1384,leased telephone circuits,APP_CON
+APP_CON1385,subscriber' s equipment,APP_CON
+APP_CON1386,frequency,APP_CON
+APP_CON1387,ITU-T Recommendation V.21,APP_CON
+APP_CON1388,300 BITS PER SECOND DUPLEX MODEM,APP_CON
+APP_CON1389,USE IN THE GENERAL SWITCHED TELEPHONE NETWORK,APP_CON
+APP_CON1390,the line,APP_CON
+APP_CON1391,General Switched Telephone Networks (GSTNs),APP_CON
+APP_CON1392,suitably conditioned,APP_CON
+APP_CON1393,test facilities,APP_CON
+APP_CON1394,high channel,APP_CON
+APP_CON1395,national option,APP_CON
+APP_CON1396,two PDNs of the same type,APP_CON
+APP_CON1397,common channel signalling,APP_CON
+APP_CON1398,Network layer service,APP_CON
+APP_CON1399,Quality of service,APP_CON
+APP_CON1400,general principles,APP_CON
+APP_CON1401,one side,APP_CON
+APP_CON1402,the other side,APP_CON
+APP_CON1403,Recommendations. X.1 and X.2,APP_CON
+APP_CON1404,Recommendation I.530,APP_CON
+APP_CON1405,Recommendation X.325,APP_CON
+APP_CON1406,Recommendation X.324,APP_CON
+APP_CON1407,Recommendations X.75 and X.1, category Y,APP_CON
+APP_CON1408,Recommendations X.1, X.2,APP_CON
+APP_CON1409,interworking scenarios,APP_CON
+APP_CON1410,two types of networks,APP_CON
+APP_CON1411,Recommendation Q.2931,APP_CON
+APP_CON1412,C-plane procedures,APP_CON
+APP_CON1413,FR and B-ISDN interworking,APP_CON
+APP_CON1414,Recommendation I.233.1,APP_CON
+APP_CON1415,Recommendations X.36 and Q.933,APP_CON
+APP_CON1416,Recommendations I.230 and I.233.1,APP_CON
+APP_CON1417,Recommendations X.300 and I.555,APP_CON
+APP_CON1418,B-ISDN,APP_CON
+APP_CON1419,packet switched data transmission services,APP_CON
+APP_CON1420,leased point-to-point 2-wire telephone-type circuits,APP_CON
+APP_CON1421,Recommendation V.32 modems,APP_CON
+APP_CON1422,asynchronous mode,APP_CON
+APP_CON1423,Recommendation V.28,APP_CON
+APP_CON1424,each transmission direction,APP_CON
+APP_CON1425,administration concerned,APP_CON
+APP_CON1426,duplex mode with continuous carrier,APP_CON
+APP_CON1427,see Note 3,APP_CON
+APP_CON1428,telecommunication standard,APP_CON
+APP_CON1429,General Switched Telephone Network (GSTN),APP_CON
+APP_CON1430,synchronous line transmission,APP_CON
+APP_CON1431,only,APP_CON
+APP_CON1432,another mode of operation,APP_CON
+APP_CON1433,Fault condition on interchange circuits,APP_CON
+APP_CON1434,modem's encoding process,APP_CON
+APP_CON1435,encoding process,APP_CON
+APP_CON1436,Testing facilities,APP_CON
+APP_CON1437,Glossary,APP_CON
+APP_CON1438,modem control channel compatibility,APP_CON
+APP_CON1439,Items for further study,APP_CON
+APP_CON1440,modem control,APP_CON
+APP_CON1441,Recommendation F.60,APP_CON
+APP_CON1442,Recommendation X.3,APP_CON
+APP_CON1443,Recommendation X.28,APP_CON
+APP_CON1444,Recommendation X.29,APP_CON
+APP_CON1445,Recommendation F.59,APP_CON
+APP_CON1446,international telex service,APP_CON
+APP_CON1447,Recommendation F.80,APP_CON
+APP_CON1448,Recommendation F.83,APP_CON
+APP_CON1449,Recommendation U.203,APP_CON
+APP_CON1450,Recommendation X.121,APP_CON
+APP_CON1451,Data communications,APP_CON
+APP_CON1452,Figure 5 a),APP_CON
+APP_CON1453,general interworking requirements,APP_CON
+APP_CON1454,international public mobile satellite systems,APP_CON
+APP_CON1455,maritime satellite service,APP_CON
+APP_CON1456,general principles for the detection and correction of errors in public data networks,APP_CON
+APP_CON1457,ITU-T Recommendation X.353,APP_CON
+APP_CON1458,Public Maritime Mobile Satellite Service,APP_CON
+APP_CON1459,Recommendation X.350,APP_CON
+APP_CON1460,public data networks (PDN),APP_CON
+APP_CON1461,ocean area,APP_CON
+APP_CON1462,mobile satellite service,APP_CON
+APP_CON1463,public maritime mobile earth station subscriber,APP_CON
+APP_CON1464,public maritime mobile-satellite system,APP_CON
+APP_CON1465,Recommendation E.215/F.125,APP_CON
+APP_CON1466,frame relay data transmission service,APP_CON
+APP_CON1467,closed user group,APP_CON
+APP_CON1468,reverse charging,APP_CON
+APP_CON1469,transit network selection,APP_CON
+APP_CON1470,NSAP support,APP_CON
+APP_CON1471,NSAP support by the network,APP_CON
+APP_CON1472,interworking with ATM networks,APP_CON
+APP_CON1473,SVC related services,APP_CON
+APP_CON1474,ITU-T G.680,APP_CON
+APP_CON1475,degradation function,APP_CON
+APP_CON1476,physical impairments,APP_CON
+APP_CON1477,optical noise,APP_CON
+APP_CON1478,MPI-S M,APP_CON
+APP_CON1479,MPI-R M,APP_CON
+APP_CON1480,ASE,APP_CON
+APP_CON1481,non-linear impairment,APP_CON
+APP_CON1482,PMD,APP_CON
+APP_CON1483,guidelines,APP_CON
+APP_CON1484,ingress,APP_CON
+APP_CON1485,egress,APP_CON
+APP_CON1486,reference situation,APP_CON
+APP_CON1487,ITU-T G.691,APP_CON
+APP_CON1488,single-channel long-haul STM-4, STM-16 and STM-64 systems,APP_CON
+APP_CON1489,Optical interfaces for multichannel systems with optical amplifiers,APP_CON
+APP_CON1490,STM-16,APP_CON
+APP_CON1491,193.1 THz,APP_CON
+APP_CON1492,Optical supervisory channel (OSC),APP_CON
+APP_CON1493,Spectral characteristics,APP_CON
+APP_CON1494,Eye pattern mask,APP_CON
+APP_CON1495,Optical transmit-side crosstalk,APP_CON
+APP_CON1496,Attenuation,APP_CON
+APP_CON1497,Dispersion,APP_CON
+APP_CON1498,Reflections,APP_CON
+APP_CON1499,Multichannel gain variation,APP_CON
+APP_CON1500,Multichannel gain tilt,APP_CON
+APP_CON1501,Multichannel gain-change difference,APP_CON
+APP_CON1502,ITU-T G.693,APP_CON
+APP_CON1503,Optical interfaces for intra-office systems,APP_CON
+APP_CON1504,reliability of data transmission,APP_CON
+APP_CON1505,standard technology,APP_CON
+APP_CON1506,Spectral grids for WDM applications,APP_CON
+APP_CON1507,fixed grid applications,APP_CON
+APP_CON1508,positive or negative integer including 0,APP_CON
+APP_CON1509,VSAT system,APP_CON
+APP_CON1510,private network implementations,APP_CON
+APP_CON1511,local interface,APP_CON
+APP_CON1512,Packet Switched Data Transmission Service,APP_CON
+APP_CON1513,various protocols,APP_CON
+APP_CON1514,protocols used in Local Area Network,APP_CON
+APP_CON1515,Protocol Data Units,APP_CON
+APP_CON1516,Interface between Data Terminal Equipment (DTE) and Data Circuit-Terminating Equipment (DCE) for terminals operating in the packet mode and connected to public data networks by dedicated circuits,APP_CON
+APP_CON1517,Procedures for the exchange of control information and user data between a Packet Assembly/Disassembly (PAD) facility and a packet mode DTE or another PAD,APP_CON
+APP_CON1518,Packet switched signalling system between public networks providing data transmission services,APP_CON
+APP_CON1519,Telecommunications and information exchange between systems,APP_CON
+APP_CON1520,Information technology – Potocol for providing the connectionless-mode Network service,APP_CON
+APP_CON1521,Infomation technology,APP_CON
+APP_CON1522,network side,APP_CON
+APP_CON1523,IP datagrams,APP_CON
+APP_CON1524,IP-TE,APP_CON
+APP_CON1525,PSPDN,APP_CON
+APP_CON1526,FRPDN,APP_CON
+APP_CON1527,G3 facsimile equipment (G3FE),APP_CON
+APP_CON1528,FPAD,APP_CON
+APP_CON1529,Access Information Path (AIP),APP_CON
+APP_CON1530,Recommendation X.39,APP_CON
+APP_CON1531,Recommendation X.5,APP_CON
+APP_CON1532,Recommendation T.4,APP_CON
+APP_CON1533,Recommendation T.30,APP_CON
+APP_CON1534,Incoming calls,APP_CON
+APP_CON1535,telecommunications requirements,APP_CON
+APP_CON1536,data and messages transmission,APP_CON
+APP_CON1537,transmission point of view,APP_CON
+APP_CON1538,public anisochronous data networks,APP_CON
+APP_CON1539,end-to-end character oriented synchronous operation,APP_CON
+APP_CON1540,apparatus working on the start-stop principle,APP_CON
+APP_CON1541,single character position on a screen or printer,APP_CON
+APP_CON1542,received transmission,APP_CON
+APP_CON1543,generalized polling protocol aspect,APP_CON
+APP_CON1544,Point to Multipoint (PMP) network,APP_CON
+APP_CON1545,Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating Equipment (DCE) for terminals operating in the packet mode and connected to public data networks by dedicated circuit,APP_CON
+APP_CON1546,Unassured virtual circuit option,APP_CON
+APP_CON1547,Transmission errors,APP_CON
+APP_CON1548,Packet Mode,APP_CON
+APP_CON1549,Higher access speeds,APP_CON
+APP_CON1550,FRDTS,APP_CON
+APP_CON1551,Frame Relay Data Transmission Service (FRDTS),APP_CON
+APP_CON1552,Network interworking scenario,APP_CON
+APP_CON1553,Interworking scenario,APP_CON
+APP_CON1554,port access method of interworking,APP_CON
+APP_CON1555,B-ISDN service aspects,APP_CON
+APP_CON1556,B-ISDN ATM layer cell transfer performance,APP_CON
+APP_CON1557,1993 – withdrawn in 1997,APP_CON
+APP_CON1558,General arrangements for interworking between B-ISDN and 64 kbit/s based ISDN,APP_CON
+APP_CON1559,Signalling specifications for frame mode switched and permanent virtual connection control and status monitoring,APP_CON
+APP_CON1560,Recommendation X.6,APP_CON
+APP_CON1561,no restrictions on how many users may submit SDUs at a given time,APP_CON
+APP_CON1562,multicast call,APP_CON
+APP_CON1563,centralized,APP_CON
+APP_CON1564,decentralized,APP_CON
+APP_CON1565,multicast service,APP_CON
+APP_CON1566,transmission technologies,APP_CON
+APP_CON1567,basic multicast service,APP_CON
+APP_CON1568,extended multicast service,APP_CON
+APP_CON1569,active group integrity (AGI),APP_CON
+APP_CON1570,participants in a multicast call,APP_CON
+APP_CON1571,G3 facsimile equipment,APP_CON
+APP_CON1572,Point-to-Point 2-Wire Leased Telephone-Type Circuits,APP_CON
+APP_CON1573,Type of circuits,APP_CON
+APP_CON1574,Test Facilities,APP_CON
+APP_CON1575,testing purposes,APP_CON
+APP_CON1576,data bits for transmission,APP_CON
+APP_CON1577,interchange circuits,APP_CON
+APP_CON1578,Modes of Operation,APP_CON
+APP_CON1579,600/1200-BAUD MODEM,APP_CON
+APP_CON1580,synchronous,APP_CON
+APP_CON1581,asynchronous,APP_CON
+APP_CON1582,Mode 1,APP_CON
+APP_CON1583,Mode 2,APP_CON
+APP_CON1584,non-switched leased telephone circuits,APP_CON
+APP_CON1585,Type of error or recovery from a previously reported error,APP_CON
+APP_CON1586,Point-to-point operation,APP_CON
+APP_CON1587,Point-to-multipoint operation,APP_CON
+APP_CON1588,direction of transmission,APP_CON
+APP_CON1589,equipment,APP_CON
+APP_CON1590,power,APP_CON
+APP_CON1591,both directions of transmission,APP_CON
+APP_CON1592,§ 6,APP_CON
+APP_CON1593,interworking between two networks,APP_CON
+APP_CON1594,international links,APP_CON
+APP_CON1595,each individual channel,APP_CON
+APP_CON1596,forcing configuration,APP_CON
+APP_CON1597,international housekeeping information,APP_CON
+APP_CON1598,frame synchronization method,APP_CON
+APP_CON1599,bit errors,APP_CON
+APP_CON1600,48-kbit/s user data signalling rate transmission scheme,APP_CON
+APP_CON1601,INTERNATIONAL INTERFACE,APP_CON
+APP_CON1602,8-bit envelope,APP_CON
+APP_CON1603,Explanatory Notes 1 and 2 of Recommendation X.50,APP_CON
+APP_CON1604,10-bit envelope,APP_CON
+APP_CON1605,Recommendation X.51 bis,APP_CON
+APP_CON1606,8-bit envelopes,APP_CON
+APP_CON1607,64-kbit/s channel,APP_CON
+APP_CON1608,decentralized signalling,APP_CON
+APP_CON1609,Recommendation X.21 bis,APP_CON
+APP_CON1610,ITU-T Recommendation X.51,APP_CON
+APP_CON1611,international link,APP_CON
+APP_CON1612,10-bit envelopes,APP_CON
+APP_CON1613,Figure 1/X.51,APP_CON
+APP_CON1614,Recommendations X.21, X.21 bis, X.60, X.71 and X.50,APP_CON
+APP_CON1615,Housekeeping signals and functions,APP_CON
+APP_CON1616,104.08 kHz,APP_CON
+APP_CON1617,this modem,APP_CON
+APP_CON1618,48 kbit/s,APP_CON
+APP_CON1619,international use,APP_CON
+APP_CON1620,64 kbit/s,APP_CON
+APP_CON1621,72 kbit/s,APP_CON
+APP_CON1622,synchronous networks,APP_CON
+APP_CON1623,60-108 kHz band,APP_CON
+APP_CON1624,100 kHz,APP_CON
+APP_CON1625,source external to the modem,APP_CON
+APP_CON1626,applications a) and e),APP_CON
+APP_CON1627,applications a), e) and f),APP_CON
+APP_CON1628,frequency bands of 36-60 kHz and 108-132 kHz,APP_CON
+APP_CON1629,144 kbit/s,APP_CON
+APP_CON1630,up to,APP_CON
+APP_CON1631,optional voice channel,APP_CON
+APP_CON1632,96 kbit/s,APP_CON
+APP_CON1633,bit sequence independent,APP_CON
+APP_CON1634,Line signal in the 60-108 kHz band,APP_CON
+APP_CON1635,Optional voice channel,APP_CON
+APP_CON1636,application of this system,APP_CON
+APP_CON1637,Adjacent channel interference,APP_CON
+APP_CON1638,Line characteristics,APP_CON
+APP_CON1639,Digital interface requirements,APP_CON
+APP_CON1640,Optional PCM interface alternative,APP_CON
+APP_CON1641,DIGITAL POINT-TO-POINT LEASED CIRCUITS,APP_CON
+APP_CON1642,bilateral agreement,APP_CON
+APP_CON1643,optional scrambler specified in 3.1,APP_CON
+APP_CON1644,10-bit envelope structure,APP_CON
+APP_CON1645,SYNCHRONOUS DATA NETWORKS,APP_CON
+APP_CON1646,housekeeping signalling,APP_CON
+APP_CON1647,justification in the national network,APP_CON
+APP_CON1648,framing strategy,APP_CON
+APP_CON1649,alarm signals from the distant end,APP_CON
+APP_CON1650,Recommendations X.21 and X.21 bis,APP_CON
+APP_CON1651,connections using decentralized signalling,APP_CON
+APP_CON1652,ITU-T Recommendation X.52,APP_CON
+APP_CON1653,user classes of service in public data networks,APP_CON
+APP_CON1654,synchronous operation,APP_CON
+APP_CON1655,Recommendation X.50,APP_CON
+APP_CON1656,Recommendation X.51,APP_CON
+APP_CON1657,international circuits between synchronous data networks,APP_CON
+APP_CON1658,user classes of service 1 and 2,APP_CON
+APP_CON1659,Recommendations X.50 and X.51,APP_CON
+APP_CON1660,Recommendation R.113,APP_CON
+APP_CON1661,64 kbit/s multiplex link,APP_CON
+APP_CON1662,Recommendations X.50, X.51 and R.113,APP_CON
+APP_CON1663,2/X.50,APP_CON
+APP_CON1664,3/X.50,APP_CON
+APP_CON1665,channel rate,APP_CON
+APP_CON1666,j = 0,  . . . , 15 for 80 envelope frames,APP_CON
+APP_CON1667,j = 0,  . . . , 3 for 20 envelope frames,APP_CON
+APP_CON1668,Part of the document title,APP_CON
+APP_CON1669,SCPC SATELLITE CHANNELS,APP_CON
+APP_CON1670,56 kbit/s,APP_CON
+APP_CON1671,international digital satellite link,APP_CON
+APP_CON1672,framing purposes,APP_CON
+APP_CON1673,transmit part,APP_CON
+APP_CON1674,INTERFACE BETWEEN SYNCHRONOUS DATA NETWORKS USING AN 8 + 2 ENVELOPE STRUCTURE AND SINGLE CHANNEL PER CARRIER (SCPC) SATELLITE CHANNELS,APP_CON
+APP_CON1675,48, 50 or 56 kbit/s channels,APP_CON
+APP_CON1676,54 kbit/s,APP_CON
+APP_CON1677,9-bit envelopes,APP_CON
+APP_CON1678,individual channel,APP_CON
+APP_CON1679,call control information,APP_CON
+APP_CON1680,10.8 kbit/s,APP_CON
+APP_CON1681,5.4 kbit/s,APP_CON
+APP_CON1682,2.7 kbit/s,APP_CON
+APP_CON1683,675 bit/s,APP_CON
+APP_CON1684,9-bit envelope interleaved structure,APP_CON
+APP_CON1685,2240 bits,APP_CON
+APP_CON1686,synchronized bearer,APP_CON
+APP_CON1687,2160 bits,APP_CON
+APP_CON1688,240 envelopes,APP_CON
+APP_CON1689,80 padding units,APP_CON
+APP_CON1690,national purposes,APP_CON
+APP_CON1691,housekeeping signals and functions,APP_CON
+APP_CON1692,telecommunication administration,APP_CON
+APP_CON1693,recognized operating agency,APP_CON
+APP_CON1694,Copyright notice,APP_CON
+APP_CON1695,synchronous user classes of services,APP_CON
+APP_CON1696,Considering section,APP_CON
+APP_CON1697,synchronous user data rates,APP_CON
+APP_CON1698,combinations thereof,APP_CON
+APP_CON1699,normal operation,APP_CON
+APP_CON1700,Multicast service definition,APP_CON
+APP_CON1701,1997-2000,APP_CON
+APP_CON1702,Frame Relaying Bearer Service,APP_CON
+APP_CON1703,Annex A/Q.933,APP_CON
+APP_CON1704,frame relay multicast service,APP_CON
+APP_CON1705,ITU-T Recommendation X.60,APP_CON
+APP_CON1706,Blue Book,APP_CON
+APP_CON1707,Reference document,APP_CON
+APP_CON1708,Term used for conciseness,APP_CON
+APP_CON1709,data applications,APP_CON
+APP_CON1710,Recommendations Q.701-Q.707,APP_CON
+APP_CON1711,Integrated Service Digital Networks (ISDN),APP_CON
+APP_CON1712,Services and facilities,APP_CON
+APP_CON1713,Data transmission services,APP_CON
+APP_CON1714,General,APP_CON
+APP_CON1715,TELECOMMUNICATION SECURITY,APP_CON
+APP_CON1716,Technical characteristics of data transmission services,APP_CON
+APP_CON1717,Public Data Networks (PDNs),APP_CON
+APP_CON1718,ITU-T Recommendation X.70,APP_CON
+APP_CON1719,INTERNATIONAL CIRCUITS,APP_CON
+APP_CON1720,foreseeable needs,APP_CON
+APP_CON1721,new, not yet defined services,APP_CON
+APP_CON1722,synchronous user classes of service,APP_CON
+APP_CON1723,synchronous and anisochronous networks,APP_CON
+APP_CON1724,start-stop services,APP_CON
+APP_CON1725,user class 1,APP_CON
+APP_CON1726,anisochronous types of data network,APP_CON
+APP_CON1727,user class 2,APP_CON
+APP_CON1728,Telex service,APP_CON
+APP_CON1729,Recommendation U.12,APP_CON
+APP_CON1730,telex and similar telegraph services,APP_CON
+APP_CON1731,data network identification code (DNIC),APP_CON
+APP_CON1732,transit and terminal calls,APP_CON
+APP_CON1733,data country code (DCC),APP_CON
+APP_CON1734,terminal calls,APP_CON
+APP_CON1735,incoming network,APP_CON
+APP_CON1736,Recommendation D.10,APP_CON
+APP_CON1737,busy hour,APP_CON
+APP_CON1738,international centre X,APP_CON
+APP_CON1739,international centre Y,APP_CON
+APP_CON1740,International Alphabet (IA5),APP_CON
+APP_CON1741,networks accessed by this signalling system,APP_CON
+APP_CON1742,interim period,APP_CON
+APP_CON1743,600 bit/s user class,APP_CON
+APP_CON1744,ITU-T Study Group 7,APP_CON
+APP_CON1745,Unsupported combination,APP_CON
+APP_CON1746,frame relay data transmission services,APP_CON
+APP_CON1747,ITU-T Recommendation X.80,APP_CON
+APP_CON1748,anisochronous data networks,APP_CON
+APP_CON1749,Recommendations Z.101 to Z.103,APP_CON
+APP_CON1750,X.60 side,APP_CON
+APP_CON1751,X.71 side,APP_CON
+APP_CON1752,signalling Recommendations X.71 and X.60,APP_CON
+APP_CON1753,CSPDN,APP_CON
+APP_CON1754,User class of service,APP_CON
+APP_CON1755,ISDN side,APP_CON
+APP_CON1756,Recommendation X.1 and X.2,APP_CON
+APP_CON1757,frame relay services,APP_CON
+APP_CON1758,one-to-one mapping mode,APP_CON
+APP_CON1759,frame relay over MPLS,APP_CON
+APP_CON1760,many-to-one mapping mode,APP_CON
+APP_CON1761,IP over SDH using LAPS,APP_CON
+APP_CON1762,Padding Protocol,APP_CON
+APP_CON1763,ROHC small-CID,APP_CON
+APP_CON1764,ROHC large-CID,APP_CON
+APP_CON1765,Internet Protocol version 4,APP_CON
+APP_CON1766,OSI Network Layer,APP_CON
+APP_CON1767,Xerox NS IDP,APP_CON
+APP_CON1768,DECnet Phase IV,APP_CON
+APP_CON1769,Appletalk,APP_CON
+APP_CON1770,Novell IPX,APP_CON
+APP_CON1771,Van Jacobson Compressed TCP/IP,APP_CON
+APP_CON1772,Van Jacobson Uncompressed TCP/IP,APP_CON
+APP_CON1773,Bridging PDU,APP_CON
+APP_CON1774,Stream Protocol (ST-II),APP_CON
+APP_CON1775,Banyan Vines,APP_CON
+APP_CON1776,AppleTalk EDDP,APP_CON
+APP_CON1777,AppleTalk SmartBuffered,APP_CON
+APP_CON1778,Multi-Link,APP_CON
+APP_CON1779,NETBIOS Framing,APP_CON
+APP_CON1780,Cisco Systems,APP_CON
+APP_CON1781,Ascom Timeplex,APP_CON
+APP_CON1782,Fujitsu Link Backup and Load Balancing (LBLB),APP_CON
+APP_CON1783,DCA Remote LAN,APP_CON
+APP_CON1784,Serial Data Transport Protocol (PPP-SDTP),APP_CON
+APP_CON1785,SNA over 802.2,APP_CON
+APP_CON1786,SNA,APP_CON
+APP_CON1787,IPv6 Header Compression,APP_CON
+APP_CON1788,KNX Bridging Data,APP_CON
+APP_CON1789,Encryption,APP_CON
+APP_CON1790,Individual Link Encryption,APP_CON
+APP_CON1791,Internet Protocol version 6,APP_CON
+APP_CON1792,PPP Muxing,APP_CON
+APP_CON1793,Vendor-Specific Network Protocol (VSNP),APP_CON
+APP_CON1794,RTP IPHC Full Header,APP_CON
+APP_CON1795,RTP IPHC Compressed TCP,APP_CON
+APP_CON1796,RTP IPHC Compressed Non TCP,APP_CON
+APP_CON1797,Non TCP,APP_CON
+APP_CON1798,Ethernet over LAPS,APP_CON
+APP_CON1799,SDH VC-4,APP_CON
+APP_CON1800,Annex 31B of IEEE 802.3,APP_CON
+APP_CON1801,sub-VC-4 payloads,APP_CON
+APP_CON1802,public synchronous data networks,APP_CON
+APP_CON1803,circuit-switched services,APP_CON
+APP_CON1804,packet-switched services,APP_CON
+APP_CON1805,leased line services,APP_CON
+APP_CON1806,packet switching,APP_CON
+APP_CON1807,satellite,APP_CON
+APP_CON1808,maximum number of links via satellite,APP_CON
+APP_CON1809,Note,APP_CON
+APP_CON1810,Call progress signals,APP_CON
+APP_CON1811,Frame relay data networks,APP_CON
+APP_CON1812,Circuit switching,APP_CON
+APP_CON1813,Packet switching,APP_CON
+APP_CON1814,Network congestion,APP_CON
+APP_CON1815,Local procedure error,APP_CON
+APP_CON1816,Invalid facility request,APP_CON
+APP_CON1817,Facility rejected,APP_CON
+APP_CON1818,Access barred,APP_CON
+APP_CON1819,No response,APP_CON
+APP_CON1820,Reverse charging acceptance not subscribed,APP_CON
+APP_CON1821,ITU-T Rec. G.671,APP_CON
+APP_CON1822,coarse WDM systems,APP_CON
+APP_CON1823,Effective CWDM realizations,APP_CON
+APP_CON1824,Recommendation defining the application,APP_CON
+APP_CON1825,ITU-T V.24,APP_CON
+APP_CON1826,Data Terminal Equipment (DTE),APP_CON
+APP_CON1827,Data Circuit-Terminating Equipment (DCE),APP_CON
+APP_CON1828,Binary data,APP_CON
+APP_CON1829,Intermediate equipment,APP_CON
+APP_CON1830,Recommendations X.20 bis and X.21 bis,APP_CON
+APP_CON1831,additional information on interchange circuit implementation and operational requirements,APP_CON
+APP_CON1832,Error control,APP_CON
+APP_CON1833,Automatic calling,APP_CON
+APP_CON1834,Automatic answering,APP_CON
+APP_CON1835,relevant Recommendation on electrical characteristics,APP_CON
+APP_CON1836,DTE source,APP_CON
+APP_CON1837,DCE source,APP_CON
+APP_CON1838,direct mode,APP_CON
+APP_CON1839,manually,APP_CON
+APP_CON1840,automatically established calls,APP_CON
+APP_CON1841,DTE-DCE Protocols/Data Transmission,APP_CON
+APP_CON1842,DTE-DCE Interfaces and Protocols,APP_CON
+APP_CON1843,GSM Digital Cellular,APP_CON
+APP_CON1844,Country of Installation,APP_CON
+APP_CON1845,data transmission,APP_CON
+APP_CON1846,modulation rate,APP_CON
+APP_CON1847,transmitter output,APP_CON
+APP_CON1848,electromechanical data terminal equipments,APP_CON
+APP_CON1849,ITU-T Recommendation V.41,APP_CON
+APP_CON1850,Mar del Plata, 1968,APP_CON
+APP_CON1851,Geneva, 1972,APP_CON
+APP_CON1852,modems,APP_CON
+APP_CON1853,Recommendation V.5,APP_CON
+APP_CON1854,medium or long data messages,APP_CON
+APP_CON1855,shorter messages,APP_CON
+APP_CON1856,data receiver,APP_CON
+APP_CON1857,geostationary orbit satellites,APP_CON
+APP_CON1858,this precaution need not be observed,APP_CON
+APP_CON1859,block sequence indication,APP_CON
+APP_CON1860,message information,APP_CON
+APP_CON1861,ITU-T V.42,APP_CON
+APP_CON1862,DCEs,APP_CON
+APP_CON1863,ISO/IEC 8885,APP_CON
+APP_CON1864,V.92,APP_CON
+APP_CON1865,originating and answering modems,APP_CON
+APP_CON1866,short-haul black box applications,APP_CON
+APP_CON1867,4-channel PAM4 50G short-haul black box applications,APP_CON
+APP_CON1868,Optical safety procedures and requirements for optical transmission systems,APP_CON
+APP_CON1869,Optical interfaces for single channel STM-64 and other SDH systems with optical amplifiers,APP_CON
+APP_CON1870,Interfaces for the optical transport network,APP_CON
+APP_CON1871,Flexible OTN short-reach interfaces,APP_CON
+APP_CON1872,Optical interfaces for equipments and systems relating to the synchronous digital hierarchy,APP_CON
+APP_CON1873,Safety of laser products – Part 1: Equipment classification and requirements,APP_CON
+APP_CON1874,Safety of laser products – Part 2: Safety of optical fibre communication systems (OFCS),APP_CON
+APP_CON1875,Media Access Control Parameters, Physical Layers and Management Parameters for 200 Gb/s and 400 Gb/s Operation,APP_CON
+APP_CON1876,transverse compatibility,APP_CON
+APP_CON1877,ITU-T G.696.1,APP_CON
+APP_CON1878,intra-domain (IaD) DWDM optical networking applications,APP_CON
+APP_CON1879,Longitudinally compatible,APP_CON
+APP_CON1880,intra-domain,APP_CON
+APP_CON1881,optical fibre cables,APP_CON
+APP_CON1882,per span,APP_CON
+APP_CON1883,optical safety considerations,APP_CON
+APP_CON1884,40 Gbit/s and 100 Gbit/s signals,APP_CON
+APP_CON1885,security considerations,APP_CON
+APP_CON1886,metro applications,APP_CON
+APP_CON1887,DWDM systems,APP_CON
+APP_CON1888,Applications,APP_CON
+APP_CON1889,25G,APP_CON
+APP_CON1890,10G,APP_CON
+APP_CON1891,unidirectional,APP_CON
+APP_CON1892,2.5G,APP_CON
+APP_CON1893,unidirectional DWDM applications,APP_CON
+APP_CON1894,100 GHz channel frequency spacing,APP_CON
+APP_CON1895,DWDM applications,APP_CON
+APP_CON1896,50 GHz channel frequency spacing,APP_CON
+APP_CON1897,black link,APP_CON
+APP_CON1898,physical point-to-point and ring DWDM applications,APP_CON
+APP_CON1899,multivendor DWDM optical transmission networks,APP_CON
+APP_CON1900,Optical safety procedures and requirements for optical transport systems,APP_CON
+APP_CON1901,Spectral grids for WDM applications: DWDM frequency grid,APP_CON
+APP_CON1902,Interfaces for the Optical Transport Network (OTN),APP_CON
+APP_CON1903,ITU-T G.709.3,APP_CON
+APP_CON1904,ITU-T G.709.2,APP_CON
+APP_CON1905,100-GHz channel frequency spacing,APP_CON
+APP_CON1906,seeded DWDM application,APP_CON
+APP_CON1907,1.25 Gbit/s,APP_CON
+APP_CON1908,head-end aggregate input,APP_CON
+APP_CON1909,mobile fronthaul and metro applications,APP_CON
+APP_CON1910,O-band,APP_CON
+APP_CON1911,bidirectional single-fibre WDM applications,APP_CON
+APP_CON1912,mobile fronthaul applications,APP_CON
+APP_CON1913,mobile fronthaul,APP_CON
+APP_CON1914,Transmission characteristics of optical components and subsystems,APP_CON
+APP_CON1915,Multichannel DWDM applications with single-channel optical interfaces,APP_CON
+APP_CON1916,Multichannel bi-directional DWDM applications,APP_CON
+APP_CON1917,Multichannel WDM applications,APP_CON
+APP_CON1918,25 Gbit/s,APP_CON
+APP_CON1919,bidirectional,APP_CON
+APP_CON1920,WDM applications,APP_CON
+APP_CON1921,7 nm and 13 nm,APP_CON
+APP_CON1922,5 km transmission distances,APP_CON
+APP_CON1923,Optical safety procedures,APP_CON
+APP_CON1924,requirements for optical transmission systems,APP_CON
+APP_CON1925,Multichannel DWDM applications,APP_CON
+APP_CON1926,synchronous digital hierarchy,APP_CON
+APP_CON1927,each country,APP_CON
+APP_CON1928,data transmission difficulties,APP_CON
+APP_CON1929,each Administration,APP_CON
+APP_CON1930,public telephone calls,APP_CON
+APP_CON1931,compatibility of results obtained by equipments standardized by the CCITT and produced by different manufacturers,APP_CON
+APP_CON1932,frequency range 300 Hz to 4 kHz,APP_CON
+APP_CON1933,Input balance,APP_CON
+APP_CON1934,provided in all cases,APP_CON
+APP_CON1935,Optional bandwidths,APP_CON
+APP_CON1936,flat condition,APP_CON
+APP_CON1937,Sensitivity,APP_CON
+APP_CON1938,Each event to be counted,APP_CON
+APP_CON1939,Relative duration of impulsive noise events,APP_CON
+APP_CON1940,data transmission errors,APP_CON
+APP_CON1941,impulsive noise,APP_CON
+APP_CON1942,Seconds containing impulsive noise events,APP_CON
+APP_CON1943,Operating environment,APP_CON
+APP_CON1944,climatic conditions,APP_CON
+APP_CON1945,ITU-T Recommendation V.1,APP_CON
+APP_CON1946,Telegraphy,APP_CON
+APP_CON1947,telegraphic communication,APP_CON
+APP_CON1948,Table 1/V.1,APP_CON
+APP_CON1949,unbalanced interchange circuit,APP_CON
+APP_CON1950,interconnecting cable,APP_CON
+APP_CON1951,extraneous noise sources,APP_CON
+APP_CON1952,interference with other signals,APP_CON
+APP_CON1953,maximum cable length,APP_CON
+APP_CON1954,may be used,APP_CON
+APP_CON1955,fallback mode,APP_CON
+APP_CON1956,adjacent balanced or unbalanced interchange circuits,APP_CON
+APP_CON1957,Annex A,APP_CON
+APP_CON1958,Compatibility with other interfaces,APP_CON
+APP_CON1959,Appendix I,APP_CON
+APP_CON1960,Appendix II,APP_CON
+APP_CON1961,data transmission applications,APP_CON
+APP_CON1962,terminals having interfaces conforming to current V-series Recommendations,APP_CON
+APP_CON1963,binary state,APP_CON
+APP_CON1964,test load,APP_CON
+APP_CON1965,either binary state,APP_CON
+APP_CON1966,either state,APP_CON
+APP_CON1967,Recommendation V.13,APP_CON
+APP_CON1968,revised Helsinki, 1993,APP_CON
+APP_CON1969,duplex data systems,APP_CON
+APP_CON1970,data terminal equipment (DTE),APP_CON
+APP_CON1971,CCITT Recommendation,APP_CON
+APP_CON1972,remote circuit 109,APP_CON
+APP_CON1973,requirement,APP_CON
+APP_CON1974,local circuit 105,APP_CON
+APP_CON1975,modem carrier,APP_CON
+APP_CON1976,impossible or impractical,APP_CON
+APP_CON1977,sub-channels of modems,APP_CON
+APP_CON1978,modems with long equalizer/echo canceller training sequences,APP_CON
+APP_CON1979,high efficiency multiplexers,APP_CON
+APP_CON1980,PCM channels,APP_CON
+APP_CON1981,data circuit-terminating equipment (DCE),APP_CON
+APP_CON1982,loop device,APP_CON

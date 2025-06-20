@@ -1,0 +1,1225 @@
+ID,name,LABEL
+VALUE001,linear, deterministic parameters,VALUE
+VALUE002,core concentricity error,VALUE
+VALUE003,four predictor wavelengths,VALUE
+VALUE004,three predictor wavelengths,VALUE
+VALUE005,sixth version,VALUE
+VALUE006,maximum numerical aperture of 0.4,VALUE
+VALUE007,wavelength longer than the cut -off wavelength,VALUE
+VALUE008,optical frequency,VALUE
+VALUE009,differential group delay (DGD),VALUE
+VALUE010,[τ(ν) in ps],VALUE
+VALUE011,PMD value,VALUE
+VALUE012,DGD values Δτ(ν),VALUE
+VALUE013,effective area (Aeff),VALUE
+VALUE014,non-linear coefficient (n2/Aeff),VALUE
+VALUE015,polarization mode dispersion statistics,VALUE
+VALUE016,31st of January 1990,VALUE
+VALUE017,improved error performance,VALUE
+VALUE018,improved throughput,VALUE
+VALUE019,character,VALUE
+VALUE020,predefined number of bits,VALUE
+VALUE021,N3 = 8,VALUE
+VALUE022,ordinal value,VALUE
+VALUE023,numerical equivalent,VALUE
+VALUE024,alphabet,VALUE
+VALUE025,codeword,VALUE
+VALUE026,range 0 to N2 - 1,VALUE
+VALUE027,same initial character,VALUE
+VALUE028,last character in a string,VALUE
+VALUE029,first character in a string,VALUE
+VALUE030,uncompressed form,VALUE
+VALUE031,6th of February 1998,VALUE
+VALUE032,data signalling rates,VALUE
+VALUE033,29 March 2002,VALUE
+VALUE034,every four years,VALUE
+VALUE035,latest information,VALUE
+VALUE036,values,VALUE
+VALUE037,parameter values,VALUE
+VALUE038,V.44 default parameter values,VALUE
+VALUE039,17,VALUE
+VALUE040,1988, 1993,VALUE
+VALUE041,data transmission quality,VALUE
+VALUE042,telegraph distortion,VALUE
+VALUE043,degree of signal distortion,VALUE
+VALUE044,certain limits,VALUE
+VALUE045,degree of distortion on received signals,VALUE
+VALUE046,margin of the receiving equipment,VALUE
+VALUE047,sending distortion,VALUE
+VALUE048,limits,VALUE
+VALUE049,20-25%,VALUE
+VALUE050,600 bauds - leased circuits,VALUE
+VALUE051,20-30%,VALUE
+VALUE052,1200 bauds - leased circuits,VALUE
+VALUE053,25-35%,VALUE
+VALUE054,600 bauds - switched circuit,VALUE
+VALUE055,25-30%,VALUE
+VALUE056,1200 bauds - switched circuit,VALUE
+VALUE057,30-35%,VALUE
+VALUE058,modulation rates,VALUE
+VALUE059,90%,VALUE
+VALUE060,200 bauds,VALUE
+VALUE061,4.5 milliseconds,VALUE
+VALUE062,zero-dispersion wavelength around 1310 nm,VALUE
+VALUE063,1310 nm wavelength region,VALUE
+VALUE064,1550 nm wavelength region,VALUE
+VALUE065,chromatic dispersion coefficient,VALUE
+VALUE066,number of concatenated cable pieces,VALUE
+VALUE067,1 to 16,VALUE
+VALUE068,Mode field diameter,VALUE
+VALUE069,Cladding diameter,VALUE
+VALUE070,Core concentricity error,VALUE
+VALUE071,Non-circularity,VALUE
+VALUE072,Cut-off wavelength,VALUE
+VALUE073,Macrobending loss,VALUE
+VALUE074,Refractive index profile,VALUE
+VALUE075,Longitudinal uniformity of chromatic dispersion,VALUE
+VALUE076,Chromatic dispersion,VALUE
+VALUE077,Attenuation coefficient,VALUE
+VALUE078,Polarization mode dispersion coefficient,VALUE
+VALUE079,Tables of recommended values,VALUE
+VALUE080,Attenuation,VALUE
+VALUE081,Differential group delay (DGD),VALUE
+VALUE082,Non-linear coefficient,VALUE
+VALUE083,maximum/minimum chromatic dispersion,VALUE
+VALUE084,zero-dispersion wavelength shifted into the 1550 nm wavelength region,VALUE
+VALUE085,zero-dispersion wavelength,VALUE
+VALUE086,mode field diameter,VALUE
+VALUE087,nominal value,VALUE
+VALUE088,tolerance,VALUE
+VALUE089,cladding diameter,VALUE
+VALUE090,125 µm,VALUE
+VALUE091,non-circularity,VALUE
+VALUE092,cut-off wavelength,VALUE
+VALUE093,macrobending loss,VALUE
+VALUE094,chromatic dispersion,VALUE
+VALUE095,polarization mode dispersion (PMD),VALUE
+VALUE096,Return loss,VALUE
+VALUE097,core diameter,VALUE
+VALUE098,numerical aperture,VALUE
+VALUE099,material properties of the fibre,VALUE
+VALUE100,refractive index profile,VALUE
+VALUE101,modal bandwidth,VALUE
+VALUE102,29th of August 1995,VALUE
+VALUE103,3.1 kHz audio bearer service,VALUE
+VALUE104,zero-dispersion wavelength around 1300 nm wavelength,VALUE
+VALUE105,1300 nm wavelength,VALUE
+VALUE106,1530-1625 nm region,VALUE
+VALUE107,attenuation,VALUE
+VALUE108,higher wavelengths up to 1625 nm,VALUE
+VALUE109,longitudinal uniformity of chromatic dispersion,VALUE
+VALUE110,attenuation coefficient,VALUE
+VALUE111,polarization mode dispersion coefficient,VALUE
+VALUE112,1530 nm to 1565 nm,VALUE
+VALUE113,13 November 2009,VALUE
+VALUE114,1460 and 1625 nm,VALUE
+VALUE115,1550 nm,VALUE
+VALUE116,125 μm,VALUE
+VALUE117,cladding non-circularity,VALUE
+VALUE118,cable cut-off wavelength,VALUE
+VALUE119,fibre cut-off wavelength,VALUE
+VALUE120,minimum cable length,VALUE
+VALUE121,minimum operating wavelength,VALUE
+VALUE122,maximum given in clause 7,VALUE
+VALUE123,specified wavelength,VALUE
+VALUE124,bend radius,VALUE
+VALUE125,number of turns about a mandrel with a specified radius,VALUE
+VALUE126,Telegraph distortion limits,VALUE
+VALUE127,degree of distortion,VALUE
+VALUE128,Bit error rate,VALUE
+VALUE129,Block error rate,VALUE
+VALUE130,Uniform-spectrum random noise,VALUE
+VALUE131,Impulsive noise,VALUE
+VALUE132,maximum data signal level of -10 dBm0,VALUE
+VALUE133,-13 dBm0,VALUE
+VALUE134,-18 dBm0,VALUE
+VALUE135,-21 dBm0,VALUE
+VALUE136,thresholds 3 dB apart,VALUE
+VALUE137,binary 1 condition,VALUE
+VALUE138,OFF condition,VALUE
+VALUE139,same condition as it was before the test,VALUE
+VALUE140,1 to 4,VALUE
+VALUE141,2048 ± 100 bits,VALUE
+VALUE142,binary 0,VALUE
+VALUE143,Total attenuation or receiving signal level,VALUE
+VALUE144,Attenuation distortion,VALUE
+VALUE145,Envelope or group delay distorsion,VALUE
+VALUE146,Frequency shift (or offset),VALUE
+VALUE147,Harmonic distortion,VALUE
+VALUE148,Listener echo,VALUE
+VALUE149,White noise,VALUE
+VALUE150,Single tone interference,VALUE
+VALUE151,Symmetric line distortion,VALUE
+VALUE152,Asymmetric line distortion,VALUE
+VALUE153,Ripple distortion,VALUE
+VALUE154,bit error per second (F/t),VALUE
+VALUE155,1993-1996,VALUE
+VALUE156,Signal-to-Noise Ratio (SNR),VALUE
+VALUE157,Round-Trip Delay (RTD),VALUE
+VALUE158,20th of September 1994,VALUE
+VALUE159,information available within that domain,VALUE
+VALUE160,03/2002,VALUE
+VALUE161,BASIC-ALIGNED,VALUE
+VALUE162,txSpeed,VALUE
+VALUE163,50..1677215,VALUE
+VALUE164,rxSpeed,VALUE
+VALUE165,txThroughput,VALUE
+VALUE166,rxThroughput,VALUE
+VALUE167,txErrors,VALUE
+VALUE168,(0..65535),VALUE
+VALUE169,rxErrors,VALUE
+VALUE170,2F02,VALUE
+VALUE171,txFrameSize,VALUE
+VALUE172,2F03,VALUE
+VALUE173,rxFrameSize,VALUE
+VALUE174,2F04,VALUE
+VALUE175,txWindow,VALUE
+VALUE176,rxWindow,VALUE
+VALUE177,linkTimeout,VALUE
+VALUE178,2F07,VALUE
+VALUE179,framesSentAck,VALUE
+VALUE180,2F08,VALUE
+VALUE181,framesRetransmitted,VALUE
+VALUE182,2F09,VALUE
+VALUE183,framesReceivedDiscard,VALUE
+VALUE184,2F0B,VALUE
+VALUE185,2F0E,VALUE
+VALUE186,2F0F,VALUE
+VALUE187,4800 bit/s,VALUE
+VALUE188,14 400 bit/s,VALUE
+VALUE189,1996,VALUE
+VALUE190,01/2005,VALUE
+VALUE191,8 January 2005,VALUE
+VALUE192,effective data transfer rate,VALUE
+VALUE193,average number of bits, characters, or blocks per unit time,VALUE
+VALUE194,interface rate,VALUE
+VALUE195,transfer rate,VALUE
+VALUE196,information rate,VALUE
+VALUE197,bit rate,VALUE
+VALUE198,control signalling rate,VALUE
+VALUE199,data,VALUE
+VALUE200,digitally encoded voice signals,VALUE
+VALUE201,non-standard capabilities and control messages,VALUE
+VALUE202,N401 Value Range,VALUE
+VALUE203,Intellectual Property Rights,VALUE
+VALUE204,latest information on intellectual property,VALUE
+VALUE205,value,VALUE
+VALUE206,DLCI values,VALUE
+VALUE207,octets,VALUE
+VALUE208,maximum information-field size,VALUE
+VALUE209,2100 Hz,VALUE
+VALUE210,data signalling rates of up to 33 600 bit/s,VALUE
+VALUE211,56 000 bit/s downstream,VALUE
+VALUE212,33 600 bit/s upstream,VALUE
+VALUE213,synchronous access mode command/indication bit rate values,VALUE
+VALUE214,Data signalling rate,VALUE
+VALUE215,17 November 2000,VALUE
+VALUE216,2001-2004,VALUE
+VALUE217,data signalling rates of up to 56 000 bit/s downstream,VALUE
+VALUE218,up to 33 600 bit/s upstream,VALUE
+VALUE219,symbol rates,VALUE
+VALUE220,carrier frequencies,VALUE
+VALUE221,1997-2000,VALUE
+VALUE222,64 000 bit/s,VALUE
+VALUE223,29 July 2001,VALUE
+VALUE224,8.2.1.7,VALUE
+VALUE225,Tone A,VALUE
+VALUE226,50 ms,VALUE
+VALUE227,Tone B,VALUE
+VALUE228,Tone RT,VALUE
+VALUE229,20 ms,VALUE
+VALUE230,70 ± 5 ms of silence,VALUE
+VALUE231,31 March 2000,VALUE
+VALUE232,600 bit/s,VALUE
+VALUE233,9600 bit/s,VALUE
+VALUE234,1200 bit/s,VALUE
+VALUE235,300 bit/s,VALUE
+VALUE236,50 bit/s,VALUE
+VALUE237,11 July 1997,VALUE
+VALUE238,two digits,VALUE
+VALUE239,10 bits of 1 (mark idle),VALUE
+VALUE240,1,VALUE
+VALUE241,the latest information on intellectual property,VALUE
+VALUE242,details,VALUE
+VALUE243,Numeric radix,VALUE
+VALUE244,10/2021,VALUE
+VALUE245,Quality of service,VALUE
+VALUE246,degree of satisfaction of a user of the service,VALUE
+VALUE247,22 March 2008,VALUE
+VALUE248,assets and resources,VALUE
+VALUE249,users' requirements,VALUE
+VALUE250,privileges,VALUE
+VALUE251,preferences,VALUE
+VALUE252,habitual behaviours,VALUE
+VALUE253,Quality of Service (QoS),VALUE
+VALUE254,temporal key (TK),VALUE
+VALUE255,pre-shared secret,VALUE
+VALUE256,13 February 2007,VALUE
+VALUE257,13 November 2007,VALUE
+VALUE258,large address space,VALUE
+VALUE259,2005,VALUE
+VALUE260,2008,VALUE
+VALUE261,November 26,VALUE
+VALUE262,July,VALUE
+VALUE263,user's access rights,VALUE
+VALUE264,user's privileges,VALUE
+VALUE265,25th of September 1998,VALUE
+VALUE266,64 or 56 kbit/s,VALUE
+VALUE267,64 vs 56 kbit/s,VALUE
+VALUE268,rights,VALUE
+VALUE269,access rights,VALUE
+VALUE270,availability,VALUE
+VALUE271,confidentiality,VALUE
+VALUE272,data integrity,VALUE
+VALUE273,security threats,VALUE
+VALUE274,security requirements,VALUE
+VALUE275,DoS/DDoS attacks,VALUE
+VALUE276,capital expenditure,VALUE
+VALUE277,operational expenditure,VALUE
+VALUE278,high performance,VALUE
+VALUE279,usage frequencies,VALUE
+VALUE280,maximum bandwidth,VALUE
+VALUE281,maximum number of connections,VALUE
+VALUE282,Service Level Agreement (SLA),VALUE
+VALUE283,11/2017,VALUE
+VALUE284,confidentiality, integrity and availability,VALUE
+VALUE285,security culture of organizations,VALUE
+VALUE286,public trust,VALUE
+VALUE287,Information security risk,VALUE
+VALUE288,potential,VALUE
+VALUE289,13 November 2008,VALUE
+VALUE290,Information systems risk,VALUE
+VALUE291,Human resources risk,VALUE
+VALUE292,Operational risk,VALUE
+VALUE293,efficient,VALUE
+VALUE294,effective,VALUE
+VALUE295,Network services risk,VALUE
+VALUE296,IT services risk,VALUE
+VALUE297,reliable,VALUE
+VALUE298,robust,VALUE
+VALUE299,secure,VALUE
+VALUE300,Physical risk,VALUE
+VALUE301,Compliance risk,VALUE
+VALUE302,response time,VALUE
+VALUE303,13 January 2009,VALUE
+VALUE304,very high goals,VALUE
+VALUE305,higher values,VALUE
+VALUE306,Asset value level,VALUE
+VALUE307,Residual risk,VALUE
+VALUE308,Personally Identifiable Information (PII),VALUE
+VALUE309,six risk management processes,VALUE
+VALUE310,font size,VALUE
+VALUE311,specific coordinate X, Y,VALUE
+VALUE312,2002,VALUE
+VALUE313,1998,VALUE
+VALUE314,modulation rates up to 75 bauds,VALUE
+VALUE315,carrier frequency,VALUE
+VALUE316,1800 ± 1 Hz,VALUE
+VALUE317,power levels,VALUE
+VALUE318,phase change,VALUE
+VALUE319,data signalling rate,VALUE
+VALUE320,2400 bits per second ± 0.01%,VALUE
+VALUE321,1200 bauds ± 0.01%,VALUE
+VALUE322,received signal frequency tolerance,VALUE
+VALUE323,carrier frequency tolerance allowance,VALUE
+VALUE324,± 1 Hz,VALUE
+VALUE325,maximum frequency drift,VALUE
+VALUE326,± 6 Hz,VALUE
+VALUE327,± 7 Hz,VALUE
+VALUE328,modulation rate,VALUE
+VALUE329,characteristic frequencies,VALUE
+VALUE330,tolerances,VALUE
+VALUE331,2400 bit/s,VALUE
+VALUE332,a much higher proportion of connections,VALUE
+VALUE333,2400 bit/s ± 0.01%,VALUE
+VALUE334,+90°,VALUE
+VALUE335,+ 270°,VALUE
+VALUE336,HTTP traffic,VALUE
+VALUE337,level of service,VALUE
+VALUE338,08/2021,VALUE
+VALUE339,cyber -risk,VALUE
+VALUE340,excess,VALUE
+VALUE341,Sum of money,VALUE
+VALUE342,premium warranty,VALUE
+VALUE343,premiums,VALUE
+VALUE344,08/2024,VALUE
+VALUE345,low values of macrobending losses,VALUE
+VALUE346,very low bend radii,VALUE
+VALUE347,29 July 2007,VALUE
+VALUE348,2000,VALUE
+VALUE349,2007,VALUE
+VALUE350,Bit Error Ratio (BER),VALUE
+VALUE351,Differential Group Delay (DGD),VALUE
+VALUE352,Noise Figure (NF),VALUE
+VALUE353,State Of Polarization (SOP),VALUE
+VALUE354,nominal operating conditions,VALUE
+VALUE355,limiting operating conditions,VALUE
+VALUE356,maximum values,VALUE
+VALUE357,absolute maximum ratings,VALUE
+VALUE358,14 July 2005,VALUE
+VALUE359,high-power,VALUE
+VALUE360,large channel counts,VALUE
+VALUE361,safety issues,VALUE
+VALUE362,security issues,VALUE
+VALUE363,privacy issues,VALUE
+VALUE364,13 January 2003,VALUE
+VALUE365,two,VALUE
+VALUE366,2005-2008,VALUE
+VALUE367,29 May 2008,VALUE
+VALUE368,biometric data security,VALUE
+VALUE369,telebiometrics vulnerabilities,VALUE
+VALUE370,not heavy,VALUE
+VALUE371,security and reliability,VALUE
+VALUE372,12,VALUE
+VALUE373,Personally identifiable information (PII),VALUE
+VALUE374,different (certified) security levels,VALUE
+VALUE375,data and information,VALUE
+VALUE376,synchronization information,VALUE
+VALUE377,transformation information,VALUE
+VALUE378,original template,VALUE
+VALUE379,performance,VALUE
+VALUE380,potential vulnerabilities,VALUE
+VALUE381,patient's medical information,VALUE
+VALUE382,biometric information,VALUE
+VALUE383,user's identity information,VALUE
+VALUE384,4800 bits per second ± 0.01%,VALUE
+VALUE385,1600 bauds ± 0.01%,VALUE
+VALUE386,Carrier frequency,VALUE
+VALUE387,1 + x -6 + x -7,VALUE
+VALUE388,Received signal frequency tolerance,VALUE
+VALUE389,maximum drift of ± 6 Hz,VALUE
+VALUE390,4800 bits per second,VALUE
+VALUE391,2400 bits per second,VALUE
+VALUE392,data transmission at 4800 bits per second,VALUE
+VALUE393,a, b and c,VALUE
+VALUE394,global significance,VALUE
+VALUE395,between 9:00 and 17:00 hours,VALUE
+VALUE396,at other times during the day,VALUE
+VALUE397,5th of October 1996,VALUE
+VALUE398,Quality of Service,VALUE
+VALUE399,Data Country Codes,VALUE
+VALUE400,Data Network Identification Codes,VALUE
+VALUE401,Global Data Network Identification Code,VALUE
+VALUE402,Private Network Identification Codes,VALUE
+VALUE403,Montreal, 27 September − 6 October 2000,VALUE
+VALUE404,International data number,VALUE
+VALUE405,2359 hrs (UTC) 31 December 2000,VALUE
+VALUE406,18th of June 1999,VALUE
+VALUE407,provisional worst-case values,VALUE
+VALUE408,call blocking probability,VALUE
+VALUE409,provisional, worst-case values,VALUE
+VALUE410,quality of service,VALUE
+VALUE411,throughput,VALUE
+VALUE412,grade of service,VALUE
+VALUE413,moderate length,VALUE
+VALUE414,1000 km,VALUE
+VALUE415,International portion: 160 000 km,VALUE
+VALUE416,blocking allowance,VALUE
+VALUE417,design objectives,VALUE
+VALUE418,busy hours,VALUE
+VALUE419,nominal blocking probabilities,VALUE
+VALUE420,normal busy hour load,VALUE
+VALUE421,Probability of non-connection due to congestion,VALUE
+VALUE422,20 seconds,VALUE
+VALUE423,60 seconds,VALUE
+VALUE424,13%,VALUE
+VALUE425,15%,VALUE
+VALUE426,overall probability of non-connection due to congestion,VALUE
+VALUE427,9th of August 1997,VALUE
+VALUE428,speed,VALUE
+VALUE429,accuracy,VALUE
+VALUE430,dependability,VALUE
+VALUE431,outage thresholds,VALUE
+VALUE432,available,VALUE
+VALUE433,unavailable,VALUE
+VALUE434,speed of service (delay and throughput) performance values,VALUE
+VALUE435,Speed of service,VALUE
+VALUE436,delay,VALUE
+VALUE437,throughput performance values,VALUE
+VALUE438,performance values,VALUE
+VALUE439,Call set-up delay,VALUE
+VALUE440,Data packet transfer delay,VALUE
+VALUE441,Throughput capacity,VALUE
+VALUE442,Clear indication delay,VALUE
+VALUE443,data packet transfer delay,VALUE
+VALUE444,throughput capacity,VALUE
+VALUE445,Primary parameters,VALUE
+VALUE446,dependability parameters,VALUE
+VALUE447,Service availability,VALUE
+VALUE448,Outage thresholds,VALUE
+VALUE449,accuracy and dependability performance values,VALUE
+VALUE450,speed of service performance values,VALUE
+VALUE451,availability performance values,VALUE
+VALUE452,10th of September 1992,VALUE
+VALUE453,AVAILABILITY PERFORMANCE VALUES,VALUE
+VALUE454,worst-case objectives,VALUE
+VALUE455,service availability,VALUE
+VALUE456,mean time between service outages,VALUE
+VALUE457,delay and throughput,VALUE
+VALUE458,Call set-up error probability,VALUE
+VALUE459,Call set-up failure probability,VALUE
+VALUE460,Residual error ratio,VALUE
+VALUE461,Reset stimulus probability,VALUE
+VALUE462,Reset probability,VALUE
+VALUE463,Premature disconnect stimulus probability,VALUE
+VALUE464,Premature disconnect probability,VALUE
+VALUE465,Call clear failure probability,VALUE
+VALUE466,Availability,VALUE
+VALUE467,Throughput,VALUE
+VALUE468,1993,VALUE
+VALUE469,Speed of service (delay and throughput) performance values,VALUE
+VALUE470,Accuracy and dependability performance values,VALUE
+VALUE471,Availability performance values,VALUE
+VALUE472,1992,VALUE
+VALUE473,Access delay,VALUE
+VALUE474,elapsed time,VALUE
+VALUE475,Incorrect access probability,VALUE
+VALUE476,Access denial probability,VALUE
+VALUE477,access delay,VALUE
+VALUE478,incorrect access probability,VALUE
+VALUE479,User information transfer delay,VALUE
+VALUE480,User information transfer rate,VALUE
+VALUE481,User information error probability,VALUE
+VALUE482,Extra user information delivery probability,VALUE
+VALUE483,User information misdelivery probability,VALUE
+VALUE484,User information loss probability,VALUE
+VALUE485,Disengagement delay,VALUE
+VALUE486,Disengagement denial probability,VALUE
+VALUE487,Transfer denial probability,VALUE
+VALUE488,Service outage duration,VALUE
+VALUE489,40, 32, 24, 16 kbit/s,VALUE
+VALUE490,subcarrier frequencies,VALUE
+VALUE491,maximum transmission levels,VALUE
+VALUE492,transmission quality,VALUE
+VALUE493,the above power level,VALUE
+VALUE494,quality,VALUE
+VALUE495,Data block delivered ratio/loss ratio,VALUE
+VALUE496,Data block transfer delay,VALUE
+VALUE497,Data block delay jitter,VALUE
+VALUE498,29 October 2003,VALUE
+VALUE499,User information transfer performance parameters,VALUE
+VALUE500,network availability objective values,VALUE
+VALUE501,speed, accuracy and dependability,VALUE
+VALUE502,call control delay,VALUE
+VALUE503,accuracy parameters,VALUE
+VALUE504,user information transfer performance parameters,VALUE
+VALUE505,delay and loss objectives,VALUE
+VALUE506,frame transfer delay (FTD),VALUE
+VALUE507,committed frame loss ratio (FLRc),VALUE
+VALUE508,frame delay jitter (FDJ),VALUE
+VALUE509,FTD (ms),VALUE
+VALUE510,2003,VALUE
+VALUE511,Availability performance objectives,VALUE
+VALUE512,99.98%,VALUE
+VALUE513,Availability Ratio,VALUE
+VALUE514,Mean time between outages,VALUE
+VALUE515,Outage Intensity,VALUE
+VALUE516,one year,VALUE
+VALUE517,Routing factor,VALUE
+VALUE518,1.5,VALUE
+VALUE519,1200 km,VALUE
+VALUE520,1500 km,VALUE
+VALUE521,1.25,VALUE
+VALUE522,National Portion availability objective,VALUE
+VALUE523,x = 0.0005,VALUE
+VALUE524,0.0002,VALUE
+VALUE525,End-to-end availability objective,VALUE
+VALUE526,Availability objective of the Originating Access Circuit Section,VALUE
+VALUE527,Availability objective of the Destination Access Circuit Section,VALUE
+VALUE528,Availability objective of the Originating National Network Portion,VALUE
+VALUE529,Availability objective of the Destination National Network Portion,VALUE
+VALUE530,Availability objective of the International Transit Network Portion (k),VALUE
+VALUE531,Availability objective of the International Interoperator Portion (k),VALUE
+VALUE532,Frame Transit Delay,VALUE
+VALUE533,Frame Delay Jitter,VALUE
+VALUE534,Frame Loss Ratio,VALUE
+VALUE535,13 February 2003,VALUE
+VALUE536,Frame Transfer Delay (FTD),VALUE
+VALUE537,objective values,VALUE
+VALUE538,Frame Delay Jitter (FDJ),VALUE
+VALUE539,Frame Loss Ratio (FLR),VALUE
+VALUE540,Frame Delivery Ratio,VALUE
+VALUE541,service or network availability,VALUE
+VALUE542,frame transfer delay,VALUE
+VALUE543,frame delay jitter,VALUE
+VALUE544,frame loss ratio,VALUE
+VALUE545,frame delivery ratio,VALUE
+VALUE546,data delivery ratio,VALUE
+VALUE547,IP layer performance,VALUE
+VALUE548,Frame Relay and IP performance parameters,VALUE
+VALUE549,Numerical values of IP performance parameters,VALUE
+VALUE550,transfer delay,VALUE
+VALUE551,2001,VALUE
+VALUE552,IP Packet Loss Ratio (IPLR),VALUE
+VALUE553,total lost IP packet outcomes,VALUE
+VALUE554,total transmitted IP packets,VALUE
+VALUE555,transmitted signals,VALUE
+VALUE556,primary performance parameters,VALUE
+VALUE557,Frame Transfer Delay,VALUE
+VALUE558,Data Delivery Ratio,VALUE
+VALUE559,1997,VALUE
+VALUE560,ITU-T Recommendation X.281,VALUE
+VALUE561,ISO/IEC 13642:1996,VALUE
+VALUE562,CCITT Recommendation X.701,VALUE
+VALUE563,1988-1993,VALUE
+VALUE564,Helsinki, March 1-12, 1993,VALUE
+VALUE565,Significant levels (V1),VALUE
+VALUE566,minus 3 volts,VALUE
+VALUE567,20 kbit/s,VALUE
+VALUE568,CC C10 0 2500 20max. /pF BRdi e j ≤+ LNM OQP − BR,VALUE
+VALUE569,maximum bit rate (in kbit/s),VALUE
+VALUE570,3% requirement of 6.4,VALUE
+VALUE571,1.5 µs,VALUE
+VALUE572,7200, 4800 and 2400 bits per second,VALUE
+VALUE573,1700 ± 1 Hz,VALUE
+VALUE574,quadbits,VALUE
+VALUE575,absolute phase diagram,VALUE
+VALUE576,9600 bits per second,VALUE
+VALUE577,fallback rate of 7200 bits per second,VALUE
+VALUE578,fallback rate of 4800 bits per second,VALUE
+VALUE579,3,VALUE
+VALUE580,9600,VALUE
+VALUE581,7200,VALUE
+VALUE582,4800,VALUE
+VALUE583,± 0.01%,VALUE
+VALUE584,2400 bauds ± 0.01%,VALUE
+VALUE585,electrical characteristics,VALUE
+VALUE586,WTSC Resolution No. 1,VALUE
+VALUE587,10th of April 1995,VALUE
+VALUE588,random numbers,VALUE
+VALUE589,entropy very close to 1,VALUE
+VALUE590,entropy,VALUE
+VALUE591,failure or event,VALUE
+VALUE592,historical data on faults,VALUE
+VALUE593,usage,VALUE
+VALUE594,statistical data,VALUE
+VALUE595,Security requirements (SReqs),VALUE
+VALUE596,accountability,VALUE
+VALUE597,authenticity,VALUE
+VALUE598,information theoretically secure (IT -secure),VALUE
+VALUE599,integrity,VALUE
+VALUE600,information theoretical security,VALUE
+VALUE601,13 January 2005,VALUE
+VALUE602,Equivalent input power,VALUE
+VALUE603,Raman on-off gain,VALUE
+VALUE604,signal optical power,VALUE
+VALUE605,Net Gain,VALUE
+VALUE606,absolute value,VALUE
+VALUE607,optical signal-to-noise ratio (OSNR) penalty due to DGD,VALUE
+VALUE608,BER = 10 –12,VALUE
+VALUE609,polarization rotation speed (PRS),VALUE
+VALUE610,principal state of polarization (PSP) rate of change,VALUE
+VALUE611,14 December 2006,VALUE
+VALUE612,transmission capacity,VALUE
+VALUE613,optical transfer parameters,VALUE
+VALUE614,Security threats,VALUE
+VALUE615,Security requirements,VALUE
+VALUE616,Key data,VALUE
+VALUE617,Metadata,VALUE
+VALUE618,Loss and corruption, and DoS,VALUE
+VALUE619,keys,VALUE
+VALUE620,Security measures,VALUE
+VALUE621,2400 symbols per second,VALUE
+VALUE622,Modulation rate,VALUE
+VALUE623,2400 ± 0.01% symbols per second,VALUE
+VALUE624,specific generator polynomial,VALUE
+VALUE625,1400 Hz carrier,VALUE
+VALUE626,150 ms burst,VALUE
+VALUE627,1800 Hz,VALUE
+VALUE628,50 bits/s,VALUE
+VALUE629,nominal data signalling rate,VALUE
+VALUE630,45.45 bits/s,VALUE
+VALUE631,speeds up to about 10 characters per second,VALUE
+VALUE632,specifications,VALUE
+VALUE633,low group frequencies,VALUE
+VALUE634,697,VALUE
+VALUE635,770,VALUE
+VALUE636,852,VALUE
+VALUE637,941,VALUE
+VALUE638,high group frequencies,VALUE
+VALUE639,1209,VALUE
+VALUE640,1336,VALUE
+VALUE641,1477,VALUE
+VALUE642,1633,VALUE
+VALUE643,420 Hz,VALUE
+VALUE644,1633 Hz,VALUE
+VALUE645,frequency 1633 Hz,VALUE
+VALUE646,Data frequency tolerances,VALUE
+VALUE647,± 1.8% of the nominal frequency,VALUE
+VALUE648,Line power levels,VALUE
+VALUE649,-16 dBm0,VALUE
+VALUE650,-10 dBm0,VALUE
+VALUE651,maximum power levels,VALUE
+VALUE652,Power levels on reception,VALUE
+VALUE653,maximum transmission loss between subscribers,VALUE
+VALUE654,-45 dBm,VALUE
+VALUE655,10 ms,VALUE
+VALUE656,60 ± 10 ms,VALUE
+VALUE657,much higher equipment cost,VALUE
+VALUE658,security vulnerabilities,VALUE
+VALUE659,security guidelines,VALUE
+VALUE660,trust and security,VALUE
+VALUE661,Security levels of MPC protocols,VALUE
+VALUE662,threshold,VALUE
+VALUE663,Secret information,VALUE
+VALUE664,international CUG number (ICN),VALUE
+VALUE665,E.164 country code,VALUE
+VALUE666,0,VALUE
+VALUE667,the international PVC,VALUE
+VALUE668,international numbers of both subscriber DTEs,VALUE
+VALUE669,throughput class,VALUE
+VALUE670,name of the international PVC,VALUE
+VALUE671,quality of service parameters,VALUE
+VALUE672,service inauguration date and lifetime of the international PVC,VALUE
+VALUE673,service inauguration date,VALUE
+VALUE674,lifetime of the international PVC,VALUE
+VALUE675,logical channel group number and logical channel number,VALUE
+VALUE676,window size,VALUE
+VALUE677,packet size,VALUE
+VALUE678,agreed contractual period,VALUE
+VALUE679,internal resistance of signal source R1, R0,VALUE
+VALUE680,10 ohms,VALUE
+VALUE681,capacitance of signal source Cg,VALUE
+VALUE682,2500 picofarads,VALUE
+VALUE683,open circuit voltage of the signal receive side Vr,VALUE
+VALUE684,3 volts,VALUE
+VALUE685,12 volts,VALUE
+VALUE686,current at interface IS,VALUE
+VALUE687,0.1 milliamp,VALUE
+VALUE688,15 milliamps,VALUE
+VALUE689,R1 ≤ 10 ohms,VALUE
+VALUE690,internal resistance of signal receive side Rr,VALUE
+VALUE691,capacitance of signal receive side Cr,VALUE
+VALUE692,data signalling rates up to 75 bit/s,VALUE
+VALUE693,data signalling rates up to 1200 bit/s,VALUE
+VALUE694,75 bit/s,VALUE
+VALUE695,voltage and current values,VALUE
+VALUE696,resistance values,VALUE
+VALUE697,current and voltage values,VALUE
+VALUE698,insulation resistance,VALUE
+VALUE699,5 megohms,VALUE
+VALUE700,1000 picofarads,VALUE
+VALUE701,capacitance,VALUE
+VALUE702,current I0,VALUE
+VALUE703,10 µA,VALUE
+VALUE704,capacitance of the signal source C g,VALUE
+VALUE705,2500 pF,VALUE
+VALUE706,floating,VALUE
+VALUE707,open circuit voltage Vr,VALUE
+VALUE708,3 V,VALUE
+VALUE709,25 V,VALUE
+VALUE710,current I1,VALUE
+VALUE711,0.1 mA,VALUE
+VALUE712,5 mA,VALUE
+VALUE713,voltage at the interface Vs,VALUE
+VALUE714,1 V,VALUE
+VALUE715,internal resistance Rr,VALUE
+VALUE716,capacitance of C r,VALUE
+VALUE717,current I1 in the DTE,VALUE
+VALUE718,15 mA,VALUE
+VALUE719,voltage at the interface Vs in the DTE,VALUE
+VALUE720,1.5 V,VALUE
+VALUE721,internal resistance Rr in the DTE,VALUE
+VALUE722,capacitance of C r in the DTE,VALUE
+VALUE723,28 February 1993,VALUE
+VALUE724,1 March 1993,VALUE
+VALUE725,All rights reserved,VALUE
+VALUE726,2400 bauds,VALUE
+VALUE727,Data signalling rates,VALUE
+VALUE728,9600 bit/s synchronous (optional),VALUE
+VALUE729,4800 bit/s synchronous (mandatory),VALUE
+VALUE730,2400 bit/s synchronous (for further study),VALUE
+VALUE731,data rate,VALUE
+VALUE732,Transmitted power level,VALUE
+VALUE733,4 consecutive data bits,VALUE
+VALUE734,2 ms,VALUE
+VALUE735,48 kbit/s,VALUE
+VALUE736,Quiescent states,VALUE
+VALUE737,Fault conditions on interchange circuits,VALUE
+VALUE738,r = 0,VALUE
+VALUE739,i = OFF,VALUE
+VALUE740,DCE not ready,VALUE
+VALUE741,DCE fault condition,VALUE
+VALUE742,byte timing is not used,VALUE
+VALUE743,Odd parity,VALUE
+VALUE744,two different types,VALUE
+VALUE745,modulo 8,VALUE
+VALUE746,modulo 32 768,VALUE
+VALUE747,modulo 128,VALUE
+VALUE748,2,VALUE
+VALUE749,128,VALUE
+VALUE750,first three octets of header information,VALUE
+VALUE751,2 octets,VALUE
+VALUE752,general format identifier,VALUE
+VALUE753,number of the logical channel,VALUE
+VALUE754,Window sizes of 128 to 32 767,VALUE
+VALUE755,bits 1 to 8 of the following octet unequal to zero,VALUE
+VALUE756,Selection of the default packet size,VALUE
+VALUE757,default packet size,VALUE
+VALUE758,control information,VALUE
+VALUE759,user data,VALUE
+VALUE760,value of the set of internal variables,VALUE
+VALUE761,ISDN numbering scheme,VALUE
+VALUE762,operational information,VALUE
+VALUE763,target quality of service parameters,VALUE
+VALUE764,21st of November 1995,VALUE
+VALUE765,4,VALUE
+VALUE766,5,VALUE
+VALUE767,6,VALUE
+VALUE768,7,VALUE
+VALUE769,category of access B,VALUE
+VALUE770,1995,VALUE
+VALUE771,X.10 category L, P,VALUE
+VALUE772,X.10 category K, O,VALUE
+VALUE773,Recommendation X.75,VALUE
+VALUE774,Recommendation X.325,VALUE
+VALUE775,QOS,VALUE
+VALUE776,S, T, U,VALUE
+VALUE777,category Y,VALUE
+VALUE778,data signal levels,VALUE
+VALUE779,mean power,VALUE
+VALUE780,conventional value of channel loading,VALUE
+VALUE781,reasonable proportion P,VALUE
+VALUE782,less than 50%,VALUE
+VALUE783,fixed power levels,VALUE
+VALUE784,signal power level,VALUE
+VALUE785,wide range of losses,VALUE
+VALUE786,maximum data signal level,VALUE
+VALUE787,most useful form,VALUE
+VALUE788,nominal power,VALUE
+VALUE789,1 mW,VALUE
+VALUE790,the maximum power level at the zero relative level point shall be -13 dBm0,VALUE
+VALUE791,300 bit/s or less,VALUE
+VALUE792,1080 Hz,VALUE
+VALUE793,1750 Hz,VALUE
+VALUE794,Frequency deviation,VALUE
+VALUE795,± 100 Hz,VALUE
+VALUE796,Characteristic frequencies,VALUE
+VALUE797,nominal figures,VALUE
+VALUE798,± 12 Hz,VALUE
+VALUE799,nominal values,VALUE
+VALUE800,Maximum power output,VALUE
+VALUE801,600 bauds (nominal),VALUE
+VALUE802,1200 bit/s synchronous,VALUE
+VALUE803,600 bit/s synchronous (optional),VALUE
+VALUE804,1200 bit/s start-stop,VALUE
+VALUE805,600 bit/s start-stop (optional),VALUE
+VALUE806,asynchronous data at up to 300 bit/s,VALUE
+VALUE807,1200 ± 0.5 Hz,VALUE
+VALUE808,2400 ± 1 Hz,VALUE
+VALUE809,guard tone,VALUE
+VALUE810,1800 Hz ± 20 Hz,VALUE
+VALUE811,600 baud,VALUE
+VALUE812,Logical Channel number,VALUE
+VALUE813,Quality of Service (QOS) parameters,VALUE
+VALUE814,quality of the connection,VALUE
+VALUE815,Q.2931 cause, Code 10,VALUE
+VALUE816,Q.2931 cause, Code 51,VALUE
+VALUE817,Q.2931 cause, Code 93,VALUE
+VALUE818,Unsupported combination of traffic parameters,VALUE
+VALUE819,AAL parameters cannot be supported,VALUE
+VALUE820,data signalling rates of up to 14 400 bit/s,VALUE
+VALUE821,2400 symbols/s,VALUE
+VALUE822,9600 and 4800 bit/s,VALUE
+VALUE823,2400 symbols/s ± 0.01%,VALUE
+VALUE824,bit/s rates,VALUE
+VALUE825,fallback rate of 12 000 bits per second,VALUE
+VALUE826,12 000 bits per second,VALUE
+VALUE827,12 000, 9600, 7200, 4800 and 2400 bits per second,VALUE
+VALUE828,14 400 bits per second,VALUE
+VALUE829,33 600 bit/s,VALUE
+VALUE830,Thresholds,VALUE
+VALUE831,response times,VALUE
+VALUE832,digit 8,VALUE
+VALUE833,international data number,VALUE
+VALUE834,DNIC,VALUE
+VALUE835,Network Terminal Number,VALUE
+VALUE836,T digit,VALUE
+VALUE837,transfer and discard priorities,VALUE
+VALUE838,service classes,VALUE
+VALUE839,frame transfer priority,VALUE
+VALUE840,frame discard priority,VALUE
+VALUE841,frame relay service class,VALUE
+VALUE842,service parameters,VALUE
+VALUE843,SVC related service parameters,VALUE
+VALUE844,service quality,VALUE
+VALUE845,optical noise,VALUE
+VALUE846,2000 km,VALUE
+VALUE847,ASE,VALUE
+VALUE848,non-linear impairment,VALUE
+VALUE849,PMD,VALUE
+VALUE850,29 March 2006,VALUE
+VALUE851,STM-16,VALUE
+VALUE852,bit rates,VALUE
+VALUE853,193.1 THz,VALUE
+VALUE854,50 GHz,VALUE
+VALUE855,100 GHz,VALUE
+VALUE856,23rd of October 1998,VALUE
+VALUE857,Mean launched power,VALUE
+VALUE858,Extinction ratio,VALUE
+VALUE859,Central frequency,VALUE
+VALUE860,Channel spacing,VALUE
+VALUE861,Central frequency deviation,VALUE
+VALUE862,Channel output power,VALUE
+VALUE863,Total launched power,VALUE
+VALUE864,Channel optical signal-to-noise ratio,VALUE
+VALUE865,Maximum channel power difference,VALUE
+VALUE866,Total received power,VALUE
+VALUE867,10 Gbit/s,VALUE
+VALUE868,40 Gbit/s,VALUE
+VALUE869,aggregate bit rate,VALUE
+VALUE870,link distances up to 2 km,VALUE
+VALUE871,12.5 GHz,VALUE
+VALUE872,allowed nominal central frequencies,VALUE
+VALUE873,193.1,VALUE
+VALUE874,Quality of Service (QOS),VALUE
+VALUE875,2 February 2001,VALUE
+VALUE876,invalid,VALUE
+VALUE877,‘01’,VALUE
+VALUE878,Q = 0,VALUE
+VALUE879,margin,VALUE
+VALUE880,duration of two-unit intervals of the modulation,VALUE
+VALUE881,200 and 300 bauds,VALUE
+VALUE882,nominal cycle of 10 units,VALUE
+VALUE883,one unit,VALUE
+VALUE884,even parity,VALUE
+VALUE885,odd parity,VALUE
+VALUE886,data losses,VALUE
+VALUE887,extra delays,VALUE
+VALUE888,Transmission errors,VALUE
+VALUE889,Higher access speeds,VALUE
+VALUE890,5th of Octobre 1996,VALUE
+VALUE891,Data Signalling Rates,VALUE
+VALUE892,Carrier Frequencies,VALUE
+VALUE893,Guard Tone,VALUE
+VALUE894,frequency,VALUE
+VALUE895,Received Signal Frequency Tolerance,VALUE
+VALUE896,correct signalling rate,VALUE
+VALUE897,600/1200 bauds,VALUE
+VALUE898,600 bauds,VALUE
+VALUE899,1500 Hz,VALUE
+VALUE900,1300 Hz,VALUE
+VALUE901,1700 Hz,VALUE
+VALUE902,1200 bauds,VALUE
+VALUE903,± 10 Hz,VALUE
+VALUE904,frequency drift,VALUE
+VALUE905,backward channel frequencies,VALUE
+VALUE906,Modulation rate up to 75 bauds,VALUE
+VALUE907,390 Hz,VALUE
+VALUE908,450 Hz,VALUE
+VALUE909,300 ms to 700 ms,VALUE
+VALUE910,10 ms to 20 ms,VALUE
+VALUE911,80 ms to 160 ms,VALUE
+VALUE912,≤ 2 ms,VALUE
+VALUE913,< 80 ms,VALUE
+VALUE914,15 ms to 80 ms,VALUE
+VALUE915,threshold of data channel,VALUE
+VALUE916,- 43 dBm,VALUE
+VALUE917,- 48 dBm,VALUE
+VALUE918,ON condition,VALUE
+VALUE919,150 ± 25 milliseconds,VALUE
+VALUE920,-,VALUE
+VALUE921,64 kbit/s,VALUE
+VALUE922,192 kbit/s,VALUE
+VALUE923,8 kHz timing,VALUE
+VALUE924,information,VALUE
+VALUE925,16 kbit/s,VALUE
+VALUE926,valid incoming frames,VALUE
+VALUE927,48 bits,VALUE
+VALUE928,Bit rate,VALUE
+VALUE929,multiplex gross bit rate of 64 kbit/s,VALUE
+VALUE930,64 kbit/s capability,VALUE
+VALUE931,8-bit,VALUE
+VALUE932,12.8 kbit/s channels,VALUE
+VALUE933,6.4 kbit/s channels,VALUE
+VALUE934,3.2 kbit/s channels,VALUE
+VALUE935,800 bit/s channels,VALUE
+VALUE936,27,VALUE
+VALUE937,1001101,VALUE
+VALUE938,8 bits,VALUE
+VALUE939,frame alignment recovery time,VALUE
+VALUE940,120 envelopes,VALUE
+VALUE941,95% probability,VALUE
+VALUE942,random error rate,VALUE
+VALUE943,1 in 104,VALUE
+VALUE944,gross bit rate of 64 kbit/s,VALUE
+VALUE945,Gross bit rate,VALUE
+VALUE946,10-bit,VALUE
+VALUE947,60 kbit/s fundamental multiplex,VALUE
+VALUE948,40 bits,VALUE
+VALUE949,48 kbit/s user data signalling rate,VALUE
+VALUE950,104.08 kHz,VALUE
+VALUE951,72 kbit/s,VALUE
+VALUE952,8 kHz,VALUE
+VALUE953,64 kHz,VALUE
+VALUE954,carrier frequency at 100 kHz ± 2 Hz,VALUE
+VALUE955,100 kHz,VALUE
+VALUE956,± 2 Hz,VALUE
+VALUE957,36-60 kHz,VALUE
+VALUE958,108-132 kHz,VALUE
+VALUE959,data signalling rates of 48 up to 64 kbit/s,VALUE
+VALUE960,2500 km,VALUE
+VALUE961,1 error per 107 bits transmitted,VALUE
+VALUE962,± 0.1 dB,VALUE
+VALUE963,± 6 dB,VALUE
+VALUE964,+10 dBm0,VALUE
+VALUE965,144 kbit/s,VALUE
+VALUE966,96 kbit/s,VALUE
+VALUE967,112 kbit/s,VALUE
+VALUE968,128 kbit/s,VALUE
+VALUE969,high amplitude spectral components,VALUE
+VALUE970,48, 56, 64 or 72 kbit/s,VALUE
+VALUE971,48/56/64 kbit/s,VALUE
+VALUE972,polynomial 1 + x–18 + x–23,VALUE
+VALUE973,56 kbit/s,VALUE
+VALUE974,48-kbit/s user data signalling rate,VALUE
+VALUE975,binary 1,VALUE
+VALUE976,error rate in the transmission path,VALUE
+VALUE977,pattern of alternating binary 0 and binary 1,VALUE
+VALUE978,all zeros,VALUE
+VALUE979,all ones,VALUE
+VALUE980,synchronous user channel of 600 bit/s,VALUE
+VALUE981,synchronous user channel of 2400 bit/s,VALUE
+VALUE982,decimal digit D1,VALUE
+VALUE983,80 8-bit envelope structure,VALUE
+VALUE984,D 1 = 1,VALUE
+VALUE985,20 8-bit envelope structure,VALUE
+VALUE986,decimal digit D2,VALUE
+VALUE987,600, 1200, 2400, 4800, 9600 and 48 000 bit/s,VALUE
+VALUE988,3, 4, 5, 6, 7 and 8,VALUE
+VALUE989,decimal digits, D3 and D4,VALUE
+VALUE990,0.6, 2.4, 4.8 and 9.6 kbit/s,VALUE
+VALUE991,48 kbit/s channel,VALUE
+VALUE992,phase number i,VALUE
+VALUE993,80 envelope frames,VALUE
+VALUE994,20 envelope frames,VALUE
+VALUE995,9.6-kbit/s,VALUE
+VALUE996,4.8-kbit/s,VALUE
+VALUE997,2.4-kbit/s,VALUE
+VALUE998,0.6-kbit/s,VALUE
+VALUE999,two 4.8-kbit/s,VALUE
+VALUE1000,four 2.4-kbit/s,VALUE
+VALUE1001,8 consecutive erroneous F bits,VALUE
+VALUE1002,48, 50 or 56 kbit/s channels,VALUE
+VALUE1003,54 kbit/s,VALUE
+VALUE1004,gross bit rate,VALUE
+VALUE1005,10.8 kbit/s,VALUE
+VALUE1006,9.6 kbit/s,VALUE
+VALUE1007,5.4 kbit/s,VALUE
+VALUE1008,4.8 kbit/s,VALUE
+VALUE1009,2.7 kbit/s,VALUE
+VALUE1010,2.4 kbit/s,VALUE
+VALUE1011,675 bit/s,VALUE
+VALUE1012,2240 bits,VALUE
+VALUE1013,2160 bits,VALUE
+VALUE1014,240 envelopes,VALUE
+VALUE1015,80 padding units,VALUE
+VALUE1016,11111001101010,VALUE
+VALUE1017,SF1 = 00,SF2 = 01, SF3 = 10, SF4 = 11,VALUE
+VALUE1018,600, 2400, 4800, 9600 bit/s,VALUE
+VALUE1019,64 kbit/s speed,VALUE
+VALUE1020,Tributary channel bit rates,VALUE
+VALUE1021,19.2 kbit/s,VALUE
+VALUE1022,640 bit,VALUE
+VALUE1023,72,VALUE
+VALUE1024,S1 = 27 = 00100111,VALUE
+VALUE1025,S2 = 1B = 00011011,VALUE
+VALUE1026,S3 = 05 = 00000101,VALUE
+VALUE1027,S4 = 35 = 00110101,VALUE
+VALUE1028,04/2004,VALUE
+VALUE1029,wide range of capabilities,VALUE
+VALUE1030,29 April 2004,VALUE
+VALUE1031,minimum of restrictions,VALUE
+VALUE1032,very short call set-up and clear-down times,VALUE
+VALUE1033,200 bit/s,VALUE
+VALUE1034,one lost call in 50,VALUE
+VALUE1035,one lost call in 10,VALUE
+VALUE1036,0.4% of calls,VALUE
+VALUE1037,target setting-up time,VALUE
+VALUE1038,one second,VALUE
+VALUE1039,2/11(+),VALUE
+VALUE1040,IA5 character 2/11 (+),VALUE
+VALUE1041,five octets,VALUE
+VALUE1042,Q.2931 cause, Code 37,VALUE
+VALUE1043,Q.2931 cause, Code 73,VALUE
+VALUE1044,Geneva, 2001,VALUE
+VALUE1045,1st July 1994,VALUE
+VALUE1046,Duration Parameter,VALUE
+VALUE1047,default Aspect,VALUE
+VALUE1048,calling line identity,VALUE
+VALUE1049,called line identity,VALUE
+VALUE1050,positive call progress signal,VALUE
+VALUE1051,Calling line identification,VALUE
+VALUE1052,b2 = 1,VALUE
+VALUE1053,19 March 2004,VALUE
+VALUE1054,Amendment 2,VALUE
+VALUE1055,SAPI values,VALUE
+VALUE1056,Ethernet transmission rate,VALUE
+VALUE1057,transmission rate,VALUE
+VALUE1058,64 kbit/s digital paths,VALUE
+VALUE1059,maximum number of links via satellite,VALUE
+VALUE1060,three,VALUE
+VALUE1061,prescribed period of time,VALUE
+VALUE1062,12/2003,VALUE
+VALUE1063,wider channel spacing,VALUE
+VALUE1064,Nominal central wavelengths,VALUE
+VALUE1065,channel spacing,VALUE
+VALUE1066,nominal central wavelength spacing,VALUE
+VALUE1067,not less than 20 nm,VALUE
+VALUE1068,nominal central wavelength spacing of not less than 20 nm,VALUE
+VALUE1069,March 2001,VALUE
+VALUE1070,February 2002,VALUE
+VALUE1071,allowed nominal central wavelengths,VALUE
+VALUE1072,vacuum optical wavelengths,VALUE
+VALUE1073,central wavelength deviation,VALUE
+VALUE1074,17 February 2000,VALUE
+VALUE1075,binary data,VALUE
+VALUE1076,control and timing signals,VALUE
+VALUE1077,Binary data,VALUE
+VALUE1078,Control signals,VALUE
+VALUE1079,timing signals,VALUE
+VALUE1080,Timing signals,VALUE
+VALUE1081,as short as possible,VALUE
+VALUE1082,Load capacitance,VALUE
+VALUE1083,4.0 s,VALUE
+VALUE1084,condition A (space),VALUE
+VALUE1085,condition Z (mark),VALUE
+VALUE1086,one-unit interval,VALUE
+VALUE1087,modulation rates up to and including 200 bauds,VALUE
+VALUE1088,1/10,VALUE
+VALUE1089,1200 or 600 bit/s,VALUE
+VALUE1090,data signalling rates of 1200 or 600 bit/s,VALUE
+VALUE1091,240, 480, 960 or 38401) bits,VALUE
+VALUE1092,error-rate improvement factor,VALUE
+VALUE1093,50 000,VALUE
+VALUE1094,all 0 position,VALUE
+VALUE1095,all 0 condition,VALUE
+VALUE1096,bit positions 2, 4, 8, 9, 12 and 16,VALUE
+VALUE1097,16 channels,VALUE
+VALUE1098,50 Gbit/s,VALUE
+VALUE1099,PAM4 50G,VALUE
+VALUE1100,200G striped across four physical lanes,VALUE
+VALUE1101,2016,VALUE
+VALUE1102,2010,VALUE
+VALUE1103,2009,VALUE
+VALUE1104,2012,VALUE
+VALUE1105,2006,VALUE
+VALUE1106,2017,VALUE
+VALUE1107,2018,VALUE
+VALUE1108,2014,VALUE
+VALUE1109,channel insertion loss,VALUE
+VALUE1110,differential group delay,VALUE
+VALUE1111,reflectance,VALUE
+VALUE1112,client class 100G,VALUE
+VALUE1113,client bit rate,VALUE
+VALUE1114,9.9 Gbit/s,VALUE
+VALUE1115,42 Gbit/s,VALUE
+VALUE1116,Minimum,VALUE
+VALUE1117,maximum,VALUE
+VALUE1118,channel count,VALUE
+VALUE1119,channel speeds,VALUE
+VALUE1120,reach limits,VALUE
+VALUE1121,optical signal-to-noise ratio (OSNR),VALUE
+VALUE1122,Q-factor,VALUE
+VALUE1123,optical parameter values,VALUE
+VALUE1124,25G,VALUE
+VALUE1125,10G,VALUE
+VALUE1126,2.5,VALUE
+VALUE1127,2.5G,VALUE
+VALUE1128,100 GHz channel frequency spacing,VALUE
+VALUE1129,25 Gbit/s,VALUE
+VALUE1130,50 GHz channel frequency spacing,VALUE
+VALUE1131,2.5 and 10 Gbit/s,VALUE
+VALUE1132,maximum attenuation,VALUE
+VALUE1133,maximum fibre-link length,VALUE
+VALUE1134,100 Gbit/s,VALUE
+VALUE1135,nominally 103.1 Gbit/s to nominally 112.74 Gbit/s,VALUE
+VALUE1136,100-GHz channel frequency spacing,VALUE
+VALUE1137,1.25 Gbit/s,VALUE
+VALUE1138,10 -km and 20 -km transmission distances,VALUE
+VALUE1139,800 GHz,VALUE
+VALUE1140,25 Gbit/s per channel,VALUE
+VALUE1141,10 -km,VALUE
+VALUE1142,20 -km,VALUE
+VALUE1143,2020,VALUE
+VALUE1144,2023,VALUE
+VALUE1145,ripple,VALUE
+VALUE1146,frequency grid,VALUE
+VALUE1147,transverse compatibility,VALUE
+VALUE1148,7 nm and 13 nm,VALUE
+VALUE1149,5 km transmission distances,VALUE
+VALUE1150,number of times,VALUE
+VALUE1151,instantaneous voltage,VALUE
+VALUE1152,predetermined threshold,VALUE
+VALUE1153,period of measurement,VALUE
+VALUE1154,dead time,VALUE
+VALUE1155,time,VALUE
+VALUE1156,≥ 46 dB,VALUE
+VALUE1157,600 ohms,VALUE
+VALUE1158,≥ 30 dB,VALUE
+VALUE1159,approx. 20 kohms,VALUE
+VALUE1160,≤ 0.15 dB,VALUE
+VALUE1161,60-dB higher than the threshold setting,VALUE
+VALUE1162,Operate level range,VALUE
+VALUE1163,0 to –50 dBm,VALUE
+VALUE1164,0 to – 50 dB,VALUE
+VALUE1165,1.1 V,VALUE
+VALUE1166,Dead time,VALUE
+VALUE1167,125 ± 25 ms,VALUE
+VALUE1168,± 1 dB,VALUE
+VALUE1169,275 to 3250 Hz,VALUE
+VALUE1170,– 3 dB point ± 1 dB at 200 Hz,VALUE
+VALUE1171,at 100 Hz, minimum attenuation 17 dB,VALUE
+VALUE1172,0 dBm,VALUE
+VALUE1173,8 ± 2 counts per second,VALUE
+VALUE1174,50 milliseconds duration,VALUE
+VALUE1175,1.21 V,VALUE
+VALUE1176,correct rate,VALUE
+VALUE1177,999 events,VALUE
+VALUE1178,percentage,VALUE
+VALUE1179,5 to 60 minutes,VALUE
+VALUE1180,1 minute,VALUE
+VALUE1181,predetermined time,VALUE
+VALUE1182,0 and 1,VALUE
+VALUE1183,Binary digits 0 and 1,VALUE
+VALUE1184,condition Z,VALUE
+VALUE1185,symbol 1 (condition Z),VALUE
+VALUE1186,higher frequency,VALUE
+VALUE1187,lower frequency,VALUE
+VALUE1188,phase equal to the reference phase,VALUE
+VALUE1189,phase opposed to the reference phase,VALUE
+VALUE1190,0 degree or 180 degrees,VALUE
+VALUE1191,100 kbit/s,VALUE
+VALUE1192,lower data signalling rates,VALUE
+VALUE1193,maximum cable length,VALUE
+VALUE1194,conservative operating distance,VALUE
+VALUE1195,S1,VALUE
+VALUE1196,294 ms,VALUE
+VALUE1197,S2,VALUE
+VALUE1198,2100 ± 15 Hz tone,VALUE
+VALUE1199,500 ± 50 ms,VALUE
+VALUE1200,75 ± 20 ms,VALUE
+VALUE1201,minimum mutual interference,VALUE
+VALUE1202,d.c. offset voltage,VALUE
+VALUE1203,optional d.c. offset voltage,VALUE
+VALUE1204,10 Mbit/s,VALUE
+VALUE1205,constant,VALUE
+VALUE1206,synchronous data signalling rates up to 38.4 kbit/s,VALUE
+VALUE1207,52 Mbit/s,VALUE
+VALUE1208,differential voltage (Voc or Voc*),VALUE
+VALUE1209,590 mV or greater,VALUE
+VALUE1210,differential output voltage (Vt),VALUE
+VALUE1211,generator offset voltage (Vos),VALUE
+VALUE1212,−1.6 V to 0,VALUE
+VALUE1213,50 mA,VALUE
+VALUE1214,differential voltage,VALUE
+VALUE1215,0.5 ns to 2.3 ns,VALUE
+VALUE1216,−0.5 V to −2.0 V,VALUE
+VALUE1217,−1.32 V,VALUE
+VALUE1218,350 µA,VALUE
+VALUE1219,150 mV,VALUE
+VALUE1220,27 May 1999,VALUE
+VALUE1221,User rate,VALUE
+VALUE1222,Modem type,VALUE
+VALUE1223,wide variety,VALUE
+VALUE1224,64 bit/s data transmission,VALUE

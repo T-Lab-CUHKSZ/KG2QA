@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11/"
+     xml:base="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#accomplish -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#accomplish">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#FUN"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#contain -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#contain">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isContained"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#execute -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#execute">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#undo"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#influence -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#influence">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isInfluenced"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#APP_CON"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isContained -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isContained">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isInfluenced -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isInfluenced">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#APP_CON"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isReliedOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#isReliedOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#FUN"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#limit -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#limit">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#APP_CON"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#FUN"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#relevant -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#relevant">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ReflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#FUN"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#APP_CON"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#undo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#undo">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT"/>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#APP_CON -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#APP_CON"/>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#FUN -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#FUN"/>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM"/>
+    
+
+
+    <!-- http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#ACT"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#APP_CON"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#FUN"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#IDEN"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#STR_COM"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/iharbour/ontologies/2025/4/untitled-ontology-11#VALUE"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+

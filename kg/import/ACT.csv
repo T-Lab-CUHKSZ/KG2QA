@@ -1,0 +1,1300 @@
+ID,name,LABEL
+ACT001,Numbering Plan Identifier (NPI) method,ACT
+ACT002,Escape code method,ACT
+ACT003,topics for study,ACT
+ACT004,test methods,ACT
+ACT005,characterizing these parameters,ACT
+ACT006,factory measurements,ACT
+ACT007,fitting procedures,ACT
+ACT008,macrobend loss,ACT
+ACT009,The far-field scan,ACT
+ACT010,revised reference test method,ACT
+ACT011,The variable aperture technique,ACT
+ACT012,polarization mode dispersion (PMD),ACT
+ACT013,pulse spreading,ACT
+ACT014,distortions,ACT
+ACT015,Stimulated Brillouin scattering,ACT
+ACT016,far-field scan (FFS) technique,ACT
+ACT017,variable aperture (VA) technique,ACT
+ACT018,near-field scan (NFS) technique,ACT
+ACT019,DATA COMPRESSION PROCEDURES,ACT
+ACT020,transmission,ACT
+ACT021,data compression procedures,ACT
+ACT022,data compression function,ACT
+ACT023,control codeword,ACT
+ACT024,command code,ACT
+ACT025,DCE-to-DCE signalling,ACT
+ACT026,compressed operation,ACT
+ACT027,Transitions between the modes,ACT
+ACT028,compressed mode,ACT
+ACT029,transparent mode,ACT
+ACT030,uncompressed operation,ACT
+ACT031,Escape in Data,ACT
+ACT032,Enter Transparent Mode,ACT
+ACT033,Enter Compressed Mode,ACT
+ACT034,Data flow control,ACT
+ACT035,controlling,ACT
+ACT036,OFF,ACT
+ACT037,ON,ACT
+ACT038,select,ACT
+ACT039,slow the data flow,ACT
+ACT040,reducing the clock rate,ACT
+ACT041,is conceivable,ACT
+ACT042,Data compression procedures,ACT
+ACT043,WTSA Resolution 1,ACT
+ACT044,procedure,ACT
+ACT045,prepared on a collaborative basis,ACT
+ACT046,the practice or implementation,ACT
+ACT047,negotiation,ACT
+ACT048,Parameter Mode negotiation,ACT
+ACT049,SABME,ACT
+ACT050,disconnect,ACT
+ACT051,Revision,ACT
+ACT052,distortion,ACT
+ACT053,recommendation,ACT
+ACT054,single standard for each type of modem,ACT
+ACT055,studied,ACT
+ACT056,Recommendations,ACT
+ACT057,An example of statistical link design,ACT
+ACT058,measurements,ACT
+ACT059,tests normally carried out on installed single-mode optical fibre cable links,ACT
+ACT060,Test methods,ACT
+ACT061,installed,ACT
+ACT062,trace analysis,ACT
+ACT063,splice loss measurement,ACT
+ACT064,measurement,ACT
+ACT065,Attenuation,ACT
+ACT066,Single-mode attenuation and optical return loss measurement,ACT
+ACT067,Examinations and measurements,ACT
+ACT068,Visual inspection of fibre optic connectors and fibre-stub transceivers,ACT
+ACT069,cut-off wavelength shifted,ACT
+ACT070,delivered,ACT
+ACT071,modelling,ACT
+ACT072,dense wavelength division multiplexing (DWDM) systems,ACT
+ACT073,coarse wavelength division multiplexing (CWDM) systems,ACT
+ACT074,two measurements being made simultaneously,ACT
+ACT075,check the satisfactory working,ACT
+ACT076,analogue-type measurements,ACT
+ACT077,incoming call,ACT
+ACT078,routine loop test,ACT
+ACT079,continue to function,ACT
+ACT080,established,ACT
+ACT081,scrambling,ACT
+ACT082,the recognition of this pattern,ACT
+ACT083,Manual control,ACT
+ACT084,Automatic control,ACT
+ACT085,Inter-DCE signalling,ACT
+ACT086,used,ACT
+ACT087,Preparatory phase,ACT
+ACT088,Comparative Tests of Modems,ACT
+ACT089,Sudden changes of attenuation,ACT
+ACT090,Interruptions,ACT
+ACT091,Phase hits,ACT
+ACT092,Phase jitter,ACT
+ACT093,comparative tests,ACT
+ACT094,Measuring procedure,ACT
+ACT095,Measurement of the bit error rate (pS) as a function of the signal-to-noise ratio (S/N) in the case of white noise,ACT
+ACT096,Measurement of the number of the bit error per second (F/t) as a function of the different faults and noise parameters (X),ACT
+ACT097,Comparative tests of modems,ACT
+ACT098,refined,ACT
+ACT099,creating,ACT
+ACT100,exchange of management information,ACT
+ACT101,GET-REPLACE,ACT
+ACT102,GET,ACT
+ACT103,Corrigendum 1,ACT
+ACT104,Simultaneous transmission of data and other signals,ACT
+ACT105,ITU-T Recommendation V.61 (1996) – Corrigendum 1,ACT
+ACT106,Error control V.40–V.49,ACT
+ACT107,Simultaneous transmission of data and other signals V.60–V.99,ACT
+ACT108,Interworking with other networks V.100–V.199,ACT
+ACT109,Control procedures V.250–V.299,ACT
+ACT110,ITU-T Rec. V.61 (1996)/Cor.1 (01/2005),ACT
+ACT111,corrigendum,ACT
+ACT112,ITU-T Recommendation A.8 procedure,ACT
+ACT113,transferred,ACT
+ACT114,accepted as valid,ACT
+ACT115,error control,ACT
+ACT116,detection,ACT
+ACT117,correction,ACT
+ACT118,inband signalling,ACT
+ACT119,control signals,ACT
+ACT120,out-of-band signalling,ACT
+ACT121,transmission of data,ACT
+ACT122,coded inband signalling,ACT
+ACT123,half-duplex operation,ACT
+ACT124,exchange of data,ACT
+ACT125,parallel automatic calling,ACT
+ACT126,serial automatic calling,ACT
+ACT127,start-stop transmission,ACT
+ACT128,start signal,ACT
+ACT129,stop signal,ACT
+ACT130,procedures for starting sessions of data transmission,ACT
+ACT131,DSVD terminal control procedures,ACT
+ACT132,corrections and clarifications,ACT
+ACT133,Correction positioning,ACT
+ACT134,suspend/resume option,ACT
+ACT135,implementation of the Recommendation,ACT
+ACT136,issuing Recommendations,ACT
+ACT137,CRC calculation,ACT
+ACT138,suspend/resume,ACT
+ACT139,Clarification,ACT
+ACT140,reuse,ACT
+ACT141,consult,ACT
+ACT142,The remainder of the division (modulo 2),ACT
+ACT143,data transmission,ACT
+ACT144,Procedures for starting sessions,ACT
+ACT145,Call indicator signal (CI),ACT
+ACT146,Call menu signal (CM),ACT
+ACT147,signal transmitted from the call DCE,ACT
+ACT148,Joint menu signal (JM),ACT
+ACT149,ANSam,ACT
+ACT150,amplitude-modulated,ACT
+ACT151,Modulating,ACT
+ACT152,Signals for interacting,ACT
+ACT153,Enhancements to Recommendation V.90,ACT
+ACT154,collaborative basis,ACT
+ACT155,amendment,ACT
+ACT156,approved,ACT
+ACT157,procedures for the identification and selection of common modes of operation,ACT
+ACT158,identification and selection,ACT
+ACT159,Escape Signal (ES),ACT
+ACT160,Mode Request (MR),ACT
+ACT161,Capabilities Request (CR),ACT
+ACT162,Mode Select (MS),ACT
+ACT163,Capabilities List (CL),ACT
+ACT164,Capabilities List Request (CLR),ACT
+ACT165,Acknowledge Message (ACK),ACT
+ACT166,Negative Acknowledge Message (NAK),ACT
+ACT167,is described in the document,ACT
+ACT168,start-up signals and sequences,ACT
+ACT169,operating procedures,ACT
+ACT170,WTSC Resolution No. 1,ACT
+ACT171,approval of Recommendations,ACT
+ACT172,V.91 start-up,ACT
+ACT173,retrain,ACT
+ACT174,PHIL,ACT
+ACT175,DIL,ACT
+ACT176,CRC check,ACT
+ACT177,Modem-on-Hold functions,ACT
+ACT178,turn OFF circuit 106,ACT
+ACT179,detect,ACT
+ACT180,MH sequence,ACT
+ACT181,reversal of roles,ACT
+ACT182,supersedes,ACT
+ACT183,direct access,ACT
+ACT184,port access,ACT
+ACT185,switched connection,ACT
+ACT186,signalling/control procedures,ACT
+ACT187,permanent connection,ACT
+ACT188,establish/release the connection,ACT
+ACT189,Usage,ACT
+ACT190,start-stop,ACT
+ACT191,access,ACT
+ACT192,DTE-controlled call negotiation,ACT
+ACT193,call negotiation,ACT
+ACT194,negotiating the call type,ACT
+ACT195,negotiating,ACT
+ACT196,polling,ACT
+ACT197,+A8E,ACT
+ACT198,V.8 origination negotiation,ACT
+ACT199,Enable,ACT
+ACT200,V.8 answer negotiation,ACT
+ACT201,V.8 bis negotiation,ACT
+ACT202,enable,ACT
+ACT203,data communication,ACT
+ACT204,implement,ACT
+ACT205,implemented,ACT
+ACT206,The approval of Recommendations by the Members of the ITU-T,ACT
+ACT207,practice or implementation,ACT
+ACT208,Events (reports sent to the DTE),ACT
+ACT209,Actions (commands sent to the DCE),ACT
+ACT210,describes,ACT
+ACT211,minimize vulnerability,ACT
+ACT212,outsourcing,ACT
+ACT213,creation of information networks,ACT
+ACT214,transmission of signals,ACT
+ACT215,communication between users,ACT
+ACT216,content searching,ACT
+ACT217,indexing,ACT
+ACT218,information collection,ACT
+ACT219,filtering,ACT
+ACT220,ordering,ACT
+ACT221,provision of content,ACT
+ACT222,4-way handshake,ACT
+ACT223,process,ACT
+ACT224,passive attack,ACT
+ACT225,listening,ACT
+ACT226,eavesdropping,ACT
+ACT227,modifying,ACT
+ACT228,supplementing information,ACT
+ACT229,server-compromised attack,ACT
+ACT230,dictionary attack,ACT
+ACT231,Password-authenticated key exchange (PAK) protocol,ACT
+ACT232,mutual authentication,ACT
+ACT233,Diffie-Hellman exchange,ACT
+ACT234,compromise of a session key or long-term private key after a given session,ACT
+ACT235,compromise of any earlier session,ACT
+ACT236,man-in-the-middle attack,ACT
+ACT237,exchange,ACT
+ACT238,off-line dictionary attack,ACT
+ACT239,Attack detection policy,ACT
+ACT240,Access control policy,ACT
+ACT241,Alert control policy,ACT
+ACT242,Traffic control policy,ACT
+ACT243,Routing control policy,ACT
+ACT244,automatically access,ACT
+ACT245,Path MTU Discovery,ACT
+ACT246,possible security countermeasures,ACT
+ACT247,security threats,ACT
+ACT248,security requirements,ACT
+ACT249,security countermeasures,ACT
+ACT250,denial-of-service (DoS),ACT
+ACT251,distributed denial-of-service (DDoS),ACT
+ACT252,security management,ACT
+ACT253,use cases,ACT
+ACT254,Bypassing a predefined mandatory policy,ACT
+ACT255,Data eavesdropping attacks by inserting fraudulent flow entries,ACT
+ACT256,Data eavesdropping,ACT
+ACT257,access control,ACT
+ACT258,unauthorized use of a resource,ACT
+ACT259,prevention of use of a resource in an unauthorized manner,ACT
+ACT260,authentication,ACT
+ACT261,authorization,ACT
+ACT262,authorization decisions,ACT
+ACT263,Transmission of start-stop characters,ACT
+ACT264,Transmission of start-stop characters over synchronous bearer channels,ACT
+ACT265,automatic mode negotiation,ACT
+ACT266,detection of bit alignment,ACT
+ACT267,confirmation of subchannel connectivity,ACT
+ACT268,Procedures for establishing communication,ACT
+ACT269,establishing communication,ACT
+ACT270,bit alignment,ACT
+ACT271,subchannel connectivity,ACT
+ACT272,V.140 procedures,ACT
+ACT273,establishment of the end-to-end digital connection,ACT
+ACT274,Phase 1,ACT
+ACT275,simultaneously transmitted,ACT
+ACT276,Phase 2,ACT
+ACT277,transfers only 7 of 8 bits to the far-end,ACT
+ACT278,Phase 3,ACT
+ACT279,select desired operation mode,ACT
+ACT280,simultaneously signalling,ACT
+ACT281,Acoustic coupling,ACT
+ACT282,Manual data station calling automatic answering data station,ACT
+ACT283,should not be used,ACT
+ACT284,temporary connection,ACT
+ACT285,Technical security measures,ACT
+ACT286,accessible,ACT
+ACT287,useable,ACT
+ACT288,traffic,ACT
+ACT289,authorized traffic,ACT
+ACT290,intrusion detection,ACT
+ACT291,identify,ACT
+ACT292,Countering spam X.1230–X.1249,ACT
+ACT293,Identity management X.1250–X.1279,ACT
+ACT294,Cloud computing security implementation,ACT
+ACT295,payment transactions,ACT
+ACT296,ship the products,ACT
+ACT297,countermeasures,ACT
+ACT298,phone calls,ACT
+ACT299,session set up,ACT
+ACT300,session deletion,ACT
+ACT301,session control,ACT
+ACT302,querying,ACT
+ACT303,protection of network resources,ACT
+ACT304,program,ACT
+ACT305,orchestrate,ACT
+ACT306,control,ACT
+ACT307,manage,ACT
+ACT308,design,ACT
+ACT309,delivery,ACT
+ACT310,operation,ACT
+ACT311,inspects every packet,ACT
+ACT312,cross the boundary,ACT
+ACT313,establish,ACT
+ACT314,distribute,ACT
+ACT315,establish and distribute,ACT
+ACT316,service function chaining,ACT
+ACT317,policy management,ACT
+ACT318,denial of service/distributed denial of service (DoS/DDoS) attacks,ACT
+ACT319,DoS/DDoS attacks,ACT
+ACT320,bind,ACT
+ACT321,apply,ACT
+ACT322,DDoS attack,ACT
+ACT323,Eavesdropping,ACT
+ACT324,man in the middle attack,ACT
+ACT325,Man in the middle attack,ACT
+ACT326,DoS attacks,ACT
+ACT327,automated and dynamic application deployment and reconfiguration,ACT
+ACT328,rapidly and automatically,ACT
+ACT329,dynamically and adaptively,ACT
+ACT330,Network attacks,ACT
+ACT331,mitigating/preventing of those attacks automatically,ACT
+ACT332,security-relevant activities,ACT
+ACT333,which action to perform,ACT
+ACT334,instantiation,ACT
+ACT335,maintenance,ACT
+ACT336,termination,ACT
+ACT337,deleting non-activated security policies,ACT
+ACT338,merging or deleting redundant policies,ACT
+ACT339,security actions,ACT
+ACT340,analysis of security events,ACT
+ACT341,Network slice management and orchestration,ACT
+ACT342,security management of network slices,ACT
+ACT343,Network slicing,ACT
+ACT344,automatic creation,ACT
+ACT345,Mobile communication,ACT
+ACT346,Information security controls,ACT
+ACT347,Technical Corrigendum 1,ACT
+ACT348,Classification of information,ACT
+ACT349,use of a claimed Intellectual Property Right,ACT
+ACT350,Risk assessment,ACT
+ACT351,Establish,ACT
+ACT352,Operation and maintenance,ACT
+ACT353,Monitoring and auditing,ACT
+ACT354,Improve information security processes and controls,ACT
+ACT355,initiating, implementing, maintaining, and improving information security controls,ACT
+ACT356,information handled, processed or stored,ACT
+ACT357,secure collaborative processes and controls,ACT
+ACT358,lowering of risks,ACT
+ACT359,staff awareness,ACT
+ACT360,rapid advances in attack methodologies and technologies,ACT
+ACT361,increased regulatory pressures,ACT
+ACT362,effective implementation of information security,ACT
+ACT363,Risk management,ACT
+ACT364,Assess the risk,ACT
+ACT365,Treat the risk,ACT
+ACT366,Implement the risk management decision,ACT
+ACT367,Monitor, review and communicate the risks,ACT
+ACT368,Update and improve the controls,ACT
+ACT369,given threat,ACT
+ACT370,harm,ACT
+ACT371,operations,ACT
+ACT372,communications,ACT
+ACT373,trained, competent and qualified,ACT
+ACT374,protected against the risk of being compromised,ACT
+ACT375,physically secured,ACT
+ACT376,Security incident management,ACT
+ACT377,guidance against potential risks and threats,ACT
+ACT378,DoS/DDoS attack,ACT
+ACT379,Buffer overflow,ACT
+ACT380,PDCA (Plan – Do – Check – Act) process model,ACT
+ACT381,main activities and methods,ACT
+ACT382,operating and managing their various assets,ACT
+ACT383,providing customer services,ACT
+ACT384,directly or indirectly supporting their business,ACT
+ACT385,Asset management process,ACT
+ACT386,acquisition or generation,ACT
+ACT387,change,ACT
+ACT388,disposal or destruction,ACT
+ACT389,secure management,ACT
+ACT390,protection of the asset,ACT
+ACT391,asset acquisition,ACT
+ACT392,permit of asset use,ACT
+ACT393,disposal or discard of asset,ACT
+ACT394,evaluating,ACT
+ACT395,implementation of security controls,ACT
+ACT396,Security controls,ACT
+ACT397,implementation,ACT
+ACT398,risk management,ACT
+ACT399,Risk evaluation,ACT
+ACT400,Risk treatment,ACT
+ACT401,Monitoring and review,ACT
+ACT402,Communication and consultation,ACT
+ACT403,Recording and reporting,ACT
+ACT404,Distributed Denial of Service (DDoS),ACT
+ACT405,Short Message Service (SMS),ACT
+ACT406,Voice over IP (VoIP),ACT
+ACT407,Voice over Long-Term Evolution (VoLTE),ACT
+ACT408,Risk identification,ACT
+ACT409,Risk analysis,ACT
+ACT410,interconnection,ACT
+ACT411,+CCALR,ACT
+ACT412,+CCALW,ACT
+ACT413,writes,ACT
+ACT414,+CFCLR,ACT
+ACT415,+CFSZ,ACT
+ACT416,+CBKG,ACT
+ACT417,+CCLIK,ACT
+ACT418,+CMOV,ACT
+ACT419,+CDRG,ACT
+ACT420,drag,ACT
+ACT421,connection,ACT
+ACT422,communication,ACT
+ACT423,STANDARDIZED,ACT
+ACT424,operating,ACT
+ACT425,OFF to ON transitions,ACT
+ACT426,continuous transmission of dibit 11,ACT
+ACT427,data transmission at 2400 bit/s,ACT
+ACT428,developments,ACT
+ACT429,phase distortion,ACT
+ACT430,filters or equalizers or digital means,ACT
+ACT431,Equal division of power,ACT
+ACT432,phase change,ACT
+ACT433,synchronizing signal,ACT
+ACT434,address cybersecurity risks,ACT
+ACT435,security activities,ACT
+ACT436,managing controls,ACT
+ACT437,respond to these risks and changes,ACT
+ACT438,Leadership,ACT
+ACT439,real-time analysis,ACT
+ACT440,malicious activity,ACT
+ACT441,policy violations,ACT
+ACT442,filters, monitors, and blocks,ACT
+ACT443,gains unauthorized access to a computer network,ACT
+ACT444,remains undetected for an extended period,ACT
+ACT445,responds,ACT
+ACT446,build and manage a cyber defence centre (CDC),ACT
+ACT447,evaluate its effectiveness,ACT
+ACT448,Cyber insurance acquisition guidelines,ACT
+ACT449,cybersecurity risk assessment,ACT
+ACT450,selection of insurer,ACT
+ACT451,assessment by the insurer,ACT
+ACT452,evaluation of insurer,ACT
+ACT453,loss of information security,ACT
+ACT454,impacts business operations,ACT
+ACT455,insurance claim,ACT
+ACT456,compensation,ACT
+ACT457,responsibilit,ACT
+ACT458,unauthorized access,ACT
+ACT459,Access control,ACT
+ACT460,correct deployment,ACT
+ACT461,deployment,ACT
+ACT462,Biometric interactions,ACT
+ACT463,adapted to this experience,ACT
+ACT464,to be followed,ACT
+ACT465,Test Method (TM),ACT
+ACT466,Raman pumping,ACT
+ACT467,power amplifier,ACT
+ACT468,pre-amplifier,ACT
+ACT469,line amplifier,ACT
+ACT470,Optical safety procedures,ACT
+ACT471,automatic laser shut-down (ALS),ACT
+ACT472,automatic power reduction (APR),ACT
+ACT473,automatic restart,ACT
+ACT474,Raman amplification,ACT
+ACT475,interactions,ACT
+ACT476,biometric authentication,ACT
+ACT477,interaction,ACT
+ACT478,provide specifications,ACT
+ACT479,derivation of safe limits,ACT
+ACT480,authentication mechanisms,ACT
+ACT481,development,ACT
+ACT482,updates the Recommendation,ACT
+ACT483,allow for further development,ACT
+ACT484,modem relay,ACT
+ACT485,modem termination,ACT
+ACT486,version management,ACT
+ACT487,Vendor-defined messages,ACT
+ACT488,end-to-end connection,ACT
+ACT489,procedures for supporting voice-band data over IP networks,ACT
+ACT490,SSE Protocol,ACT
+ACT491,interoperation,ACT
+ACT492,Transport of text,ACT
+ACT493,Removing the need to make a reference,ACT
+ACT494,V.8 bis,ACT
+ACT495,V.8 CI/XCI,ACT
+ACT496,call discrimination,ACT
+ACT497,biometric operations,ACT
+ACT498,behaviour,ACT
+ACT499,registered individually,ACT
+ACT500,Telebiometrics protection procedures,ACT
+ACT501,technical and managerial countermeasures,ACT
+ACT502,telebiometrics countermeasures,ACT
+ACT503,installation,ACT
+ACT504,removal,ACT
+ACT505,flow of biometric information,ACT
+ACT506,generation and protection,ACT
+ACT507,remote authentication,ACT
+ACT508,Process of confirming an individual's identity,ACT
+ACT509,verification,ACT
+ACT510,identification,ACT
+ACT511,replay attack,ACT
+ACT512,illegal access,ACT
+ACT513,transformed,ACT
+ACT514,encoded,ACT
+ACT515,testing and reporting the performance of biometric template protection techniques,ACT
+ACT516,biometric template protection techniques,ACT
+ACT517,testing,ACT
+ACT518,biometric cryptosystem,ACT
+ACT519,testing and reporting,ACT
+ACT520,cancellable biometrics,ACT
+ACT521,testing and reporting the performance,ACT
+ACT522,automated recognition,ACT
+ACT523,challenge response,ACT
+ACT524,protecting,ACT
+ACT525,transfer of health resources and health care,ACT
+ACT526,transmit,ACT
+ACT527,key management,ACT
+ACT528,user authentication,ACT
+ACT529,matching,ACT
+ACT530,granting,ACT
+ACT531,denying,ACT
+ACT532,Telebiometric authentication,ACT
+ACT533,Secure authentication methods,ACT
+ACT534,registration,ACT
+ACT535,insurance,ACT
+ACT536,e-health care,ACT
+ACT537,entity authentication,ACT
+ACT538,routing of international data traffic,ACT
+ACT539,establish the topics for study,ACT
+ACT540,the practice or implementation of the Recommendation,ACT
+ACT541,routing,ACT
+ACT542,Routing,ACT
+ACT543,routed effectively and efficiently,ACT
+ACT544,Principles for routing,ACT
+ACT545,notification,ACT
+ACT546,will conform,ACT
+ACT547,equally divided,ACT
+ACT548,transmitted,ACT
+ACT549,Turn-ON sequence,ACT
+ACT550,OFF to ON transition of circuit 105,ACT
+ACT551,OFF to ON transition of circuit 106,ACT
+ACT552,Turn-OFF sequence,ACT
+ACT553,ON to OFF transition,ACT
+ACT554,call establishment,ACT
+ACT555,call,ACT
+ACT556,call deflection,ACT
+ACT557,translate,ACT
+ACT558,translation of the alternative address,ACT
+ACT559,translated,ACT
+ACT560,exchange of alternative address related information,ACT
+ACT561,Call Request,ACT
+ACT562,address translation,ACT
+ACT563,operation of public data networks,ACT
+ACT564,Escape code 0,ACT
+ACT565,Escape code 9,ACT
+ACT566,interworking,ACT
+ACT567,Timetable for coordinated implementation of the full capability of the numbering plan for the ISDN era,ACT
+ACT568,assignment,ACT
+ACT569,Call processing delays,ACT
+ACT570,call processing delays,ACT
+ACT571,Total call connection delay (TCCD),ACT
+ACT572,call request signal,ACT
+ACT573,ready for data signal,ACT
+ACT574,Call request delay (t1),ACT
+ACT575,specification of its value,ACT
+ACT576,failures due to congestion (blocking),ACT
+ACT577,failures due to malfunction,ACT
+ACT578,loss of service,ACT
+ACT579,transmission performance,ACT
+ACT580,malfunction,ACT
+ACT581,non-reception of proceed to select,ACT
+ACT582,proceed to select,ACT
+ACT583,non-connection of call,ACT
+ACT584,manual answering,ACT
+ACT585,calculation,ACT
+ACT586,transfer of packets,ACT
+ACT587,Call set-up delay,ACT
+ACT588,Data packet transfer delay,ACT
+ACT589,Clear indication delay,ACT
+ACT590,general arrangements for interworking,ACT
+ACT591,Plenary Assembly of CCITT,ACT
+ACT592,Study Group VII,ACT
+ACT593,Resolution No. 2,ACT
+ACT594,No part of this publication may be reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying and microfilm, without permission in writing from the ITU.,ACT
+ACT595,MEASUREMENT OF PERFORMANCE VALUES,ACT
+ACT596,Throughput,ACT
+ACT597,Clear confirmation delay,ACT
+ACT598,Equipment synchronization,ACT
+ACT599,throughput capacity measurement,ACT
+ACT600,Receiver Ready,ACT
+ACT601,access request,ACT
+ACT602,successful access,ACT
+ACT603,incorrect access,ACT
+ACT604,payload-type switching,ACT
+ACT605,facsimile packet relay operation,ACT
+ACT606,IP peering,ACT
+ACT607,emulated VBDoIP-to-FoIP mode,ACT
+ACT608,indirect interworking,ACT
+ACT609,native VBDoIP-to-FoIP mode,ACT
+ACT610,direct interworking,ACT
+ACT611,facsimile packet relay mode,ACT
+ACT612,voiceband data mode,ACT
+ACT613,transport of voiceband data,ACT
+ACT614,frequency modulation,ACT
+ACT615,start/stop transmission,ACT
+ACT616,calibration signal,ACT
+ACT617,quality control,ACT
+ACT618,monitoring measures,ACT
+ACT619,characterizing performance,ACT
+ACT620,assessing performance,ACT
+ACT621,frame transfer reference events,ACT
+ACT622,Approved ITU-T Recommendation X.144,ACT
+ACT623,providing,ACT
+ACT624,connection establishment,ACT
+ACT625,disengagement performance,ACT
+ACT626,Connection establishment,ACT
+ACT627,user information transfer,ACT
+ACT628,disengagement,ACT
+ACT629,revision,ACT
+ACT630,techniques for assessing,ACT
+ACT631,revised,ACT
+ACT632,measurement of the performance,ACT
+ACT633,measurement and assessment,ACT
+ACT634,Methods for measuring,ACT
+ACT635,are specified,ACT
+ACT636,Methods,ACT
+ACT637,measuring,ACT
+ACT638,estimation procedures,ACT
+ACT639,Mappings,ACT
+ACT640,maintenance testing,ACT
+ACT641,checking,ACT
+ACT642,transmitted signals,ACT
+ACT643,test the operation,ACT
+ACT644,routine test,ACT
+ACT645,Frame Relay operations and maintenance,ACT
+ACT646,measure,ACT
+ACT647,OAM procedures,ACT
+ACT648,Congestion management,ACT
+ACT649,provision of the service,ACT
+ACT650,access and modify,ACT
+ACT651,CNM Password Change,ACT
+ACT652,CNM Access Rights Definition,ACT
+ACT653,provision,ACT
+ACT654,the approval of Recommendations,ACT
+ACT655,open circuit,ACT
+ACT656,short circuit,ACT
+ACT657,combining data rates,ACT
+ACT658,signal space coding,ACT
+ACT659,scrambler,ACT
+ACT660,descrambler,ACT
+ACT661,multiplexing,ACT
+ACT662,Maintenance,ACT
+ACT663,Entropy estimation,ACT
+ACT664,estimate and validate,ACT
+ACT665,generating and testing series of random numbers,ACT
+ACT666,WTSC Resolution 1,ACT
+ACT667,reporting of troubles,ACT
+ACT668,reconfiguration,ACT
+ACT669,Security threats,ACT
+ACT670,Security measures,ACT
+ACT671,actions,ACT
+ACT672,verified,ACT
+ACT673,exchanging data,ACT
+ACT674,storage,ACT
+ACT675,formatting,ACT
+ACT676,relay,ACT
+ACT677,synchronization,ACT
+ACT678,deletion,ACT
+ACT679,preservation,ACT
+ACT680,key relay,ACT
+ACT681,share keys,ACT
+ACT682,quantum key distribution,ACT
+ACT683,operate the QKD,ACT
+ACT684,threat,ACT
+ACT685,harm to a system or organization,ACT
+ACT686,quantum key distribution protocol (QKD protocol),ACT
+ACT687,bidirectionally pumped,ACT
+ACT688,de-activated,ACT
+ACT689,activated,ACT
+ACT690,subtracted from it,ACT
+ACT691,transmission and detection of optical signals,ACT
+ACT692,temporal change,ACT
+ACT693,derivative,ACT
+ACT694,Wavelength Division Multiplexing (WDM) technology,ACT
+ACT695,dynamic variation,ACT
+ACT696,Key management,ACT
+ACT697,Security requirements and measures on the key data,ACT
+ACT698,Security requirements and measures on the metadata,ACT
+ACT699,Security requirements and measures on the control and management information,ACT
+ACT700,Loss,ACT
+ACT701,corruption,ACT
+ACT702,DoS,ACT
+ACT703,secure implementation and operation,ACT
+ACT704,share a common random binary key,ACT
+ACT705,intrusion and attacks,ACT
+ACT706,keys generated,ACT
+ACT707,supply keys,ACT
+ACT708,security proof,ACT
+ACT709,Key combination and confidential key supply for quantum key distribution networks,ACT
+ACT710,integration,ACT
+ACT711,authentication and authorization,ACT
+ACT712,Authentication,ACT
+ACT713,Authorization,ACT
+ACT714,reception from the quantum layer,ACT
+ACT715,supply to a cryptographic application,ACT
+ACT716,deletion or preservation,ACT
+ACT717,Quantum key distribution (QKD),ACT
+ACT718,Procedure or method for generating and distributing symmetrical cryptographic keys,ACT
+ACT719,distillation for key generation,ACT
+ACT720,monitor and manage,ACT
+ACT721,control and management,ACT
+ACT722,collect,ACT
+ACT723,store,ACT
+ACT724,analyse,ACT
+ACT725,visualize,ACT
+ACT726,manage big data,ACT
+ACT727,challenges,ACT
+ACT728,Quadrature amplitude modulation,ACT
+ACT729,Data scramblers,ACT
+ACT730,Adaptive equalizers,ACT
+ACT731,Eight-state trellis coding,ACT
+ACT732,Scrambler and descrambler,ACT
+ACT733,Training and synchronizing sequences,ACT
+ACT734,ABAB alternations,ACT
+ACT735,Equalizer training signal,ACT
+ACT736,conditioning,ACT
+ACT737,Bridge signal,ACT
+ACT738,Scrambled ONEs,ACT
+ACT739,Amendment 1,ACT
+ACT740,operates,ACT
+ACT741,transmit data,ACT
+ACT742,one-way data transmission,ACT
+ACT743,detect frequency pairs,ACT
+ACT744,Character reception,ACT
+ACT745,detected,ACT
+ACT746,stable,ACT
+ACT747,Detection of line signal received on the data channel,ACT
+ACT748,character is received,ACT
+ACT749,time-out,ACT
+ACT750,Timing for characters received,ACT
+ACT751,no interface is recommended,ACT
+ACT752,data collection,ACT
+ACT753,data storage,ACT
+ACT754,data usage,ACT
+ACT755,data analysis,ACT
+ACT756,visualization,ACT
+ACT757,data sharing,ACT
+ACT758,data destruction,ACT
+ACT759,data aggregation and fusion,ACT
+ACT760,Multi-Party Computation (MPC),ACT
+ACT761,information leakage,ACT
+ACT762,usage and protection of data,ACT
+ACT763,workflow,ACT
+ACT764,processes,ACT
+ACT765,Joint modelling,ACT
+ACT766,Data matching,ACT
+ACT767,initiative,ACT
+ACT768,define,ACT
+ACT769,consume,ACT
+ACT770,produce web services,ACT
+ACT771,combining de-identified datasets,ACT
+ACT772,de-identification,ACT
+ACT773,combining,ACT
+ACT774,processes data,ACT
+ACT775,instructions,ACT
+ACT776,de-identification process,ACT
+ACT777,combining process,ACT
+ACT778,changes to the CUG,ACT
+ACT779,issuing the necessary information,ACT
+ACT780,exchange of information,ACT
+ACT781,exchange information,ACT
+ACT782,proposal on routing,ACT
+ACT783,information to be exchanged,ACT
+ACT784,Direct call,ACT
+ACT785,Closed user group,ACT
+ACT786,Reverse charging,ACT
+ACT787,Virtual call service,ACT
+ACT788,Permanent virtual circuit service,ACT
+ACT789,Frame relay data transmission service,ACT
+ACT790,Call control phase,ACT
+ACT791,Ready (state 1),ACT
+ACT792,Call request (state 2),ACT
+ACT793,Proceed-to-select (state 3),ACT
+ACT794,Selection signal sequence (state 4),ACT
+ACT795,DTE waiting (state 5),ACT
+ACT796,Incoming call (state 8),ACT
+ACT797,Call accepted (state 9),ACT
+ACT798,Call not accepted (state 18),ACT
+ACT799,electrically insulated,ACT
+ACT800,floating,ACT
+ACT801,connected to ground at any single point,ACT
+ACT802,measured at the interface,ACT
+ACT803,No part of this publication may be reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying and microfilm, without permission in writing from the ITU,ACT
+ACT804,Duplex mode of operation,ACT
+ACT805,Echo cancellation techniques,ACT
+ACT806,Channel separation,ACT
+ACT807,synchronous line transmission,ACT
+ACT808,Rate sequences,ACT
+ACT809,Asynchronous mode of operation,ACT
+ACT810,No separate pilot tones are to be provided,ACT
+ACT811,Signal element coding,ACT
+ACT812,Two alternatives are defined,ACT
+ACT813,Nonredundant coding,ACT
+ACT814,Trellis coding,ACT
+ACT815,Transmit data,ACT
+ACT816,Receive data,ACT
+ACT817,pass synchronous data,ACT
+ACT818,Timing arrangements,ACT
+ACT819,Data rate control,ACT
+ACT820,start-up and retrain sequences,ACT
+ACT821,OFF to ON and ON to OFF transitions,ACT
+ACT822,synchronous operation,ACT
+ACT823,remote response,ACT
+ACT824,standardized,ACT
+ACT825,Call control and failure detection procedures,ACT
+ACT826,Failure detection,ACT
+ACT827,Elements of the call control phase,ACT
+ACT828,Data transfer phase,ACT
+ACT829,Clearing phase,ACT
+ACT830,Character alignment,ACT
+ACT831,interchange of information,ACT
+ACT832,Error checking,ACT
+ACT833,Test loops,ACT
+ACT834,further study,ACT
+ACT835,selection of the facilities,ACT
+ACT836,DCE REJ (modulo 32 768)a),ACT
+ACT837,diagnostic packet,ACT
+ACT838,erroneous DTE packet,ACT
+ACT839,DCE time-out,ACT
+ACT840,expiration of time-out T10,ACT
+ACT841,expiration of time-out T12 or T13,ACT
+ACT842,time-out T10,ACT
+ACT843,time-out T12,ACT
+ACT844,time-out T13,ACT
+ACT845,expiration of time-out T12,ACT
+ACT846,Restart request,ACT
+ACT847,DTE restart confirmation,ACT
+ACT848,Engaged,ACT
+ACT849,Free,ACT
+ACT850,Reset PAD service signal,ACT
+ACT851,Clear PAD service signal,ACT
+ACT852,Clear confirmation PAD service signal,ACT
+ACT853,procedures for the exchange of control information and user data,ACT
+ACT854,Approved,ACT
+ACT855,operation of the PAD,ACT
+ACT856,send and receive,ACT
+ACT857,establishes the topics for study by the ITU-T Study Groups,ACT
+ACT858,rate adaption functions,ACT
+ACT859,X.21/Q.931 mapping functions,ACT
+ACT860,ready for data alignment,ACT
+ACT861,signal information,ACT
+ACT862,achievement,ACT
+ACT863,connection establishment phase,ACT
+ACT864,Connect request,ACT
+ACT865,receipt confirmation selection,ACT
+ACT866,expedited data selection,ACT
+ACT867,Connect indication,ACT
+ACT868,Connect response,ACT
+ACT869,Connect confirm,ACT
+ACT870,connection release phase,ACT
+ACT871,actions and events,ACT
+ACT872,Disconnect request,ACT
+ACT873,Disconnect indication,ACT
+ACT874,data transfer phase,ACT
+ACT875,Call control between ISDNs,ACT
+ACT876,Interworking between ISDNs,ACT
+ACT877,Transfer of addressing information,ACT
+ACT878,Interworking between ISDNs where a circuit switched bearer is requested on each,ACT
+ACT879,Interworking between ISDNs where a frame relaying bearer is used on each,ACT
+ACT880,Interworking between ISDNs where a packet switched bearer is used on one, and a circuit switched bearer is used on the other,ACT
+ACT881,conversion,ACT
+ACT882,call control,ACT
+ACT883,will be brought into service,ACT
+ACT884,arrangements,ACT
+ACT885,specifying,ACT
+ACT886,controlled as closely as possible,ACT
+ACT887,subsequent studies,ACT
+ACT888,specification,ACT
+ACT889,unanimously declares the following view,ACT
+ACT890,Binary modulation,ACT
+ACT891,frequency shift,ACT
+ACT892,Synchronous or asynchronous procedures,ACT
+ACT893,Echo control device disabling,ACT
+ACT894,procedures specified,ACT
+ACT895,duplex operation,ACT
+ACT896,channel separation by frequency division,ACT
+ACT897,differential phase shift modulation,ACT
+ACT898,encoding of data bits,ACT
+ACT899,accept errors,ACT
+ACT900,Operations,ACT
+ACT901,administration,ACT
+ACT902,establishment of a connection,ACT
+ACT903,CLEAR INDICATION packet,ACT
+ACT904,CALL REQUEST packet,ACT
+ACT905,results in a transmitted,ACT
+ACT906,CALL ACCEPTED packet,ACT
+ACT907,FR/ATM element mapping,ACT
+ACT908,DSS2 signalling procedures,ACT
+ACT909,deleted,ACT
+ACT910,Delete the row,ACT
+ACT911,Alignment,ACT
+ACT912,operates at data signalling rates of up to,ACT
+ACT913,echo cancellation techniques,ACT
+ACT914,quadrature amplitude modulation,ACT
+ACT915,must conform to,ACT
+ACT916,mapping,ACT
+ACT917,synchronous interfacing,ACT
+ACT918,accepts,ACT
+ACT919,asynchronous character-mode interfacing,ACT
+ACT920,inclusion,ACT
+ACT921,optional inclusion,ACT
+ACT922,mapped,ACT
+ACT923,Quadrature Amplitude Modulation (QAM),ACT
+ACT924,supports,ACT
+ACT925,establishes the topics for study,ACT
+ACT926,Synchronous interfacing,ACT
+ACT927,Asynchronous character-mode interfacing,ACT
+ACT928,Half-duplex mode interfacing,ACT
+ACT929,Fault condition on interchange circuits,ACT
+ACT930,Scrambler,ACT
+ACT931,Framing,ACT
+ACT932,Encoder,ACT
+ACT933,Mapper, precoder and trellis encoder,ACT
+ACT934,Non-linear encoder,ACT
+ACT935,Start-up signals and sequences,ACT
+ACT936,Duplex operating procedures,ACT
+ACT937,network interaction,ACT
+ACT938,probing/ranging,ACT
+ACT939,Half-duplex operating procedures,ACT
+ACT940,probing,ACT
+ACT941,V.34 modem control channel procedures,ACT
+ACT942,MP sequences for modem control channel compatibility,ACT
+ACT943,Auxiliary channel protocol for modem control,ACT
+ACT944,replaced,ACT
+ACT945,interworking arrangements,ACT
+ACT946,exchange of control information and user data,ACT
+ACT947,real-time bothway communications,ACT
+ACT948,procedures,ACT
+ACT949,coordinate, supervise and monitor,ACT
+ACT950,assignment and utilization,ACT
+ACT951,procedures for the exchange of control information and user data between a PAD and a packet mode DTE,ACT
+ACT952,calls,ACT
+ACT953,fraudulent calls,ACT
+ACT954,interconnecting,ACT
+ACT955,now being operated,ACT
+ACT956,forward the call,ACT
+ACT957,data transfer,ACT
+ACT958,reverse charging,ACT
+ACT959,transit network selection,ACT
+ACT960,selection and fragmentation at the DTE/DCE interface,ACT
+ACT961,fragmentation,ACT
+ACT962,selection,ACT
+ACT963,implement this Recommendation,ACT
+ACT964,O/E/O conversions,ACT
+ACT965,cascading of optical network elements,ACT
+ACT966,degradation of the signal quality,ACT
+ACT967,future revision of the Recommendation,ACT
+ACT968,routing decisions,ACT
+ACT969,Operating,ACT
+ACT970,implementations,ACT
+ACT971,Wavelength Division Multiplexing (WDM),ACT
+ACT972,Forward Error Correction (FEC),ACT
+ACT973,call set-up,ACT
+ACT974,call clearing procedures,ACT
+ACT975,Procedures for the exchange of control information and user data between a Facsimile Packet Assembly/Disassembly (FPAD) facility and a packet mode Data Terminal Equipment (DTE) or another FPAD,ACT
+ACT976,Povision of the underlying service by an X.25 subnetwork,ACT
+ACT977,Data transfer,ACT
+ACT978,Flow control,ACT
+ACT979,Procedures,ACT
+ACT980,FR frames transfer procedure,ACT
+ACT981,Encapsulation,ACT
+ACT982,Call set-up procedures,ACT
+ACT983,Call clearing procedures,ACT
+ACT984,accesses,ACT
+ACT985,Interworking,ACT
+ACT986,set up,ACT
+ACT987,Procedures for the establishment,ACT
+ACT988,interworking between FPADs,ACT
+ACT989,call request packet,ACT
+ACT990,cleared,ACT
+ACT991,user sequences,ACT
+ACT992,FPAD messages,ACT
+ACT993,data packets,ACT
+ACT994,virtual call,ACT
+ACT995,reaction,ACT
+ACT996,procedures and methods,ACT
+ACT997,Procedures and methods,ACT
+ACT998,Credit based flow control,ACT
+ACT999,data losses,ACT
+ACT1000,extra delays,ACT
+ACT1001,Access,ACT
+ACT1002,procedures of access,ACT
+ACT1003,delivered to all members of the group,ACT
+ACT1004,terminated or halted,ACT
+ACT1005,data transfer is ceased,ACT
+ACT1006,data transfer is resumed,ACT
+ACT1007,multicast call is terminated,ACT
+ACT1008,establish a connection,ACT
+ACT1009,transfer data,ACT
+ACT1010,operation of FPAD,ACT
+ACT1011,Frequency Division Technique,ACT
+ACT1012,Quadrature Amplitude Modulation,ACT
+ACT1013,Adaptive Equalizer,ACT
+ACT1014,Compromise Equalizer,ACT
+ACT1015,Automatic Bit Rate Recognition,ACT
+ACT1016,recognize,ACT
+ACT1017,Fixed Compromise Equalizer,ACT
+ACT1018,Modulation,ACT
+ACT1019,Encoding of Data Bits,ACT
+ACT1020,Method for dividing,ACT
+ACT1021,operate,ACT
+ACT1022,Scrambler and Descrambler,ACT
+ACT1023,Operating Sequences,ACT
+ACT1024,Handshake Sequence,ACT
+ACT1025,automatically condition themselves,ACT
+ACT1026,division of power,ACT
+ACT1027,recommended provisionally,ACT
+ACT1028,ON or OFF condition,ACT
+ACT1029,OFF to ON,ACT
+ACT1030,clamping in half-duplex mode,ACT
+ACT1031,PH-DATA,ACT
+ACT1032,acceptance of the data,ACT
+ACT1033,PH-ACTIVATE,ACT
+ACT1034,PH-DEACTIVATE,ACT
+ACT1035,MPH-ERROR,ACT
+ACT1036,MPH-ACTIVATE,ACT
+ACT1037,MPH-DEACTIVATE,ACT
+ACT1038,MPH-INFORMATION,ACT
+ACT1039,Connected,ACT
+ACT1040,Disconnected,ACT
+ACT1041,simultaneously active,ACT
+ACT1042,recover,ACT
+ACT1043,orderly controlled fashion,ACT
+ACT1044,Activation and deactivation,ACT
+ACT1045,reception,ACT
+ACT1046,grouped,ACT
+ACT1047,standardize,ACT
+ACT1048,repeat,ACT
+ACT1049,alarm indications,ACT
+ACT1050,absence of incoming pulses,ACT
+ACT1051,loss of frame alignment,ACT
+ACT1052,slip,ACT
+ACT1053,frame alignment recovery action,ACT
+ACT1054,specific strategy,ACT
+ACT1055,shall be used,ACT
+ACT1056,Method of framing,ACT
+ACT1057,Framing strategy,ACT
+ACT1058,Justification,ACT
+ACT1059,Cyclic error-control,ACT
+ACT1060,Allocation and use of padding bits,ACT
+ACT1061,Transmission of the 48 kbit/s user data signalling rate,ACT
+ACT1062,synchronous,ACT
+ACT1063,end-to-end transmission,ACT
+ACT1064,Scrambler/descrambler,ACT
+ACT1065,injection,ACT
+ACT1066,step-change,ACT
+ACT1067,gradual input level change,ACT
+ACT1068,Synchronous Data Transmission,ACT
+ACT1069,signalling,ACT
+ACT1070,modulation,ACT
+ACT1071,Encoding method,ACT
+ACT1072,Baseband signal shaping,ACT
+ACT1073,Synchronizing signals,ACT
+ACT1074,circuit 106 OFF,ACT
+ACT1075,generate synchronizing signals,ACT
+ACT1076,interoperate,ACT
+ACT1077,Descrambler,ACT
+ACT1078,Rate adaptation,ACT
+ACT1079,assembled,ACT
+ACT1080,monitor,ACT
+ACT1081,use,ACT
+ACT1082,transfer,ACT
+ACT1083,encoding method,ACT
+ACT1084,reform process,ACT
+ACT1085,bilateral agreement,ACT
+ACT1086,allocation,ACT
+ACT1087,Main recommendation,ACT
+ACT1088,framing,ACT
+ACT1089,adaptation,ACT
+ACT1090,reframing,ACT
+ACT1091,alarm and consequent action,ACT
+ACT1092,insertion and deletion of F bits,ACT
+ACT1093,sharing of S bits between framing and signalling mechanism,ACT
+ACT1094,padding techniques,ACT
+ACT1095,justification,ACT
+ACT1096,METHOD OF TRANSMITTING A SINGLE LOWER SPEED DATA CHANNEL ON A 64 kbit/s DATA STREAM,ACT
+ACT1097,Frame synchronization,ACT
+ACT1098,interaction between multiplexers at both ends of the link,ACT
+ACT1099,common channel signalling,ACT
+ACT1100,introduction of such networks,ACT
+ACT1101,signalling on links,ACT
+ACT1102,alternative routing,ACT
+ACT1103,overflow,ACT
+ACT1104,Alternative routing,ACT
+ACT1105,both-way operation,ACT
+ACT1106,inverse order testing of circuits on both-way routes,ACT
+ACT1107,a close approximation to it by testing the route in small groups in fixed order always starting the search from the same position,ACT
+ACT1108,gathering of information required for charging and accounting,ACT
+ACT1109,provision of circuits,ACT
+ACT1110,traffic overflowed from other routes,ACT
+ACT1111,congestion,ACT
+ACT1112,scheme given below should be used,ACT
+ACT1113,Transmission,ACT
+ACT1114,switching,ACT
+ACT1115,Frame relay SVC signalling,ACT
+ACT1116,signalling procedures,ACT
+ACT1117,Signalling procedures,ACT
+ACT1118,additional procedures,ACT
+ACT1119,cannot be supported,ACT
+ACT1120,Interworking procedures,ACT
+ACT1121,MAP Status Inquiry,ACT
+ACT1122,inquire,ACT
+ACT1123,Modify MAP command signal,ACT
+ACT1124,modify or temporarily change,ACT
+ACT1125,virtual call is set up,ACT
+ACT1126,virtual call is in progress,ACT
+ACT1127,Confir,ACT
+ACT1128,interworking procedures,ACT
+ACT1129,release of the connection,ACT
+ACT1130,Call Connected (CC) signal,ACT
+ACT1131,call set-up sequence,ACT
+ACT1132,instant of connect through,ACT
+ACT1133,Transit Through Connect (TTC) signal,ACT
+ACT1134,setting up the call successfully,ACT
+ACT1135,Call Accepted Message(s) (CAM),ACT
+ACT1136,request for the calling line identity,ACT
+ACT1137,call connected (CC) signal,ACT
+ACT1138,clear request signal,ACT
+ACT1139,disconnection of the call at the interworking function,ACT
+ACT1140,clear message,ACT
+ACT1141,internetwork data circuit clear request signal,ACT
+ACT1142,INTERWORKING,ACT
+ACT1143,Address complete,ACT
+ACT1144,Release complete,ACT
+ACT1145,Call connected,ACT
+ACT1146,Call confirmation,ACT
+ACT1147,Clear confirmation,ACT
+ACT1148,Transit through connect,ACT
+ACT1149,Called line identification request,ACT
+ACT1150,Calling line identification request,ACT
+ACT1151,return,ACT
+ACT1152,Call progress signal,ACT
+ACT1153,the call is being established,ACT
+ACT1154,transfer of frame relay control and user data information over the core MPLS network,ACT
+ACT1155,Amendment 2,ACT
+ACT1156,Compression,ACT
+ACT1157,Compressed,ACT
+ACT1158,IEEE 802.3x,ACT
+ACT1159,MAC Control Pause operation,ACT
+ACT1160,Ethernet Flow Control,ACT
+ACT1161,data loss,ACT
+ACT1162,packet switching,ACT
+ACT1163,not changed,ACT
+ACT1164,slightly corrected,ACT
+ACT1165,call clearing phase,ACT
+ACT1166,transferring multi-channel television signals,ACT
+ACT1167,defining applications,ACT
+ACT1168,Request to send,ACT
+ACT1169,Ready for sending,ACT
+ACT1170,Connect data set to line,ACT
+ACT1171,Back-up switching,ACT
+ACT1172,General procedures for automatic calling equipment,ACT
+ACT1173,sends,ACT
+ACT1174,Phase reversals,ACT
+ACT1175,disable,ACT
+ACT1176,failure to connect,ACT
+ACT1177,Z,ACT
+ACT1178,Reset to Default Configuration,ACT
+ACT1179,&F,ACT
+ACT1180,Set to Factory Defined Configuration,ACT
+ACT1181,+FIP,ACT
+ACT1182,Initialize Facsimile Parameters,ACT
+ACT1183,+VIP,ACT
+ACT1184,Initialize Voice Parameters,ACT
+ACT1185,I,ACT
+ACT1186,+FMI,ACT
+ACT1187,Request Manufacturer Identification,ACT
+ACT1188,+FMM,ACT
+ACT1189,Request Model Identification,ACT
+ACT1190,+FMR,ACT
+ACT1191,Request Revision Identification,ACT
+ACT1192,+GMI,ACT
+ACT1193,+GMM,ACT
+ACT1194,+GMR,ACT
+ACT1195,+GSN,ACT
+ACT1196,Request Product Serial Number Identification,ACT
+ACT1197,+GOI,ACT
+ACT1198,Request Global Object Identification,ACT
+ACT1199,+CGMI,ACT
+ACT1200,+CGMM,ACT
+ACT1201,+CGMR,ACT
+ACT1202,+CGSN,ACT
+ACT1203,+CGOI,ACT
+ACT1204,+GCAP,ACT
+ACT1205,Request Complete Capabilities List,ACT
+ACT1206,+CGCAP,ACT
+ACT1207,+FCLASS,ACT
+ACT1208,+GCI,ACT
+ACT1209,+CAD,ACT
+ACT1210,Query Analogue or Digital Service,ACT
+ACT1211,+W,ACT
+ACT1212,transmitted combination,ACT
+ACT1213,receiving characters on perforated tape,ACT
+ACT1214,synchronous transmission,ACT
+ACT1215,asynchronous transmission,ACT
+ACT1216,block transmission,ACT
+ACT1217,automatic repetition,ACT
+ACT1218,request (ARQ),ACT
+ACT1219,computer simulation,ACT
+ACT1220,divided, modulo 2,ACT
+ACT1221,Error-correcting procedures,ACT
+ACT1222,asynchronous-to-synchronous conversion,ACT
+ACT1223,set,ACT
+ACT1224,Selective retransmission procedure,ACT
+ACT1225,single I frame request,ACT
+ACT1226,Loop-back test procedure,ACT
+ACT1227,Extended FCS procedure,ACT
+ACT1228,3R regeneration,ACT
+ACT1229,joint engineering,ACT
+ACT1230,optical safety considerations,ACT
+ACT1231,optical monitoring (OM),ACT
+ACT1232,four-wave mixing (FWM),ACT
+ACT1233,reflections (see reflectance),ACT
+ACT1234,cross-phase modulation (XPM),ACT
+ACT1235,self-phase modulation (SPM),ACT
+ACT1236,stimulated Raman scattering (SRS),ACT
+ACT1237,elimination of transponders,ACT
+ACT1238,bidirectional,ACT
+ACT1239,Optimized,ACT
+ACT1240,Definitions and test methods,ACT
+ACT1241,dense wavelength division multiplexing (DWDM),ACT
+ACT1242,data transmissions,ACT
+ACT1243,voice transmissions,ACT
+ACT1244,data transmission difficulties,ACT
+ACT1245,Fault investigations,ACT
+ACT1246,fault investigations,ACT
+ACT1247,Transmission tests,ACT
+ACT1248,Fault location,ACT
+ACT1249,scheduled routine measurements,ACT
+ACT1250,end-to-end tests,ACT
+ACT1251,fault investigation,ACT
+ACT1252,Routine maintenance measurements,ACT
+ACT1253,agreements reached in conformity with,ACT
+ACT1254,Principle of operation,ACT
+ACT1255,the counter shall not operate,ACT
+ACT1256,below 200 Hz, the attenuation shall rise at about 18 dB per octave,ACT
+ACT1257,above 3250 Hz, the rise in attenuation shall be compatible with the sensitivity requirement indicated in § 3.7 below,ACT
+ACT1258,designed,ACT
+ACT1259,added,ACT
+ACT1260,Calibration,ACT
+ACT1261,operate level control set to 0 dBm,ACT
+ACT1262,calculate and indicate,ACT
+ACT1263,switching off the instrument,ACT
+ACT1264,suspension of transmission,ACT
+ACT1265,Data transmission,ACT
+ACT1266,phase inversion,ACT
+ACT1267,no-phase inversion,ACT
+ACT1268,unbalanced circuit operation,ACT
+ACT1269,interference with other signals,ACT
+ACT1270,use should be avoided,ACT
+ACT1271,INTERCONNECTION,ACT
+ACT1272,ingoing or outgoing access,ACT
+ACT1273,handshaking procedures,ACT
+ACT1274,half-duplex procedure,ACT
+ACT1275,duplex procedure,ACT
+ACT1276,Answer mode modem,ACT
+ACT1277,Call mode modem,ACT
+ACT1278,ON condition,ACT
+ACT1279,remains silent,ACT
+ACT1280,transmits,ACT
+ACT1281,remains silent for 75 ± 20 ms,ACT
+ACT1282,differential signalling,ACT
+ACT1283,signals transmitted,ACT
+ACT1284,Bit rate adaption,ACT
+ACT1285,End-to-end synchronization,ACT
+ACT1286,entry to and exit from the data transfer phase,ACT
+ACT1287,Call establishment and disestablishment,ACT
+ACT1288,manual or automatic calling,ACT
+ACT1289,automatic answering,ACT
+ACT1290,Local and end-to-end flow control,ACT
+ACT1291,Approval of Recommendations,ACT
+ACT1292,interchange,ACT
+ACT1293,short-circuit measurement,ACT
+ACT1294,output signal waveform,ACT
+ACT1295,voltage monotonically changes between 0.2 and 0.8 of Vss,ACT
+ACT1296,receiver input current-voltage measurements,ACT
+ACT1297,input sensitivity measurements,ACT
+ACT1298,simulated circuit 105 to circuit 109 operation,ACT
+ACT1299,switching OFF and ON,ACT

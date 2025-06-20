@@ -1,0 +1,2518 @@
+ID,name,LABEL
+FUN001,numbering plan interworking,FUN
+FUN002,Numbering Plan Identifier (NPI) method,FUN
+FUN003,Escape code method,FUN
+FUN004,Recommendations,FUN
+FUN005,numbering and addressing principles,FUN
+FUN006,traffic routing,FUN
+FUN007,routing plan for interconnection between public land mobile networks and fixed terminal networks,FUN
+FUN008,data transmission services,FUN
+FUN009,call control,FUN
+FUN010,source or destination of data,FUN
+FUN011,functions required to establish, maintain, and terminate a connection,FUN
+FUN012,signal conversion and coding,FUN
+FUN013,linear, deterministic parameters,FUN
+FUN014,test methods,FUN
+FUN015,reference test methods,FUN
+FUN016,alternative test methods,FUN
+FUN017,polarization mode dispersion,FUN
+FUN018,chromatic dispersion,FUN
+FUN019,macrobend loss,FUN
+FUN020,test method,FUN
+FUN021,coherent multipath interference (MPI),FUN
+FUN022,The far-field scan,FUN
+FUN023,The variable aperture technique,FUN
+FUN024,first alternative test method,FUN
+FUN025,Transmission media and optical systems characteristics,FUN
+FUN026,Definitions and test methods,FUN
+FUN027,polarization mode dispersion (PMD),FUN
+FUN028,principal states of polarization (PSPs),FUN
+FUN029,output polarizations,FUN
+FUN030,differential group delay (DGD),FUN
+FUN031,PMD value,FUN
+FUN032,linear average 〈Δτ〉,FUN
+FUN033,effective area (Aeff),FUN
+FUN034,non-linear coefficient (n2/Aeff),FUN
+FUN035,Stimulated Brillouin scattering,FUN
+FUN036,far-field scan (FFS) technique,FUN
+FUN037,variable aperture (VA) technique,FUN
+FUN038,near-field scan (NFS) technique,FUN
+FUN039,polarization mode dispersion statistics,FUN
+FUN040,Recommendation V.42 bis,FUN
+FUN041,DATA COMPRESSION PROCEDURES,FUN
+FUN042,ERROR CORRECTING PROCEDURES,FUN
+FUN043,Recommendation V.42,FUN
+FUN044,error correction procedures,FUN
+FUN045,data compression procedures,FUN
+FUN046,data compression,FUN
+FUN047,data compression function,FUN
+FUN048,start-stop or asynchronous format,FUN
+FUN049,ordinal value,FUN
+FUN050,control codeword,FUN
+FUN051,control information,FUN
+FUN052,compression function,FUN
+FUN053,command code,FUN
+FUN054,tree structure,FUN
+FUN055,leaf node,FUN
+FUN056,root node,FUN
+FUN057,compressed operation,FUN
+FUN058,automatic,FUN
+FUN059,compressed mode,FUN
+FUN060,transparent mode,FUN
+FUN061,compression,FUN
+FUN062,uncompressed operation,FUN
+FUN063,escape character,FUN
+FUN064,EID,FUN
+FUN065,ETM,FUN
+FUN066,ECM,FUN
+FUN067,Data flow control,FUN
+FUN068,guidance for the choice of an appropriate method for, and the implementation of,FUN
+FUN069,Circuit 106,FUN
+FUN070,Circuit 112,FUN
+FUN071,DC3/DC1 characters,FUN
+FUN072,Circuit 114,FUN
+FUN073,Asynchronous mode of operation,FUN
+FUN074,Synchronous mode of operation,FUN
+FUN075,Data compression procedures,FUN
+FUN076,Data Compression Procedures,FUN
+FUN077,XID capability parameter,FUN
+FUN078,Parameter Mode negotiation,FUN
+FUN079,V.44 default parameter values,FUN
+FUN080,chromatic dispersion coefficient,FUN
+FUN081,standardizing telecommunications on a worldwide basis,FUN
+FUN082,Mode field diameter,FUN
+FUN083,Cladding diameter,FUN
+FUN084,Core concentricity error,FUN
+FUN085,Non-circularity,FUN
+FUN086,Cut-off wavelength,FUN
+FUN087,Macrobending loss,FUN
+FUN088,Material properties of the fibre,FUN
+FUN089,Refractive index profile,FUN
+FUN090,Longitudinal uniformity of chromatic dispersion,FUN
+FUN091,Chromatic dispersion,FUN
+FUN092,Attenuation coefficient,FUN
+FUN093,Polarization mode dispersion coefficient,FUN
+FUN094,Tables of recommended values,FUN
+FUN095,Attenuation,FUN
+FUN096,Differential group delay (DGD),FUN
+FUN097,Non-linear coefficient,FUN
+FUN098,An example of statistical link design,FUN
+FUN099,statistical link design,FUN
+FUN100,zero-dispersion wavelength,FUN
+FUN101,dispersion-shifted,FUN
+FUN102,mode field diameter,FUN
+FUN103,cut-off wavelength,FUN
+FUN104,macrobending loss,FUN
+FUN105,optical time domain reflectometer (OTDR),FUN
+FUN106,splice loss measurement,FUN
+FUN107,quasi-bidirectional technique,FUN
+FUN108,Measurement methods and test procedures,FUN
+FUN109,Fibre-optic communication subsystem test procedures,FUN
+FUN110,Fibre optic communication subsystem test procedures,FUN
+FUN111,Polarization mode dispersion measurement for installed links,FUN
+FUN112,Statistical calculation of chromatic dispersion,FUN
+FUN113,polarization mode dispersion measurements and theory,FUN
+FUN114,Basic test and measurement procedures,FUN
+FUN115,Terminal Adaptor (TA),FUN
+FUN116,services,FUN
+FUN117,modec,FUN
+FUN118,In-band Parameter Exchange,FUN
+FUN119,Interworking Function,FUN
+FUN120,Protocol Identification,FUN
+FUN121,Sub-addressing,FUN
+FUN122,digital modem,FUN
+FUN123,codec,FUN
+FUN124,modem functions,FUN
+FUN125,3.1 kHz audio bearer service,FUN
+FUN126,loss-minimized and cut-off wavelength shifted at around the 1550 nm wavelength region,FUN
+FUN127,loss-minimized,FUN
+FUN128,long-haul terrestrial line systems,FUN
+FUN129,long-distance digital transmission applications,FUN
+FUN130,submarine cable systems,FUN
+FUN131,optical amplifiers,FUN
+FUN132,fibre attributes,FUN
+FUN133,optical transmission,FUN
+FUN134,cable attributes,FUN
+FUN135,link attributes,FUN
+FUN136,estimation methods,FUN
+FUN137,cladding diameter,FUN
+FUN138,core concentricity error,FUN
+FUN139,non-circularity,FUN
+FUN140,material properties of the fibre,FUN
+FUN141,refractive index profile,FUN
+FUN142,longitudinal uniformity of chromatic dispersion,FUN
+FUN143,attenuation coefficient,FUN
+FUN144,polarization mode dispersion coefficient,FUN
+FUN145,transmission attributes,FUN
+FUN146,information,FUN
+FUN147,cable cut-off wavelength,FUN
+FUN148,fibre cut-off wavelength,FUN
+FUN149,single-mode transmission,FUN
+FUN150,desired transmission characteristics,FUN
+FUN151,performance of the fibre,FUN
+FUN152,maintenance services,FUN
+FUN153,Loop 1,FUN
+FUN154,basic test,FUN
+FUN155,Loop 3,FUN
+FUN156,analogue mode,FUN
+FUN157,Loop 2,FUN
+FUN158,Loop 4,FUN
+FUN159,maintenance of lines,FUN
+FUN160,Circuit 103,FUN
+FUN161,Circuit 104,FUN
+FUN162,Circuit 105,FUN
+FUN163,Circuit 125,FUN
+FUN164,Circuit 108,FUN
+FUN165,Circuit 109,FUN
+FUN166,Circuit 107,FUN
+FUN167,Circuit 115,FUN
+FUN168,Circuit 113,FUN
+FUN169,Circuit 140,FUN
+FUN170,Circuit 141,FUN
+FUN171,Circuit 142,FUN
+FUN172,DTE,FUN
+FUN173,DCE,FUN
+FUN174,DTE A,FUN
+FUN175,DTE B,FUN
+FUN176,DCE A,FUN
+FUN177,DCE B,FUN
+FUN178,Manual control,FUN
+FUN179,Automatic control,FUN
+FUN180,Inter-DCE signalling,FUN
+FUN181,Preparatory phase,FUN
+FUN182,Comparative Tests of Modems,FUN
+FUN183,Total attenuation or receiving signal level,FUN
+FUN184,Attenuation distortion,FUN
+FUN185,Envelope or group delay distorsion,FUN
+FUN186,Frequency shift (or offset),FUN
+FUN187,Sudden changes of attenuation,FUN
+FUN188,Interruptions,FUN
+FUN189,Phase hits,FUN
+FUN190,Phase jitter,FUN
+FUN191,Harmonic distortion,FUN
+FUN192,Listener echo,FUN
+FUN193,White noise,FUN
+FUN194,Impulsive noise,FUN
+FUN195,Single tone interference,FUN
+FUN196,Symmetric line distortion,FUN
+FUN197,Asymmetric line distortion,FUN
+FUN198,Ripple distortion,FUN
+FUN199,Measuring procedure,FUN
+FUN200,Measurement of the bit error rate (pS) as a function of the signal-to-noise ratio (S/N) in the case of white noise,FUN
+FUN201,Measurement of the number of the bit error per second (F/t) as a function of the different faults and noise parameters (X),FUN
+FUN202,Comparative tests of modems,FUN
+FUN203,Network Model Coverage (NMC),FUN
+FUN204,tool,FUN
+FUN205,Likelihood Of Occurrence (LOO),FUN
+FUN206,statistically,FUN
+FUN207,Test Loop Combination (TLC),FUN
+FUN208,modem performance,FUN
+FUN209,adaptive differential pulse coded modulation (ADPCM),FUN
+FUN210,Adaptive digital speech compression techniques,FUN
+FUN211,audioMonitor,FUN
+FUN212,autoAnswerEnable,FUN
+FUN213,autoCallEnable,FUN
+FUN214,autoCallModeSelect,FUN
+FUN215,autoCallModesSupported,FUN
+FUN216,autoRestoralEnable,FUN
+FUN217,availableNumberCapacity,FUN
+FUN218,blackListingActive,FUN
+FUN219,callProgressState,FUN
+FUN220,dceModeActive,FUN
+FUN221,dceModeSelect,FUN
+FUN222,dceModesSupported,FUN
+FUN223,defaultCallAttemptsTimer,FUN
+FUN224,dialBackupEnable,FUN
+FUN225,directCallNumber,FUN
+FUN226,displayCallProgressMessages,FUN
+FUN227,pauseDuringDialTime,FUN
+FUN228,ringsBeforeAnswer,FUN
+FUN229,Transmission quality and maintenance,FUN
+FUN230,Managed objects for diagnostic information of public switched telephone network connected V-series modem DCEs,FUN
+FUN231,txFlowControl,FUN
+FUN232,rxFlowControl,FUN
+FUN233,protocol,FUN
+FUN234,ModeV42,FUN
+FUN235,protocolNegotiation,FUN
+FUN236,v42featureNegotiation,FUN
+FUN237,Simultaneous transmission of data and other signals,FUN
+FUN238,Transmission quality and maintenance V.50–V.59,FUN
+FUN239,Simultaneous transmission of data and other signals V.60–V.99,FUN
+FUN240,Interworking with other networks V.100–V.199,FUN
+FUN241,Control procedures V.250–V.299,FUN
+FUN242,pre-emphasis filter,FUN
+FUN243,audio functions,FUN
+FUN244,ITU-T Recommendation A.8 procedure,FUN
+FUN245,effective data transfer rate,FUN
+FUN246,error control,FUN
+FUN247,data concentrator,FUN
+FUN248,centralized multipoint operation,FUN
+FUN249,inband signalling,FUN
+FUN250,out-of-band signalling,FUN
+FUN251,coded inband signalling,FUN
+FUN252,half-duplex operation,FUN
+FUN253,interface rate,FUN
+FUN254,information rate,FUN
+FUN255,control signalling rate,FUN
+FUN256,parallel automatic calling,FUN
+FUN257,call establishment function,FUN
+FUN258,serial automatic calling,FUN
+FUN259,start-stop transmission,FUN
+FUN260,data communication,FUN
+FUN261,H.245,FUN
+FUN262,control procedures for multimedia communication,FUN
+FUN263,capability exchange,FUN
+FUN264,G.729 Annex B,FUN
+FUN265,silence compression scheme,FUN
+FUN266,V.8 bis,FUN
+FUN267,AlternativeCapabilitySet,FUN
+FUN268,simultaneousCapabilities,FUN
+FUN269,CapabilityDescriptor,FUN
+FUN270,NonStandardParameter,FUN
+FUN271,DSVD terminal control procedures,FUN
+FUN272,high-level data link control (HDLC) procedures,FUN
+FUN273,segmentation/reassembly header,FUN
+FUN274,suspend/resume option,FUN
+FUN275,V.42 bis,FUN
+FUN276,V.42 LAPM-based procedures,FUN
+FUN277,CRC calculation,FUN
+FUN278,N401 timer,FUN
+FUN279,Generic multiplexer using V.42 LAPM-based procedures,FUN
+FUN280,suspend/resume flags,FUN
+FUN281,DLC-opener,FUN
+FUN282,remote station,FUN
+FUN283,general communication function,FUN
+FUN284,modulation modes,FUN
+FUN285,Synchronous Access Mode,FUN
+FUN286,in-band DCE control,FUN
+FUN287,Data signalling rate,FUN
+FUN288,In-band DCE control,FUN
+FUN289,feature,FUN
+FUN290,Synchronous data modes,FUN
+FUN291,common modes of operation,FUN
+FUN292,DTE-DCE interface functionalities,FUN
+FUN293,analogue modem,FUN
+FUN294,pre-emphasis,FUN
+FUN295,public correspondence service,FUN
+FUN296,data signalling rates,FUN
+FUN297,V.91 start-up,FUN
+FUN298,CRC check,FUN
+FUN299,Modem-on-Hold functions,FUN
+FUN300,MH sequence,FUN
+FUN301,Services and facilities,FUN
+FUN302,categories of access,FUN
+FUN303,Data Terminal Equipment (DTE),FUN
+FUN304,leased circuit data transmission service,FUN
+FUN305,circuit-switched data transmission service (CSDTS),FUN
+FUN306,packet-switched data transmission service (PSDTS),FUN
+FUN307,frame relay data transmission service (FRDTS),FUN
+FUN308,direct access,FUN
+FUN309,service,FUN
+FUN310,port access,FUN
+FUN311,switched connection,FUN
+FUN312,permanent connection,FUN
+FUN313,Packet Assembly/Disassembly (PAD),FUN
+FUN314,Facsimile Packet Assembly/Disassembly (FPAD),FUN
+FUN315,Multi-Aspect Packet Assembly/Disassembly (MAP),FUN
+FUN316,address selection and call progress signals at 50 bit/s,FUN
+FUN317,frame relay data transmission service,FUN
+FUN318,interworking function,FUN
+FUN319,DTE-controlled call negotiation,FUN
+FUN320,data modem,FUN
+FUN321,text telephone,FUN
+FUN322,G3 facsimile,FUN
+FUN323,simple voice telephony,FUN
+FUN324,analog simultaneous Voice and data,FUN
+FUN325,digital simultaneous Voice and data,FUN
+FUN326,multimedia terminal,FUN
+FUN327,V.8 origination negotiation,FUN
+FUN328,V.8 answer negotiation,FUN
+FUN329,V.8 bis negotiation,FUN
+FUN330,control functions,FUN
+FUN331,V.76 multiplexing,FUN
+FUN332,V.75 control functions,FUN
+FUN333,H.223 multiplexing,FUN
+FUN334,H.245 control functions,FUN
+FUN335,control of voice-related functions,FUN
+FUN336,Asynchronous DCE "AT" command set,FUN
+FUN337,Telephone Answering Device functions,FUN
+FUN338,Speakerphone functions,FUN
+FUN339,Voice states and operation of a voice-capable DCE,FUN
+FUN340,Voice states,FUN
+FUN341,Voice and network signalling support,FUN
+FUN342,Call discrimination,FUN
+FUN343,Hook control under voice,FUN
+FUN344,hook control,FUN
+FUN345,Timing marks in the voice data stream,FUN
+FUN346,Compression method and availability of event detection,FUN
+FUN347,compression method,FUN
+FUN348,availability of event detection,FUN
+FUN349,Operation,FUN
+FUN350,Format conventions,FUN
+FUN351,Command structure,FUN
+FUN352,AT commands,FUN
+FUN353,Basic command syntax,FUN
+FUN354,Extended command syntax,FUN
+FUN355,Session management,FUN
+FUN356,Flow control,FUN
+FUN357,Guidelines for continuous protection of the service access process,FUN
+FUN358,security controls,FUN
+FUN359,Security architecture,FUN
+FUN360,Security controls,FUN
+FUN361,Quality of service,FUN
+FUN362,User-Network Interface,FUN
+FUN363,Infrastructure security layer,FUN
+FUN364,Services security layer,FUN
+FUN365,Applications security layer,FUN
+FUN366,Management plane,FUN
+FUN367,Control plane,FUN
+FUN368,End-user plane,FUN
+FUN369,Telecommunication IP-based network security system (TNSS),FUN
+FUN370,free-running system,FUN
+FUN371,Security system,FUN
+FUN372,Bearer service,FUN
+FUN373,Teleservice,FUN
+FUN374,terminal equipment functions,FUN
+FUN375,Individual information service,FUN
+FUN376,Informationization service,FUN
+FUN377,solutions to encountered issues,FUN
+FUN378,assessment, prediction and prevention of possible problems,FUN
+FUN379,Customer Resource Management (CRM),FUN
+FUN380,Internet Protocol TeleVision (IPTV),FUN
+FUN381,Access portal,FUN
+FUN382,Web indexing/searching,FUN
+FUN383,Application store,FUN
+FUN384,Mobile reading/advertising/newspaper,FUN
+FUN385,Mobile television (TV),FUN
+FUN386,Short Message Service (SMS),FUN
+FUN387,Office Automation (OA),FUN
+FUN388,E-government,FUN
+FUN389,E-commerce,FUN
+FUN390,Digital live,FUN
+FUN391,Digital entertainment,FUN
+FUN392,E-health,FUN
+FUN393,E-education,FUN
+FUN394,Telephone services,FUN
+FUN395,Internet broadband service,FUN
+FUN396,Mobile services,FUN
+FUN397,Directory service,FUN
+FUN398,Telegraph service,FUN
+FUN399,Telematic service,FUN
+FUN400,Message handling service,FUN
+FUN401,Videophone,FUN
+FUN402,EAP-based authentication and key management,FUN
+FUN403,Extensible Authentication Protocol (EAP),FUN
+FUN404,AAA protocol,FUN
+FUN405,authenticator,FUN
+FUN406,backend authentication server,FUN
+FUN407,authentication service,FUN
+FUN408,4-way handshake,FUN
+FUN409,encryption,FUN
+FUN410,integrity of messages,FUN
+FUN411,Password-authenticated key exchange (PAK) protocol,FUN
+FUN412,Diffie-Hellman exchange,FUN
+FUN413,perfect forward secrecy,FUN
+FUN414,SHA-1,FUN
+FUN415,Hi(),FUN
+FUN416,SHA-256,FUN
+FUN417,Network security policy information model (NSPIM),FUN
+FUN418,solution,FUN
+FUN419,Attack detection policy,FUN
+FUN420,Access control policy,FUN
+FUN421,Alert control policy,FUN
+FUN422,Traffic control policy,FUN
+FUN423,Routing control policy,FUN
+FUN424,self-configuration capabilities,FUN
+FUN425,ICMPv6,FUN
+FUN426,Router Advertisement (RA) messages,FUN
+FUN427,DHCPv6,FUN
+FUN428,NAT,FUN
+FUN429,IDS,FUN
+FUN430,Firewall (FW),FUN
+FUN431,OSPFv3,FUN
+FUN432,SEND,FUN
+FUN433,MLDv2,FUN
+FUN434,NAT64,FUN
+FUN435,Network Address and Protocol Translation,FUN
+FUN436,NAT66,FUN
+FUN437,NPTv6,FUN
+FUN438,PMTUD,FUN
+FUN439,uRPF,FUN
+FUN440,DAD,FUN
+FUN441,Duplicate Address Detection,FUN
+FUN442,NDP,FUN
+FUN443,security protection,FUN
+FUN444,security requirements,FUN
+FUN445,security reference architecture,FUN
+FUN446,application-control interface,FUN
+FUN447,resource-control interface,FUN
+FUN448,security countermeasures,FUN
+FUN449,SDN controller,FUN
+FUN450,security management,FUN
+FUN451,Fine-grained naming scheme for flow entry,FUN
+FUN452,access control,FUN
+FUN453,authentication,FUN
+FUN454,Provision of assurance in the identity of an entity,FUN
+FUN455,authorization,FUN
+FUN456,Transmission of start-stop characters over synchronous bearer channels,FUN
+FUN457,Error control V.40–V.49,FUN
+FUN458,automatic mode negotiation,FUN
+FUN459,bit alignment,FUN
+FUN460,subchannel connectivity,FUN
+FUN461,multimedia communications,FUN
+FUN462,improved reliability in completing calls,FUN
+FUN463,successfully establishing multimedia communications,FUN
+FUN464,V.140 procedures,FUN
+FUN465,Phase 1,FUN
+FUN466,Phase 2,FUN
+FUN467,Phase 3,FUN
+FUN468,Exchange mode capabilities,FUN
+FUN469,Acoustic coupling,FUN
+FUN470,automatic answering capability,FUN
+FUN471,satisfactory transmission,FUN
+FUN472,acoustic coupling equipment,FUN
+FUN473,communication security,FUN
+FUN474,authentications,FUN
+FUN475,data confidentiality,FUN
+FUN476,availability,FUN
+FUN477,confidentiality,FUN
+FUN478,data integrity,FUN
+FUN479,firewall,FUN
+FUN480,intrusion detection,FUN
+FUN481,intrusion detection system,FUN
+FUN482,intrusion prevention system,FUN
+FUN483,lifecycle management,FUN
+FUN484,user registration,FUN
+FUN485,product display,FUN
+FUN486,product ordering,FUN
+FUN487,product payment,FUN
+FUN488,product shipping,FUN
+FUN489,order handling services,FUN
+FUN490,customer relationship management (CRM) service,FUN
+FUN491,inventory management service,FUN
+FUN492,data lifecycle management,FUN
+FUN493,secure operation,FUN
+FUN494,VoLTE,FUN
+FUN495,voice communication service,FUN
+FUN496,SIP,FUN
+FUN497,MME,FUN
+FUN498,control plane functions,FUN
+FUN499,S-GW,FUN
+FUN500,quality of service (QoS),FUN
+FUN501,P-GW,FUN
+FUN502,CSCF,FUN
+FUN503,call session control function,FUN
+FUN504,P-CSCF,FUN
+FUN505,I-CSCF,FUN
+FUN506,S-CSCF,FUN
+FUN507,session management,FUN
+FUN508,TAS,FUN
+FUN509,signalling,FUN
+FUN510,media manip,FUN
+FUN511,security services,FUN
+FUN512,software-defined networking (SDN),FUN
+FUN513,procedure,FUN
+FUN514,honeypot,FUN
+FUN515,decoy,FUN
+FUN516,centralized firewall service,FUN
+FUN517,efficient firewall management,FUN
+FUN518,centralized DDoS attack mitigation service,FUN
+FUN519,distributed denial-of-service (DDoS) attack mitigation,FUN
+FUN520,centralized honeypot service,FUN
+FUN521,dynamic honeypot configuration,FUN
+FUN522,centralized illegal device management service,FUN
+FUN523,access control management service,FUN
+FUN524,packet forwarding,FUN
+FUN525,SDN application,FUN
+FUN526,SDN switch,FUN
+FUN527,security manager (SM),FUN
+FUN528,service function chaining,FUN
+FUN529,security framework,FUN
+FUN530,security guidelines,FUN
+FUN531,policy management,FUN
+FUN532,countermeasures,FUN
+FUN533,SFC forwarder,FUN
+FUN534,SFC classification rules,FUN
+FUN535,service function path (SFP) forwarding rules,FUN
+FUN536,Network virtualization,FUN
+FUN537,Physical resources layer,FUN
+FUN538,Virtual resources layer,FUN
+FUN539,LINP layer,FUN
+FUN540,customized dynamic and adaptive security services,FUN
+FUN541,Security service chain,FUN
+FUN542,security service,FUN
+FUN543,Network function virtualization (NFV),FUN
+FUN544,software-based virtualized network functions (VNFs),FUN
+FUN545,Software defined networking (SDN),FUN
+FUN546,network-wide and fine-grained control of the network flows,FUN
+FUN547,Service function chain (SFC),FUN
+FUN548,Firewall,FUN
+FUN549,Intrusion detection system (IDS),FUN
+FUN550,Security service chain architecture,FUN
+FUN551,customized security services,FUN
+FUN552,cyber defence,FUN
+FUN553,Network Service Header (NSH),FUN
+FUN554,Data labelling schemes,FUN
+FUN555,Service function chain for special vehicle (SV) speedup,FUN
+FUN556,SDN/NFV security,FUN
+FUN557,security controller,FUN
+FUN558,on-demand capacity scale-in/scale-out,FUN
+FUN559,dynamic and intelligent security policy control,FUN
+FUN560,full view of traffic for monitoring,FUN
+FUN561,unified security policy setting,FUN
+FUN562,software-defined security,FUN
+FUN563,security policy,FUN
+FUN564,policy conflict,FUN
+FUN565,distribution of security policy,FUN
+FUN566,security functions,FUN
+FUN567,flow collection function,FUN
+FUN568,forwarding policy,FUN
+FUN569,lifecycle management of virtualized security function instance,FUN
+FUN570,virtualized network function (VNF),FUN
+FUN571,virtualized security function (VSF),FUN
+FUN572,optimization of security policy,FUN
+FUN573,security configuration parameter,FUN
+FUN574,security function,FUN
+FUN575,firewalls,FUN
+FUN576,IDs,FUN
+FUN577,security gateways,FUN
+FUN578,security management servers,FUN
+FUN579,security information and event management system,FUN
+FUN580,threat detection,FUN
+FUN581,compliance,FUN
+FUN582,security incident management,FUN
+FUN583,Network slice management and orchestration,FUN
+FUN584,network slice specific authentication and authorization,FUN
+FUN585,data confidentiality and integrity,FUN
+FUN586,user identification privacy,FUN
+FUN587,inter-slice security isolation,FUN
+FUN588,Network slicing,FUN
+FUN589,connectivity and data processing,FUN
+FUN590,End-to-end (E2E) network slices,FUN
+FUN591,network slice management and orchestration,FUN
+FUN592,information security controls,FUN
+FUN593,Information security controls,FUN
+FUN594,Classification of information,FUN
+FUN595,best practices for information security management,FUN
+FUN596,Information security management,FUN
+FUN597,information security management processes,FUN
+FUN598,Risk assessment,FUN
+FUN599,Security management policy,FUN
+FUN600,Operation and maintenance,FUN
+FUN601,Monitoring and auditing,FUN
+FUN602,Improve information security processes and controls,FUN
+FUN603,PDCA,FUN
+FUN604,Asset management,FUN
+FUN605,Incident management,FUN
+FUN606,Risk management policy management,FUN
+FUN607,Security management,FUN
+FUN608,Code of practice for information security controls based on ITU-T X.1051 for small and medium-sized telecommunication organizations,FUN
+FUN609,confidentiality, integrity and availability,FUN
+FUN610,secure collaborative processes and controls,FUN
+FUN611,security culture of organizations,FUN
+FUN612,Information security,FUN
+FUN613,Governance of information security,FUN
+FUN614,Information security management system (ISMS),FUN
+FUN615,information security risk management,FUN
+FUN616,Risk management,FUN
+FUN617,network services,FUN
+FUN618,operations and services,FUN
+FUN619,communication control software,FUN
+FUN620,operation management software,FUN
+FUN621,subscriber information management software,FUN
+FUN622,billing software,FUN
+FUN623,application software,FUN
+FUN624,system software,FUN
+FUN625,development tools,FUN
+FUN626,utilities,FUN
+FUN627,security incident management processes,FUN
+FUN628,Security incident management,FUN
+FUN629,incident handling service,FUN
+FUN630,other proactive services,FUN
+FUN631,Recommendation ITU-T A.8 procedures,FUN
+FUN632,Asset management guidelines,FUN
+FUN633,PDCA (Plan – Do – Check – Act) process model,FUN
+FUN634,asset management,FUN
+FUN635,Asset management process,FUN
+FUN636,Asset manager,FUN
+FUN637,Asset owner,FUN
+FUN638,Asset value level,FUN
+FUN639,Information and network security,FUN
+FUN640,Code of practice for personally identifiable information protection,FUN
+FUN641,SECURITY,FUN
+FUN642,INFORMATION AND NETWORK SECURITY,FUN
+FUN643,Network security,FUN
+FUN644,Telebiometrics,FUN
+FUN645,SECURE APPLICATIONS AND SERVICES,FUN
+FUN646,Multicast security,FUN
+FUN647,Home network security,FUN
+FUN648,Mobile security,FUN
+FUN649,Web security,FUN
+FUN650,Security protocols,FUN
+FUN651,Peer-to-peer security,FUN
+FUN652,Networked ID security,FUN
+FUN653,IPTV security,FUN
+FUN654,CYBERSPACE SECURITY,FUN
+FUN655,risk management,FUN
+FUN656,risk management processes,FUN
+FUN657,Risk evaluation,FUN
+FUN658,Risk treatment,FUN
+FUN659,Monitoring and review,FUN
+FUN660,Communication and consultation,FUN
+FUN661,Recording and reporting,FUN
+FUN662,Risk identification,FUN
+FUN663,Risk analysis,FUN
+FUN664,Asynchronous serial command interface,FUN
+FUN665,vCalendar,FUN
+FUN666,+CCALR,FUN
+FUN667,+CCALW,FUN
+FUN668,+CFCLR,FUN
+FUN669,+CFSZ,FUN
+FUN670,+CBKG,FUN
+FUN671,+CCLIK,FUN
+FUN672,+CMOV,FUN
+FUN673,+CDRG,FUN
+FUN674,AT command set for User Equipment (UE),FUN
+FUN675,assistive technology device,FUN
+FUN676,prevent, compensate, relieve or neutralize any resulting handicap,FUN
+FUN677,interface to an ICT device,FUN
+FUN678,object exchange protocol,FUN
+FUN679,AT,FUN
+FUN680,IrDA,FUN
+FUN681,protocol for the exchange of data over infrared light,FUN
+FUN682,MMS,FUN
+FUN683,OBEX,FUN
+FUN684,Object Exchange,FUN
+FUN685,SMS,FUN
+FUN686,text messaging service,FUN
+FUN687,USB,FUN
+FUN688,power supply,FUN
+FUN689,full-duplex mode,FUN
+FUN690,four-phase modulation,FUN
+FUN691,backward (supervisory) channel,FUN
+FUN692,the use of these channels being optional,FUN
+FUN693,power levels,FUN
+FUN694,data stream,FUN
+FUN695,phase change,FUN
+FUN696,synchronizing signal,FUN
+FUN697,data signalling rate,FUN
+FUN698,received signal frequency tolerance,FUN
+FUN699,backward channel,FUN
+FUN700,interchange circuits,FUN
+FUN701,modems,FUN
+FUN702,reliable transmission,FUN
+FUN703,Reduced rate capability,FUN
+FUN704,phase distortion,FUN
+FUN705,linear phase characteristics,FUN
+FUN706,forward and backward channels,FUN
+FUN707,dibits,FUN
+FUN708,2-phase differential modulation,FUN
+FUN709,cyber defence centre (CDC),FUN
+FUN710,CDC services,FUN
+FUN711,chief security officer (CSO),FUN
+FUN712,chief information security officer (CISO),FUN
+FUN713,development and control security policies,FUN
+FUN714,Security Information and Event Management (SIEM),FUN
+FUN715,Intrusion Detection System (IDS),FUN
+FUN716,Intrusion Prevention System (IPS),FUN
+FUN717,network security/threat prevention technology,FUN
+FUN718,Web Application Firewall (WAF),FUN
+FUN719,Computer Security Incident Response Team (CSIRT),FUN
+FUN720,Framework for the creation and operation of a cyber defence centre,FUN
+FUN721,Cyber insurance acquisition guidelines,FUN
+FUN722,cyber insurance,FUN
+FUN723,cybersecurity risk assessment,FUN
+FUN724,risk treatment option,FUN
+FUN725,manage the impact of a cybersecurity incident,FUN
+FUN726,insurer,FUN
+FUN727,insured,FUN
+FUN728,excess,FUN
+FUN729,premium warranty,FUN
+FUN730,RACI matrix,FUN
+FUN731,Access control,FUN
+FUN732,Cryptographic message syntax (CMS),FUN
+FUN733,Public-key infrastructure (PKI),FUN
+FUN734,Privilege management infrastructure (PMI),FUN
+FUN735,Diffie-Hellman,FUN
+FUN736,PKI,FUN
+FUN737,TSB patent database,FUN
+FUN738,overall model for communications aspects of telebiometrics,FUN
+FUN739,integrity,FUN
+FUN740,ITUEHP protocol,FUN
+FUN741,Biology-to-machine (B2M) protocol,FUN
+FUN742,telebiometric multimodal model,FUN
+FUN743,IoT biometric metric applications,FUN
+FUN744,designed to be used,FUN
+FUN745,clinical medical trials,FUN
+FUN746,bending-loss insensitive,FUN
+FUN747,optimal performance characteristics,FUN
+FUN748,strongly improved bending performance,FUN
+FUN749,installed performance requirements,FUN
+FUN750,definitions of the relevant parameters,FUN
+FUN751,test methods of said parameters,FUN
+FUN752,Generic characteristics of Raman amplifiers and Raman amplified subsystems,FUN
+FUN753,Physical transfer functions of optical network elements,FUN
+FUN754,Basic specification for optical amplifier test methods,FUN
+FUN755,Generic specification,FUN
+FUN756,power amplifiers,FUN
+FUN757,increase its signal power level,FUN
+FUN758,pre-amplifiers,FUN
+FUN759,improve its sensitivity,FUN
+FUN760,line amplifiers,FUN
+FUN761,increase the distance covered before regeneration is necessary,FUN
+FUN762,compensate for branching losses in the optical access network,FUN
+FUN763,higher power transmitter,FUN
+FUN764,higher sensitivity receiver,FUN
+FUN765,distributed amplifier,FUN
+FUN766,amplification,FUN
+FUN767,composite distributed and discrete amplifiers,FUN
+FUN768,Optical Amplifier (OA),FUN
+FUN769,Optical Fibre Amplifiers (OFAs),FUN
+FUN770,Semiconductor Optical Amplifiers (SOAs),FUN
+FUN771,power amplifier,FUN
+FUN772,pre-amplifier,FUN
+FUN773,line amplifier,FUN
+FUN774,optically amplified transmitter (OAT),FUN
+FUN775,optically amplified receiver (OAR),FUN
+FUN776,transmission,FUN
+FUN777,optical amplifier (OA) devices,FUN
+FUN778,digital systems,FUN
+FUN779,long-distance networks,FUN
+FUN780,optical access networks,FUN
+FUN781,guidelines and requirements,FUN
+FUN782,techniques to enable optically safe working conditions,FUN
+FUN783,Optical safety procedures,FUN
+FUN784,requirements,FUN
+FUN785,automatic laser shut-down (ALS),FUN
+FUN786,technique (procedure),FUN
+FUN787,automatic power reduction (APR),FUN
+FUN788,Raman amplification,FUN
+FUN789,techniques,FUN
+FUN790,dense wavelength division multiplexing (DWDM),FUN
+FUN791,identification of safety aspects of biometric devices,FUN
+FUN792,specification of limits related to their safety,FUN
+FUN793,personal privacy sphere,FUN
+FUN794,biometric authentication,FUN
+FUN795,specifications,FUN
+FUN796,authentication mechanisms,FUN
+FUN797,CALOR,FUN
+FUN798,TANGO-IN,FUN
+FUN799,TANGO-OUT,FUN
+FUN800,VIDEO-IN,FUN
+FUN801,VIDEO-OUT,FUN
+FUN802,AUDIO-IN,FUN
+FUN803,classifications,FUN
+FUN804,AUDIO-OUT,FUN
+FUN805,CHEMO-IN,FUN
+FUN806,CHEMO-OUT,FUN
+FUN807,RADIO-IN,FUN
+FUN808,RADIO-OUT,FUN
+FUN809,CALOR-IN,FUN
+FUN810,CALOR-OUT,FUN
+FUN811,gateway,FUN
+FUN812,MoIP gateway,FUN
+FUN813,modem relay,FUN
+FUN814,voice band data,FUN
+FUN815,encoding appropriate for modem signals,FUN
+FUN816,FoIP,FUN
+FUN817,MoIP,FUN
+FUN818,ToIP,FUN
+FUN819,VoIP,FUN
+FUN820,version management,FUN
+FUN821,Vendor-defined messages,FUN
+FUN822,telecommunication standard,FUN
+FUN823,Modem-over-IP networks,FUN
+FUN824,SPRT data types,FUN
+FUN825,text relay,FUN
+FUN826,SSE Protocol,FUN
+FUN827,end-to-end connection,FUN
+FUN828,RTP payload format,FUN
+FUN829,PSTN to IP Network gateways,FUN
+FUN830,text over IP,FUN
+FUN831,function,FUN
+FUN832,text telephony,FUN
+FUN833,call discrimination,FUN
+FUN834,SDL diagrams,FUN
+FUN835,BioAPI interworking protocol (BIP),FUN
+FUN836,BioAPI-conforming application,FUN
+FUN837,BIP messages,FUN
+FUN838,Biometric technologies,FUN
+FUN839,identity verification,FUN
+FUN840,Telebiometric authentication profiles,FUN
+FUN841,Transport layer security,FUN
+FUN842,Vocabulary definitions,FUN
+FUN843,Biometric authentication protocols,FUN
+FUN844,Biometric hardware security module (BHSM),FUN
+FUN845,telebiometric authentication,FUN
+FUN846,Public key infrastructure (PKI),FUN
+FUN847,secure telebiometric authentication,FUN
+FUN848,telebiometric authentication scheme,FUN
+FUN849,Telebiometrics protection procedures,FUN
+FUN850,telebiometrics authentication models,FUN
+FUN851,telebiometrics countermeasures,FUN
+FUN852,telebiometrics protection guideline,FUN
+FUN853,Biometric technology,FUN
+FUN854,Telebiometric applications,FUN
+FUN855,E-payment,FUN
+FUN856,Fast identity on-line (FIDO),FUN
+FUN857,biometric technology,FUN
+FUN858,protection from a biometric template with public key certificate,FUN
+FUN859,Telebiometrics digital key framework (TDK),FUN
+FUN860,biometric digital key generation and protection,FUN
+FUN861,biometric digital key,FUN
+FUN862,biometric encryption,FUN
+FUN863,digital signature,FUN
+FUN864,public key certificate,FUN
+FUN865,biometric digital key generation,FUN
+FUN866,biometric certificate,FUN
+FUN867,protection from a biometric template,FUN
+FUN868,cryptographic secure authentication,FUN
+FUN869,secure authentication process,FUN
+FUN870,secure communication,FUN
+FUN871,Recommendation ITU-T A.8 procedure,FUN
+FUN872,one-time telebiometric templates,FUN
+FUN873,secure user authentication,FUN
+FUN874,protection mechanisms,FUN
+FUN875,OTT database,FUN
+FUN876,user authentication,FUN
+FUN877,OTT token,FUN
+FUN878,synchronization information,FUN
+FUN879,transformation information,FUN
+FUN880,biometric template protection techniques,FUN
+FUN881,biometric cryptosystem,FUN
+FUN882,cancellable biometrics,FUN
+FUN883,used for comparison,FUN
+FUN884,challenge response,FUN
+FUN885,identification,FUN
+FUN886,security technologies,FUN
+FUN887,medical services,FUN
+FUN888,biometrics-on-card,FUN
+FUN889,storage space,FUN
+FUN890,computation capability,FUN
+FUN891,biometric sensor,FUN
+FUN892,comparison unit,FUN
+FUN893,storage for biometric information processing,FUN
+FUN894,store-on-card,FUN
+FUN895,compare-on-card,FUN
+FUN896,sensor-on-card,FUN
+FUN897,personal authentication,FUN
+FUN898,smart ID card,FUN
+FUN899,secure and strong telebiometric authentication methods,FUN
+FUN900,Biosignals,FUN
+FUN901,personal identification,FUN
+FUN902,Telebiometric authentication,FUN
+FUN903,Ballistocardiogram (BCG),FUN
+FUN904,Electroencephalogram (EEG),FUN
+FUN905,Electrocardiogram (ECG),FUN
+FUN906,Photoplethysmogram (PPG),FUN
+FUN907,Personal identification,FUN
+FUN908,Secure authentication methods,FUN
+FUN909,Biosignal sensors,FUN
+FUN910,telebiometrics,FUN
+FUN911,multimodal telebiometrics,FUN
+FUN912,biometric capture devices,FUN
+FUN913,entity authentication,FUN
+FUN914,routing principles,FUN
+FUN915,guidelines,FUN
+FUN916,International Data Switching Exchanges (IDSEs),FUN
+FUN917,Network Operators,FUN
+FUN918,effective and economical routing of data traffic,FUN
+FUN919,ITU-T Study Group 17,FUN
+FUN920,WTSA Resolution 1,FUN
+FUN921,World Telecommunication Standardization Assembly (WTSA),FUN
+FUN922,ISO and IEC,FUN
+FUN923,Administration,FUN
+FUN924,Frame Relay,FUN
+FUN925,Routing,FUN
+FUN926,Frame Relay/ATM interworking,FUN
+FUN927,Frame Relay Data Transmission Service,FUN
+FUN928,half-duplex mode,FUN
+FUN929,differential eight-phase modulation,FUN
+FUN930,manually adjustable equalizer,FUN
+FUN931,modulation rate,FUN
+FUN932,self-synchronizing scrambler/descrambler,FUN
+FUN933,fast start-up sequence,FUN
+FUN934,automatic adaptive equalizer,FUN
+FUN935,50% raised cosine energy spectrum shaping,FUN
+FUN936,Tribit,FUN
+FUN937,Turn-ON sequence,FUN
+FUN938,synchronizing signals,FUN
+FUN939,proper conditioning of the receiving modem,FUN
+FUN940,pseudo-random sequence,FUN
+FUN941,Turn-OFF sequence,FUN
+FUN942,Received signal frequency tolerance,FUN
+FUN943,Backward channel,FUN
+FUN944,Interchange circuits,FUN
+FUN945,data transmission,FUN
+FUN946,built-in fallback capability,FUN
+FUN947,Recommendation X.115,FUN
+FUN948,address translation service,FUN
+FUN949,ARE,FUN
+FUN950,1-to-N address translation,FUN
+FUN951,time-of-day translation,FUN
+FUN952,interface-specific address translation capability,FUN
+FUN953,ARP,FUN
+FUN954,IARE,FUN
+FUN955,Definition,FUN
+FUN956,Supplier of information concerning address translation within a single network,FUN
+FUN957,Subnetwork Access Function,FUN
+FUN958,application,FUN
+FUN959,interworking on a worldwide basis,FUN
+FUN960,escape code mechanism,FUN
+FUN961,Escape code 0,FUN
+FUN962,Escape code 9,FUN
+FUN963,TOA/NPI,FUN
+FUN964,Numbering Plan Identifier (NPI),FUN
+FUN965,International Network Identification Codes,FUN
+FUN966,Operation and Maintenance procedures,FUN
+FUN967,International Network Identification Code,FUN
+FUN968,Call processing delays,FUN
+FUN969,objectives,FUN
+FUN970,international user services and facilities,FUN
+FUN971,common channel signalling,FUN
+FUN972,Total call connection delay (TCCD),FUN
+FUN973,Call request delay (t1),FUN
+FUN974,call blocking probability,FUN
+FUN975,quality of service,FUN
+FUN976,call processing delays,FUN
+FUN977,failures due to congestion (blocking),FUN
+FUN978,failures due to malfunction,FUN
+FUN979,loss of service,FUN
+FUN980,transmission performance,FUN
+FUN981,grade of service,FUN
+FUN982,blocking allowance,FUN
+FUN983,design objectives,FUN
+FUN984,busy hours,FUN
+FUN985,overall blocking performance,FUN
+FUN986,normal busy hour load,FUN
+FUN987,blocking probabilities,FUN
+FUN988,basic call,FUN
+FUN989,non-reception of proceed to select,FUN
+FUN990,non-connection of call,FUN
+FUN991,Probability of non-connection due to congestion,FUN
+FUN992,three data communication functions,FUN
+FUN993,each function,FUN
+FUN994,availability function,FUN
+FUN995,end-to-end virtual connection performance,FUN
+FUN996,access,FUN
+FUN997,user information transfer,FUN
+FUN998,disengagement,FUN
+FUN999,service availability,FUN
+FUN1000,specified availability function,FUN
+FUN1001,OSI Network service,FUN
+FUN1002,speed of service performance,FUN
+FUN1003,Speed of service,FUN
+FUN1004,International packet-switched services,FUN
+FUN1005,user information transfer function,FUN
+FUN1006,Throughput capacity,FUN
+FUN1007,Access,FUN
+FUN1008,data communication functions,FUN
+FUN1009,User information transfer,FUN
+FUN1010,data communication function,FUN
+FUN1011,Disengagement,FUN
+FUN1012,packet-switched network performance,FUN
+FUN1013,Service availability,FUN
+FUN1014,international data transmission services,FUN
+FUN1015,optional user facilities,FUN
+FUN1016,call progress signals,FUN
+FUN1017,topics for study,FUN
+FUN1018,PSPDN performance,FUN
+FUN1019,mean time between service outages,FUN
+FUN1020,Call set-up delay,FUN
+FUN1021,Data packet transfer delay,FUN
+FUN1022,speed of service,FUN
+FUN1023,Throughput,FUN
+FUN1024,Clear indication delay,FUN
+FUN1025,Clear confirmation delay,FUN
+FUN1026,Call set-up error probability,FUN
+FUN1027,Call set-up failure probability,FUN
+FUN1028,Residual error ratio,FUN
+FUN1029,Reset stimulus probability,FUN
+FUN1030,Reset probability,FUN
+FUN1031,Premature disconnect stimulus probability,FUN
+FUN1032,Premature disconnect probability,FUN
+FUN1033,Call clear failure probability,FUN
+FUN1034,Availability,FUN
+FUN1035,Measurement architectures,FUN
+FUN1036,Controlled and monitored source and controlled and monitored sink (C,M/C,M),FUN
+FUN1037,Measurement method,FUN
+FUN1038,Equipment synchronization,FUN
+FUN1039,Method for synchronizing equipment,FUN
+FUN1040,Echo DTE,FUN
+FUN1041,data loopback function,FUN
+FUN1042,Drop DTE,FUN
+FUN1043,controlled, unmonitored sink function,FUN
+FUN1044,Generator DTE,FUN
+FUN1045,throughput capacity measurement,FUN
+FUN1046,Test DTE,FUN
+FUN1047,controlled and monitored source and/or sink,FUN
+FUN1048,Network service definition,FUN
+FUN1049,GENERAL QUALITY OF SERVICE PARAMETERS FOR COMMUNICATION VIA PUBLIC DATA NETWORKS,FUN
+FUN1050,General Quality of Service Parameters,FUN
+FUN1051,Quality of Service (QOS),FUN
+FUN1052,general quality of service,FUN
+FUN1053,OSI network service,FUN
+FUN1054,Electronic funds transfer (EFT),FUN
+FUN1055,Access delay,FUN
+FUN1056,Incorrect access probability,FUN
+FUN1057,Access denial probability,FUN
+FUN1058,User information transfer delay,FUN
+FUN1059,User information transfer rate,FUN
+FUN1060,User information error probability,FUN
+FUN1061,Extra user information delivery probability,FUN
+FUN1062,User information misdelivery probability,FUN
+FUN1063,User information loss probability,FUN
+FUN1064,Disengagement delay,FUN
+FUN1065,Disengagement denial probability,FUN
+FUN1066,Transfer denial probability,FUN
+FUN1067,Service outage duration,FUN
+FUN1068,Voice-band data (VBD),FUN
+FUN1069,Echo canceller,FUN
+FUN1070,VBD mode,FUN
+FUN1071,Session Description Protocol (SDP),FUN
+FUN1072,ITU-T H.245,FUN
+FUN1073,VBD support,FUN
+FUN1074,State Signalling Events (SSE),FUN
+FUN1075,Adaptive Differential Pulse Code Modulation (ADPCM),FUN
+FUN1076,service interworking,FUN
+FUN1077,voiceband data (VBD) operation,FUN
+FUN1078,IP peering,FUN
+FUN1079,VBDoIP-to-FoIP gateway,FUN
+FUN1080,emulated VBDoIP-to-FoIP mode,FUN
+FUN1081,native VBDoIP-to-FoIP mode,FUN
+FUN1082,facsimile packet relay mode,FUN
+FUN1083,voiceband data mode,FUN
+FUN1084,computer-aided automatic,FUN
+FUN1085,baseband signal,FUN
+FUN1086,frequency modulation,FUN
+FUN1087,calibration signal,FUN
+FUN1088,quality control,FUN
+FUN1089,functions,FUN
+FUN1090,acoustic coupling,FUN
+FUN1091,quality of service metrics,FUN
+FUN1092,Quality of service metrics,FUN
+FUN1093,FR/ATM interworking function/unit,FUN
+FUN1094,Data block delivered ratio/loss ratio,FUN
+FUN1095,Data block transfer delay,FUN
+FUN1096,Data block delay jitter,FUN
+FUN1097,FR/ATM IWF,FUN
+FUN1098,Measurement points,FUN
+FUN1099,metrics,FUN
+FUN1100,User information transfer performance parameters,FUN
+FUN1101,techniques for assessing frame relay network availability,FUN
+FUN1102,measurement techniques,FUN
+FUN1103,frame transfer reference events,FUN
+FUN1104,performance parameter definition,FUN
+FUN1105,speed, accuracy and dependability,FUN
+FUN1106,SVC services,FUN
+FUN1107,connection establishment,FUN
+FUN1108,disengagement performance,FUN
+FUN1109,call control delay,FUN
+FUN1110,accuracy parameters,FUN
+FUN1111,dependability parameters,FUN
+FUN1112,user information transfer performance parameters,FUN
+FUN1113,3 × 3 performance matrix,FUN
+FUN1114,speed,FUN
+FUN1115,accuracy,FUN
+FUN1116,dependability,FUN
+FUN1117,network availability objective values,FUN
+FUN1118,frame relay network availability,FUN
+FUN1119,specialized agency,FUN
+FUN1120,frame transfer delay (FTD),FUN
+FUN1121,committed frame loss ratio (FLRc),FUN
+FUN1122,frame relay service classes,FUN
+FUN1123,information transfer phase,FUN
+FUN1124,quality of service (QoS) class,FUN
+FUN1125,performance,FUN
+FUN1126,frame delay jitter (FDJ),FUN
+FUN1127,Frame relay network availability,FUN
+FUN1128,Availability performance objectives,FUN
+FUN1129,Availability Ratio,FUN
+FUN1130,Mean time between outages,FUN
+FUN1131,Outage Intensity,FUN
+FUN1132,Routing factor,FUN
+FUN1133,National Portion availability objective,FUN
+FUN1134,A = 1 – (0.0002 + k × x),FUN
+FUN1135,k = [1 + integer part of (L ACS/100)],FUN
+FUN1136,integer part of (L ACS/100),FUN
+FUN1137,End-to-end availability objective,FUN
+FUN1138,international frame relay service,FUN
+FUN1139,OAM Frames,FUN
+FUN1140,methods for measuring,FUN
+FUN1141,Frame Transit Delay,FUN
+FUN1142,Frame Delay Jitter,FUN
+FUN1143,Frame Loss Ratio,FUN
+FUN1144,Frame Transfer Delay (FTD),FUN
+FUN1145,Frame Delay Jitter (FDJ),FUN
+FUN1146,Frame Loss Ratio (FLR),FUN
+FUN1147,service or network availability,FUN
+FUN1148,data transfer phase,FUN
+FUN1149,methods,FUN
+FUN1150,FR-OAM Frames,FUN
+FUN1151,test traffic,FUN
+FUN1152,IP layer performance,FUN
+FUN1153,Frame Relay and IP performance parameters,FUN
+FUN1154,transfer delay,FUN
+FUN1155,Connection establishment and disengagement performance parameters,FUN
+FUN1156,IP Packet Loss Ratio (IPLR),FUN
+FUN1157,DTE/DCE test loops,FUN
+FUN1158,principles,FUN
+FUN1159,Loop 3d,FUN
+FUN1160,Loop 3c,FUN
+FUN1161,Loop 3b,FUN
+FUN1162,Loop 3a,FUN
+FUN1163,Loop 4a,FUN
+FUN1164,Loop 4b,FUN
+FUN1165,Loop 2b,FUN
+FUN1166,Loop 2a,FUN
+FUN1167,signal element timing,FUN
+FUN1168,byte timing,FUN
+FUN1169,Frame Relay operations and maintenance,FUN
+FUN1170,OAM frames,FUN
+FUN1171,Frame Transfer Delay,FUN
+FUN1172,Frame Delivery Ratio,FUN
+FUN1173,Data Delivery Ratio,FUN
+FUN1174,Customer Network Management (CNM),FUN
+FUN1175,management capabilities,FUN
+FUN1176,Systems management,FUN
+FUN1177,customer network management services,FUN
+FUN1178,maintenance and management services,FUN
+FUN1179,Fault Management,FUN
+FUN1180,CNM Alarm Notification,FUN
+FUN1181,CNM Fault History,FUN
+FUN1182,Configuration Management,FUN
+FUN1183,CNM Configuration Inquiry,FUN
+FUN1184,CNM Reconfiguration,FUN
+FUN1185,Accounting Management,FUN
+FUN1186,CNM Periodic Billing,FUN
+FUN1187,CNM Detailed Accounting,FUN
+FUN1188,Performance Management,FUN
+FUN1189,CNM Traffic Information,FUN
+FUN1190,CNM Quality of Service Information,FUN
+FUN1191,Security Management,FUN
+FUN1192,CNM supporting services,FUN
+FUN1193,CNM Service Request Service,FUN
+FUN1194,CNM services,FUN
+FUN1195,CNM Service,FUN
+FUN1196,ITU-T Recommendations,FUN
+FUN1197,Interchange equivalent circuit,FUN
+FUN1198,Load,FUN
+FUN1199,Generator,FUN
+FUN1200,Significant levels (V1),FUN
+FUN1201,Signal characteristics,FUN
+FUN1202,Detection of generator power-off or circuit failure,FUN
+FUN1203,Operation from 20 kbit/s to 64 kbit/s,FUN
+FUN1204,Option 1,FUN
+FUN1205,Option 2,FUN
+FUN1206,9600 BITS PER SECOND MODEM,FUN
+FUN1207,multiplexer,FUN
+FUN1208,signal space coding,FUN
+FUN1209,fallback rate of 7200 bits per second,FUN
+FUN1210,fallback rate of 4800 bits per second,FUN
+FUN1211,carrier frequency tolerance allowance,FUN
+FUN1212,functional and operational requirements,FUN
+FUN1213,128 (144) kbit/s data circuit-terminating equipment,FUN
+FUN1214,V.24-type interface,FUN
+FUN1215,X.24-type interface,FUN
+FUN1216,scrambler,FUN
+FUN1217,descrambler,FUN
+FUN1218,testing facilities,FUN
+FUN1219,multiplexing,FUN
+FUN1220,internal management,FUN
+FUN1221,remote access,FUN
+FUN1222,Customer Network Management Service,FUN
+FUN1223,Managed objects,FUN
+FUN1224,Attributes,FUN
+FUN1225,Name bindings,FUN
+FUN1226,Fault management,FUN
+FUN1227,Configuration management,FUN
+FUN1228,Accounting management,FUN
+FUN1229,Performance management,FUN
+FUN1230,Alarm notification service,FUN
+FUN1231,Fault history service,FUN
+FUN1232,Trouble report service,FUN
+FUN1233,Loop setup service,FUN
+FUN1234,Test host service,FUN
+FUN1235,Protocol monitoring service,FUN
+FUN1236,Configuration inquiry service,FUN
+FUN1237,CNM reconfiguration service,FUN
+FUN1238,Ordering service,FUN
+FUN1239,Systematic call redirection service,FUN
+FUN1240,Periodic billing service,FUN
+FUN1241,Detailed accounting service,FUN
+FUN1242,Traffic information service,FUN
+FUN1243,Quality of service information service,FUN
+FUN1244,Password change service,FUN
+FUN1245,Access rights definition service,FUN
+FUN1246,CNM Alarm Notification Service,FUN
+FUN1247,CNM Fault History Service,FUN
+FUN1248,CNM Trouble Report Service,FUN
+FUN1249,CNM Configuration Inquiry Service,FUN
+FUN1250,CNM Reconfiguration Service,FUN
+FUN1251,CNM Ordering Service,FUN
+FUN1252,CNM cancellation Service,FUN
+FUN1253,CNM Inventory Inquiry Service,FUN
+FUN1254,CNM Periodic Billing Service,FUN
+FUN1255,CNM Detailed accounting service,FUN
+FUN1256,CNM Traffic Information Service,FUN
+FUN1257,CNM Quality of Service Information Service,FUN
+FUN1258,CNM Network statistics service,FUN
+FUN1259,CNM Service Request service,FUN
+FUN1260,Network-network management architecture,FUN
+FUN1261,OPEN SYSTEMS INTERCONNECTION,FUN
+FUN1262,INTERWORKING BETWEEN NETWORKS,FUN
+FUN1263,MESSAGE HANDLING SYSTEMS,FUN
+FUN1264,DIRECTORY,FUN
+FUN1265,OSI NETWORKING AND SYSTEM ASPECTS,FUN
+FUN1266,OSI MANAGEMENT,FUN
+FUN1267,OSI APPLICATIONS,FUN
+FUN1268,OPEN DISTRIBUTED PROCESSING,FUN
+FUN1269,Quantum entropy source,FUN
+FUN1270,Random bit generator,FUN
+FUN1271,Entropy estimation,FUN
+FUN1272,Randomness extractors,FUN
+FUN1273,Non-deterministic random bit generators (NRBG),FUN
+FUN1274,management services,FUN
+FUN1275,Network-Network Management (NNM),FUN
+FUN1276,internetwork communication,FUN
+FUN1277,NNM Alarm Notification Service,FUN
+FUN1278,NNM Fault History Service,FUN
+FUN1279,NNM Trouble Report Service,FUN
+FUN1280,NNM Loop Set-up Service,FUN
+FUN1281,NNM Test Host Service,FUN
+FUN1282,NNM Protocol Monitoring Service,FUN
+FUN1283,NNM Configuration Inquiry Service,FUN
+FUN1284,NNM Reconfiguration Service,FUN
+FUN1285,NNM Ordering Service,FUN
+FUN1286,NNM Inventory Inquiry Service,FUN
+FUN1287,NNM Usage Metering Accounting Service,FUN
+FUN1288,NNM Traffic Information Service,FUN
+FUN1289,NNM Network Statistics Service,FUN
+FUN1290,Quantum communication,FUN
+FUN1291,Security framework for quantum key distribution networks,FUN
+FUN1292,Security threats,FUN
+FUN1293,Security requirements (SReqs),FUN
+FUN1294,Security measures,FUN
+FUN1295,accountability,FUN
+FUN1296,authenticity,FUN
+FUN1297,classical channel,FUN
+FUN1298,non-destructively read and fully reproduced,FUN
+FUN1299,information theoretically secure (IT -secure),FUN
+FUN1300,key management,FUN
+FUN1301,key manager (KM),FUN
+FUN1302,key manager link,FUN
+FUN1303,key relay,FUN
+FUN1304,quantum channel,FUN
+FUN1305,quantum key distribution,FUN
+FUN1306,quantum key distribution link,FUN
+FUN1307,quantum key distribution module,FUN
+FUN1308,cryptographic functions,FUN
+FUN1309,quantum optical processes,FUN
+FUN1310,quantum key distribution (QKD) protocols,FUN
+FUN1311,synchronization,FUN
+FUN1312,distillation for key generation,FUN
+FUN1313,quantum key distribution network (QKDN),FUN
+FUN1314,quantum key distribution node,FUN
+FUN1315,protected against intrusion and attacks by unauthorized parties,FUN
+FUN1316,threat,FUN
+FUN1317,quantum key distribution protocol (QKD protocol),FUN
+FUN1318,information-theoretical security,FUN
+FUN1319,Raman amplifiers,FUN
+FUN1320,reverse pumped distributed Raman amplifier,FUN
+FUN1321,forward pumped distributed Raman amplifier,FUN
+FUN1322,bidirectionally pumped distributed Raman amplifier,FUN
+FUN1323,reverse pumped distributed, composite Raman amplifier,FUN
+FUN1324,bidirectionally pumped distributed, composite Raman amplifier,FUN
+FUN1325,Raman amplifier,FUN
+FUN1326,discrete Raman amplifier,FUN
+FUN1327,Equivalent input power,FUN
+FUN1328,Raman on-off gain,FUN
+FUN1329,Net Gain,FUN
+FUN1330,polarization mode dispersion (PMD) compensation,FUN
+FUN1331,transmission and detection of optical signals,FUN
+FUN1332,PMD compensators (PMDCs),FUN
+FUN1333,rate of change,FUN
+FUN1334,derivative,FUN
+FUN1335,optical signal-to-noise ratio (OSNR) penalty due to DGD,FUN
+FUN1336,Measurement methods for PMD-related impairments,FUN
+FUN1337,adaptive chromatic dispersion compensators,FUN
+FUN1338,Wavelength Division Multiplexing (WDM) technology,FUN
+FUN1339,adaptive chromatic dispersion compensation,FUN
+FUN1340,Adaptive,FUN
+FUN1341,adaptive dispersion compensators (ADC),FUN
+FUN1342,key parameters,FUN
+FUN1343,transmission characteristics,FUN
+FUN1344,optical add/drop multiplexer (OADM) subsystem,FUN
+FUN1345,asymmetric branching component,FUN
+FUN1346,optical attenuator,FUN
+FUN1347,optical branching component (wavelength non-selective),FUN
+FUN1348,optical connector,FUN
+FUN1349,delay line interferometer,FUN
+FUN1350,dynamic channel equalizer (DCE),FUN
+FUN1351,optical filter,FUN
+FUN1352,optical isolator,FUN
+FUN1353,passive (chromatic) dispersion compensator,FUN
+FUN1354,single optical channel passive (chromatic) dispersion compensator,FUN
+FUN1355,optical splice,FUN
+FUN1356,optical switch,FUN
+FUN1357,optical termination,FUN
+FUN1358,tuneable (chromatic) dispersion compensator,FUN
+FUN1359,tuneable filter,FUN
+FUN1360,optical wavelength MUX/DMUX,FUN
+FUN1361,coarse WDM device,FUN
+FUN1362,dense WDM device,FUN
+FUN1363,wide WDM device,FUN
+FUN1364,Definitions and test methods for linear, deterministic attributes of single-mode fibre and cable,FUN
+FUN1365,Definitions and test methods for statistical and non-linear related attributes of single-mode fibre and cable,FUN
+FUN1366,MD-ROADM,FUN
+FUN1367,network scalability,FUN
+FUN1368,enhanced service provisioning,FUN
+FUN1369,resilience features,FUN
+FUN1370,DWDM,FUN
+FUN1371,classification criteria,FUN
+FUN1372,Key management,FUN
+FUN1373,security measures of key management,FUN
+FUN1374,Control and management information,FUN
+FUN1375,Security requirements and measures on the key data,FUN
+FUN1376,Security requirements and measures on the metadata,FUN
+FUN1377,Security requirements and measures on the control and management information,FUN
+FUN1378,Quantum Key Distribution (QKD),FUN
+FUN1379,key distribution distance,FUN
+FUN1380,Key Manager (KM),FUN
+FUN1381,Key Management Agent (KMA),FUN
+FUN1382,manage keys,FUN
+FUN1383,Key Supply Agent (KSA),FUN
+FUN1384,operate the QKD,FUN
+FUN1385,Information Theoretic Security (ITS),FUN
+FUN1386,Quantum communication – Security design for QKDN,FUN
+FUN1387,Security design,FUN
+FUN1388,Key combination and confidential key supply for quantum key distribution networks,FUN
+FUN1389,confidential key supply,FUN
+FUN1390,Security requirements and measures for integration of quantum key distribution network and secure storage network,FUN
+FUN1391,Public key certification,FUN
+FUN1392,Authentication,FUN
+FUN1393,Authorization,FUN
+FUN1394,Key manager (KM),FUN
+FUN1395,Key management agent (KMA),FUN
+FUN1396,Key supply agent (KSA),FUN
+FUN1397,Quantum key distribution (QKD),FUN
+FUN1398,information theoretical security,FUN
+FUN1399,QKDN controller,FUN
+FUN1400,QKDN manager,FUN
+FUN1401,monitor and manage a QKD network,FUN
+FUN1402,Control and management,FUN
+FUN1403,Security requirements,FUN
+FUN1404,measures,FUN
+FUN1405,Big Data Security,FUN
+FUN1406,Security,FUN
+FUN1407,Big Data as a Service (BDaaS),FUN
+FUN1408,Security guidelines,FUN
+FUN1409,Big data infrastructure,FUN
+FUN1410,BDaaS,FUN
+FUN1411,Big data service providers (BDSPs),FUN
+FUN1412,Cloud computing,FUN
+FUN1413,Security framework,FUN
+FUN1414,Big data applications,FUN
+FUN1415,Interface,FUN
+FUN1416,Big data as a service ecosystem,FUN
+FUN1417,Security challenges,FUN
+FUN1418,Data security,FUN
+FUN1419,Big data service user (BDSU),FUN
+FUN1420,Big data service partner (BDSN),FUN
+FUN1421,Data provider (DP),FUN
+FUN1422,Quadrature amplitude modulation,FUN
+FUN1423,principal characteristic of the modem,FUN
+FUN1424,Data scramblers,FUN
+FUN1425,secure data transmission,FUN
+FUN1426,Adaptive equalizers,FUN
+FUN1427,Eight-state trellis coding,FUN
+FUN1428,error correction,FUN
+FUN1429,Carrier frequency,FUN
+FUN1430,Modulation rate,FUN
+FUN1431,Signal element codings,FUN
+FUN1432,Scrambler and descrambler,FUN
+FUN1433,Training and synchronizing sequences,FUN
+FUN1434,training and synchronizing signals,FUN
+FUN1435,ABAB alternations,FUN
+FUN1436,training and synchronizing sequences,FUN
+FUN1437,Equalizer training signal,FUN
+FUN1438,Bridge signal,FUN
+FUN1439,Scrambled ONEs,FUN
+FUN1440,operation of the existing type of textphone,FUN
+FUN1441,5-bit mode,FUN
+FUN1442,1400 Hz carrier,FUN
+FUN1443,1800 Hz,FUN
+FUN1444,frequency shift-keyed modulation,FUN
+FUN1445,50 bits/s,FUN
+FUN1446,45.45 bits/s,FUN
+FUN1447,MODEMS FOR PARALLEL DATA TRANSMISSION,FUN
+FUN1448,Data channel,FUN
+FUN1449,audible signalling,FUN
+FUN1450,electrical signalling,FUN
+FUN1451,backward channel frequency,FUN
+FUN1452,Character reception,FUN
+FUN1453,Detection of line signal received on the data channel,FUN
+FUN1454,Timing for characters received,FUN
+FUN1455,asynchronous,FUN
+FUN1456,sampling times,FUN
+FUN1457,Interface of instation modem,FUN
+FUN1458,functional characteristics,FUN
+FUN1459,Interface of outstation modems,FUN
+FUN1460,data lifecycle,FUN
+FUN1461,data aggregation and fusion,FUN
+FUN1462,Security guidelines for big data infrastructure and platform,FUN
+FUN1463,Multi-Party Computation (MPC),FUN
+FUN1464,computation result,FUN
+FUN1465,Secure MPC,FUN
+FUN1466,Technical framework for MPC,FUN
+FUN1467,Security levels of MPC protocols,FUN
+FUN1468,Applications of MPC,FUN
+FUN1469,security requirement recommendations,FUN
+FUN1470,Joint modelling,FUN
+FUN1471,Data matching,FUN
+FUN1472,Garbled Circuit (GC),FUN
+FUN1473,Homomorphic Encryption (HE),FUN
+FUN1474,Oblivious Transfer (OT),FUN
+FUN1475,Secret Sharing (SS),FUN
+FUN1476,Open Application Programming Interface (OpenAPI),FUN
+FUN1477,de-identification,FUN
+FUN1478,combining process,FUN
+FUN1479,efficient storage, manipulation, and analysis,FUN
+FUN1480,packet-switched and circuits-witched data transmission services,FUN
+FUN1481,responsible subscriber,FUN
+FUN1482,coordinating Administration,FUN
+FUN1483,permanent virtual circuit service,FUN
+FUN1484,international permanent virtual circuit,FUN
+FUN1485,controlling and coordinating Administration,FUN
+FUN1486,proposal on routing,FUN
+FUN1487,Direct call,FUN
+FUN1488,Closed user group,FUN
+FUN1489,Reverse charging,FUN
+FUN1490,optional user facility,FUN
+FUN1491,circuit switched data transmission service,FUN
+FUN1492,Virtual call service,FUN
+FUN1493,Permanent virtual circuit service,FUN
+FUN1494,packet switched data transmission service,FUN
+FUN1495,Frame relay data transmission service,FUN
+FUN1496,facilities,FUN
+FUN1497,Even parity,FUN
+FUN1498,Call control phase,FUN
+FUN1499,Ready (state 1),FUN
+FUN1500,Call request (state 2),FUN
+FUN1501,Proceed-to-select (state 3),FUN
+FUN1502,Selection signal sequence (state 4),FUN
+FUN1503,DTE waiting (state 5),FUN
+FUN1504,Incoming call (state 8),FUN
+FUN1505,Call accepted (state 9),FUN
+FUN1506,Call not accepted (state 18),FUN
+FUN1507,circuit 107 - Data set ready,FUN
+FUN1508,operational functions,FUN
+FUN1509,circuit 108/1 - Connect data set to line,FUN
+FUN1510,circuit 108/2 - Data terminal ready,FUN
+FUN1511,circuit 125 - Calling indicator,FUN
+FUN1512,DCE ready,FUN
+FUN1513,DCE clear indication,FUN
+FUN1514,signal source,FUN
+FUN1515,signal receive side,FUN
+FUN1516,open circuit voltage of the signal receive side Vr,FUN
+FUN1517,current at interface IS,FUN
+FUN1518,signal allocation,FUN
+FUN1519,electrical characteristics,FUN
+FUN1520,optocouplers,FUN
+FUN1521,insulation resistance,FUN
+FUN1522,capacitance,FUN
+FUN1523,internal resistance of signal source R1, R0,FUN
+FUN1524,current I0,FUN
+FUN1525,capacitance of the signal source C g,FUN
+FUN1526,signal receive side in the DCE,FUN
+FUN1527,open circuit voltage Vr,FUN
+FUN1528,current I1,FUN
+FUN1529,voltage at the interface Vs,FUN
+FUN1530,internal resistance Rr,FUN
+FUN1531,capacitance of C r,FUN
+FUN1532,signal receive side in the DTE,FUN
+FUN1533,current I1 in the DTE,FUN
+FUN1534,voltage at the interface Vs in the DTE,FUN
+FUN1535,internal resistance Rr in the DTE,FUN
+FUN1536,capacitance of C r in the DTE,FUN
+FUN1537,digital signals,FUN
+FUN1538,Duplex mode of operation,FUN
+FUN1539,Echo cancellation techniques,FUN
+FUN1540,Data signalling rates,FUN
+FUN1541,Modulation schemes,FUN
+FUN1542,Rate sequences,FUN
+FUN1543,coding,FUN
+FUN1544,special facilities,FUN
+FUN1545,Transmitted power level,FUN
+FUN1546,Signal element coding,FUN
+FUN1547,Nonredundant coding,FUN
+FUN1548,Trellis coding,FUN
+FUN1549,Transmit data,FUN
+FUN1550,Receive data,FUN
+FUN1551,Timing arrangements,FUN
+FUN1552,transmitter signal element timing,FUN
+FUN1553,receiver signal element timing,FUN
+FUN1554,Data rate control,FUN
+FUN1555,operating sequences defined in 5,FUN
+FUN1556,Electrical characteristics of interchange circuits,FUN
+FUN1557,Recommendation X.21,FUN
+FUN1558,leased circuit service (point-to-point and centralized multipoint),FUN
+FUN1559,direct call facility,FUN
+FUN1560,address call facility,FUN
+FUN1561,leased circuit service,FUN
+FUN1562,duplex transmission capability,FUN
+FUN1563,synchronous transmission,FUN
+FUN1564,interchange circuits G, T, R, C, I, S and F,FUN
+FUN1565,Call control and failure detection procedures,FUN
+FUN1566,Quiescent states,FUN
+FUN1567,Failure detection,FUN
+FUN1568,Fault conditions on interchange circuits,FUN
+FUN1569,failure detection type 2,FUN
+FUN1570,failure detection type 1,FUN
+FUN1571,DCE fault condition,FUN
+FUN1572,Signal element timing provision,FUN
+FUN1573,Elements of the call control phase,FUN
+FUN1574,Data transfer phase,FUN
+FUN1575,Clearing phase,FUN
+FUN1576,Character alignment,FUN
+FUN1577,Error checking,FUN
+FUN1578,Multiplex structure,FUN
+FUN1579,6-bit byte interleaved multiplexed bit stream,FUN
+FUN1580,8-bit byte interleaved multiplexed bit stream,FUN
+FUN1581,Test loops,FUN
+FUN1582,DTE tests,FUN
+FUN1583,network maintenance,FUN
+FUN1584,Circuit G,FUN
+FUN1585,Signal ground or common return,FUN
+FUN1586,Circuit Ga,FUN
+FUN1587,Circuit Gb,FUN
+FUN1588,Circuit T,FUN
+FUN1589,Transmit,FUN
+FUN1590,Circuit R,FUN
+FUN1591,Receive,FUN
+FUN1592,Circuit C,FUN
+FUN1593,Control,FUN
+FUN1594,Circuit I,FUN
+FUN1595,Indication,FUN
+FUN1596,Circuit S,FUN
+FUN1597,Signal element timing,FUN
+FUN1598,Circuit B,FUN
+FUN1599,Byte timing,FUN
+FUN1600,Circuit F,FUN
+FUN1601,Frame start identification,FUN
+FUN1602,Circuit X,FUN
+FUN1603,DTE transmit signal element timing,FUN
+FUN1604,super extended sequence numbering,FUN
+FUN1605,DTE/DCE interface,FUN
+FUN1606,Packet Assembly/Disassembly facility (PAD),FUN
+FUN1607,PAD parameter settings,FUN
+FUN1608,PAD service signals,FUN
+FUN1609,Parameter setting for ITU-T standard profile,FUN
+FUN1610,Selection of the default packet size,FUN
+FUN1611,extended dialogue mode,FUN
+FUN1612,Reset PAD service signal,FUN
+FUN1613,Clear PAD service signal,FUN
+FUN1614,Clear confirmation PAD service signal,FUN
+FUN1615,packet mode DTE,FUN
+FUN1616,packet-switched data transmission services,FUN
+FUN1617,virtual call facility,FUN
+FUN1618,Multi-Aspect PAD (MAP),FUN
+FUN1619,start-stop mode DTE,FUN
+FUN1620,Packet assembly/disassembly facility (PAD),FUN
+FUN1621,operational characteristics,FUN
+FUN1622,control procedures for PAD functions,FUN
+FUN1623,PAD parameters,FUN
+FUN1624,Virtual call facility,FUN
+FUN1625,control of these functions,FUN
+FUN1626,Terminal adaptor (TA),FUN
+FUN1627,rate adaption functions,FUN
+FUN1628,call establishment functions,FUN
+FUN1629,mapping functions,FUN
+FUN1630,ready for data alignment,FUN
+FUN1631,TA X.21,FUN
+FUN1632,TA X.21 bis,FUN
+FUN1633,TA X.20 bis,FUN
+FUN1634,X.21/Q.931 mapping functions,FUN
+FUN1635,terminal adaption functions,FUN
+FUN1636,universal TA,FUN
+FUN1637,support,FUN
+FUN1638,Telematic services,FUN
+FUN1639,originating network identification utility,FUN
+FUN1640,destination network identification utility,FUN
+FUN1641,transit network identification utility,FUN
+FUN1642,clearing network identification (CNIC) utility,FUN
+FUN1643,call identifier utility,FUN
+FUN1644,identification of a call,FUN
+FUN1645,tariffs utility,FUN
+FUN1646,network user identification (NUI) utility,FUN
+FUN1647,OSI connection-mode network service,FUN
+FUN1648,connection establishment phase,FUN
+FUN1649,Connect request,FUN
+FUN1650,Connect indication,FUN
+FUN1651,Connect response,FUN
+FUN1652,Connect confirm,FUN
+FUN1653,elements described in §§ 6.1 to 6.3 above,FUN
+FUN1654,Functionalities,FUN
+FUN1655,connection release phase,FUN
+FUN1656,Disconnect request,FUN
+FUN1657,Disconnect indication,FUN
+FUN1658,network service,FUN
+FUN1659,circuit switched bearer service,FUN
+FUN1660,data services,FUN
+FUN1661,functional and procedural aspects,FUN
+FUN1662,Call control between ISDNs,FUN
+FUN1663,Functionalities of the ISDN,FUN
+FUN1664,Interworking between ISDNs,FUN
+FUN1665,Transfer of addressing information,FUN
+FUN1666,Arrangements for facilities related to the QOS of the call,FUN
+FUN1667,Arrangements for facilities related to charging conditions applying to the call,FUN
+FUN1668,Arrangements for facilities related to specific routing conditions requested by the user of the call,FUN
+FUN1669,Arrangements for facilities related to protection mechanisms requested by the user of the call,FUN
+FUN1670,Arrangements for facilities to convey user data in addition to the normal data flow in the data transfer phase,FUN
+FUN1671,Arrangements for other facilities,FUN
+FUN1672,Arrangements for internal network utilities (not visible for users),FUN
+FUN1673,Interworking between ISDNs where a circuit switched bearer is requested on each,FUN
+FUN1674,Interworking between ISDNs where a frame relaying bearer is used on each,FUN
+FUN1675,Interworking between ISDNs where a packet switched bearer is used on one, and a circuit switched bearer is used on the other,FUN
+FUN1676,circuit switched data transmission services,FUN
+FUN1677,packet switched,FUN
+FUN1678,circuit switched,FUN
+FUN1679,frame-relaying data transmission services/bearer services,FUN
+FUN1680,Supplementary services/optional user facilities,FUN
+FUN1681,Functionalities of subnetworks relating to the support of OSI connection-mode network service,FUN
+FUN1682,Numbering plan interworking,FUN
+FUN1683,functionalities of subnetworks,FUN
+FUN1684,packet switched data transmission services,FUN
+FUN1685,voice, telex and data transmission services,FUN
+FUN1686,digital replacement/upgrade for Standard-A,FUN
+FUN1687,low data rate messaging system,FUN
+FUN1688,digital voice and data transmission system for aircrafts,FUN
+FUN1689,frame relaying data transmission services/bearer services,FUN
+FUN1690,data signal levels,FUN
+FUN1691,multichannel carrier systems,FUN
+FUN1692,correct performance,FUN
+FUN1693,nonspeech applications,FUN
+FUN1694,maximum data signal level,FUN
+FUN1695,nominal power,FUN
+FUN1696,input,FUN
+FUN1697,frequency-modulation systems,FUN
+FUN1698,Duplex circuit,FUN
+FUN1699,Demodulation equipment,FUN
+FUN1700,Synchronous or asynchronous procedures,FUN
+FUN1701,Echo control device disabling,FUN
+FUN1702,Maximum power output,FUN
+FUN1703,duplex operation,FUN
+FUN1704,channel separation by frequency division,FUN
+FUN1705,differential phase shift modulation,FUN
+FUN1706,test facilities,FUN
+FUN1707,encoding of data bits,FUN
+FUN1708,Recommendation X.300,FUN
+FUN1709,Recommendation X.301,FUN
+FUN1710,Recommendation X.302,FUN
+FUN1711,Recommendation X.75,FUN
+FUN1712,Recommendation X.10,FUN
+FUN1713,Recommendation X.213,FUN
+FUN1714,Recommendation X.305,FUN
+FUN1715,Recommendations Q.711 to 716,FUN
+FUN1716,operations, administration and maintenance (OA and M) applications,FUN
+FUN1717,Interworking Function (IWF),FUN
+FUN1718,Frame Relay Data Transmission Services (FRDTS),FUN
+FUN1719,Frame Relaying Bearer Service (FRBS),FUN
+FUN1720,Supplementary services,FUN
+FUN1721,Packet Switched Data Transmission Services (PSDTS),FUN
+FUN1722,Circuit Switched Data Transmission Services,FUN
+FUN1723,Packet Layer Protocol (PLP),FUN
+FUN1724,FR/ATM element mapping,FUN
+FUN1725,DSS2 signalling procedures,FUN
+FUN1726,AAL type 5,FUN
+FUN1727,FR-SSCS,FUN
+FUN1728,FR core functions,FUN
+FUN1729,ATM layer,FUN
+FUN1730,Frame Relay Service,FUN
+FUN1731,Packet Switched Service,FUN
+FUN1732,Bearer Service,FUN
+FUN1733,Interworking,FUN
+FUN1734,Encapsulation Function,FUN
+FUN1735,Backward Explicit Congestion Notification (BECN),FUN
+FUN1736,Command/Response (C/R),FUN
+FUN1737,Circuit Switched Bearer Service (CSBS),FUN
+FUN1738,Direct-Dialling-In (DDI),FUN
+FUN1739,Discard Eligibility (DE),FUN
+FUN1740,Data Transfer Phase (DTP),FUN
+FUN1741,Frame Check Sequence (FCS),FUN
+FUN1742,Forward Explicit Congestion Notification (FECN),FUN
+FUN1743,Frame Relay Bearer Service (FRBS),FUN
+FUN1744,Data Transmission Services,FUN
+FUN1745,High Level Data Link Control (HDLC),FUN
+FUN1746,14 400 bit/s,FUN
+FUN1747,echo cancellation techniques,FUN
+FUN1748,Channel separation,FUN
+FUN1749,quadrature amplitude modulation,FUN
+FUN1750,carrier frequency,FUN
+FUN1751,systematic convolutional encoder,FUN
+FUN1752,signal space diagram,FUN
+FUN1753,modulation,FUN
+FUN1754,DTE interface,FUN
+FUN1755,synchronous interfacing,FUN
+FUN1756,asynchronous character-mode interfacing,FUN
+FUN1757,generating polynomial,FUN
+FUN1758,fallback rate of 12 000 bits per second,FUN
+FUN1759,duplex mode with continuous carrier,FUN
+FUN1760,combined amplitude and phase modulation with synchronous mode of operation,FUN
+FUN1761,eight state trellis coded modulation,FUN
+FUN1762,multiplexer for combining data rates of 12 000, 9600, 7200, 4800 and 2400 bits per second,FUN
+FUN1763,scrambled data stream,FUN
+FUN1764,Quadrature Amplitude Modulation (QAM),FUN
+FUN1765,33 600 bit/s,FUN
+FUN1766,a data signalling rate,FUN
+FUN1767,Synchronous interfacing,FUN
+FUN1768,Asynchronous character-mode interfacing,FUN
+FUN1769,Half-duplex mode interfacing,FUN
+FUN1770,Scrambler,FUN
+FUN1771,Framing,FUN
+FUN1772,Encoder,FUN
+FUN1773,Signal constellations,FUN
+FUN1774,encoder's operation,FUN
+FUN1775,Mapper, precoder and trellis encoder,FUN
+FUN1776,Non-linear encoder,FUN
+FUN1777,Start-up signals and sequences,FUN
+FUN1778,Duplex operating procedures,FUN
+FUN1779,Half-duplex operating procedures,FUN
+FUN1780,network interaction,FUN
+FUN1781,Testing facilities,FUN
+FUN1782,V.34 modem control channel procedures,FUN
+FUN1783,MP sequences for modem control channel compatibility,FUN
+FUN1784,Auxiliary channel protocol for modem control,FUN
+FUN1785,modem control,FUN
+FUN1786,data transmission service,FUN
+FUN1787,escape code,FUN
+FUN1788,gateway function,FUN
+FUN1789,Interworking Unit (IWU),FUN
+FUN1790,PAD,FUN
+FUN1791,maritime PAD,FUN
+FUN1792,mobile satellite data switching exchanges (MSDSEs),FUN
+FUN1793,network user identification (NUI) facility,FUN
+FUN1794,mobile satellite data switching exchange (MSDSE),FUN
+FUN1795,functional interface,FUN
+FUN1796,Packet Switched Data Access Unit (PSDAU),FUN
+FUN1797,packet switched data facility,FUN
+FUN1798,Public Maritime Mobile Satellite Service,FUN
+FUN1799,international data switching exchange (IDSE),FUN
+FUN1800,public maritime mobile earth station,FUN
+FUN1801,signalling procedures,FUN
+FUN1802,permanent virtual circuits,FUN
+FUN1803,switched virtual circuits,FUN
+FUN1804,frame relay basic service,FUN
+FUN1805,frame relay link layer protocol,FUN
+FUN1806,closed user group,FUN
+FUN1807,reverse charging,FUN
+FUN1808,transit network selection,FUN
+FUN1809,transfer and discard priorities,FUN
+FUN1810,service classes,FUN
+FUN1811,NSAP support,FUN
+FUN1812,multiprotocol encapsulation,FUN
+FUN1813,selection and fragmentation,FUN
+FUN1814,fragmentation,FUN
+FUN1815,NSAP support by the network,FUN
+FUN1816,frame transfer priority,FUN
+FUN1817,frame discard priority,FUN
+FUN1818,frame relay service class,FUN
+FUN1819,SVC related services,FUN
+FUN1820,service parameters,FUN
+FUN1821,SVC related service parameters,FUN
+FUN1822,service quality,FUN
+FUN1823,degradation function,FUN
+FUN1824,optical network elements (ONEs),FUN
+FUN1825,photonic cross-connects (PXCs),FUN
+FUN1826,optical add-drop multiplexers (OADMs),FUN
+FUN1827,optical paths,FUN
+FUN1828,all optically,FUN
+FUN1829,reference point,FUN
+FUN1830,optical transmission system,FUN
+FUN1831,degradation functions,FUN
+FUN1832,3R electrical regenerators,FUN
+FUN1833,all-optical network,FUN
+FUN1834,optical preamplifiers,FUN
+FUN1835,optical booster amplifiers,FUN
+FUN1836,transmission capacity,FUN
+FUN1837,optical interfaces,FUN
+FUN1838,parameters and values,FUN
+FUN1839,Optical interfaces for multichannel systems with optical amplifiers,FUN
+FUN1840,future transverse compatibility,FUN
+FUN1841,Optical supervisory channel (OSC),FUN
+FUN1842,Spectral characteristics,FUN
+FUN1843,Mean launched power,FUN
+FUN1844,Extinction ratio,FUN
+FUN1845,Eye pattern mask,FUN
+FUN1846,Central frequency,FUN
+FUN1847,Channel spacing,FUN
+FUN1848,Central frequency deviation,FUN
+FUN1849,Optical transmit-side crosstalk,FUN
+FUN1850,Channel output power,FUN
+FUN1851,Total launched power,FUN
+FUN1852,Channel optical signal-to-noise ratio,FUN
+FUN1853,Maximum channel power difference,FUN
+FUN1854,Dispersion,FUN
+FUN1855,Reflections,FUN
+FUN1856,Multichannel gain variation,FUN
+FUN1857,Multichannel gain tilt,FUN
+FUN1858,Multichannel gain-change difference,FUN
+FUN1859,Total received power,FUN
+FUN1860,Optical interfaces for intra-office systems,FUN
+FUN1861,Wavelength Division Multiplexing (WDM),FUN
+FUN1862,Forward Error Correction (FEC),FUN
+FUN1863,synchronous data transmission,FUN
+FUN1864,Dense Wavelength Division Multiplexing (DWDM),FUN
+FUN1865,frequency slot,FUN
+FUN1866,slot width,FUN
+FUN1867,Coarse Wavelength Division Multiplexing (CWDM),FUN
+FUN1868,frequency grid,FUN
+FUN1869,defining applications,FUN
+FUN1870,n × 0.0125,FUN
+FUN1871,X.25 protocol,FUN
+FUN1872,Switched Virtual Circuit (SVC),FUN
+FUN1873,Permanent Virtual Circuit (PVC),FUN
+FUN1874,store-and-forward gateway,FUN
+FUN1875,Link Access Procedure Balanced (LAPB),FUN
+FUN1876,encapsulation function,FUN
+FUN1877,Packet Switched Data Transmission Service,FUN
+FUN1878,Protocol for providing the OSI connection-mode transport service,FUN
+FUN1879,Protocol for providing the connection mode network service,FUN
+FUN1880,Protocol identification in the network layer,FUN
+FUN1881,encapsulation format,FUN
+FUN1882,X.25 virtual call,FUN
+FUN1883,Frame Relay permanent virtual circuit,FUN
+FUN1884,switched virtual call,FUN
+FUN1885,FR frames transfer procedure,FUN
+FUN1886,Call set-up procedures,FUN
+FUN1887,Call clearing procedures,FUN
+FUN1888,general arrangements for interworking,FUN
+FUN1889,Access Unit (AU),FUN
+FUN1890,InterWorking Function (IWF),FUN
+FUN1891,Functionality,FUN
+FUN1892,Adapter,FUN
+FUN1893,Address Resolution Entity (ARE),FUN
+FUN1894,procedures,FUN
+FUN1895,CHARACTER ORIENTED DATA TRANSMISSION,FUN
+FUN1896,parity unit,FUN
+FUN1897,start-stop systems,FUN
+FUN1898,reliability of the connection,FUN
+FUN1899,data terminal equipment,FUN
+FUN1900,start-stop receivers,FUN
+FUN1901,electromechanical equipment,FUN
+FUN1902,even parity,FUN
+FUN1903,start-stop system,FUN
+FUN1904,odd parity,FUN
+FUN1905,synchronous equipment,FUN
+FUN1906,character out-of-parity,FUN
+FUN1907,generalized polling protocol,FUN
+FUN1908,GPAD,FUN
+FUN1909,Longitudinal Redundancy Check (LRC),FUN
+FUN1910,Diagonal Redundancy Check (DRC),FUN
+FUN1911,functionally equivalent,FUN
+FUN1912,Full interworking compatibility,FUN
+FUN1913,Credit based flow control,FUN
+FUN1914,Virtual circuit,FUN
+FUN1915,Unassured virtual circuit option,FUN
+FUN1916,credit based flow control,FUN
+FUN1917,B-ISDN operation and maintenance principles and functions,FUN
+FUN1918,Service Specific Connection Oriented Protocol (SSCOP),FUN
+FUN1919,Service Specific Coordination Function for support of signalling at the User-Network Interface,FUN
+FUN1920,User Network Interface (UNI) layer 3 specification for basic call/connection control,FUN
+FUN1921,multicast data transmission service,FUN
+FUN1922,basic multicast service,FUN
+FUN1923,Packet multicast service,FUN
+FUN1924,multicast service capabilities,FUN
+FUN1925,Pause and Resume services,FUN
+FUN1926,multicast service,FUN
+FUN1927,extended multicast service,FUN
+FUN1928,active group integrity (AGI),FUN
+FUN1929,FPAD,FUN
+FUN1930,facsimile control and image data,FUN
+FUN1931,mandatory standard capabilities,FUN
+FUN1932,FPAD parameters,FUN
+FUN1933,2400 BITS PER SECOND DUPLEX MODEM,FUN
+FUN1934,duplex mode,FUN
+FUN1935,Frequency Division Technique,FUN
+FUN1936,channel separation,FUN
+FUN1937,Quadrature Amplitude Modulation,FUN
+FUN1938,data scrambling,FUN
+FUN1939,Adaptive Equalizer,FUN
+FUN1940,signal equalization,FUN
+FUN1941,Compromise Equalizer,FUN
+FUN1942,Test Facilities,FUN
+FUN1943,Data Signalling Rates,FUN
+FUN1944,Automatic Bit Rate Recognition,FUN
+FUN1945,Guard Tone,FUN
+FUN1946,Fixed Compromise Equalizer,FUN
+FUN1947,Spectrum and Group Delay Characteristics,FUN
+FUN1948,Modulation,FUN
+FUN1949,Encoding of Data Bits,FUN
+FUN1950,Received Signal Frequency Tolerance,FUN
+FUN1951,Interchange Circuits,FUN
+FUN1952,Electrical Characteristics of Interchange Circuits,FUN
+FUN1953,Modes of Operation,FUN
+FUN1954,Scrambler and Descrambler,FUN
+FUN1955,Operating Sequences,FUN
+FUN1956,channel allocation,FUN
+FUN1957,signalling rate selection,FUN
+FUN1958,Handshake Sequence,FUN
+FUN1959,modulation rates,FUN
+FUN1960,mode of operation,FUN
+FUN1961,tolerance,FUN
+FUN1962,frequency drift,FUN
+FUN1963,backward channel frequencies,FUN
+FUN1964,division of power,FUN
+FUN1965,circuit 106,FUN
+FUN1966,circuit 109,FUN
+FUN1967,circuit 121,FUN
+FUN1968,circuit 122,FUN
+FUN1969,threshold of data channel,FUN
+FUN1970,clamping in half-duplex mode,FUN
+FUN1971,fault condition of interchange circuits,FUN
+FUN1972,electrical characteristics of interchange circuits,FUN
+FUN1973,General Data Communications Interface (GDCI),FUN
+FUN1974,layer 1 characteristics,FUN
+FUN1975,ISDN basic user-network interface,FUN
+FUN1976,BV and DV channels,FUN
+FUN1977,transmission capability,FUN
+FUN1978,timing and synchronization functions,FUN
+FUN1979,PH-DATA,FUN
+FUN1980,PH-ACTIVATE,FUN
+FUN1981,PH-DEACTIVATE,FUN
+FUN1982,MPH-ERROR,FUN
+FUN1983,MPH-ACTIVATE,FUN
+FUN1984,MPH-DEACTIVATE,FUN
+FUN1985,MPH-INFORMATION,FUN
+FUN1986,Point-to-point operation,FUN
+FUN1987,Point-to-multipoint operation,FUN
+FUN1988,BV channel,FUN
+FUN1989,Bit timing,FUN
+FUN1990,Octet timing,FUN
+FUN1991,Frame alignment,FUN
+FUN1992,DV channel,FUN
+FUN1993,DV channel access procedure,FUN
+FUN1994,Power feeding,FUN
+FUN1995,transfer power across the interface,FUN
+FUN1996,capability,FUN
+FUN1997,Activation and deactivation,FUN
+FUN1998,Connected/disconnected indication,FUN
+FUN1999,Frame structure,FUN
+FUN2000,Binary organization of the frame,FUN
+FUN2001,Slave to master,FUN
+FUN2002,DC-balanced,FUN
+FUN2003,multiplexing scheme,FUN
+FUN2004,8-bit envelope,FUN
+FUN2005,four 8-bit envelopes grouping,FUN
+FUN2006,10-bit envelope,FUN
+FUN2007,multiplex gross bit rate of 64 kbit/s,FUN
+FUN2008,8-bit envelopes,FUN
+FUN2009,8-bit envelope interleaved structure,FUN
+FUN2010,distributed framing pattern,FUN
+FUN2011,service digits (housekeeping digits),FUN
+FUN2012,12.8 kbit/s channels,FUN
+FUN2013,6.4 kbit/s channels,FUN
+FUN2014,3.2 kbit/s channels,FUN
+FUN2015,800 bit/s channels,FUN
+FUN2016,multiplexing structure,FUN
+FUN2017,72-bit long framing pattern,FUN
+FUN2018,primitive polynomial,FUN
+FUN2019,Galois field,FUN
+FUN2020,forcing configuration,FUN
+FUN2021,housekeeping,FUN
+FUN2022,alarm indications,FUN
+FUN2023,absence of incoming pulses,FUN
+FUN2024,loss of frame alignment,FUN
+FUN2025,international housekeeping information,FUN
+FUN2026,frame synchronization method,FUN
+FUN2027,frame alignment recovery time,FUN
+FUN2028,random error rate,FUN
+FUN2029,19-bit long framing pattern,FUN
+FUN2030,Galois 25 field,FUN
+FUN2031,four 8-bit envelopes grouping alignment,FUN
+FUN2032,48-kbit/s user data signalling rate transmission scheme,FUN
+FUN2033,gross bit rate of 64 kbit/s,FUN
+FUN2034,information bits,FUN
+FUN2035,status bit S,FUN
+FUN2036,Gross bit rate,FUN
+FUN2037,Fundamental multiplex,FUN
+FUN2038,status bit,FUN
+FUN2039,envelope alignment bit,FUN
+FUN2040,Status bit S bit,FUN
+FUN2041,call control information,FUN
+FUN2042,10-bit envelope interleaved structure,FUN
+FUN2043,60 kbit/s fundamental multiplex,FUN
+FUN2044,Method of framing,FUN
+FUN2045,Overall structure,FUN
+FUN2046,Frame alignment patterns,FUN
+FUN2047,Framing strategy,FUN
+FUN2048,Justification,FUN
+FUN2049,Housekeeping signals and functions,FUN
+FUN2050,International housekeeping bits,FUN
+FUN2051,Cyclic error-control,FUN
+FUN2052,National housekeeping signals,FUN
+FUN2053,Allocation and use of padding bits,FUN
+FUN2054,framing,FUN
+FUN2055,justification,FUN
+FUN2056,Transmission of the 48 kbit/s user data signalling rate,FUN
+FUN2057,MODEMS FOR SYNCHRONOUS DATA TRANSMISSION,FUN
+FUN2058,The recommended data signalling rate,FUN
+FUN2059,customer signalling rate,FUN
+FUN2060,Scrambler/descrambler,FUN
+FUN2061,bit sequence independent,FUN
+FUN2062,Baseband signal,FUN
+FUN2063,time and spectral function,FUN
+FUN2064,Line signal in 60-108 kHz band,FUN
+FUN2065,Group reference pilot,FUN
+FUN2066,Voice channel,FUN
+FUN2067,Adjacent channel interference,FUN
+FUN2068,Line characteristics,FUN
+FUN2069,Error performance,FUN
+FUN2070,Input level variation,FUN
+FUN2071,tolerance of the transmitter output level,FUN
+FUN2072,Interference from adjacent group bands,FUN
+FUN2073,Synchronous Data Transmission,FUN
+FUN2074,primary data signalling rates,FUN
+FUN2075,class IV partial response pulse amplitude single sideband signalling and modulation,FUN
+FUN2076,overhead-free multiplexer,FUN
+FUN2077,Encoding method,FUN
+FUN2078,Baseband signal shaping,FUN
+FUN2079,Synchronizing signals,FUN
+FUN2080,Optional multiplexing,FUN
+FUN2081,Data Circuit-Terminating Equipment (DCE),FUN
+FUN2082,self-synchronizing,FUN
+FUN2083,Descrambler,FUN
+FUN2084,Rate adaptation,FUN
+FUN2085,48-kbit/s user data signalling rate,FUN
+FUN2086,SIGNALLING RATE,FUN
+FUN2087,TRANSMISSION SCHEME,FUN
+FUN2088,user data information bits,FUN
+FUN2089,padding bits,FUN
+FUN2090,basic transmission scheme,FUN
+FUN2091,framing pattern,FUN
+FUN2092,binary 0,FUN
+FUN2093,binary 1,FUN
+FUN2094,housekeeping signalling,FUN
+FUN2095,justification in the national network,FUN
+FUN2096,framing strategy,FUN
+FUN2097,error rate in the transmission path,FUN
+FUN2098,alarm signals from the distant end,FUN
+FUN2099,international user facilities,FUN
+FUN2100,standardized multiplexing schemes,FUN
+FUN2101,encoding method,FUN
+FUN2102,operational and maintenance purposes,FUN
+FUN2103,decimal digit D1,FUN
+FUN2104,decimal digit D2,FUN
+FUN2105,decimal digits, D3 and D4,FUN
+FUN2106,multiplexing schemes,FUN
+FUN2107,tributary channels,FUN
+FUN2108,8-bit envelope structure,FUN
+FUN2109,F bits (framing bits),FUN
+FUN2110,S bits (status bits),FUN
+FUN2111,7-bit envelope,FUN
+FUN2112,framing and signalling purposes,FUN
+FUN2113,72-bit framing pattern,FUN
+FUN2114,housekeeping bits ABCDEFGH,FUN
+FUN2115,reframing,FUN
+FUN2116,alarm and consequent action,FUN
+FUN2117,6 + 2 envelope structure,FUN
+FUN2118,insertion and deletion of F bits,FUN
+FUN2119,sharing of S bits between framing and signalling mechanism,FUN
+FUN2120,padding techniques,FUN
+FUN2121,A bit,FUN
+FUN2122,status bit (S bit),FUN
+FUN2123,frame alignment patterns,FUN
+FUN2124,sub-frame alignment,FUN
+FUN2125,sub-frame identifier,FUN
+FUN2126,housekeeping signals and functions,FUN
+FUN2127,housekeeping information signals,FUN
+FUN2128,METHOD OF TRANSMITTING A SINGLE LOWER SPEED DATA CHANNEL ON A 64 kbit/s DATA STREAM,FUN
+FUN2129,Tributary channel bit rates,FUN
+FUN2130,Multiplex scheme,FUN
+FUN2131,Data octets,FUN
+FUN2132,Synchronization octets,FUN
+FUN2133,Service octets,FUN
+FUN2134,Frame synchronization,FUN
+FUN2135,Frame relay PVC multicast service definition,FUN
+FUN2136,Multicast service definition,FUN
+FUN2137,Frame Relaying Bearer Service,FUN
+FUN2138,multicast server,FUN
+FUN2139,data link connection management interface (DLCMI),FUN
+FUN2140,frame relay multicast service,FUN
+FUN2141,one-in, many-out service,FUN
+FUN2142,Signalling System No. 7,FUN
+FUN2143,Message Transfer Part,FUN
+FUN2144,User Parts,FUN
+FUN2145,Data User Part,FUN
+FUN2146,Data transmission services,FUN
+FUN2147,TELECOMMUNICATION SECURITY,FUN
+FUN2148,TERMINAL AND TRANSIT CONTROL SIGNALLING SYSTEM,FUN
+FUN2149,START - STOP SERVICES,FUN
+FUN2150,variety of new service facilities,FUN
+FUN2151,signalling system,FUN
+FUN2152,decentralized terminal and transit control signalling system,FUN
+FUN2153,alternative routing,FUN
+FUN2154,high-usage circuits,FUN
+FUN2155,both-way operation,FUN
+FUN2156,minimize head-on collisions,FUN
+FUN2157,high-usage direct links,FUN
+FUN2158,switching equipment,FUN
+FUN2159,target setting-up time,FUN
+FUN2160,control signalling code (CSC),FUN
+FUN2161,end-of-selection signal,FUN
+FUN2162,DECENTRALIZED TERMINAL AND TRANSIT CONTROL SIGNALLING SYSTEM,FUN
+FUN2163,data network identification code (DNIC),FUN
+FUN2164,Call Confirmation Protocol (CCP),FUN
+FUN2165,Proceed-To-Select Protocol (PTSP),FUN
+FUN2166,basic method,FUN
+FUN2167,SYN characters,FUN
+FUN2168,call confirmation and proceed-to-select signals,FUN
+FUN2169,Proceed-to-select Protocol (PTSP),FUN
+FUN2170,Transmission,FUN
+FUN2171,switching,FUN
+FUN2172,Packet-switched signalling system between public networks providing data transmission services,FUN
+FUN2173,Network-to-network interface,FUN
+FUN2174,PVC,FUN
+FUN2175,SVC,FUN
+FUN2176,Frame relay SVC signalling,FUN
+FUN2177,Physical layer,FUN
+FUN2178,Data transfer,FUN
+FUN2179,Signalling procedures,FUN
+FUN2180,frame relay data transmission services,FUN
+FUN2181,Type 5 AAL,FUN
+FUN2182,AAL functions,FUN
+FUN2183,Multi-Aspect Packet Assembly/Disassembly facility (MAP),FUN
+FUN2184,service Aspects,FUN
+FUN2185,Access Information Path,FUN
+FUN2186,Access Interface,FUN
+FUN2187,Multi-Session,FUN
+FUN2188,PAD Aspect,FUN
+FUN2189,specific protocol,FUN
+FUN2190,MAP Status Inquiry,FUN
+FUN2191,Modify MAP command signal,FUN
+FUN2192,Virtual Call,FUN
+FUN2193,Duration Parameter,FUN
+FUN2194,Confir,FUN
+FUN2195,call set-up,FUN
+FUN2196,interworking unit function,FUN
+FUN2197,supervisory-timer,FUN
+FUN2198,bearer services,FUN
+FUN2199,Network layer service,FUN
+FUN2200,Called line identification,FUN
+FUN2201,switched data transmission services,FUN
+FUN2202,MPLS,FUN
+FUN2203,frame relay services,FUN
+FUN2204,one-to-one mapping mode,FUN
+FUN2205,many-to-one mapping mode,FUN
+FUN2206,Provider Edge (PE),FUN
+FUN2207,interworking functions,FUN
+FUN2208,Virtual Connection Label Switched Path (VC LSP),FUN
+FUN2209,frame relay Virtual Connection (VC),FUN
+FUN2210,Tunnel LSPs,FUN
+FUN2211,IP over SDH using LAPS,FUN
+FUN2212,LAPS,FUN
+FUN2213,Padding Protocol,FUN
+FUN2214,ROHC small-CID,FUN
+FUN2215,ROHC large-CID,FUN
+FUN2216,Internet Protocol version 4,FUN
+FUN2217,OSI Network Layer,FUN
+FUN2218,Xerox NS IDP,FUN
+FUN2219,DECnet Phase IV,FUN
+FUN2220,Appletalk,FUN
+FUN2221,Novell IPX,FUN
+FUN2222,Van Jacobson Compressed TCP/IP,FUN
+FUN2223,Van Jacobson Uncompressed TCP/IP,FUN
+FUN2224,Bridging PDU,FUN
+FUN2225,Stream Protocol (ST-II),FUN
+FUN2226,Banyan Vines,FUN
+FUN2227,AppleTalk EDDP,FUN
+FUN2228,AppleTalk SmartBuffered,FUN
+FUN2229,Multi-Link,FUN
+FUN2230,NETBIOS Framing,FUN
+FUN2231,Cisco Systems,FUN
+FUN2232,Ascom Timeplex,FUN
+FUN2233,Fujitsu Link Backup and Load Balancing (LBLB),FUN
+FUN2234,Link Backup,FUN
+FUN2235,Load Balancing,FUN
+FUN2236,DCA Remote LAN,FUN
+FUN2237,Serial Data Transport Protocol (PPP-SDTP),FUN
+FUN2238,SNA over 802.2,FUN
+FUN2239,SNA,FUN
+FUN2240,IPv6 Header Compression,FUN
+FUN2241,KNX Bridging Data,FUN
+FUN2242,Encryption,FUN
+FUN2243,Individual Link Encryption,FUN
+FUN2244,Internet Protocol version 6,FUN
+FUN2245,PPP Muxing,FUN
+FUN2246,Vendor-Specific Network Protocol (VSNP),FUN
+FUN2247,RTP IPHC Full Header,FUN
+FUN2248,RTP IPHC Compressed TCP,FUN
+FUN2249,RTP IPHC Compressed Non TCP,FUN
+FUN2250,Ethernet over LAPS,FUN
+FUN2251,Ethernet flow control,FUN
+FUN2252,Link Access Procedure-SDH (LAPS),FUN
+FUN2253,MAC Control Pause operation,FUN
+FUN2254,flow control,FUN
+FUN2255,Ethernet Flow Control,FUN
+FUN2256,hypothetical reference connections,FUN
+FUN2257,overall customer-to-customer performance objectives,FUN
+FUN2258,data characteristics requirements,FUN
+FUN2259,limits to the impairments,FUN
+FUN2260,logical links,FUN
+FUN2261,packet assembly/disassembly facilities,FUN
+FUN2262,Call progress signals,FUN
+FUN2263,Circuit switching,FUN
+FUN2264,Packet switching,FUN
+FUN2265,Network congestion,FUN
+FUN2266,Local procedure error,FUN
+FUN2267,Invalid facility request,FUN
+FUN2268,circuit switching,FUN
+FUN2269,packet switching,FUN
+FUN2270,frame-relay services,FUN
+FUN2271,packet switching service only,FUN
+FUN2272,Facility rejected,FUN
+FUN2273,Access barred,FUN
+FUN2274,No response,FUN
+FUN2275,Reverse charging acceptance not subscribed,FUN
+FUN2276,reverse charging acceptance facility,FUN
+FUN2277,Spectral grids for WDM applications: CWDM wavelength grid,FUN
+FUN2278,channel spacing,FUN
+FUN2279,uncooled lasers,FUN
+FUN2280,wide passband filters,FUN
+FUN2281,wavelength allocation,FUN
+FUN2282,wavelength grid,FUN
+FUN2283,central wavelength deviation,FUN
+FUN2284,control,FUN
+FUN2285,timing signals,FUN
+FUN2286,Control signals,FUN
+FUN2287,Timing signals,FUN
+FUN2288,Electrical characteristics,FUN
+FUN2289,Mechanical characteristics,FUN
+FUN2290,Signal converters,FUN
+FUN2291,automatic calling,FUN
+FUN2292,automatic answering,FUN
+FUN2293,Timing generators,FUN
+FUN2294,Pulse regenerators,FUN
+FUN2295,Control circuitry,FUN
+FUN2296,Error control,FUN
+FUN2297,Automatic calling,FUN
+FUN2298,Automatic answering,FUN
+FUN2299,Interface connector,FUN
+FUN2300,Interconnecting cable,FUN
+FUN2301,Load capacitance,FUN
+FUN2302,Circuit 103 – Transmitted data,FUN
+FUN2303,Transmitted data,FUN
+FUN2304,Circuit 104 – Received data,FUN
+FUN2305,Received data,FUN
+FUN2306,Circuit 105 – Request to send,FUN
+FUN2307,Circuit 106 – Ready for sending,FUN
+FUN2308,Circuit 107 – Data set ready,FUN
+FUN2309,Data set ready,FUN
+FUN2310,Circuit 108/1 – Connect data set to line,FUN
+FUN2311,Circuit 108/2 – Data terminal ready,FUN
+FUN2312,Data terminal ready,FUN
+FUN2313,Circuit 109 – Data channel received line signal detector,FUN
+FUN2314,Data channel received line signal detector,FUN
+FUN2315,Circuit 111 – Data signalling rate selector (DTE source),FUN
+FUN2316,Data signalling rate selector,FUN
+FUN2317,Circuit 112 – Data signalling rate selector (DCE source),FUN
+FUN2318,Circuit 113 – Transmitter signal element timing (DTE source),FUN
+FUN2319,Circuit 114 – Transmitter signal element timing (DCE source),FUN
+FUN2320,Transmitter signal element timing,FUN
+FUN2321,Circuit 115 – Receiver signal element timing (DCE source),FUN
+FUN2322,Receiver signal element timing,FUN
+FUN2323,Circuit 116/1 – Back-up switching in direct mode,FUN
+FUN2324,Automatic answering equipment,FUN
+FUN2325,General procedures for automatic calling equipment,FUN
+FUN2326,Echo control devices,FUN
+FUN2327,Answering tone,FUN
+FUN2328,Phase reversals,FUN
+FUN2329,Network echo cancellers,FUN
+FUN2330,phase reversal option of answer tone,FUN
+FUN2331,Z,FUN
+FUN2332,&F,FUN
+FUN2333,+FIP,FUN
+FUN2334,+VIP,FUN
+FUN2335,I,FUN
+FUN2336,Request Identification Information,FUN
+FUN2337,+FMI,FUN
+FUN2338,+FMM,FUN
+FUN2339,+FMR,FUN
+FUN2340,+GMI,FUN
+FUN2341,+GMM,FUN
+FUN2342,+GMR,FUN
+FUN2343,+GSN,FUN
+FUN2344,+GOI,FUN
+FUN2345,+CGMI,FUN
+FUN2346,+CGMM,FUN
+FUN2347,+CGMR,FUN
+FUN2348,+CGSN,FUN
+FUN2349,+CGOI,FUN
+FUN2350,+GCAP,FUN
+FUN2351,+CGCAP,FUN
+FUN2352,+FCLASS,FUN
+FUN2353,Service Class Identification,FUN
+FUN2354,+GCI,FUN
+FUN2355,+CAD,FUN
+FUN2356,+W,FUN
+FUN2357,Compliance Indication,FUN
+FUN2358,start element,FUN
+FUN2359,stop element,FUN
+FUN2360,CODE-INDEPENDENT ERROR-CONTROL SYSTEM,FUN
+FUN2361,simultaneous forward and backward channels,FUN
+FUN2362,asynchronous transmission,FUN
+FUN2363,block transmission,FUN
+FUN2364,fast starting procedure,FUN
+FUN2365,automatic repetition,FUN
+FUN2366,cyclic encoder,FUN
+FUN2367,error-rate improvement factor,FUN
+FUN2368,16-stage cyclic shift register,FUN
+FUN2369,error-free reception,FUN
+FUN2370,self-synchronizing scramblers,FUN
+FUN2371,error-detecting system,FUN
+FUN2372,additive scramblers,FUN
+FUN2373,block sequence indication,FUN
+FUN2374,synchronizing sequence prefix,FUN
+FUN2375,Error-correcting procedures for DCEs using asynchronous-to-synchronous conversion,FUN
+FUN2376,asynchronous-to-synchronous conversion,FUN
+FUN2377,HDLC optional function,FUN
+FUN2378,Selective retransmission procedure,FUN
+FUN2379,Loop-back test procedure,FUN
+FUN2380,Extended FCS procedure,FUN
+FUN2381,optical parameter values,FUN
+FUN2382,coarse wavelength division multiplexing (CWDM),FUN
+FUN2383,Transmission characteristics of optical components and subsystems,FUN
+FUN2384,3R regeneration,FUN
+FUN2385,optical wavelength multiplexer/demultiplexer,FUN
+FUN2386,channel insertion loss,FUN
+FUN2387,differential group delay,FUN
+FUN2388,reflectance,FUN
+FUN2389,joint engineering,FUN
+FUN2390,receiver sensitivity,FUN
+FUN2391,optical monitoring (OM),FUN
+FUN2392,configuration management,FUN
+FUN2393,fault management,FUN
+FUN2394,degradation management,FUN
+FUN2395,DWDM technology,FUN
+FUN2396,optical signal-to-noise ratio (OSNR),FUN
+FUN2397,beat noise method,FUN
+FUN2398,Q-factor,FUN
+FUN2399,optical transmitters,FUN
+FUN2400,optical receivers,FUN
+FUN2401,optical multiplexer,FUN
+FUN2402,optical demultiplexer (OD),FUN
+FUN2403,methodology,FUN
+FUN2404,single-channel optical interfaces,FUN
+FUN2405,'black link' approach,FUN
+FUN2406,black link,FUN
+FUN2407,transponders,FUN
+FUN2408,Safety of laser products – Part 1: Equipment classification and requirements,FUN
+FUN2409,seed signal source,FUN
+FUN2410,optical multiplexer and demultiplexer (OD/OM),FUN
+FUN2411,tail-end equipment (TEE),FUN
+FUN2412,transverse compatibility,FUN
+FUN2413,optical safety considerations,FUN
+FUN2414,OD/OM,FUN
+FUN2415,OADM,FUN
+FUN2416,DWDM systems,FUN
+FUN2417,head-end equipment (HEE),FUN
+FUN2418,25 Gbit/s,FUN
+FUN2419,800 GHz,FUN
+FUN2420,mobile fronthaul applications,FUN
+FUN2421,metro applications,FUN
+FUN2422,ripple,FUN
+FUN2423,Head-End Equipment (HEE),FUN
+FUN2424,Tail-End Equipment (TEE),FUN
+FUN2425,mobile fronthaul,FUN
+FUN2426,statistical and non-linear related attributes,FUN
+FUN2427,Transmission characteristics,FUN
+FUN2428,Equipment classification and requirements,FUN
+FUN2429,Data Coordinating Point (DCP),FUN
+FUN2430,Fault investigations,FUN
+FUN2431,transmission requirements,FUN
+FUN2432,maintenance organization,FUN
+FUN2433,Transmission tests,FUN
+FUN2434,end-to-end tests,FUN
+FUN2435,Routine maintenance measurements,FUN
+FUN2436,IMPULSIVE NOISE MEASURING EQUIPMENT FOR TELEPHONE-TYPE CIRCUITS,FUN
+FUN2437,assessing the impulsive noise performance of telephone-type circuits,FUN
+FUN2438,Principle of operation,FUN
+FUN2439,dead time,FUN
+FUN2440,Input impedance,FUN
+FUN2441,Input longitudinal interference loss,FUN
+FUN2442,Terminating impedance,FUN
+FUN2443,Return loss,FUN
+FUN2444,High impedance,FUN
+FUN2445,Bridging loss across 300 ohms,FUN
+FUN2446,Input balance,FUN
+FUN2447,Operate level range,FUN
+FUN2448,Dead time,FUN
+FUN2449,Attenuation/frequency characteristics,FUN
+FUN2450,Optional bandwidths,FUN
+FUN2451,Calibration,FUN
+FUN2452,Sensitivity,FUN
+FUN2453,Impulsive noise counter,FUN
+FUN2454,Relative duration of impulsive noise events,FUN
+FUN2455,Seconds containing impulsive noise events,FUN
+FUN2456,calculate and indicate the percentage,FUN
+FUN2457,Timer,FUN
+FUN2458,Operating environment,FUN
+FUN2459,electrical performance requirements,FUN
+FUN2460,Binary numbering,FUN
+FUN2461,Transmission channels,FUN
+FUN2462,Two-condition modulation,FUN
+FUN2463,Telegraphy,FUN
+FUN2464,Data transmission,FUN
+FUN2465,same rule,FUN
+FUN2466,Perforated tape,FUN
+FUN2467,Amplitude modulation,FUN
+FUN2468,Frequency modulation,FUN
+FUN2469,Phase modulation,FUN
+FUN2470,Differential two-phase modulation,FUN
+FUN2471,equivalence,FUN
+FUN2472,differential receiver,FUN
+FUN2473,proper unbalanced circuit operation,FUN
+FUN2474,handshaking procedures,FUN
+FUN2475,half-duplex procedure,FUN
+FUN2476,duplex procedure,FUN
+FUN2477,disable echo suppressors,FUN
+FUN2478,echo suppressors,FUN
+FUN2479,balanced interchange circuit,FUN
+FUN2480,differential signalling,FUN
+FUN2481,generator,FUN
+FUN2482,minimum mutual interference,FUN
+FUN2483,receiver,FUN
+FUN2484,interconnecting leads,FUN
+FUN2485,balanced generator,FUN
+FUN2486,algebraic sum,FUN
+FUN2487,balanced receiver,FUN
+FUN2488,interconnecting pair,FUN
+FUN2489,Multipoint operation,FUN
+FUN2490,terminal adaptor (TA) functions,FUN
+FUN2491,conversion of electrical and mechanical interface characteristics,FUN
+FUN2492,bit rate adaption,FUN
+FUN2493,end-to-end synchronization,FUN
+FUN2494,Bit rate adaption,FUN
+FUN2495,End-to-end synchronization,FUN
+FUN2496,Call establishment and disestablishment,FUN
+FUN2497,Local and end-to-end flow control,FUN
+FUN2498,Reference configurations,FUN
+FUN2499,Line signals at S and T reference points,FUN
+FUN2500,balanced digital interchange circuit,FUN
+FUN2501,generator (G),FUN
+FUN2502,balanced interconnecting cable,FUN
+FUN2503,load,FUN
+FUN2504,receiver (R),FUN
+FUN2505,termination/fail-safe network,FUN
+FUN2506,differential voltage (Voc or Voc*),FUN
+FUN2507,test load,FUN
+FUN2508,differential output voltage (Vt),FUN
+FUN2509,generator offset voltage (Vos),FUN
+FUN2510,short-circuit measurement,FUN
+FUN2511,output signal waveform,FUN
+FUN2512,receiver input current-voltage measurements,FUN
+FUN2513,input sensitivity measurements,FUN
+FUN2514,intended binary state,FUN
+FUN2515,SIMULATED CARRIER CONTROL,FUN
+FUN2516,2-way alternate,FUN
+FUN2517,simulated circuit 105 to circuit 109 operation,FUN

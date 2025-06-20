@@ -1,0 +1,4070 @@
+ID,name,LABEL
+STR_COM001,ITU-T E.166/X.122,STR_COM
+STR_COM002,E.164 numbering plan,STR_COM
+STR_COM003,X.121 numbering plan,STR_COM
+STR_COM004,Integrated Services Digital Networks (ISDNs),STR_COM
+STR_COM005,Public Switched Telephone Networks (PSTNs),STR_COM
+STR_COM006,Packet Switched Public Data Networks (PSPDNs),STR_COM
+STR_COM007,World Telecommunication Standardization Conference (WTSC),STR_COM
+STR_COM008,ITU-T Study Groups,STR_COM
+STR_COM009,WTSC,STR_COM
+STR_COM010,Recommendation I.330,STR_COM
+STR_COM011,PSTNs/ISDNs,STR_COM
+STR_COM012,Recommendation X.121,STR_COM
+STR_COM013,numbering principles,STR_COM
+STR_COM014,Recommendation E.160,STR_COM
+STR_COM015,national and international numbering plans,STR_COM
+STR_COM016,Recommendation E.164,STR_COM
+STR_COM017,Recommendation E.165,STR_COM
+STR_COM018,timetable for coordinated implementation of the full capability of the numbering plan for the ISDN era,STR_COM
+STR_COM019,Recommendation E.170,STR_COM
+STR_COM020,Recommendation E.172,STR_COM
+STR_COM021,ISDN routing plan,STR_COM
+STR_COM022,Recommendation E.173,STR_COM
+STR_COM023,public land mobile networks,STR_COM
+STR_COM024,fixed terminal networks,STR_COM
+STR_COM025,Recommendation Q.931,STR_COM
+STR_COM026,ISDN user-network interface layer 3 specification for basic call control,STR_COM
+STR_COM027,Recommendation X.25,STR_COM
+STR_COM028,Data Terminal Equipment (DTE),STR_COM
+STR_COM029,Data Circuit-terminating Equipment (DCE),STR_COM
+STR_COM030,public data networks,STR_COM
+STR_COM031,dedicated circuit,STR_COM
+STR_COM032,Recommendation X.28,STR_COM
+STR_COM033,DTE/DCE interface,STR_COM
+STR_COM034,start-stop mode data terminal equipment,STR_COM
+STR_COM035,packet assembly/disassembly facility (PAD),STR_COM
+STR_COM036,public data network,STR_COM
+STR_COM037,Recommendation X.31,STR_COM
+STR_COM038,packet mode terminal equipment,STR_COM
+STR_COM039,Recommendation X.32,STR_COM
+STR_COM040,packet switched public data network,STR_COM
+STR_COM041,public switched telephone network,STR_COM
+STR_COM042,integrated services digital network,STR_COM
+STR_COM043,circuit switched public data network,STR_COM
+STR_COM044,Recommendation X.38,STR_COM
+STR_COM045,G3 facsimile equipment/DCE interface,STR_COM
+STR_COM046,Facsimile Packet Assembly/Disassembly facility (FPAD),STR_COM
+STR_COM047,Recommendation X.75,STR_COM
+STR_COM048,packet-switched signalling system,STR_COM
+STR_COM049,public networks,STR_COM
+STR_COM050,Recommendation X.110,STR_COM
+STR_COM051,Recommendation X.300,STR_COM
+STR_COM052,other networks,STR_COM
+STR_COM053,Recommendation X.301,STR_COM
+STR_COM054,subnetwork,STR_COM
+STR_COM055,data communication system,STR_COM
+STR_COM056,line,STR_COM
+STR_COM057,ITU-T G.650.1,STR_COM
+STR_COM058,single-mode optical fibres and cables,STR_COM
+STR_COM059,linear, deterministic parameters,STR_COM
+STR_COM060,single-mode optical fibres,STR_COM
+STR_COM061,cables,STR_COM
+STR_COM062,linear, deterministic attributes,STR_COM
+STR_COM063,single-mode fibres and cables,STR_COM
+STR_COM064,polarization mode dispersion,STR_COM
+STR_COM065,definitions and test methods,STR_COM
+STR_COM066,core concentricity error,STR_COM
+STR_COM067,chromatic dispersion,STR_COM
+STR_COM068,clause 5.6,STR_COM
+STR_COM069,coherent multipath interference (MPI),STR_COM
+STR_COM070,Appendix IV,STR_COM
+STR_COM071,ITU-T G.652 fibre,STR_COM
+STR_COM072,Appendix III,STR_COM
+STR_COM073,Example of a matrix model,STR_COM
+STR_COM074,ITU-T G.654.E fibre,STR_COM
+STR_COM075,clause 6.1.1,STR_COM
+STR_COM076,clause 6.1.2,STR_COM
+STR_COM077,International Telecommunication Union (ITU),STR_COM
+STR_COM078,United Nations,STR_COM
+STR_COM079,International Telecommunication Union,STR_COM
+STR_COM080,ITU-T G.650.2,STR_COM
+STR_COM081,Optical fibre cables,STR_COM
+STR_COM082,single-mode fibre and cable,STR_COM
+STR_COM083,statistical and non-linear related attributes,STR_COM
+STR_COM084,two orthogonal polarized modes,STR_COM
+STR_COM085,principal states of polarization (PSPs),STR_COM
+STR_COM086,optical fibre,STR_COM
+STR_COM087,PSPs,STR_COM
+STR_COM088,CCITT,STR_COM
+STR_COM089,International Telegraph and Telephone Consultative Committee,STR_COM
+STR_COM090,Study Group XVII,STR_COM
+STR_COM091,DATA CIRCUIT TERMINATING EQUIPMENT (DCE),STR_COM
+STR_COM092,V-Series DCEs,STR_COM
+STR_COM093,asynchronous data,STR_COM
+STR_COM094,general switched telephone network (GSTN),STR_COM
+STR_COM095,DCEs,STR_COM
+STR_COM096,error-correcting DCE,STR_COM
+STR_COM097,Figure 1/V.42 bis,STR_COM
+STR_COM098,character,STR_COM
+STR_COM099,Single data element,STR_COM
+STR_COM100,start-stop or asynchronous format,STR_COM
+STR_COM101,binary encoding,STR_COM
+STR_COM102,alphabet,STR_COM
+STR_COM103,codeword,STR_COM
+STR_COM104,binary number,STR_COM
+STR_COM105,string of characters,STR_COM
+STR_COM106,compressed form,STR_COM
+STR_COM107,DCE-to-DCE signalling,STR_COM
+STR_COM108,Octet,STR_COM
+STR_COM109,control information,STR_COM
+STR_COM110,tree structure,STR_COM
+STR_COM111,Abstract data structure,STR_COM
+STR_COM112,set of strings,STR_COM
+STR_COM113,leaf node,STR_COM
+STR_COM114,root node,STR_COM
+STR_COM115,tree,STR_COM
+STR_COM116,two modes,STR_COM
+STR_COM117,codewords,STR_COM
+STR_COM118,data,STR_COM
+STR_COM119,escape character,STR_COM
+STR_COM120,command code sequence,STR_COM
+STR_COM121,control codeword,STR_COM
+STR_COM122,ITU-T Recommendation V.43,STR_COM
+STR_COM123,ITU-T Study Group 16 (1997-2000),STR_COM
+STR_COM124,DTEs,STR_COM
+STR_COM125,DTE,STR_COM
+STR_COM126,flow of data,STR_COM
+STR_COM127,DCE,STR_COM
+STR_COM128,transmit clock signal,STR_COM
+STR_COM129,Two standard methods,STR_COM
+STR_COM130,A variety of methods,STR_COM
+STR_COM131,ITU-T V.44,STR_COM
+STR_COM132,TELECOMMUNICATION STANDARDIZATION SECTOR OF ITU,STR_COM
+STR_COM133,ITU-T Study Group 16,STR_COM
+STR_COM134,ITU Telecommunication Standardization Sector (ITU-T),STR_COM
+STR_COM135,permanent organ,STR_COM
+STR_COM136,World Telecommunication Standardization Assembly (WTSA),STR_COM
+STR_COM137,ISO and IEC,STR_COM
+STR_COM138,the necessary standards,STR_COM
+STR_COM139,telecommunication administration,STR_COM
+STR_COM140,recognized operating agency,STR_COM
+STR_COM141,ITU-T Recommendation V.44,STR_COM
+STR_COM142,Corrigendum 1,STR_COM
+STR_COM143,Table A.1,STR_COM
+STR_COM144,V.44 compression parameters,STR_COM
+STR_COM145,XID command or response frame,STR_COM
+STR_COM146,Table A.1/V.44,STR_COM
+STR_COM147,row 8,STR_COM
+STR_COM148,column 3,STR_COM
+STR_COM149,Encoder History,STR_COM
+STR_COM150,Clause II.1,STR_COM
+STR_COM151,Stage 10,STR_COM
+STR_COM152,Decoder History,STR_COM
+STR_COM153,SERIES OF ITU-T RECOMMENDATIONS,STR_COM
+STR_COM154,Fascicle VIII.1 of the Blue Book,STR_COM
+STR_COM155,STANDARD LIMITS FOR TRANSMISSION QUALITY OF DATA TRANSMISSION,STR_COM
+STR_COM156,distortion in time of the significant instants,STR_COM
+STR_COM157,received signals,STR_COM
+STR_COM158,transmission channel,STR_COM
+STR_COM159,modem V.21,STR_COM
+STR_COM160,modem V.23,STR_COM
+STR_COM161,Channels,STR_COM
+STR_COM162,unit element,STR_COM
+STR_COM163,receive margin limits,STR_COM
+STR_COM164,ITU-T G.652,STR_COM
+STR_COM165,single-mode optical fibre and cable,STR_COM
+STR_COM166,single-mode optical fibre,STR_COM
+STR_COM167,cable,STR_COM
+STR_COM168,link,STR_COM
+STR_COM169,Dispersion un-shifted optical fibre,STR_COM
+STR_COM170,optical fibre and cable,STR_COM
+STR_COM171,ITU-T study groups,STR_COM
+STR_COM172,Material properties of the fibre,STR_COM
+STR_COM173,Appendix I – Information about cabled fibre link attributes used for system design,STR_COM
+STR_COM174,cabled fibre link attributes,STR_COM
+STR_COM175,Appendix II – Information on data collection of G.652.D fibre maximum/minimum chromatic dispersion for boundary line specification,STR_COM
+STR_COM176,Bibliography,STR_COM
+STR_COM177,Change log,STR_COM
+STR_COM178,ITU-T G.653,STR_COM
+STR_COM179,dispersion-shifted,STR_COM
+STR_COM180,terms,STR_COM
+STR_COM181,guidelines,STR_COM
+STR_COM182,characteristics,STR_COM
+STR_COM183,cladding diameter,STR_COM
+STR_COM184,non-circularity,STR_COM
+STR_COM185,cladding,STR_COM
+STR_COM186,bend radius,STR_COM
+STR_COM187,number of turns about a mandrel with a specified radius,STR_COM
+STR_COM188,coarse wavelength division multiplexing (CWDM) systems,STR_COM
+STR_COM189,ITU-T G.650.3,STR_COM
+STR_COM190,single-mode optical fibre cable links,STR_COM
+STR_COM191,optical fibre cable link,STR_COM
+STR_COM192,ITU-T G.655,STR_COM
+STR_COM193,non-zero dispersion-shifted single-mode optical fibre and cable,STR_COM
+STR_COM194,ITU-T G.657,STR_COM
+STR_COM195,bending-loss insensitive single-mode optical fibre and cable,STR_COM
+STR_COM196,IEC 60793-1-40,STR_COM
+STR_COM197,Optical fibres,STR_COM
+STR_COM198,IEC 61280-4-2,STR_COM
+STR_COM199,Installed cable plant,STR_COM
+STR_COM200,IEC 61280-4-4,STR_COM
+STR_COM201,Cable plants and links,STR_COM
+STR_COM202,IEC 61281-1,STR_COM
+STR_COM203,Fibre optic communication subsystems,STR_COM
+STR_COM204,IEC/TR 61282-7,STR_COM
+STR_COM205,IEC/TR 61282-9,STR_COM
+STR_COM206,IEC 61300-3-6,STR_COM
+STR_COM207,Fibre optic interconnecting devices and passive components,STR_COM
+STR_COM208,IEC 61300-3-35,STR_COM
+STR_COM209,IEC/TR 61931,STR_COM
+STR_COM210,Fibre optic,STR_COM
+STR_COM211,fibre optic cable plant (FOCP),STR_COM
+STR_COM212,ITU-T G.651.1,STR_COM
+STR_COM213,quartz multimode fibre,STR_COM
+STR_COM214,50/125 µm multimode graded index optical fibre cable,STR_COM
+STR_COM215,IEC 60793-2-10,STR_COM
+STR_COM216,IEEE 802.3 Ethernet system standards,STR_COM
+STR_COM217,multimode fibre,STR_COM
+STR_COM218,OMx cabled fibre categories,STR_COM
+STR_COM219,ISO/IEC 11801-1,STR_COM
+STR_COM220,core diameter,STR_COM
+STR_COM221,numerical aperture,STR_COM
+STR_COM222,macrobending loss,STR_COM
+STR_COM223,material properties of the fibre,STR_COM
+STR_COM224,refractive index profile,STR_COM
+STR_COM225,modal bandwidth,STR_COM
+STR_COM226,chromatic dispersion coefficient,STR_COM
+STR_COM227,ITU-T,STR_COM
+STR_COM228,Telecommunication Standardization Sector,STR_COM
+STR_COM229,ITU-T Study Group 14,STR_COM
+STR_COM230,Terminal Adaptor (TA),STR_COM
+STR_COM231,stand-alone item of equipment,STR_COM
+STR_COM232,printed circuit card,STR_COM
+STR_COM233,non-ISDN terminal,STR_COM
+STR_COM234,ISDN user-network interface,STR_COM
+STR_COM235,TE2,STR_COM
+STR_COM236,TA Functional Group,STR_COM
+STR_COM237,ISDN,STR_COM
+STR_COM238,Recommendation I.411,STR_COM
+STR_COM239,Terminal Adaptor,STR_COM
+STR_COM240,Functional Groups,STR_COM
+STR_COM241,modec,STR_COM
+STR_COM242,functional block,STR_COM
+STR_COM243,BC,STR_COM
+STR_COM244,Bearer Capability,STR_COM
+STR_COM245,CLI,STR_COM
+STR_COM246,Data Terminal Equipment,STR_COM
+STR_COM247,HLC,STR_COM
+STR_COM248,High Layer Compatibility,STR_COM
+STR_COM249,IPE,STR_COM
+STR_COM250,IWF,STR_COM
+STR_COM251,LLC,STR_COM
+STR_COM252,Low Layer Compatibility,STR_COM
+STR_COM253,MIB,STR_COM
+STR_COM254,Management Information Base,STR_COM
+STR_COM255,MSN,STR_COM
+STR_COM256,Multiple Subscriber Number,STR_COM
+STR_COM257,MTA,STR_COM
+STR_COM258,Multi-protocol Terminal Adaptor,STR_COM
+STR_COM259,NT,STR_COM
+STR_COM260,Network Termination,STR_COM
+STR_COM261,PID,STR_COM
+STR_COM262,SUB,STR_COM
+STR_COM263,UDI-TA,STR_COM
+STR_COM264,Unrestricted Digital Information,STR_COM
+STR_COM265,Tones and Announcements,STR_COM
+STR_COM266,R reference point,STR_COM
+STR_COM267,Terminal Adaptor (TA) functional group,STR_COM
+STR_COM268,TE2 (non-ISDN) terminal,STR_COM
+STR_COM269,S reference point,STR_COM
+STR_COM270,digital modem,STR_COM
+STR_COM271,modem connected to a codec,STR_COM
+STR_COM272,codec,STR_COM
+STR_COM273,V-Series DTE,STR_COM
+STR_COM274,TA,STR_COM
+STR_COM275,GSTN,STR_COM
+STR_COM276,3.1 kHz audio bearer service,STR_COM
+STR_COM277,ITU-T G.654,STR_COM
+STR_COM278,geometrical, mechanical and transmission attributes,STR_COM
+STR_COM279,cut-off shifted fibre (CSF),STR_COM
+STR_COM280,optical amplifiers,STR_COM
+STR_COM281,very low loss cut-off shifted fibre (CSF),STR_COM
+STR_COM282,geometrical, optical transmission,STR_COM
+STR_COM283,mechanical characteristics,STR_COM
+STR_COM284,fibre attributes,STR_COM
+STR_COM285,geometrical,STR_COM
+STR_COM286,cable attributes,STR_COM
+STR_COM287,link attributes,STR_COM
+STR_COM288,concatenated cables,STR_COM
+STR_COM289,system interface parameters,STR_COM
+STR_COM290,various characteristics,STR_COM
+STR_COM291,ITU-T G.696.1,STR_COM
+STR_COM292,ITU-T G.957,STR_COM
+STR_COM293,Digital line systems,STR_COM
+STR_COM294,ITU-T G.973,STR_COM
+STR_COM295,ITU-T G.973.1,STR_COM
+STR_COM296,Optical fibre submarine cable systems,STR_COM
+STR_COM297,ITU-T G.973.2,STR_COM
+STR_COM298,ITU-T G.977.1,STR_COM
+STR_COM299,mechanical,STR_COM
+STR_COM300,non-linear effects,STR_COM
+STR_COM301,dispersion,STR_COM
+STR_COM302,lower wavelengths,STR_COM
+STR_COM303,ITU-T Study Group 15,STR_COM
+STR_COM304,ITU-T Recommendations,STR_COM
+STR_COM305,procedure,STR_COM
+STR_COM306,Recommendation,STR_COM
+STR_COM307,ITU-T G.656,STR_COM
+STR_COM308,geometrical, mechanical, and transmission attributes,STR_COM
+STR_COM309,cladding non-circularity,STR_COM
+STR_COM310,fibre,STR_COM
+STR_COM311,ITU-T Recommendation V.53,STR_COM
+STR_COM312,data transmission system,STR_COM
+STR_COM313,interfaces,STR_COM
+STR_COM314,Recommendation V.21 modem,STR_COM
+STR_COM315,Recommendation V.23 modem,STR_COM
+STR_COM316,Systems,STR_COM
+STR_COM317,Recommendation V.2,STR_COM
+STR_COM318,Recommendation M.1020,STR_COM
+STR_COM319,Recommendation 0.71,STR_COM
+STR_COM320,standard measuring instrument,STR_COM
+STR_COM321,ITU-T Recommendation V.54,STR_COM
+STR_COM322,Loop 1,STR_COM
+STR_COM323,transmitted signals,STR_COM
+STR_COM324,Loop 3,STR_COM
+STR_COM325,local loop,STR_COM
+STR_COM326,Loop 2,STR_COM
+STR_COM327,the network,STR_COM
+STR_COM328,the line,STR_COM
+STR_COM329,part of the line,STR_COM
+STR_COM330,Loop 4,STR_COM
+STR_COM331,4-wire lines,STR_COM
+STR_COM332,Circuit 103,STR_COM
+STR_COM333,Circuit 104,STR_COM
+STR_COM334,transmitted data,STR_COM
+STR_COM335,Circuit 105,STR_COM
+STR_COM336,Circuit 125,STR_COM
+STR_COM337,Circuit 108,STR_COM
+STR_COM338,Circuit 109,STR_COM
+STR_COM339,Circuit 106,STR_COM
+STR_COM340,Circuit 107,STR_COM
+STR_COM341,Circuit 115,STR_COM
+STR_COM342,Circuit 113,STR_COM
+STR_COM343,Circuit 114,STR_COM
+STR_COM344,Circuit 140,STR_COM
+STR_COM345,Circuit 141,STR_COM
+STR_COM346,loop 2,STR_COM
+STR_COM347,loop 3,STR_COM
+STR_COM348,Circuit 142,STR_COM
+STR_COM349,DTE A,STR_COM
+STR_COM350,Four loops,STR_COM
+STR_COM351,DTE B,STR_COM
+STR_COM352,DCE A,STR_COM
+STR_COM353,1 + x-4 + x-7,STR_COM
+STR_COM354,DCE B,STR_COM
+STR_COM355,switch on the equipment,STR_COM
+STR_COM356,DCE-DTE interface,STR_COM
+STR_COM357,received data,STR_COM
+STR_COM358,four-phase action/reaction sequence,STR_COM
+STR_COM359,ITU-T Recommendation V.56,STR_COM
+STR_COM360,Test parameters,STR_COM
+STR_COM361,Block diagram for standard test measuring set-up,STR_COM
+STR_COM362,measuring set-up,STR_COM
+STR_COM363,Parameters of the line characteristics simulator,STR_COM
+STR_COM364,line characteristics simulator,STR_COM
+STR_COM365,Parameters of the fault simulator,STR_COM
+STR_COM366,Noise sources,STR_COM
+STR_COM367,different faults and noise parameters (X),STR_COM
+STR_COM368,Table 8/V.56,STR_COM
+STR_COM369,CCITT Recommendation Characteristics of special quality international leased circuits with special bandwidth conditioning,STR_COM
+STR_COM370,Vol. IV,STR_COM
+STR_COM371,CCITT Recommendation Characteristics of special quality international leased circuits with basic bandwidth conditioning,STR_COM
+STR_COM372,modem's performance,STR_COM
+STR_COM373,given connection,STR_COM
+STR_COM374,ANSI TIA TR-30.3,STR_COM
+STR_COM375,Private Branch Exchange (PBX),STR_COM
+STR_COM376,existing PBX systems,STR_COM
+STR_COM377,waterfall performance curves,STR_COM
+STR_COM378,EO-EO setting,STR_COM
+STR_COM379,End-Office-to-End-Office (EO-EO),STR_COM
+STR_COM380,local loop A,STR_COM
+STR_COM381,local loop B,STR_COM
+STR_COM382,Recommendation V.58,STR_COM
+STR_COM383,ITU-T Study Group 14 (1993-1996),STR_COM
+STR_COM384,Telecommunications Management Network (TMN),STR_COM
+STR_COM385,principles,STR_COM
+STR_COM386,Generic Network Information Model,STR_COM
+STR_COM387,information model,STR_COM
+STR_COM388,Network Elements (NEs),STR_COM
+STR_COM389,Telecommunications Management (TMN),STR_COM
+STR_COM390,Element Manager to Element interface,STR_COM
+STR_COM391,Equipment Domain,STR_COM
+STR_COM392,vSeriesDce Managed Object,STR_COM
+STR_COM393,Managed Object Template,STR_COM
+STR_COM394,MANAGED OBJECT CLASS,STR_COM
+STR_COM395,callControlPkg,STR_COM
+STR_COM396,PACKAGE,STR_COM
+STR_COM397,ITU-T V.59,STR_COM
+STR_COM398,SERIES V: DATA COMMUNICATION OVER THE TELEPHONE NETWORK,STR_COM
+STR_COM399,Managed objects for diagnostic information of public switched telephone network connected V-series modem DCEs,STR_COM
+STR_COM400,V-series modem DCEs,STR_COM
+STR_COM401,ITU-T Recommendation V.59,STR_COM
+STR_COM402,WTSA Resolution 1 procedure,STR_COM
+STR_COM403,ASN.1,STR_COM
+STR_COM404,managed objects,STR_COM
+STR_COM405,Packed Encoding Rules (PER),STR_COM
+STR_COM406,Annex A,STR_COM
+STR_COM407,DTEDCE,STR_COM
+STR_COM408,SEQUENCE OF SEQUENCE,STR_COM
+STR_COM409,INTEGER,STR_COM
+STR_COM410,other signals,STR_COM
+STR_COM411,A simultaneous voice plus data modem,STR_COM
+STR_COM412,General Switched Telephone Network,STR_COM
+STR_COM413,leased point-to-point 2-wire telephone type circuits,STR_COM
+STR_COM414,2-wire,STR_COM
+STR_COM415,telephone type circuits,STR_COM
+STR_COM416,pre-emphasis filter,STR_COM
+STR_COM417,ITU-T Study Group 16 (2005-2008),STR_COM
+STR_COM418,necessary standards,STR_COM
+STR_COM419,ITU-T Recommendation V.7,STR_COM
+STR_COM420,data source,STR_COM
+STR_COM421,data sink,STR_COM
+STR_COM422,protocol,STR_COM
+STR_COM423,data concentrator,STR_COM
+STR_COM424,common transmission medium,STR_COM
+STR_COM425,data sources,STR_COM
+STR_COM426,data channels,STR_COM
+STR_COM427,transmission medium,STR_COM
+STR_COM428,simple multipoint circuit,STR_COM
+STR_COM429,multipoint circuit,STR_COM
+STR_COM430,DCE line signal band,STR_COM
+STR_COM431,forward channel,STR_COM
+STR_COM432,interconnected DCEs,STR_COM
+STR_COM433,control signals,STR_COM
+STR_COM434,bit stream,STR_COM
+STR_COM435,physical interchange circuits,STR_COM
+STR_COM436,V.24 interface,STR_COM
+STR_COM437,encoded and multiplexed,STR_COM
+STR_COM438,200 series interchange circuits,STR_COM
+STR_COM439,100 series interchange circuits,STR_COM
+STR_COM440,anisochronous transmission,STR_COM
+STR_COM441,data units,STR_COM
+STR_COM442,telecommunication standardization sector,STR_COM
+STR_COM443,telephone network,STR_COM
+STR_COM444,terminals,STR_COM
+STR_COM445,AlternativeCapabilitySet,STR_COM
+STR_COM446,set,STR_COM
+STR_COM447,simultaneousCapabilities,STR_COM
+STR_COM448,structure,STR_COM
+STR_COM449,set of modes,STR_COM
+STR_COM450,CapabilityDescriptor,STR_COM
+STR_COM451,NonStandardParameter,STR_COM
+STR_COM452,H.245,STR_COM
+STR_COM453,message specifications and parameters,STR_COM
+STR_COM454,G.729 Annex B,STR_COM
+STR_COM455,ISO 13239,STR_COM
+STR_COM456,segmentation/reassembly header,STR_COM
+STR_COM457,N401 Value Range,STR_COM
+STR_COM458,ERM channel,STR_COM
+STR_COM459,permanent organ of ITU,STR_COM
+STR_COM460,Generic multiplexer,STR_COM
+STR_COM461,TSB patent database,STR_COM
+STR_COM462,DATA COMMUNICATION OVER THE TELEPHONE NETWORK,STR_COM
+STR_COM463,V.42 LAPM-based procedures,STR_COM
+STR_COM464,bits,STR_COM
+STR_COM465,generator polynomial x8 + x2 + x + 1,STR_COM
+STR_COM466,generator polynomial x16 + x12 + x5 + 1,STR_COM
+STR_COM467,generator polynomial x32 + x26 + x23 + x22 + x16 + x12 + x11 + x10 + x8 + x7 + x5 + x4 + x2 + x + 1,STR_COM
+STR_COM468,remote station,STR_COM
+STR_COM469,DLC-opener,STR_COM
+STR_COM470,ITU-T Recommendation V.8,STR_COM
+STR_COM471,signals,STR_COM
+STR_COM472,PSTN,STR_COM
+STR_COM473,call DCE,STR_COM
+STR_COM474,modulation modes available in the call DCE,STR_COM
+STR_COM475,answer DCE,STR_COM
+STR_COM476,call and answer DCEs,STR_COM
+STR_COM477,sinewave signal,STR_COM
+STR_COM478,PCM Modem,STR_COM
+STR_COM479,ITU-T V.21,STR_COM
+STR_COM480,low-band channel,STR_COM
+STR_COM481,ITU-T V.25,STR_COM
+STR_COM482,PSTN echo-control equipment,STR_COM
+STR_COM483,ITU-T V.34,STR_COM
+STR_COM484,modem,STR_COM
+STR_COM485,ITU-T V.90,STR_COM
+STR_COM486,analogue modem,STR_COM
+STR_COM487,ITU-T V.92,STR_COM
+STR_COM488,Circuit Multiplication Equipments (CMEs),STR_COM
+STR_COM489,V-series modulation,STR_COM
+STR_COM490,ITU-T V.80,STR_COM
+STR_COM491,telecommunication standard,STR_COM
+STR_COM492,Table 10/V.80,STR_COM
+STR_COM493,synchronous data modes,STR_COM
+STR_COM494,asynchronous DTE,STR_COM
+STR_COM495,Cellular systems,STR_COM
+STR_COM496,Table 10,STR_COM
+STR_COM497,ITU-T V-SERIES RECOMMENDATIONS,STR_COM
+STR_COM498,Asynchronous DTE,STR_COM
+STR_COM499,World Telecommunication Standardization Assembly,STR_COM
+STR_COM500,standards,STR_COM
+STR_COM501,Series of ITU-T Recommendations,STR_COM
+STR_COM502,Telecommunication administration,STR_COM
+STR_COM503,Recognized operating agency,STR_COM
+STR_COM504,ITU-T V.8 bis,STR_COM
+STR_COM505,data circuit-terminating equipments (DCEs),STR_COM
+STR_COM506,data terminal equipments (DTEs),STR_COM
+STR_COM507,Data Circuit-terminating Equipments (DCEs),STR_COM
+STR_COM508,leased point-to-point telephone-type circuits,STR_COM
+STR_COM509,Data Terminal Equipments (DTEs),STR_COM
+STR_COM510,Public Switched Telephone Network (PSTN),STR_COM
+STR_COM511,document,STR_COM
+STR_COM512,WTSA Resolution 1,STR_COM
+STR_COM513,PCM Modems,STR_COM
+STR_COM514,Revision 2,STR_COM
+STR_COM515,coding,STR_COM
+STR_COM516,ISO,STR_COM
+STR_COM517,IEC,STR_COM
+STR_COM518,recognized operating agency (ROA),STR_COM
+STR_COM519,individual,STR_COM
+STR_COM520,company,STR_COM
+STR_COM521,corporation,STR_COM
+STR_COM522,governmental organization,STR_COM
+STR_COM523,ITU-T V.91,STR_COM
+STR_COM524,4-wire circuit switched connection,STR_COM
+STR_COM525,leased point-to-point 4-wire digital circuits,STR_COM
+STR_COM526,specialized agency,STR_COM
+STR_COM527,peer modem,STR_COM
+STR_COM528,description,STR_COM
+STR_COM529,receiver,STR_COM
+STR_COM530,MH sequence,STR_COM
+STR_COM531,data mode,STR_COM
+STR_COM532,V.42,STR_COM
+STR_COM533,link layer protocols,STR_COM
+STR_COM534,Figure 20/V.92,STR_COM
+STR_COM535,ITU-T Recommendation X.1,STR_COM
+STR_COM536,ITU-T Study Group 7 (1997-2000),STR_COM
+STR_COM537,Public data networks,STR_COM
+STR_COM538,network,STR_COM
+STR_COM539,intermediate switched network,STR_COM
+STR_COM540,network providing the service,STR_COM
+STR_COM541,signalling/control procedures,STR_COM
+STR_COM542,Packet Assembly/Disassembly (PAD),STR_COM
+STR_COM543,Facsimile Packet Assembly/Disassembly (FPAD),STR_COM
+STR_COM544,Multi-Aspect Packet Assembly/Disassembly (MAP),STR_COM
+STR_COM545,Recommendation X.2,STR_COM
+STR_COM546,basic user facility(ies),STR_COM
+STR_COM547,data transmission services,STR_COM
+STR_COM548,Optional user facilities,STR_COM
+STR_COM549,Recommendation X.3,STR_COM
+STR_COM550,Recommendation X.5,STR_COM
+STR_COM551,Recommendation X.8,STR_COM
+STR_COM552,Recommendation X.30,STR_COM
+STR_COM553,terminal adaptor,STR_COM
+STR_COM554,terminal adaptor functional grouping,STR_COM
+STR_COM555,Recommendation X.4,STR_COM
+STR_COM556,Recommendation V.14,STR_COM
+STR_COM557,Recommendation X.52,STR_COM
+STR_COM558,International Alphabet No. 5,STR_COM
+STR_COM559,11 units/character,STR_COM
+STR_COM560,International Telegraph Alphabet No. 2,STR_COM
+STR_COM561,7.5 units/character start-stop,STR_COM
+STR_COM562,Circuit-Switched Public Data Network (CSPDN),STR_COM
+STR_COM563,PDN providing frame relay data transmission service,STR_COM
+STR_COM564,PDN,STR_COM
+STR_COM565,Circuit-Switched Public Data Network,STR_COM
+STR_COM566,Public Switched Telephone Network,STR_COM
+STR_COM567,packet-switched data transmission service,STR_COM
+STR_COM568,permanent and switched connections,STR_COM
+STR_COM569,ITU-T Recommendation V.251,STR_COM
+STR_COM570,V.8,STR_COM
+STR_COM571,PSTN call,STR_COM
+STR_COM572,V.8 bis,STR_COM
+STR_COM573,call type,STR_COM
+STR_COM574,calling terminal,STR_COM
+STR_COM575,Voice,STR_COM
+STR_COM576,hexadecimal octet coding,STR_COM
+STR_COM577,string of octets,STR_COM
+STR_COM578,string of hexadecimal digits,STR_COM
+STR_COM579,hexadecimal octet sequence,STR_COM
+STR_COM580,even number of hexadecimal digits,STR_COM
+STR_COM581,V.8 signal format,STR_COM
+STR_COM582,synchronization signal,STR_COM
+STR_COM583,one or more octets,STR_COM
+STR_COM584,V.8 bis signal and message format,STR_COM
+STR_COM585,dual tone,STR_COM
+STR_COM586,single tone,STR_COM
+STR_COM587,HDLC frames,STR_COM
+STR_COM588,ITU-T Recommendation V.252,STR_COM
+STR_COM589,V.70 DSVD entity,STR_COM
+STR_COM590,V.76 multiplexer,STR_COM
+STR_COM591,V.75 control unit,STR_COM
+STR_COM592,H.324 entity,STR_COM
+STR_COM593,H.223 multiplexer,STR_COM
+STR_COM594,H.245 control unit for H.324,STR_COM
+STR_COM595,H.245 control unit,STR_COM
+STR_COM596,V.70 DSVD device,STR_COM
+STR_COM597,H.324 terminal,STR_COM
+STR_COM598,DCE/DTE interface,STR_COM
+STR_COM599,audio and video transducers and codecs,STR_COM
+STR_COM600,devices attached directly to the DCE,STR_COM
+STR_COM601,ITU-T V.253,STR_COM
+STR_COM602,Data Circuit-terminating Equipment,STR_COM
+STR_COM603,V.253-equipped DCE,STR_COM
+STR_COM604,WTSC Resolution No. 1,STR_COM
+STR_COM605,voice-capable DCE,STR_COM
+STR_COM606,Non-speakerphone section of a voice DCE,STR_COM
+STR_COM607,voice DCE,STR_COM
+STR_COM608,Subsection 5.1,STR_COM
+STR_COM609,Subsection 5.2,STR_COM
+STR_COM610,Subsection 5.3,STR_COM
+STR_COM611,Subsection 5.4,STR_COM
+STR_COM612,voice data stream,STR_COM
+STR_COM613,Subsection 5.5,STR_COM
+STR_COM614,Section 6,STR_COM
+STR_COM615,Subsection 6.1,STR_COM
+STR_COM616,SERIES X: DATA NETWORKS, OPEN SYSTEM COMMUNICATIONS AND SECURITY,STR_COM
+STR_COM617,DATA NETWORKS,STR_COM
+STR_COM618,OPEN SYSTEM COMMUNICATIONS,STR_COM
+STR_COM619,ITU-T X-SERIES RECOMMENDATIONS,STR_COM
+STR_COM620,PUBLIC DATA NETWORKS X.1–X.199,STR_COM
+STR_COM621,OPEN SYSTEMS INTERCONNECTION X.200–X.299,STR_COM
+STR_COM622,INTERWORKING BETWEEN NETWORKS X.300–X.399,STR_COM
+STR_COM623,MESSAGE HANDLING SYSTEMS X.400–X.499,STR_COM
+STR_COM624,DIRECTORY X.500–X.599,STR_COM
+STR_COM625,OSI NETWORKING AND SYSTEM ASPECTS X.600–X.699,STR_COM
+STR_COM626,OSI MANAGEMENT X.700–X.799,STR_COM
+STR_COM627,SECURITY X.800–X.849,STR_COM
+STR_COM628,OSI APPLICATIONS X.850–X.899,STR_COM
+STR_COM629,OPEN DISTRIBUTED PROCESSING X.900–X.999,STR_COM
+STR_COM630,INFORMATION AND NETWORK SECURITY,STR_COM
+STR_COM631,Network security X.1030–X.1049,STR_COM
+STR_COM632,Security management X.1050–X.1069,STR_COM
+STR_COM633,Telebiometrics X.1080–X.1099,STR_COM
+STR_COM634,SECURE APPLICATIONS AND SERVICES (1),STR_COM
+STR_COM635,Multicast security X.1100–X.1109,STR_COM
+STR_COM636,Home network security X.1110–X.1119,STR_COM
+STR_COM637,Mobile security X.1120–X.1139,STR_COM
+STR_COM638,Web security (1) X.1140–X.1149,STR_COM
+STR_COM639,Application Security (1) X.1150–X.1159,STR_COM
+STR_COM640,Peer-to-peer security X.1160–X.1169,STR_COM
+STR_COM641,Networked ID security X.1170–X.1179,STR_COM
+STR_COM642,IPTV security X.1180–X.1199,STR_COM
+STR_COM643,CYBERSPACE SECURITY,STR_COM
+STR_COM644,telecommunication networks,STR_COM
+STR_COM645,end user's equipment,STR_COM
+STR_COM646,Security architecture,STR_COM
+STR_COM647,systems providing end-to-end communications,STR_COM
+STR_COM648,telecommunications networks,STR_COM
+STR_COM649,security architecture,STR_COM
+STR_COM650,Telecommunications networks,STR_COM
+STR_COM651,telecommunication network,STR_COM
+STR_COM652,end-user terminals,STR_COM
+STR_COM653,collective effect of service performance,STR_COM
+STR_COM654,User-Network Interface,STR_COM
+STR_COM655,end-user equipment,STR_COM
+STR_COM656,system,STR_COM
+STR_COM657,Infrastructure security layer,STR_COM
+STR_COM658,three different hierarchical security layers,STR_COM
+STR_COM659,Services security layer,STR_COM
+STR_COM660,Applications security layer,STR_COM
+STR_COM661,Management plane,STR_COM
+STR_COM662,security layers,STR_COM
+STR_COM663,Control plane,STR_COM
+STR_COM664,End-user plane,STR_COM
+STR_COM665,ITU-T Study Group 17,STR_COM
+STR_COM666,ITU-T X.1032,STR_COM
+STR_COM667,telecommunication IP-based network security system,STR_COM
+STR_COM668,various groups of external objects,STR_COM
+STR_COM669,four models,STR_COM
+STR_COM670,Telecommunication IP-based network security system (TNSS),STR_COM
+STR_COM671,external systems,STR_COM
+STR_COM672,Security system,STR_COM
+STR_COM673,organization,STR_COM
+STR_COM674,technical measures,STR_COM
+STR_COM675,Information and Communication Technologies (ICT),STR_COM
+STR_COM676,United Nations specialized agency,STR_COM
+STR_COM677,National regulatory authorities,STR_COM
+STR_COM678,Some other external organizations,STR_COM
+STR_COM679,TNSS construction principles,STR_COM
+STR_COM680,Trusted third parties,STR_COM
+STR_COM681,security systems,STR_COM
+STR_COM682,Organizations using telecommunication IP-based network services,STR_COM
+STR_COM683,telecommunication IP-based network services,STR_COM
+STR_COM684,Security threats,STR_COM
+STR_COM685,telecommunication IP-based network,STR_COM
+STR_COM686,the information transmitted through this network,STR_COM
+STR_COM687,ITU-T X.1033,STR_COM
+STR_COM688,information services,STR_COM
+STR_COM689,telecommunication operators,STR_COM
+STR_COM690,Information and Communication Technology (ICT),STR_COM
+STR_COM691,new services,STR_COM
+STR_COM692,operational models,STR_COM
+STR_COM693,new security issues,STR_COM
+STR_COM694,user-network interfaces,STR_COM
+STR_COM695,protocols established by agreement between Administrations and/or recognized operating agencies (ROAs),STR_COM
+STR_COM696,information technology and other high-tech means,STR_COM
+STR_COM697,Internet Content Provider (ICP),STR_COM
+STR_COM698,operators,STR_COM
+STR_COM699,third parties,STR_COM
+STR_COM700,Internet service providers (ISPs),STR_COM
+STR_COM701,authentication framework,STR_COM
+STR_COM702,multiple authentication mechanisms,STR_COM
+STR_COM703,endpoint of the link initiating EAP authentication,STR_COM
+STR_COM704,authentication server,STR_COM
+STR_COM705,4 messages,STR_COM
+STR_COM706,two parties,STR_COM
+STR_COM707,keying materials,STR_COM
+STR_COM708,verifier information,STR_COM
+STR_COM709,password file,STR_COM
+STR_COM710,Password-authenticated key exchange (PAK) protocol,STR_COM
+STR_COM711,symmetric cryptographic key,STR_COM
+STR_COM712,property of a key establishment protocol,STR_COM
+STR_COM713,proposed authentication method,STR_COM
+STR_COM714,pre-shared secret,STR_COM
+STR_COM715,NIST,STR_COM
+STR_COM716,network security policies,STR_COM
+STR_COM717,security controls,STR_COM
+STR_COM718,Network security policy information model (NSPIM),STR_COM
+STR_COM719,network devices,STR_COM
+STR_COM720,Policy Core Information Model (PCIM),STR_COM
+STR_COM721,PCIM extension (PCIMe),STR_COM
+STR_COM722,sub-policies,STR_COM
+STR_COM723,condition/action pairs,STR_COM
+STR_COM724,technical security guidelines,STR_COM
+STR_COM725,IPv6 networks and services,STR_COM
+STR_COM726,IPv6,STR_COM
+STR_COM727,IPv4,STR_COM
+STR_COM728,new protocol,STR_COM
+STR_COM729,interface,STR_COM
+STR_COM730,IPv6 protocol machinery,STR_COM
+STR_COM731,IPv6 terminal devices,STR_COM
+STR_COM732,IPv6 network,STR_COM
+STR_COM733,Network Address Translation,STR_COM
+STR_COM734,Intrusion Detection System,STR_COM
+STR_COM735,Secure Neighbor Discovery,STR_COM
+STR_COM736,Stateful,STR_COM
+STR_COM737,Network Address Translation 6 to 6,STR_COM
+STR_COM738,Network Prefix Translation version 6,STR_COM
+STR_COM739,unicast Reverse Path Forwarding,STR_COM
+STR_COM740,Protocol,STR_COM
+STR_COM741,reference architecture,STR_COM
+STR_COM742,software-defined networking (SDN),STR_COM
+STR_COM743,security reference architecture,STR_COM
+STR_COM744,security requirements,STR_COM
+STR_COM745,SDN application layer,STR_COM
+STR_COM746,SDN control layer,STR_COM
+STR_COM747,SDN resource layer,STR_COM
+STR_COM748,application-control interface,STR_COM
+STR_COM749,resource-control interface,STR_COM
+STR_COM750,centralized SDN controller,STR_COM
+STR_COM751,single router,STR_COM
+STR_COM752,ONF OpenFlow,STR_COM
+STR_COM753,SDN controller,STR_COM
+STR_COM754,Multi-layer,STR_COM
+STR_COM755,predefined mandatory policy,STR_COM
+STR_COM756,fraudulent flow entries,STR_COM
+STR_COM757,Fine-grained naming scheme for flow entry,STR_COM
+STR_COM758,Annex B,STR_COM
+STR_COM759,Internet X.509 Public Key Infrastructure Certificate Management Protocol (CMP),STR_COM
+STR_COM760,The Transport Layer Security (TLS) Protocol Version 1.2,STR_COM
+STR_COM761,Specification for the Advanced Encryption Standard (AES) FIPS 197,STR_COM
+STR_COM762,Digital Signature Standard,STR_COM
+STR_COM763,ITU-T V.14,STR_COM
+STR_COM764,Interfaces and voiceband modems,STR_COM
+STR_COM765,synchronous bearer channels,STR_COM
+STR_COM766,ITU-T Recommendation V.14,STR_COM
+STR_COM767,Interface layer specifications for data communication V.200–V.249,STR_COM
+STR_COM768,Control procedures V.250–V.299,STR_COM
+STR_COM769,Modems on digital circuits V.300–V.399,STR_COM
+STR_COM770,multiprotocol audiovisual terminals,STR_COM
+STR_COM771,digital channels,STR_COM
+STR_COM772,multimedia terminals,STR_COM
+STR_COM773,digital networks,STR_COM
+STR_COM774,subchannel connectivity,STR_COM
+STR_COM775,multimedia or other communication protocols,STR_COM
+STR_COM776,V.8/V.8 bis,STR_COM
+STR_COM777,voice,STR_COM
+STR_COM778,H.221 FAS,STR_COM
+STR_COM779,digital connection,STR_COM
+STR_COM780,octet/septet alignment,STR_COM
+STR_COM781,Phase 1 procedures,STR_COM
+STR_COM782,ITU-T Recommendation V.15,STR_COM
+STR_COM783,output of a modem,STR_COM
+STR_COM784,analogue telecommunication facility,STR_COM
+STR_COM785,acoustic energy/power,STR_COM
+STR_COM786,telephone instrument,STR_COM
+STR_COM787,V Series modem,STR_COM
+STR_COM788,Series V Recommendations,STR_COM
+STR_COM789,Recommendations,STR_COM
+STR_COM790,Recommendation V.25,STR_COM
+STR_COM791,acoustically coupled modem,STR_COM
+STR_COM792,telephone instruments,STR_COM
+STR_COM793,acoustic path,STR_COM
+STR_COM794,coupling device,STR_COM
+STR_COM795,telephone transmission network,STR_COM
+STR_COM796,acoustic coupling,STR_COM
+STR_COM797,data transmission equipment,STR_COM
+STR_COM798,subscriber's line terminals,STR_COM
+STR_COM799,portable data transmission equipment,STR_COM
+STR_COM800,acoustic coupling equipment,STR_COM
+STR_COM801,hard-wired counterparts,STR_COM
+STR_COM802,security dimensions,STR_COM
+STR_COM803,authorized entity,STR_COM
+STR_COM804,information,STR_COM
+STR_COM805,firewall,STR_COM
+STR_COM806,security barrier,STR_COM
+STR_COM807,dedicated device,STR_COM
+STR_COM808,composite of several components and techniques,STR_COM
+STR_COM809,abnormal usage patterns,STR_COM
+STR_COM810,vulnerability,STR_COM
+STR_COM811,intrusion detection system,STR_COM
+STR_COM812,Information systems,STR_COM
+STR_COM813,intrusion prevention system,STR_COM
+STR_COM814,intrusion detection systems,STR_COM
+STR_COM815,Overview of cybersecurity X.1500–X.1519,STR_COM
+STR_COM816,Vulnerability/state exchange X.1520–X.1539,STR_COM
+STR_COM817,Event/incident/heuristics exchange X.1540–X.1549,STR_COM
+STR_COM818,Exchange of policies X.1550–X.1559,STR_COM
+STR_COM819,Heuristics and information request X.1560–X.1569,STR_COM
+STR_COM820,Identification and discovery X.1570–X.1579,STR_COM
+STR_COM821,Assured exchange X.1580–X.1589,STR_COM
+STR_COM822,Cloud computing security design,STR_COM
+STR_COM823,ITU-T X.1040,STR_COM
+STR_COM824,e-commerce service ecosystem,STR_COM
+STR_COM825,e-commerce platform,STR_COM
+STR_COM826,independent software vendor (ISV),STR_COM
+STR_COM827,payment platform,STR_COM
+STR_COM828,logistics platform,STR_COM
+STR_COM829,seller,STR_COM
+STR_COM830,buyer,STR_COM
+STR_COM831,independent software,STR_COM
+STR_COM832,buyers and sellers,STR_COM
+STR_COM833,business processes,STR_COM
+STR_COM834,all phases of the data lifecycle,STR_COM
+STR_COM835,VoLTE network,STR_COM
+STR_COM836,IP multimedia subsystem (IMS) network,STR_COM
+STR_COM837,long term evolution (LTE) wireless network,STR_COM
+STR_COM838,evolved packet core (EPC) core network,STR_COM
+STR_COM839,IMS core network,STR_COM
+STR_COM840,IMS,STR_COM
+STR_COM841,Internet protocol (IP) network framework,STR_COM
+STR_COM842,session initiation protocol (SIP),STR_COM
+STR_COM843,circuit switch,STR_COM
+STR_COM844,EPC,STR_COM
+STR_COM845,MME,STR_COM
+STR_COM846,S/P-GW,STR_COM
+STR_COM847,core network,STR_COM
+STR_COM848,user equipments (UEs),STR_COM
+STR_COM849,routes,STR_COM
+STR_COM850,IMS network,STR_COM
+STR_COM851,SIP messages,STR_COM
+STR_COM852,HSS,STR_COM
+STR_COM853,techniques,STR_COM
+STR_COM854,network resources,STR_COM
+STR_COM855,network services,STR_COM
+STR_COM856,resources, facilities, services, or information,STR_COM
+STR_COM857,pre-established rules,STR_COM
+STR_COM858,specific rights or authority,STR_COM
+STR_COM859,device,STR_COM
+STR_COM860,service,STR_COM
+STR_COM861,junction of two network segments,STR_COM
+STR_COM862,honeypot,STR_COM
+STR_COM863,computer security mechanism,STR_COM
+STR_COM864,access control policy rules,STR_COM
+STR_COM865,blacklist of illegal devices,STR_COM
+STR_COM866,access rights policies,STR_COM
+STR_COM867,whitelist of Internet of things (IoT) devices,STR_COM
+STR_COM868,network resource,STR_COM
+STR_COM869,network system,STR_COM
+STR_COM870,SDN application,STR_COM
+STR_COM871,SDN switch,STR_COM
+STR_COM872,security manager (SM),STR_COM
+STR_COM873,service function chaining,STR_COM
+STR_COM874,network policies,STR_COM
+STR_COM875,traffic,STR_COM
+STR_COM876,security framework,STR_COM
+STR_COM877,SDN-based service function chaining,STR_COM
+STR_COM878,general security architecture,STR_COM
+STR_COM879,SDN-based service function chaining architectures,STR_COM
+STR_COM880,network elements,STR_COM
+STR_COM881,corresponding interfaces,STR_COM
+STR_COM882,SDN-based service function chaining architecture,STR_COM
+STR_COM883,solutions,STR_COM
+STR_COM884,SDN architecture,STR_COM
+STR_COM885,SFC forwarder,STR_COM
+STR_COM886,SFC classification rules,STR_COM
+STR_COM887,service function path (SFP) forwarding rules,STR_COM
+STR_COM888,ITU-T X.1044,STR_COM
+STR_COM889,Network virtualization,STR_COM
+STR_COM890,Physical resources layer,STR_COM
+STR_COM891,heterogeneous types of equipment,STR_COM
+STR_COM892,routers and servers,STR_COM
+STR_COM893,Virtual resources layer,STR_COM
+STR_COM894,physical resources,STR_COM
+STR_COM895,virtual resources,STR_COM
+STR_COM896,LINP layer,STR_COM
+STR_COM897,management policies,STR_COM
+STR_COM898,Physical resources in NV,STR_COM
+STR_COM899,virtual resources layer,STR_COM
+STR_COM900,LINP management platform,STR_COM
+STR_COM901,ITU-T X.1045,STR_COM
+STR_COM902,Security service chain,STR_COM
+STR_COM903,architecture design,STR_COM
+STR_COM904,Network function virtualization (NFV),STR_COM
+STR_COM905,proprietary hardware-based network equipment,STR_COM
+STR_COM906,Software defined networking (SDN),STR_COM
+STR_COM907,Service function chain (SFC),STR_COM
+STR_COM908,network services and applications,STR_COM
+STR_COM909,Firewall,STR_COM
+STR_COM910,intrusion detection system (IDS),STR_COM
+STR_COM911,hardware-based middleboxes,STR_COM
+STR_COM912,Intrusion detection system (IDS),STR_COM
+STR_COM913,Security service chain architecture,STR_COM
+STR_COM914,service function chain (SFC) overlay network,STR_COM
+STR_COM915,Datacentres,STR_COM
+STR_COM916,intelligent transport systems (ITSs),STR_COM
+STR_COM917,cyber defence,STR_COM
+STR_COM918,Intelligent transport systems (ITSs),STR_COM
+STR_COM919,datacentres,STR_COM
+STR_COM920,Cyber defence,STR_COM
+STR_COM921,Network Service Header (NSH),STR_COM
+STR_COM922,IETF SFC NSH extensions,STR_COM
+STR_COM923,Data labelling schemes,STR_COM
+STR_COM924,Service function chain for special vehicle (SV) speedup,STR_COM
+STR_COM925,ITU-T X.1046,STR_COM
+STR_COM926,software-defined security,STR_COM
+STR_COM927,software-defined networks (SDNs),STR_COM
+STR_COM928,network functions virtualization (NFV) networks,STR_COM
+STR_COM929,SDN/NFV technologies,STR_COM
+STR_COM930,separated deployment of control layer and data forwarding layer,STR_COM
+STR_COM931,framework,STR_COM
+STR_COM932,rules,STR_COM
+STR_COM933,two rules contradicting each other,STR_COM
+STR_COM934,security policies,STR_COM
+STR_COM935,network traffic,STR_COM
+STR_COM936,set of rules,STR_COM
+STR_COM937,virtualized security function,STR_COM
+STR_COM938,network topology,STR_COM
+STR_COM939,cross-connect physical devices,STR_COM
+STR_COM940,physical network device,STR_COM
+STR_COM941,physical security device,STR_COM
+STR_COM942,activated security policies,STR_COM
+STR_COM943,redundant policies,STR_COM
+STR_COM944,protected object,STR_COM
+STR_COM945,security device,STR_COM
+STR_COM946,security function vendor,STR_COM
+STR_COM947,physical/hardware security devices,STR_COM
+STR_COM948,software which executes security actions,STR_COM
+STR_COM949,physical/hardware device,STR_COM
+STR_COM950,software,STR_COM
+STR_COM951,architecture,STR_COM
+STR_COM952,differentiated mix of capabilities,STR_COM
+STR_COM953,network slicing,STR_COM
+STR_COM954,End-to-end (E2E) network slices,STR_COM
+STR_COM955,customized security capabilities,STR_COM
+STR_COM956,ITU-T X.1051,STR_COM
+STR_COM957,ISO/IEC 27002,STR_COM
+STR_COM958,code of practice,STR_COM
+STR_COM959,ISO/IEC 27011:2016/Cor.1:2018 (E),STR_COM
+STR_COM960,processes,STR_COM
+STR_COM961,Telecommunication organizations,STR_COM
+STR_COM962,Security management policy,STR_COM
+STR_COM963,Information security controls,STR_COM
+STR_COM964,information security controls,STR_COM
+STR_COM965,information security processes,STR_COM
+STR_COM966,controls,STR_COM
+STR_COM967,plan-do-check-act,STR_COM
+STR_COM968,management cycle,STR_COM
+STR_COM969,Asset management,STR_COM
+STR_COM970,management areas,STR_COM
+STR_COM971,Incident management,STR_COM
+STR_COM972,Risk management policy management,STR_COM
+STR_COM973,Code of practice for information security controls,STR_COM
+STR_COM974,small and medium-sized telecommunication organizations (SMTOs),STR_COM
+STR_COM975,guidelines and general principles,STR_COM
+STR_COM976,implementation baseline of information security controls,STR_COM
+STR_COM977,telecommunication facilities and services,STR_COM
+STR_COM978,organizations,STR_COM
+STR_COM979,resources,STR_COM
+STR_COM980,Joint Technical Committee ISO/IEC JTC 1,STR_COM
+STR_COM981,Subcommittee SC 27,STR_COM
+STR_COM982,ISO/IEC JTC 1,STR_COM
+STR_COM983,ISMS,STR_COM
+STR_COM984,functional profiles,STR_COM
+STR_COM985,vulnerabilities,STR_COM
+STR_COM986,asset or group of assets,STR_COM
+STR_COM987,Risk profile,STR_COM
+STR_COM988,set of information,STR_COM
+STR_COM989,telecommunication organizations staff,STR_COM
+STR_COM990,operational side of the telecommunication system,STR_COM
+STR_COM991,telecommunication organization,STR_COM
+STR_COM992,technology,STR_COM
+STR_COM993,physical locations,STR_COM
+STR_COM994,sites,STR_COM
+STR_COM995,buildings,STR_COM
+STR_COM996,computer rooms,STR_COM
+STR_COM997,switching centres,STR_COM
+STR_COM998,telecommunication organizations,STR_COM
+STR_COM999,laws and regulations,STR_COM
+STR_COM1000,Assets,STR_COM
+STR_COM1001,telecommunication business,STR_COM
+STR_COM1002,Information,STR_COM
+STR_COM1003,communication data,STR_COM
+STR_COM1004,routing information,STR_COM
+STR_COM1005,subscriber information,STR_COM
+STR_COM1006,blacklist information,STR_COM
+STR_COM1007,registered service information,STR_COM
+STR_COM1008,operational information,STR_COM
+STR_COM1009,trouble information,STR_COM
+STR_COM1010,configuration information,STR_COM
+STR_COM1011,customer information,STR_COM
+STR_COM1012,billing information,STR_COM
+STR_COM1013,customer calling patterns,STR_COM
+STR_COM1014,customer geographical locations,STR_COM
+STR_COM1015,traffic statistical information,STR_COM
+STR_COM1016,contracts and agreements,STR_COM
+STR_COM1017,system documentation,STR_COM
+STR_COM1018,research information,STR_COM
+STR_COM1019,user manuals,STR_COM
+STR_COM1020,training material,STR_COM
+STR_COM1021,operational or support procedures,STR_COM
+STR_COM1022,business continuity plans,STR_COM
+STR_COM1023,emergency plan fallback arrangements,STR_COM
+STR_COM1024,audit trails and archived information,STR_COM
+STR_COM1025,Software assets,STR_COM
+STR_COM1026,Hardware assets,STR_COM
+STR_COM1027,switches,STR_COM
+STR_COM1028,computers,STR_COM
+STR_COM1029,routers,STR_COM
+STR_COM1030,other physical devices,STR_COM
+STR_COM1031,recommended guidelines and solutions,STR_COM
+STR_COM1032,ISIRT,STR_COM
+STR_COM1033,team of appropriately skilled and trusted members of the organization,STR_COM
+STR_COM1034,legitimate traffic,STR_COM
+STR_COM1035,fixed-length buffer,STR_COM
+STR_COM1036,WTSA,STR_COM
+STR_COM1037,electronic information,STR_COM
+STR_COM1038,paper,STR_COM
+STR_COM1039,IT systems,STR_COM
+STR_COM1040,asset life cycle,STR_COM
+STR_COM1041,ISMS (information security management system),STR_COM
+STR_COM1042,main information and communication facilities,STR_COM
+STR_COM1043,criteria,STR_COM
+STR_COM1044,ITU-T X.1058,STR_COM
+STR_COM1045,PUBLIC DATA NETWORKS,STR_COM
+STR_COM1046,OPEN SYSTEMS INTERCONNECTION,STR_COM
+STR_COM1047,INTERWORKING BETWEEN NETWORKS,STR_COM
+STR_COM1048,MESSAGE HANDLING SYSTEMS,STR_COM
+STR_COM1049,DIRECTORY,STR_COM
+STR_COM1050,OSI NETWORKING AND SYSTEM ASPECTS,STR_COM
+STR_COM1051,OSI MANAGEMENT,STR_COM
+STR_COM1052,OSI APPLICATIONS,STR_COM
+STR_COM1053,OPEN DISTRIBUTED PROCESSING,STR_COM
+STR_COM1054,ITU-T X.1059,STR_COM
+STR_COM1055,assets globally accessible in IP-based networks,STR_COM
+STR_COM1056,Assets Globally accessible in IP-based network for Telecommunication organizations (AGIT),STR_COM
+STR_COM1057,telecommunication network assets,STR_COM
+STR_COM1058,IP-based networks,STR_COM
+STR_COM1059,these assets,STR_COM
+STR_COM1060,assets,STR_COM
+STR_COM1061,assets globally accessible,STR_COM
+STR_COM1062,IP-based network,STR_COM
+STR_COM1063,assets globally accessible in IP-based network for telecommunication organizations (AGIT),STR_COM
+STR_COM1064,six risk management processes,STR_COM
+STR_COM1065,AGIT profile,STR_COM
+STR_COM1066,asset globally accessible in IP-based networks,STR_COM
+STR_COM1067,An old risk that cannot disappear,STR_COM
+STR_COM1068,a new risk that appears after risk treatment,STR_COM
+STR_COM1069,Assets globally accessible in IP-based network for telecommunication organizations (AGIT),STR_COM
+STR_COM1070,Internet Protocol (IP),STR_COM
+STR_COM1071,Information Technology (IT),STR_COM
+STR_COM1072,Operating System (OS),STR_COM
+STR_COM1073,Transmission Control Protocol (TCP),STR_COM
+STR_COM1074,User Datagram Protocol (UDP),STR_COM
+STR_COM1075,Uniform Resource Locator (URL),STR_COM
+STR_COM1076,Virtual Private Network (VPN),STR_COM
+STR_COM1077,World Wide Web (WWW),STR_COM
+STR_COM1078,multi-functional communication devices,STR_COM
+STR_COM1079,devices intended to provide assistive capabilities,STR_COM
+STR_COM1080,Asynchronous serial command interface,STR_COM
+STR_COM1081,vCalendar information,STR_COM
+STR_COM1082,vCalendar objects,STR_COM
+STR_COM1083,font/text colours,STR_COM
+STR_COM1084,characters,STR_COM
+STR_COM1085,background colours,STR_COM
+STR_COM1086,display,STR_COM
+STR_COM1087,alternative pointing devices,STR_COM
+STR_COM1088,cursor,STR_COM
+STR_COM1089,Part 2: 'Access for all' personal needs and preferences for digital delivery,STR_COM
+STR_COM1090,assistive technology device,STR_COM
+STR_COM1091,object exchange protocol,STR_COM
+STR_COM1092,data objects,STR_COM
+STR_COM1093,messages,STR_COM
+STR_COM1094,multimedia content,STR_COM
+STR_COM1095,communication protocol,STR_COM
+STR_COM1096,binary objects,STR_COM
+STR_COM1097,devices,STR_COM
+STR_COM1098,cables and connectors,STR_COM
+STR_COM1099,protocols,STR_COM
+STR_COM1100,ITU-T Recommendation V.26,STR_COM
+STR_COM1101,2400 BITS PER SECOND MODEM,STR_COM
+STR_COM1102,four-phase modulation,STR_COM
+STR_COM1103,carrier frequency,STR_COM
+STR_COM1104,data stream,STR_COM
+STR_COM1105,pairs of consecutive bits,STR_COM
+STR_COM1106,phase of the immediately preceding signal element,STR_COM
+STR_COM1107,line signal,STR_COM
+STR_COM1108,interchange circuits,STR_COM
+STR_COM1109,ITU-T Recommendation V.26 bis,STR_COM
+STR_COM1110,Blue Book,STR_COM
+STR_COM1111,general switched telephone network,STR_COM
+STR_COM1112,modems,STR_COM
+STR_COM1113,modern technology,STR_COM
+STR_COM1114,Recommendation V.26,STR_COM
+STR_COM1115,modulation,STR_COM
+STR_COM1116,backward channel,STR_COM
+STR_COM1117,power levels,STR_COM
+STR_COM1118,transmitted line signal spectrum,STR_COM
+STR_COM1119,Figure 1/V.26 bis,STR_COM
+STR_COM1120,deviation of the phase distortion characteristic,STR_COM
+STR_COM1121,forward and backward channels,STR_COM
+STR_COM1122,dibits,STR_COM
+STR_COM1123,Table 1/V.26 bis,STR_COM
+STR_COM1124,dibit,STR_COM
+STR_COM1125,phase,STR_COM
+STR_COM1126,signal element,STR_COM
+STR_COM1127,2-phase differential modulation,STR_COM
+STR_COM1128,cyber defence centre,STR_COM
+STR_COM1129,cyber defence centre (CDC),STR_COM
+STR_COM1130,teams responsible for security,STR_COM
+STR_COM1131,Top management,STR_COM
+STR_COM1132,C-suite (CxO),STR_COM
+STR_COM1133,entire organization,STR_COM
+STR_COM1134,security alerts,STR_COM
+STR_COM1135,applications,STR_COM
+STR_COM1136,network hardware,STR_COM
+STR_COM1137,software application,STR_COM
+STR_COM1138,systems,STR_COM
+STR_COM1139,network traffic flows,STR_COM
+STR_COM1140,application firewall,STR_COM
+STR_COM1141,nation state or state-sponsored group,STR_COM
+STR_COM1142,service provider,STR_COM
+STR_COM1143,client,STR_COM
+STR_COM1144,ITU-T X.1061,STR_COM
+STR_COM1145,Recommendation ITU-T X.1061,STR_COM
+STR_COM1146,cyber insurance,STR_COM
+STR_COM1147,insurer,STR_COM
+STR_COM1148,policy, cover note or renewal certificates,STR_COM
+STR_COM1149,RACI matrix,STR_COM
+STR_COM1150,ITU-T X.1080.0,STR_COM
+STR_COM1151,telebiometrics information,STR_COM
+STR_COM1152,Cryptographic message syntax (CMS),STR_COM
+STR_COM1153,profile,STR_COM
+STR_COM1154,Public-key infrastructure (PKI),STR_COM
+STR_COM1155,Privilege management infrastructure (PMI),STR_COM
+STR_COM1156,PKI,STR_COM
+STR_COM1157,Diffie-Hellman,STR_COM
+STR_COM1158,ITU-T X.1080.1,STR_COM
+STR_COM1159,ITU-T 1080.x series of Recommendations,STR_COM
+STR_COM1160,Generic telecommunication protocol,STR_COM
+STR_COM1161,generic telecommunication protocol,STR_COM
+STR_COM1162,generic ASN.1 protocol,STR_COM
+STR_COM1163,ASN.1 information object classes,STR_COM
+STR_COM1164,CMS,STR_COM
+STR_COM1165,cryptographic message syntax,STR_COM
+STR_COM1166,security algorithm,STR_COM
+STR_COM1167,biometric processing unit (BPU),STR_COM
+STR_COM1168,remote telemedicine device,STR_COM
+STR_COM1169,ITU-T X.1080.2,STR_COM
+STR_COM1170,Recommendation ITU-T X.1080.2,STR_COM
+STR_COM1171,telebiometric multimodal model,STR_COM
+STR_COM1172,horizontal market protocol,STR_COM
+STR_COM1173,versatile and open-ended information model,STR_COM
+STR_COM1174,Characteristics of a bending-loss insensitive single-mode optical fibre and cable,STR_COM
+STR_COM1175,optical access network,STR_COM
+STR_COM1176,fibre and cable,STR_COM
+STR_COM1177,high-density network,STR_COM
+STR_COM1178,distribution and drop cables,STR_COM
+STR_COM1179,ITU-T G.652 single-mode fibre and cables,STR_COM
+STR_COM1180,category A,STR_COM
+STR_COM1181,category B,STR_COM
+STR_COM1182,datacentre networks,STR_COM
+STR_COM1183,bending-loss insensitive fibres,STR_COM
+STR_COM1184,optical amplifier devices and subsystems,STR_COM
+STR_COM1185,optical amplifiers (OAs),STR_COM
+STR_COM1186,optically amplified subsystems,STR_COM
+STR_COM1187,optical network elements (ONEs) containing OAs,STR_COM
+STR_COM1188,optically pumped fibres (OFAs),STR_COM
+STR_COM1189,rare-earth doped fibres,STR_COM
+STR_COM1190,Raman effect,STR_COM
+STR_COM1191,semiconductors (SOAs),STR_COM
+STR_COM1192,waveguides (POWAs),STR_COM
+STR_COM1193,optically pumped fibres (OFAs based either on rare-earth doped fibres or on the Raman effect),STR_COM
+STR_COM1194,Optical amplifiers,STR_COM
+STR_COM1195,Amplified Spontaneous Emission (ASE),STR_COM
+STR_COM1196,Erbium-Doped (silica-based) Fibre Amplifier (EDFA),STR_COM
+STR_COM1197,Erbium-Doped (silica-based) Fibre Amplifier,STR_COM
+STR_COM1198,Optical Network Element (ONE),STR_COM
+STR_COM1199,Semiconductor Optical Amplifier (SOA),STR_COM
+STR_COM1200,power amplifiers,STR_COM
+STR_COM1201,high saturation-power OA device,STR_COM
+STR_COM1202,optical transmitter,STR_COM
+STR_COM1203,pre-amplifiers,STR_COM
+STR_COM1204,very low noise OA device,STR_COM
+STR_COM1205,optical receiver,STR_COM
+STR_COM1206,line amplifiers,STR_COM
+STR_COM1207,low noise OA device,STR_COM
+STR_COM1208,passive fibre sections,STR_COM
+STR_COM1209,point-multipoint connection,STR_COM
+STR_COM1210,Optically Amplified Transmitter (OAT),STR_COM
+STR_COM1211,OA subsystem,STR_COM
+STR_COM1212,power amplifier,STR_COM
+STR_COM1213,Optically Amplified Receiver (OAR),STR_COM
+STR_COM1214,pre-amplifier,STR_COM
+STR_COM1215,distributed amplifier,STR_COM
+STR_COM1216,composite distributed and discrete amplifiers,STR_COM
+STR_COM1217,Optical Amplifiers,STR_COM
+STR_COM1218,devices and subsystems,STR_COM
+STR_COM1219,Optical Amplifier (OA),STR_COM
+STR_COM1220,Optical Fibre Amplifiers (OFAs),STR_COM
+STR_COM1221,Semiconductor Optical Amplifiers (SOAs),STR_COM
+STR_COM1222,optically amplified transmitter (OAT),STR_COM
+STR_COM1223,optically amplified receiver (OAR),STR_COM
+STR_COM1224,optical amplifier technologies,STR_COM
+STR_COM1225,optical amplifier (OA) devices and subsystems,STR_COM
+STR_COM1226,optical amplifier (OA) devices,STR_COM
+STR_COM1227,subsystems,STR_COM
+STR_COM1228,single-channel systems,STR_COM
+STR_COM1229,multi-channel systems,STR_COM
+STR_COM1230,single-channel,STR_COM
+STR_COM1231,point-to-point configurations,STR_COM
+STR_COM1232,point-to-multipoint configurations,STR_COM
+STR_COM1233,point-to-point,STR_COM
+STR_COM1234,ITU-T G.664,STR_COM
+STR_COM1235,optical transmission systems,STR_COM
+STR_COM1236,output power of laser transmitters and optical amplifiers,STR_COM
+STR_COM1237,Techniques,STR_COM
+STR_COM1238,dense wavelength division multiplexing (DWDM),STR_COM
+STR_COM1239,optical transport network,STR_COM
+STR_COM1240,optical interfaces,STR_COM
+STR_COM1241,synchronous digital hierarchy (SDH),STR_COM
+STR_COM1242,multimodal model,STR_COM
+STR_COM1243,personal privacy sphere,STR_COM
+STR_COM1244,environment,STR_COM
+STR_COM1245,International System of Units,STR_COM
+STR_COM1246,telecommunication terminals,STR_COM
+STR_COM1247,structure for categorizing,STR_COM
+STR_COM1248,The telebiometric multimodal model,STR_COM
+STR_COM1249,biometric devices,STR_COM
+STR_COM1250,telecommunication systems,STR_COM
+STR_COM1251,ITU-T X.1082,STR_COM
+STR_COM1252,sixth modality,STR_COM
+STR_COM1253,human body,STR_COM
+STR_COM1254,telebiometric multimodal model (TMM),STR_COM
+STR_COM1255,taxonomy,STR_COM
+STR_COM1256,quantities and units,STR_COM
+STR_COM1257,ITU-T V.150.0,STR_COM
+STR_COM1258,Modem-over-IP networks,STR_COM
+STR_COM1259,V.150 family of modem-over-IP Recommendations,STR_COM
+STR_COM1260,road map,STR_COM
+STR_COM1261,high-level details,STR_COM
+STR_COM1262,gateway,STR_COM
+STR_COM1263,media,STR_COM
+STR_COM1264,MoIP gateway,STR_COM
+STR_COM1265,modem data,STR_COM
+STR_COM1266,packet network,STR_COM
+STR_COM1267,network access points,STR_COM
+STR_COM1268,voice band data,STR_COM
+STR_COM1269,voice channel,STR_COM
+STR_COM1270,Internet Protocol,STR_COM
+STR_COM1271,PDU,STR_COM
+STR_COM1272,Protocol Data Unit,STR_COM
+STR_COM1273,SDP,STR_COM
+STR_COM1274,Text over Internet Protocol,STR_COM
+STR_COM1275,V.150 family of Recommendations,STR_COM
+STR_COM1276,V-series modems,STR_COM
+STR_COM1277,V.150 PDUs,STR_COM
+STR_COM1278,V-series DCEs,STR_COM
+STR_COM1279,IP network,STR_COM
+STR_COM1280,data communication equipment,STR_COM
+STR_COM1281,SPRT data types,STR_COM
+STR_COM1282,analogue PSTN text telephones,STR_COM
+STR_COM1283,voice-band data,STR_COM
+STR_COM1284,IP networks,STR_COM
+STR_COM1285,PSTN to IP Network gateways,STR_COM
+STR_COM1286,PSTN text telephones,STR_COM
+STR_COM1287,analogue,STR_COM
+STR_COM1288,analogue text telephone terminals,STR_COM
+STR_COM1289,Annex E,STR_COM
+STR_COM1290,RTP payload format,STR_COM
+STR_COM1291,T.140 character data,STR_COM
+STR_COM1292,system architecture,STR_COM
+STR_COM1293,overview,STR_COM
+STR_COM1294,procedures,STR_COM
+STR_COM1295,SDL diagrams,STR_COM
+STR_COM1296,ITU-T Study Group 17 (2005-2008),STR_COM
+STR_COM1297,ITU-T Recommendation A.8 procedure,STR_COM
+STR_COM1298,syntax, semantics, and encodings,STR_COM
+STR_COM1299,set of messages,STR_COM
+STR_COM1300,identical text,STR_COM
+STR_COM1301,BioAPI-conforming biometric service providers (BSPs),STR_COM
+STR_COM1302,BioAPI framework,STR_COM
+STR_COM1303,syntax,STR_COM
+STR_COM1304,semantics,STR_COM
+STR_COM1305,encodings,STR_COM
+STR_COM1306,biometric authentication protocols,STR_COM
+STR_COM1307,profiles,STR_COM
+STR_COM1308,Biometric technologies,STR_COM
+STR_COM1309,telebiometric authentication protocol,STR_COM
+STR_COM1310,telebiometric system mechanism,STR_COM
+STR_COM1311,transport layer security,STR_COM
+STR_COM1312,Transport layer security,STR_COM
+STR_COM1313,ISO/IEC JTC 1/SC 37,STR_COM
+STR_COM1314,Open network,STR_COM
+STR_COM1315,biometric communication devices,STR_COM
+STR_COM1316,ITU-T X.1085,STR_COM
+STR_COM1317,telebiometric authentication scheme,STR_COM
+STR_COM1318,biometric hardware security module (BHSM),STR_COM
+STR_COM1319,Biometric hardware security module (BHSM),STR_COM
+STR_COM1320,registration authority (RA),STR_COM
+STR_COM1321,ITU-T X.509 certificate,STR_COM
+STR_COM1322,BHSM,STR_COM
+STR_COM1323,certification authority (CA),STR_COM
+STR_COM1324,Public key infrastructure (PKI),STR_COM
+STR_COM1325,BHSM scheme,STR_COM
+STR_COM1326,standard format,STR_COM
+STR_COM1327,ISO/IEC 17922,STR_COM
+STR_COM1328,Registration authority (RA),STR_COM
+STR_COM1329,Certification authority (CA),STR_COM
+STR_COM1330,Pseudonymous identifier (PSID),STR_COM
+STR_COM1331,ISO/IEC 24761,STR_COM
+STR_COM1332,requirements of guidelines,STR_COM
+STR_COM1333,Part 1: A guideline to technical and managerial countermeasures for biometric data security,STR_COM
+STR_COM1334,guideline,STR_COM
+STR_COM1335,telebiometrics protection guideline,STR_COM
+STR_COM1336,Telebiometrics authentication models,STR_COM
+STR_COM1337,ITU-T X.1087,STR_COM
+STR_COM1338,implementation model,STR_COM
+STR_COM1339,mobile devices,STR_COM
+STR_COM1340,Mobile devices,STR_COM
+STR_COM1341,subscriber identity module (SIM) card,STR_COM
+STR_COM1342,display screen with touch input,STR_COM
+STR_COM1343,miniature keyboard,STR_COM
+STR_COM1344,biometric technology,STR_COM
+STR_COM1345,Telebiometric authentication model,STR_COM
+STR_COM1346,biometric sensor,STR_COM
+STR_COM1347,mobile device,STR_COM
+STR_COM1348,server,STR_COM
+STR_COM1349,Biometric hardware security module,STR_COM
+STR_COM1350,hardware security module,STR_COM
+STR_COM1351,biometric module,STR_COM
+STR_COM1352,biometric sensors,STR_COM
+STR_COM1353,framework for biometric digital key generation,STR_COM
+STR_COM1354,biometric digital key,STR_COM
+STR_COM1355,biometric template,STR_COM
+STR_COM1356,public key certificate,STR_COM
+STR_COM1357,biometric certificate,STR_COM
+STR_COM1358,biometric digital key generation and protection,STR_COM
+STR_COM1359,authentication infrastructure,STR_COM
+STR_COM1360,biometric certificates,STR_COM
+STR_COM1361,Telebiometrics authentication infrastructure (TAI),STR_COM
+STR_COM1362,X.509 extensions,STR_COM
+STR_COM1363,telecommunications,STR_COM
+STR_COM1364,biometrics,STR_COM
+STR_COM1365,Public-key and attribute certificate frameworks,STR_COM
+STR_COM1366,privilege management infrastructure (PMI),STR_COM
+STR_COM1367,public key infrastructure (PKI),STR_COM
+STR_COM1368,Biometric certificate,STR_COM
+STR_COM1369,biometric extension fields,STR_COM
+STR_COM1370,X.509 certificates,STR_COM
+STR_COM1371,Biometric policy certificate,STR_COM
+STR_COM1372,associated software,STR_COM
+STR_COM1373,Biometric device certificate,STR_COM
+STR_COM1374,ITU-T X.1090,STR_COM
+STR_COM1375,user-authentication framework,STR_COM
+STR_COM1376,one-time telebiometric templates,STR_COM
+STR_COM1377,OTT database,STR_COM
+STR_COM1378,Physical or logical storage device,STR_COM
+STR_COM1379,OTT token,STR_COM
+STR_COM1380,Physical storage device,STR_COM
+STR_COM1381,Non-biometric data,STR_COM
+STR_COM1382,original template,STR_COM
+STR_COM1383,Biometric template,STR_COM
+STR_COM1384,user's biometric sample,STR_COM
+STR_COM1385,ITU-T X.1091,STR_COM
+STR_COM1386,general guideline,STR_COM
+STR_COM1387,biometric cryptosystem,STR_COM
+STR_COM1388,cancellable biometrics,STR_COM
+STR_COM1389,two reference models for evaluation,STR_COM
+STR_COM1390,telebiometric systems,STR_COM
+STR_COM1391,metrics,STR_COM
+STR_COM1392,requirements,STR_COM
+STR_COM1393,biometric template protection techniques,STR_COM
+STR_COM1394,ISO 24745,STR_COM
+STR_COM1395,ITU-T X.1088,STR_COM
+STR_COM1396,Telebiometrics digital key framework (TDK),STR_COM
+STR_COM1397,Authentication framework with one-time telebiometric templates,STR_COM
+STR_COM1398,biometric data,STR_COM
+STR_COM1399,Universal Background Models,STR_COM
+STR_COM1400,biometric reference,STR_COM
+STR_COM1401,stored biometric samples,STR_COM
+STR_COM1402,biometric templates,STR_COM
+STR_COM1403,biometric models,STR_COM
+STR_COM1404,biometric sample,STR_COM
+STR_COM1405,Analogue or digital representation,STR_COM
+STR_COM1406,biometric characteristics,STR_COM
+STR_COM1407,biometric features,STR_COM
+STR_COM1408,biometric capture device,STR_COM
+STR_COM1409,biometric capture subsystem,STR_COM
+STR_COM1410,behavioural,STR_COM
+STR_COM1411,biological characteristics,STR_COM
+STR_COM1412,biometric system,STR_COM
+STR_COM1413,ITU-T X.1092,STR_COM
+STR_COM1414,integrated framework,STR_COM
+STR_COM1415,system mechanism,STR_COM
+STR_COM1416,e-health centre,STR_COM
+STR_COM1417,patient information,STR_COM
+STR_COM1418,medical information,STR_COM
+STR_COM1419,identification information,STR_COM
+STR_COM1420,e-health terminal,STR_COM
+STR_COM1421,Gateways,STR_COM
+STR_COM1422,remote medical system,STR_COM
+STR_COM1423,medical staff,STR_COM
+STR_COM1424,sensor,STR_COM
+STR_COM1425,data communication technologies,STR_COM
+STR_COM1426,public-key infrastructure (PKI),STR_COM
+STR_COM1427,Remote medical systems,STR_COM
+STR_COM1428,general scheme for logical and/or physical access control,STR_COM
+STR_COM1429,biometrics-on-card,STR_COM
+STR_COM1430,embedded integrated circuit chip,STR_COM
+STR_COM1431,store-on-card,STR_COM
+STR_COM1432,smart card,STR_COM
+STR_COM1433,compare-on-card,STR_COM
+STR_COM1434,sensor-on-card,STR_COM
+STR_COM1435,smart ID card,STR_COM
+STR_COM1436,contact or contactless type,STR_COM
+STR_COM1437,pocket sized card,STR_COM
+STR_COM1438,embedded integrated circuits,STR_COM
+STR_COM1439,PKI provider,STR_COM
+STR_COM1440,programs,STR_COM
+STR_COM1441,information systems,STR_COM
+STR_COM1442,ITU-T X.1094,STR_COM
+STR_COM1443,biosignals,STR_COM
+STR_COM1444,Biosignals,STR_COM
+STR_COM1445,biosignal sensor requirements,STR_COM
+STR_COM1446,architecture for a biosignal authentication model,STR_COM
+STR_COM1447,Wearable devices,STR_COM
+STR_COM1448,wearable,STR_COM
+STR_COM1449,Ballistocardiogram (BCG),STR_COM
+STR_COM1450,Electroencephalogram (EEG),STR_COM
+STR_COM1451,Electrocardiogram (ECG),STR_COM
+STR_COM1452,Photoplethysmogram (PPG),STR_COM
+STR_COM1453,telebiometric authentication methods,STR_COM
+STR_COM1454,Biosignal sensors,STR_COM
+STR_COM1455,biosignal authentication model,STR_COM
+STR_COM1456,ITU-T X.1095,STR_COM
+STR_COM1457,entity authentication infrastructure,STR_COM
+STR_COM1458,multimodal telebiometrics,STR_COM
+STR_COM1459,nose patterns,STR_COM
+STR_COM1460,faces of pet animals,STR_COM
+STR_COM1461,biometric capture devices,STR_COM
+STR_COM1462,digital cameras,STR_COM
+STR_COM1463,mobile cameras,STR_COM
+STR_COM1464,specific cameras such as infrared cameras,STR_COM
+STR_COM1465,high-speed cameras,STR_COM
+STR_COM1466,optical scanners,STR_COM
+STR_COM1467,infrared cameras,STR_COM
+STR_COM1468,specific cameras,STR_COM
+STR_COM1469,faces,STR_COM
+STR_COM1470,pet animals,STR_COM
+STR_COM1471,homes,STR_COM
+STR_COM1472,shelters,STR_COM
+STR_COM1473,ITU Telecommunication Standardization Sector,STR_COM
+STR_COM1474,ITU-T X.110,STR_COM
+STR_COM1475,high level general principles and guidelines,STR_COM
+STR_COM1476,interconnected public data networks,STR_COM
+STR_COM1477,Public Data Networks,STR_COM
+STR_COM1478,International Data Switching Exchanges (IDSEs),STR_COM
+STR_COM1479,international public data network model,STR_COM
+STR_COM1480,national public data networks,STR_COM
+STR_COM1481,Packet Switched Data Networks,STR_COM
+STR_COM1482,Circuit-Switched Public Data Networks,STR_COM
+STR_COM1483,a claimed Intellectual Property Right,STR_COM
+STR_COM1484,ITU-T X.111,STR_COM
+STR_COM1485,Public Frame Relay Data Network,STR_COM
+STR_COM1486,Principles,STR_COM
+STR_COM1487,International Public Data Network,STR_COM
+STR_COM1488,Frame Relay data traffic,STR_COM
+STR_COM1489,ITU-T Rec. X.76,STR_COM
+STR_COM1490,Network-to-network interface,STR_COM
+STR_COM1491,ITU-T Rec. X.110,STR_COM
+STR_COM1492,E.164,STR_COM
+STR_COM1493,international public telecommunication numbering plan,STR_COM
+STR_COM1494,X.121,STR_COM
+STR_COM1495,X.124,STR_COM
+STR_COM1496,frame relay,STR_COM
+STR_COM1497,ATM networks,STR_COM
+STR_COM1498,X.125,STR_COM
+STR_COM1499,public frame relay data networks,STR_COM
+STR_COM1500,Fascicle VIII.1 the Blue Book,STR_COM
+STR_COM1501,4800 BITS PER SECOND MODEM WITH MANUAL EQUALIZER,STR_COM
+STR_COM1502,MANUAL EQUALIZER,STR_COM
+STR_COM1503,circuits of lower quality,STR_COM
+STR_COM1504,differential eight-phase modulation,STR_COM
+STR_COM1505,manually adjustable equalizer,STR_COM
+STR_COM1506,self-synchronizing scrambler/descrambler,STR_COM
+STR_COM1507,1 + x-6 + x-7,STR_COM
+STR_COM1508,modems with automatic adaptive equalizers,STR_COM
+STR_COM1509,ITU-T Recommendation V.27 bis,STR_COM
+STR_COM1510,4800/2400 BITS PER SECOND MODEM,STR_COM
+STR_COM1511,AUTOMATIC EQUALIZER,STR_COM
+STR_COM1512,automatic adaptive equalizer,STR_COM
+STR_COM1513,specific start-up sequence,STR_COM
+STR_COM1514,alternate start-up sequence,STR_COM
+STR_COM1515,Carrier frequency,STR_COM
+STR_COM1516,50% raised cosine energy spectrum shaping,STR_COM
+STR_COM1517,transmitter,STR_COM
+STR_COM1518,Tribit,STR_COM
+STR_COM1519,groups of three consecutive bits,STR_COM
+STR_COM1520,transmitting modem,STR_COM
+STR_COM1521,pseudo-random sequence,STR_COM
+STR_COM1522,equalizer conditioning pattern,STR_COM
+STR_COM1523,Table 5/V.27 bis,STR_COM
+STR_COM1524,Backward channel,STR_COM
+STR_COM1525,Interchange circuits,STR_COM
+STR_COM1526,List of essential interchange circuits,STR_COM
+STR_COM1527,ITU-T Recommendation V.27 ter,STR_COM
+STR_COM1528,Fascicle VIII.1,STR_COM
+STR_COM1529,other international connections,STR_COM
+STR_COM1530,the general switched telephone network,STR_COM
+STR_COM1531,ITU-T Study Group 7,STR_COM
+STR_COM1532,addresses,STR_COM
+STR_COM1533,The addresses,STR_COM
+STR_COM1534,alternative addresses,STR_COM
+STR_COM1535,call set-up message,STR_COM
+STR_COM1536,clear message,STR_COM
+STR_COM1537,alternative address,STR_COM
+STR_COM1538,alternative address of DTE B,STR_COM
+STR_COM1539,Address Resolution and Registration Protocol,STR_COM
+STR_COM1540,Inter-Address Resolution Entity Protocol,STR_COM
+STR_COM1541,Recommendation X.116,STR_COM
+STR_COM1542,address resolution entity,STR_COM
+STR_COM1543,Address Resolution Entities,STR_COM
+STR_COM1544,Address Resolution Entity,STR_COM
+STR_COM1545,ISO/IEC 8208,STR_COM
+STR_COM1546,Network Layer,STR_COM
+STR_COM1547,Network Service Access Point,STR_COM
+STR_COM1548,Network Service Access Point Address,STR_COM
+STR_COM1549,Network Point of Attachment,STR_COM
+STR_COM1550,Network Protocol Data Unit,STR_COM
+STR_COM1551,Routeing,STR_COM
+STR_COM1552,Subnetwork,STR_COM
+STR_COM1553,Alternative Address,STR_COM
+STR_COM1554,alternative address related information,STR_COM
+STR_COM1555,system types,STR_COM
+STR_COM1556,Network Addresses,STR_COM
+STR_COM1557,Network Entity Titles,STR_COM
+STR_COM1558,correspondence between systems,STR_COM
+STR_COM1559,potential routes,STR_COM
+STR_COM1560,redirection information,STR_COM
+STR_COM1561,connection,STR_COM
+STR_COM1562,single network,STR_COM
+STR_COM1563,ARE,STR_COM
+STR_COM1564,ECQ-PDU,STR_COM
+STR_COM1565,DTE Configuration Query Protocol Data Unit,STR_COM
+STR_COM1566,ENC-PDU,STR_COM
+STR_COM1567,DTE Notification Complete Protocol Data Unit,STR_COM
+STR_COM1568,ESC-PDU,STR_COM
+STR_COM1569,DTE Connect Protocol Data Unit,STR_COM
+STR_COM1570,ESH-PDU,STR_COM
+STR_COM1571,DTE Hello Protocol Data Unit,STR_COM
+STR_COM1572,RD-PDU,STR_COM
+STR_COM1573,Redirect Protocol Data Unit,STR_COM
+STR_COM1574,SCC-PDU,STR_COM
+STR_COM1575,Configuration Complete Protocol Data Unit,STR_COM
+STR_COM1576,SCR-PDU,STR_COM
+STR_COM1577,Configuration Response Protocol Data Unit,STR_COM
+STR_COM1578,SNC-PDU,STR_COM
+STR_COM1579,Notification Complete Protocol Data Unit,STR_COM
+STR_COM1580,SRN-PDU,STR_COM
+STR_COM1581,Received Notification Protocol Data Unit,STR_COM
+STR_COM1582,AA,STR_COM
+STR_COM1583,BCD,STR_COM
+STR_COM1584,Binary Coded Decimal,STR_COM
+STR_COM1585,NPA,STR_COM
+STR_COM1586,QOS,STR_COM
+STR_COM1587,SNAcF,STR_COM
+STR_COM1588,SNAcP,STR_COM
+STR_COM1589,Subnetwork Access Protocol,STR_COM
+STR_COM1590,ITU-T Recommendation X.121,STR_COM
+STR_COM1591,Numbering Plan for Public Data Networks,STR_COM
+STR_COM1592,design,STR_COM
+STR_COM1593,International Numbering Plan for Public Data Networks,STR_COM
+STR_COM1594,specific public data network,STR_COM
+STR_COM1595,numbering plan,STR_COM
+STR_COM1596,Global public data networks,STR_COM
+STR_COM1597,other numbering plans,STR_COM
+STR_COM1598,Public Network Numbering Plan,STR_COM
+STR_COM1599,Numbering Plan,STR_COM
+STR_COM1600,ITU-T (Telecommunication Standardization Sector),STR_COM
+STR_COM1601,Recommendation X.123,STR_COM
+STR_COM1602,digits following the escape code,STR_COM
+STR_COM1603,packet mode terminals,STR_COM
+STR_COM1604,ITU-T Recommendation E.164,STR_COM
+STR_COM1605,ITU-T Recommendation E.165,STR_COM
+STR_COM1606,ITU-T Recommendation E.165.1,STR_COM
+STR_COM1607,ITU-T Recommendation E.166/X.122,STR_COM
+STR_COM1608,ITU-T Recommendation X.25,STR_COM
+STR_COM1609,ITU-T Recommendation X.75,STR_COM
+STR_COM1610,ITU-T Recommendation X.124,STR_COM
+STR_COM1611,Public B-ISDN (ATM) networks,STR_COM
+STR_COM1612,Public Frame Relay Data Networks (PFRDNs),STR_COM
+STR_COM1613,B-ISDN (ATM) networks,STR_COM
+STR_COM1614,ATM End System Address (AESA),STR_COM
+STR_COM1615,ATM terminal,STR_COM
+STR_COM1616,Network Service Access Point (NSAP),STR_COM
+STR_COM1617,ITU-T X.125,STR_COM
+STR_COM1618,Frame Relay Data Networks,STR_COM
+STR_COM1619,ATM Networks,STR_COM
+STR_COM1620,Telecommunication Standardization Bureau (TSB),STR_COM
+STR_COM1621,specific network,STR_COM
+STR_COM1622,ITU-T Recommendation X.130,STR_COM
+STR_COM1623,Fascicle VIII.3 of the Blue Book,STR_COM
+STR_COM1624,international synchronous circuit-switched data services,STR_COM
+STR_COM1625,Recommendation X.1,STR_COM
+STR_COM1626,user classes of service,STR_COM
+STR_COM1627,Recommendation X.21,STR_COM
+STR_COM1628,Recommendation X.60,STR_COM
+STR_COM1629,Recommendation X.71,STR_COM
+STR_COM1630,channel associated signalling,STR_COM
+STR_COM1631,synchronous data networks,STR_COM
+STR_COM1632,Recommendation X.92,STR_COM
+STR_COM1633,hypothetical reference connections,STR_COM
+STR_COM1634,routing plan,STR_COM
+STR_COM1635,Recommendation X.213,STR_COM
+STR_COM1636,OSI Network Layer service,STR_COM
+STR_COM1637,Recommendation X.140,STR_COM
+STR_COM1638,user-oriented quality of service parameters,STR_COM
+STR_COM1639,calling DTE,STR_COM
+STR_COM1640,Fascicle VIII.3,STR_COM
+STR_COM1641,circuit-switched public data networks,STR_COM
+STR_COM1642,five basic areas,STR_COM
+STR_COM1643,Type 1,STR_COM
+STR_COM1644,terrestrial interconnection,STR_COM
+STR_COM1645,no satellite circuits,STR_COM
+STR_COM1646,Type 2,STR_COM
+STR_COM1647,Long distance international connection,STR_COM
+STR_COM1648,satellite circuit in one national portion,STR_COM
+STR_COM1649,two satellite circuits in the international portion,STR_COM
+STR_COM1650,originating national network,STR_COM
+STR_COM1651,network portions,STR_COM
+STR_COM1652,international portion,STR_COM
+STR_COM1653,destination national network,STR_COM
+STR_COM1654,Figure 1 /X.131,STR_COM
+STR_COM1655,The boundaries for these portions,STR_COM
+STR_COM1656,international transit connection,STR_COM
+STR_COM1657,originating and destination national networks,STR_COM
+STR_COM1658,international network,STR_COM
+STR_COM1659,constituent parts of the connection,STR_COM
+STR_COM1660,basic call,STR_COM
+STR_COM1661,optional user facilities,STR_COM
+STR_COM1662,ready for data signal,STR_COM
+STR_COM1663,network congestion signal,STR_COM
+STR_COM1664,end of selection signal,STR_COM
+STR_COM1665,Connection type 1,STR_COM
+STR_COM1666,Connection type 2,STR_COM
+STR_COM1667,Table 1/X.131,STR_COM
+STR_COM1668,network portion,STR_COM
+STR_COM1669,ITU-T Recommendation X.134,STR_COM
+STR_COM1670,United Nations Specialized Agency,STR_COM
+STR_COM1671,World Telecommunication Standardization Conference,STR_COM
+STR_COM1672,ITU-T Recommendation X.135,STR_COM
+STR_COM1673,protocol-specific speed of service parameters,STR_COM
+STR_COM1674,ITU-T Recommendation X.136,STR_COM
+STR_COM1675,protocol-specific accuracy and dependability parameters and values,STR_COM
+STR_COM1676,ITU-T Recommendation X.137,STR_COM
+STR_COM1677,availability parameters,STR_COM
+STR_COM1678,binary random process,STR_COM
+STR_COM1679,access circuit section,STR_COM
+STR_COM1680,physical circuit,STR_COM
+STR_COM1681,set of circuits,STR_COM
+STR_COM1682,internetwork circuit section,STR_COM
+STR_COM1683,physical circuit or set of circuits,STR_COM
+STR_COM1684,DSE in one network,STR_COM
+STR_COM1685,DSE in a different network,STR_COM
+STR_COM1686,circuit section,STR_COM
+STR_COM1687,network section,STR_COM
+STR_COM1688,network components,STR_COM
+STR_COM1689,virtual connection,STR_COM
+STR_COM1690,circuit sections,STR_COM
+STR_COM1691,access network section,STR_COM
+STR_COM1692,transit network section,STR_COM
+STR_COM1693,internetwork circuit sections,STR_COM
+STR_COM1694,basic section,STR_COM
+STR_COM1695,section boundary,STR_COM
+STR_COM1696,adjacent circuit section,STR_COM
+STR_COM1697,adjacent DTE,STR_COM
+STR_COM1698,national portion,STR_COM
+STR_COM1699,international virtual connection,STR_COM
+STR_COM1700,network sections,STR_COM
+STR_COM1701,packet-layer reference events,STR_COM
+STR_COM1702,performance matrix,STR_COM
+STR_COM1703,three general performance concerns,STR_COM
+STR_COM1704,performance criteria,STR_COM
+STR_COM1705,primary parameters,STR_COM
+STR_COM1706,two-state model,STR_COM
+STR_COM1707,OSI Network service,STR_COM
+STR_COM1708,physical circuit of the DTE/DCE interface,STR_COM
+STR_COM1709,layer 3/4 boundary,STR_COM
+STR_COM1710,network aspects,STR_COM
+STR_COM1711,speed of service parameters,STR_COM
+STR_COM1712,user information transfer parameter,STR_COM
+STR_COM1713,disengagement parameter,STR_COM
+STR_COM1714,Performance matrix,STR_COM
+STR_COM1715,three data communication functions,STR_COM
+STR_COM1716,three performance concerns,STR_COM
+STR_COM1717,packet layer reference events,STR_COM
+STR_COM1718,CCITT X.136,STR_COM
+STR_COM1719,packet-switched public data networks,STR_COM
+STR_COM1720,international routing principles,STR_COM
+STR_COM1721,general quality of service parameters,STR_COM
+STR_COM1722,portion boundaries,STR_COM
+STR_COM1723,Plenary Assembly of CCITT,STR_COM
+STR_COM1724,Study Groups,STR_COM
+STR_COM1725,Study Group VII,STR_COM
+STR_COM1726,Plenary Assemblies,STR_COM
+STR_COM1727,recognized private operating agency,STR_COM
+STR_COM1728,Annex C,STR_COM
+STR_COM1729,list of abbreviations,STR_COM
+STR_COM1730,ITU,STR_COM
+STR_COM1731,electronic or mechanical,STR_COM
+STR_COM1732,photocopying and microfilm,STR_COM
+STR_COM1733,worst-case objectives,STR_COM
+STR_COM1734,definition,STR_COM
+STR_COM1735,virtual connection portions,STR_COM
+STR_COM1736,ITU-T Recommendation X.138,STR_COM
+STR_COM1737,International packet-switched services,STR_COM
+STR_COM1738,delay and throughput,STR_COM
+STR_COM1739,speed of service (delay and throughput) performance values,STR_COM
+STR_COM1740,Quality of Service parameters,STR_COM
+STR_COM1741,ITU (International Telecommunication Union),STR_COM
+STR_COM1742,Administration,STR_COM
+STR_COM1743,Intellectual Property Rights,STR_COM
+STR_COM1744,Measurement architectures,STR_COM
+STR_COM1745,Controlled and monitored source and controlled and monitored sink (C,M/C,M),STR_COM
+STR_COM1746,controlled and monitored source,STR_COM
+STR_COM1747,controlled and monitored sink,STR_COM
+STR_COM1748,ITU-T Recommendation X.139,STR_COM
+STR_COM1749,Echo DTE,STR_COM
+STR_COM1750,Drop DTE,STR_COM
+STR_COM1751,Generator DTE,STR_COM
+STR_COM1752,controlled, unmonitored source,STR_COM
+STR_COM1753,Test DTE,STR_COM
+STR_COM1754,echo, drop and generator DTEs,STR_COM
+STR_COM1755,X.25,STR_COM
+STR_COM1756,X.75,STR_COM
+STR_COM1757,Packet-switched signalling system,STR_COM
+STR_COM1758,X.96,STR_COM
+STR_COM1759,X.110,STR_COM
+STR_COM1760,X.134,STR_COM
+STR_COM1761,Portion boundaries and packet-layer reference events,STR_COM
+STR_COM1762,X.135,STR_COM
+STR_COM1763,X.136,STR_COM
+STR_COM1764,X.137,STR_COM
+STR_COM1765,X.138,STR_COM
+STR_COM1766,X.140,STR_COM
+STR_COM1767,CCITT Recommendation,STR_COM
+STR_COM1768,X.213,STR_COM
+STR_COM1769,Open Systems Interconnection,STR_COM
+STR_COM1770,X.323,STR_COM
+STR_COM1771,Packet-Switched Public Data Networks,STR_COM
+STR_COM1772,OSI,STR_COM
+STR_COM1773,RR,STR_COM
+STR_COM1774,STE,STR_COM
+STR_COM1775,Signalling Terminal Equipment,STR_COM
+STR_COM1776,CCITT X.140,STR_COM
+STR_COM1777,THE INTERNATIONAL (09/92) TELEGRAPH AND TELEPHONE CONSULTATIVE COMMITTEE,STR_COM
+STR_COM1778,DATA COMMUNICATION NETWORKS,STR_COM
+STR_COM1779,NETWORK ASPECTS,STR_COM
+STR_COM1780,INTERNATIONAL TELECOMMUNICATION UNION,STR_COM
+STR_COM1781,Public Data Networks (PDNs),STR_COM
+STR_COM1782,general quality of service (QOS) parameters,STR_COM
+STR_COM1783,Open Systems Interconnection (OSI),STR_COM
+STR_COM1784,Recommendation X.200,STR_COM
+STR_COM1785,Reference Model of Open Systems Interconnection,STR_COM
+STR_COM1786,common language,STR_COM
+STR_COM1787,Hypothetical reference connection (HRX),STR_COM
+STR_COM1788,total access attempts,STR_COM
+STR_COM1789,Recommendation X.130,STR_COM
+STR_COM1790,Recommendation X.131,STR_COM
+STR_COM1791,ITU-T V.152,STR_COM
+STR_COM1792,GSTN networks,STR_COM
+STR_COM1793,modulated voice-band data (VBD),STR_COM
+STR_COM1794,encoded audio content,STR_COM
+STR_COM1795,IP,STR_COM
+STR_COM1796,circuit switched systems and equipment,STR_COM
+STR_COM1797,networks optimized for the transport of Internet Protocol (IP),STR_COM
+STR_COM1798,voice-band data traffic,STR_COM
+STR_COM1799,VBD mode,STR_COM
+STR_COM1800,ITU-T G.711,STR_COM
+STR_COM1801,Pulse code modulation (PCM),STR_COM
+STR_COM1802,ITU-T G.726,STR_COM
+STR_COM1803,two IP domains,STR_COM
+STR_COM1804,voice-over-Internet protocol (VoIP) gateways,STR_COM
+STR_COM1805,IP domains,STR_COM
+STR_COM1806,network protocol layer,STR_COM
+STR_COM1807,VBDoIP-to-FoIP gateway,STR_COM
+STR_COM1808,media gateway,STR_COM
+STR_COM1809,IP connection endpoints,STR_COM
+STR_COM1810,circuit-switched bearer technology,STR_COM
+STR_COM1811,IP-based packet network,STR_COM
+STR_COM1812,facsimile/modem data,STR_COM
+STR_COM1813,ITU-T Recommendation V.16,STR_COM
+STR_COM1814,ECG (electro-cardiogram),STR_COM
+STR_COM1815,special diagnostic centres,STR_COM
+STR_COM1816,general practitioners,STR_COM
+STR_COM1817,hospitals at remote places,STR_COM
+STR_COM1818,suitable transmission equipment,STR_COM
+STR_COM1819,ECG transmission channel,STR_COM
+STR_COM1820,digital data,STR_COM
+STR_COM1821,baseband signal,STR_COM
+STR_COM1822,modem input,STR_COM
+STR_COM1823,subcarrier frequencies,STR_COM
+STR_COM1824,ECG recording,STR_COM
+STR_COM1825,ECG recorder,STR_COM
+STR_COM1826,interference pulses,STR_COM
+STR_COM1827,central modem,STR_COM
+STR_COM1828,Recommendation V.24,STR_COM
+STR_COM1829,Recommendation V.28,STR_COM
+STR_COM1830,the output of the telephone set,STR_COM
+STR_COM1831,ITU-T X.142,STR_COM
+STR_COM1832,Frame Relay/ATM service interworking,STR_COM
+STR_COM1833,quality of service metrics,STR_COM
+STR_COM1834,FR/ATM interworking function/unit,STR_COM
+STR_COM1835,end-to-end data connection,STR_COM
+STR_COM1836,ITU-T Rec. X.140,STR_COM
+STR_COM1837,general techniques,STR_COM
+STR_COM1838,End-to-end data connection,STR_COM
+STR_COM1839,FR/ATM IWF,STR_COM
+STR_COM1840,frame relay network,STR_COM
+STR_COM1841,ATM network,STR_COM
+STR_COM1842,separate entity,STR_COM
+STR_COM1843,Measurement points,STR_COM
+STR_COM1844,frame layer reference events,STR_COM
+STR_COM1845,ATM layer reference events,STR_COM
+STR_COM1846,ITU-T X.144,STR_COM
+STR_COM1847,PVC and SVC services,STR_COM
+STR_COM1848,performance parameters,STR_COM
+STR_COM1849,ITU-T Rec. X.147,STR_COM
+STR_COM1850,ITU-T Rec. X.146,STR_COM
+STR_COM1851,classes of service,STR_COM
+STR_COM1852,ITU-T Rec. X.148,STR_COM
+STR_COM1853,ITU-T X.145,STR_COM
+STR_COM1854,Frame Relay data networks,STR_COM
+STR_COM1855,public Frame Relay data networks,STR_COM
+STR_COM1856,disengagement performance parameters,STR_COM
+STR_COM1857,dependability parameters,STR_COM
+STR_COM1858,ITU-T Rec. X.144,STR_COM
+STR_COM1859,defined parameters,STR_COM
+STR_COM1860,3 × 3 performance matrix,STR_COM
+STR_COM1861,frame relay network availability,STR_COM
+STR_COM1862,ITU-T Study Group 17 (2001-2004),STR_COM
+STR_COM1863,ITU-T Recommendation X.146,STR_COM
+STR_COM1864,reference model,STR_COM
+STR_COM1865,national/international apportion model,STR_COM
+STR_COM1866,frame relay service classes,STR_COM
+STR_COM1867,frame relay PVC,STR_COM
+STR_COM1868,frame relay SVC,STR_COM
+STR_COM1869,networks,STR_COM
+STR_COM1870,data networks,STR_COM
+STR_COM1871,quality of service (QoS) class,STR_COM
+STR_COM1872,end-to-end frame relay connections,STR_COM
+STR_COM1873,connection portions,STR_COM
+STR_COM1874,ITU-T X.36,STR_COM
+STR_COM1875,ITU-T X.76,STR_COM
+STR_COM1876,ITU-T X.134,STR_COM
+STR_COM1877,Class Network support FLRc,STR_COM
+STR_COM1878,Abstract Syntax Notation One (ASN.1),STR_COM
+STR_COM1879,Systems Management framework and architecture,STR_COM
+STR_COM1880,ITU-T X.147,STR_COM
+STR_COM1881,Amendment 1,STR_COM
+STR_COM1882,Access Circuit Section,STR_COM
+STR_COM1883,National Network Portion,STR_COM
+STR_COM1884,Switching,STR_COM
+STR_COM1885,International Transit Network Portion,STR_COM
+STR_COM1886,International Interoperator Portion,STR_COM
+STR_COM1887,Table 1,STR_COM
+STR_COM1888,connection portion type,STR_COM
+STR_COM1889,ITU-T Recommendation G.827,STR_COM
+STR_COM1890,ITU-T Recommendation X.111,STR_COM
+STR_COM1891,k × x,STR_COM
+STR_COM1892,Frame Relay virtual connections,STR_COM
+STR_COM1893,user information transfer performance parameters,STR_COM
+STR_COM1894,OAM Frames,STR_COM
+STR_COM1895,PVCs,STR_COM
+STR_COM1896,SVCs,STR_COM
+STR_COM1897,QoS classes,STR_COM
+STR_COM1898,primary performance parameters,STR_COM
+STR_COM1899,frame relay connection,STR_COM
+STR_COM1900,test traffic,STR_COM
+STR_COM1901,measurement architectures,STR_COM
+STR_COM1902,FR-OAM Frames,STR_COM
+STR_COM1903,dedicated monitoring equipment,STR_COM
+STR_COM1904,ITU-T X.149,STR_COM
+STR_COM1905,Frame Relay networks,STR_COM
+STR_COM1906,Frame Relay network infrastructure,STR_COM
+STR_COM1907,lower layer connectivity,STR_COM
+STR_COM1908,IP packets,STR_COM
+STR_COM1909,Frame Relay performance parameters,STR_COM
+STR_COM1910,general model,STR_COM
+STR_COM1911,ITU-T Rec. Y.1541,STR_COM
+STR_COM1912,FR and IP networks,STR_COM
+STR_COM1913,physical and link layers,STR_COM
+STR_COM1914,Public Frame Relay Data Networks,STR_COM
+STR_COM1915,link infrastructure,STR_COM
+STR_COM1916,ITU-T Recommendation E.651,STR_COM
+STR_COM1917,ITU-T Recommendation G.114,STR_COM
+STR_COM1918,ITU-T Recommendation G.1000,STR_COM
+STR_COM1919,ITU-T Recommendation G.1010,STR_COM
+STR_COM1920,ITU-T Recommendation X.36,STR_COM
+STR_COM1921,ITU-T Recommendation X.76,STR_COM
+STR_COM1922,ITU-T Recommendation X.140,STR_COM
+STR_COM1923,ITU-T Recommendation X.144,STR_COM
+STR_COM1924,ITU-T Recommendation X.145,STR_COM
+STR_COM1925,ITU-T Recommendation Y.1221,STR_COM
+STR_COM1926,ITU-T Recommendation Y.1231,STR_COM
+STR_COM1927,IP Access Network Architecture,STR_COM
+STR_COM1928,ITU-T Recommendation Y.1540,STR_COM
+STR_COM1929,IP packet transfer and availability performance parameters,STR_COM
+STR_COM1930,ITU-T Recommendation Y.1541,STR_COM
+STR_COM1931,IETF RFC 791,STR_COM
+STR_COM1932,ITU-T Recommendation X.150,STR_COM
+STR_COM1933,DTE/DCE test loops,STR_COM
+STR_COM1934,inter-connecting cable,STR_COM
+STR_COM1935,DCE interchange circuit generators and loads,STR_COM
+STR_COM1936,line coding and control logic and circuitry,STR_COM
+STR_COM1937,line signal conditioning circuitry,STR_COM
+STR_COM1938,4-wire subscriber lines,STR_COM
+STR_COM1939,subscriber line,STR_COM
+STR_COM1940,circuitry of the DCE,STR_COM
+STR_COM1941,interchange circuit generators and loads,STR_COM
+STR_COM1942,Administration's test centre(s),STR_COM
+STR_COM1943,remote DTE,STR_COM
+STR_COM1944,entire DCE,STR_COM
+STR_COM1945,ITU-T X.151,STR_COM
+STR_COM1946,Frame Relay Operations and Maintenance Principles and Functions,STR_COM
+STR_COM1947,OAM frames,STR_COM
+STR_COM1948,frame relay networks,STR_COM
+STR_COM1949,FRF.19,STR_COM
+STR_COM1950,OAM protocol formats,STR_COM
+STR_COM1951,descriptions of message flows,STR_COM
+STR_COM1952,Frame Relay OAM Maintenance Point,STR_COM
+STR_COM1953,generic network reference models,STR_COM
+STR_COM1954,PVC,STR_COM
+STR_COM1955,SVC,STR_COM
+STR_COM1956,data transfer phase,STR_COM
+STR_COM1957,ITU-T Recommendation I.370,STR_COM
+STR_COM1958,ISDN frame relaying bearer service,STR_COM
+STR_COM1959,ITU-T Recommendation I.555,STR_COM
+STR_COM1960,ITU-T Recommendation I.610,STR_COM
+STR_COM1961,Interface between Data Terminal Equipment (DTE) and Data Circuit-terminating Equipment (DCE) for public data networks providing frame relay data transmission service by dedicated circuit,STR_COM
+STR_COM1962,architectural framework,STR_COM
+STR_COM1963,Customer Network Management,STR_COM
+STR_COM1964,TMN,STR_COM
+STR_COM1965,ITU-T X.161,STR_COM
+STR_COM1966,management information,STR_COM
+STR_COM1967,ISO/IEC 10040:1997,STR_COM
+STR_COM1968,CCITT Recommendation X.721 (1992),STR_COM
+STR_COM1969,CNM services,STR_COM
+STR_COM1970,TMN specifications,STR_COM
+STR_COM1971,Recommendation X.160,STR_COM
+STR_COM1972,other Recommendations for CNM,STR_COM
+STR_COM1973,Recommendations X.162 and X.163,STR_COM
+STR_COM1974,definitions of management information,STR_COM
+STR_COM1975,Public Data Network (PDN),STR_COM
+STR_COM1976,the Members of the ITU-T,STR_COM
+STR_COM1977,ITU-T Study Group XVII,STR_COM
+STR_COM1978,Interchange equivalent circuit,STR_COM
+STR_COM1979,electrical parameters,STR_COM
+STR_COM1980,Load,STR_COM
+STR_COM1981,impedance,STR_COM
+STR_COM1982,Generator,STR_COM
+STR_COM1983,interchange circuit,STR_COM
+STR_COM1984,loads,STR_COM
+STR_COM1985,data interchange circuits,STR_COM
+STR_COM1986,interchange point,STR_COM
+STR_COM1987,receiving circuit,STR_COM
+STR_COM1988,open-circuited interconnecting cable,STR_COM
+STR_COM1989,short-circuited interconnecting cable,STR_COM
+STR_COM1990,V.28 generators and receivers,STR_COM
+STR_COM1991,load capacitance (C 1),STR_COM
+STR_COM1992,C 0,STR_COM
+STR_COM1993,capacitance associated with the generator side of the interface,STR_COM
+STR_COM1994,ITU-T Recommendation V.29,STR_COM
+STR_COM1995,circuits,STR_COM
+STR_COM1996,multiplexer,STR_COM
+STR_COM1997,quadbits,STR_COM
+STR_COM1998,scrambled data stream,STR_COM
+STR_COM1999,four consecutive data bits,STR_COM
+STR_COM2000,phase encoding,STR_COM
+STR_COM2001,absolute phase diagram,STR_COM
+STR_COM2002,transmitted signal elements,STR_COM
+STR_COM2003,groups of three consecutive data bits,STR_COM
+STR_COM2004,groups of two consecutive data bits,STR_COM
+STR_COM2005,phase changes,STR_COM
+STR_COM2006,amplitude,STR_COM
+STR_COM2007,bits per second,STR_COM
+STR_COM2008,Table 4/V.29,STR_COM
+STR_COM2009,essential interchange circuits,STR_COM
+STR_COM2010,ITU-T V.300,STR_COM
+STR_COM2011,128 (144) kbit/s data circuit-terminating equipment,STR_COM
+STR_COM2012,procedure laid down,STR_COM
+STR_COM2013,V.24-type interface,STR_COM
+STR_COM2014,X.24-type interface,STR_COM
+STR_COM2015,ITU-T Recommendation V.38,STR_COM
+STR_COM2016,G.797,STR_COM
+STR_COM2017,flexible multiplexer,STR_COM
+STR_COM2018,V.24,STR_COM
+STR_COM2019,DTE-DCE interfaces,STR_COM
+STR_COM2020,X.24,STR_COM
+STR_COM2021,ITU-T Recommendation X.162,STR_COM
+STR_COM2022,OSI Systems Management context (CMISE),STR_COM
+STR_COM2023,attributes,STR_COM
+STR_COM2024,name bindings,STR_COM
+STR_COM2025,Managed objects,STR_COM
+STR_COM2026,Attributes,STR_COM
+STR_COM2027,Name bindings,STR_COM
+STR_COM2028,Recommendation X.163,STR_COM
+STR_COM2029,ITU-T Study Group 7 (1993-1996),STR_COM
+STR_COM2030,CNMe realisation,STR_COM
+STR_COM2031,Overview of Management Information,STR_COM
+STR_COM2032,Information model,STR_COM
+STR_COM2033,CUSTOMER definition,STR_COM
+STR_COM2034,CONTRACT definition,STR_COM
+STR_COM2035,ACTION definition,STR_COM
+STR_COM2036,Contact definition,STR_COM
+STR_COM2037,ServiceOrder definition,STR_COM
+STR_COM2038,ServiceOrder,STR_COM
+STR_COM2039,ITU-T X.170,STR_COM
+STR_COM2040,Network-network management architecture,STR_COM
+STR_COM2041,Model and notation,STR_COM
+STR_COM2042,SECURITY,STR_COM
+STR_COM2043,Commitment, Concurrency and Recovery,STR_COM
+STR_COM2044,generic functional architecture,STR_COM
+STR_COM2045,quantum entropy source,STR_COM
+STR_COM2046,Quantum entropy source,STR_COM
+STR_COM2047,quantum phenomenon,STR_COM
+STR_COM2048,noise source under evaluation,STR_COM
+STR_COM2049,raw random bit flow,STR_COM
+STR_COM2050,entropy source,STR_COM
+STR_COM2051,random number sequences,STR_COM
+STR_COM2052,Quantum physics,STR_COM
+STR_COM2053,noise sources,STR_COM
+STR_COM2054,functional architecture,STR_COM
+STR_COM2055,random bits,STR_COM
+STR_COM2056,ITU-T X.171,STR_COM
+STR_COM2057,service networks,STR_COM
+STR_COM2058,adjacent network,STR_COM
+STR_COM2059,TMN X-Interface,STR_COM
+STR_COM2060,loops,STR_COM
+STR_COM2061,configurations,STR_COM
+STR_COM2062,network inventory,STR_COM
+STR_COM2063,ITU-T X.1710,STR_COM
+STR_COM2064,QKDN security,STR_COM
+STR_COM2065,Security framework for quantum key distribution networks,STR_COM
+STR_COM2066,quantum key distribution networks,STR_COM
+STR_COM2067,Recommendation ITU-T X.1710,STR_COM
+STR_COM2068,Quantum key distribution networks (QKDNs),STR_COM
+STR_COM2069,ITU-T X.805,STR_COM
+STR_COM2070,Security architecture for systems providing end-to-end communications,STR_COM
+STR_COM2071,ITU-T Y.3800,STR_COM
+STR_COM2072,entity,STR_COM
+STR_COM2073,property,STR_COM
+STR_COM2074,recipient,STR_COM
+STR_COM2075,classical channel,STR_COM
+STR_COM2076,Communication channel,STR_COM
+STR_COM2077,two communicating parties,STR_COM
+STR_COM2078,quantum layer,STR_COM
+STR_COM2079,key management policy,STR_COM
+STR_COM2080,key manager (KM),STR_COM
+STR_COM2081,quantum key distribution (QKD) node,STR_COM
+STR_COM2082,key management layer,STR_COM
+STR_COM2083,key manager link,STR_COM
+STR_COM2084,key managers (KMs),STR_COM
+STR_COM2085,quantum key distribution (QKD) nodes,STR_COM
+STR_COM2086,intermediate QKD node(s),STR_COM
+STR_COM2087,quantum channel,STR_COM
+STR_COM2088,quantum signals,STR_COM
+STR_COM2089,Procedure or method,STR_COM
+STR_COM2090,symmetrical cryptographic keys,STR_COM
+STR_COM2091,quantum key distribution link,STR_COM
+STR_COM2092,communication link,STR_COM
+STR_COM2093,two quantum key distribution (QKD) modules,STR_COM
+STR_COM2094,quantum key distribution module,STR_COM
+STR_COM2095,hardware and software components,STR_COM
+STR_COM2096,defined cryptographic boundary,STR_COM
+STR_COM2097,quantum key distribution network (QKDN),STR_COM
+STR_COM2098,QKD links,STR_COM
+STR_COM2099,quantum key distribution node,STR_COM
+STR_COM2100,quantum key distribution (QKD) modules,STR_COM
+STR_COM2101,Potential cause of an unwanted incident,STR_COM
+STR_COM2102,symmetric cryptographic keys,STR_COM
+STR_COM2103,ITU-T G.665,STR_COM
+STR_COM2104,Raman amplifiers,STR_COM
+STR_COM2105,Raman amplified subsystems,STR_COM
+STR_COM2106,reverse pumped distributed Raman amplifier,STR_COM
+STR_COM2107,forward pumped distributed Raman amplifier,STR_COM
+STR_COM2108,bidirectionally pumped distributed Raman amplifier,STR_COM
+STR_COM2109,reverse pumped distributed, composite Raman amplifier,STR_COM
+STR_COM2110,reverse pumped distributed,STR_COM
+STR_COM2111,composite Raman amplifier,STR_COM
+STR_COM2112,bidirectionally pumped distributed, composite Raman amplifier,STR_COM
+STR_COM2113,distributed,STR_COM
+STR_COM2114,composite,STR_COM
+STR_COM2115,discrete Raman amplifier,STR_COM
+STR_COM2116,Raman pump,STR_COM
+STR_COM2117,input reference point,STR_COM
+STR_COM2118,gain measurement point (GMP),STR_COM
+STR_COM2119,Raman On-Off gain,STR_COM
+STR_COM2120,gain from the OA,STR_COM
+STR_COM2121,loss between the input and output reference points of the amplifier,STR_COM
+STR_COM2122,ITU-T G.666,STR_COM
+STR_COM2123,polarization mode dispersion (PMD),STR_COM
+STR_COM2124,PMD compensators (PMDCs),STR_COM
+STR_COM2125,Stokes vector,STR_COM
+STR_COM2126,principal state of polarization vector,STR_COM
+STR_COM2127,Stokes space,STR_COM
+STR_COM2128,second-order PMD (SOPMD),STR_COM
+STR_COM2129,polarization dispersion vector (PDV),STR_COM
+STR_COM2130,parameters and definitions,STR_COM
+STR_COM2131,adaptive chromatic dispersion compensators,STR_COM
+STR_COM2132,optical fibers,STR_COM
+STR_COM2133,optical signals,STR_COM
+STR_COM2134,adaptive dispersion compensators (ADC),STR_COM
+STR_COM2135,ITU-T G.671,STR_COM
+STR_COM2136,optical components,STR_COM
+STR_COM2137,broad range of types,STR_COM
+STR_COM2138,optical add/drop multiplexer (OADM) subsystem,STR_COM
+STR_COM2139,optical networks,STR_COM
+STR_COM2140,asymmetric branching component,STR_COM
+STR_COM2141,optical attenuator,STR_COM
+STR_COM2142,optical branching component (wavelength non-selective),STR_COM
+STR_COM2143,optical connector,STR_COM
+STR_COM2144,delay line interferometer,STR_COM
+STR_COM2145,dynamic channel equalizer (DCE),STR_COM
+STR_COM2146,optical filter,STR_COM
+STR_COM2147,optical isolator,STR_COM
+STR_COM2148,passive (chromatic) dispersion compensator,STR_COM
+STR_COM2149,single optical channel passive (chromatic) dispersion compensator,STR_COM
+STR_COM2150,optical splice,STR_COM
+STR_COM2151,optical switch,STR_COM
+STR_COM2152,optical termination,STR_COM
+STR_COM2153,tuneable (chromatic) dispersion compensator,STR_COM
+STR_COM2154,tuneable filter,STR_COM
+STR_COM2155,optical wavelength MUX/DMUX,STR_COM
+STR_COM2156,coarse WDM device,STR_COM
+STR_COM2157,dense WDM device,STR_COM
+STR_COM2158,wide WDM device,STR_COM
+STR_COM2159,transmission and geometric test methods,STR_COM
+STR_COM2160,dispersion-shifted single-mode optical fibre and cable,STR_COM
+STR_COM2161,ITU-T G.672,STR_COM
+STR_COM2162,multi-degree reconfigurable optical add/drop multiplexer (MD-ROADM) network elements,STR_COM
+STR_COM2163,MD-ROADM,STR_COM
+STR_COM2164,list of optical transfer parameters,STR_COM
+STR_COM2165,optical transfer parameters,STR_COM
+STR_COM2166,MD-ROADMs,STR_COM
+STR_COM2167,ITU-T X.1712,STR_COM
+STR_COM2168,quantum key distribution networks (QKDNs),STR_COM
+STR_COM2169,Key data,STR_COM
+STR_COM2170,Metadata,STR_COM
+STR_COM2171,Control and management information,STR_COM
+STR_COM2172,KMA links,STR_COM
+STR_COM2173,key supply links,STR_COM
+STR_COM2174,Key supply links,STR_COM
+STR_COM2175,KSA links,STR_COM
+STR_COM2176,Control and management links,STR_COM
+STR_COM2177,KMA and KSA,STR_COM
+STR_COM2178,key data,STR_COM
+STR_COM2179,ITU-T X.1713,STR_COM
+STR_COM2180,QKD nodes,STR_COM
+STR_COM2181,QKD networks,STR_COM
+STR_COM2182,two remote parties,STR_COM
+STR_COM2183,QKD Network (QKDN),STR_COM
+STR_COM2184,trusted nodes (QKD nodes),STR_COM
+STR_COM2185,Trusted Node (TN),STR_COM
+STR_COM2186,node,STR_COM
+STR_COM2187,boundary,STR_COM
+STR_COM2188,embedded elements,STR_COM
+STR_COM2189,functional module,STR_COM
+STR_COM2190,QKD node (trusted node),STR_COM
+STR_COM2191,key management agent (KMA),STR_COM
+STR_COM2192,Quantum Key Distribution Module,STR_COM
+STR_COM2193,Quantum Key Distribution Link,STR_COM
+STR_COM2194,QKD protocol,STR_COM
+STR_COM2195,ITU-T X.1714,STR_COM
+STR_COM2196,Key combination,STR_COM
+STR_COM2197,Recommendation ITU-T X.1714,STR_COM
+STR_COM2198,DATA NETWORKS, OPEN SYSTEM COMMUNICATIONS AND SECURITY,STR_COM
+STR_COM2199,General security aspects X.1000–X.1029,STR_COM
+STR_COM2200,Web security X.1140–X.1149,STR_COM
+STR_COM2201,Security protocols (1) X.1150–X.1159,STR_COM
+STR_COM2202,ITU-T X.1715,STR_COM
+STR_COM2203,quantum key distribution network,STR_COM
+STR_COM2204,secure storage network,STR_COM
+STR_COM2205,Recommendation ITU-T X.1715,STR_COM
+STR_COM2206,ITU-T X.1716,STR_COM
+STR_COM2207,Quantum Key Distribution Network (QKDN),STR_COM
+STR_COM2208,Identifiers (IDs),STR_COM
+STR_COM2209,Key manager (KM),STR_COM
+STR_COM2210,Key management agent (KMA),STR_COM
+STR_COM2211,Key supply agent (KSA),STR_COM
+STR_COM2212,QKD link,STR_COM
+STR_COM2213,QKD module,STR_COM
+STR_COM2214,QKDN controller,STR_COM
+STR_COM2215,quantum key distribution (QKD) network control layer,STR_COM
+STR_COM2216,QKD network,STR_COM
+STR_COM2217,QKDN manager,STR_COM
+STR_COM2218,quantum key distribution (QKD) network management layer,STR_COM
+STR_COM2219,ITU-T X.1717,STR_COM
+STR_COM2220,security requirements and measures,STR_COM
+STR_COM2221,ITU-T X.1750,STR_COM
+STR_COM2222,Big Data,STR_COM
+STR_COM2223,cloud service category,STR_COM
+STR_COM2224,Recommendation ITU-T X.1750,STR_COM
+STR_COM2225,big data as a service,STR_COM
+STR_COM2226,Big data infrastructure,STR_COM
+STR_COM2227,Big data as a service (BDaaS),STR_COM
+STR_COM2228,Security framework,STR_COM
+STR_COM2229,big data infrastructure,STR_COM
+STR_COM2230,Big data applications,STR_COM
+STR_COM2231,Interface,STR_COM
+STR_COM2232,Big data as a service ecosystem,STR_COM
+STR_COM2233,Public Key Infrastructure (PKI),STR_COM
+STR_COM2234,Security Assertion Markup Language (SAML),STR_COM
+STR_COM2235,Secure Socket Layer (SSL),STR_COM
+STR_COM2236,Transport Layer Security (TLS),STR_COM
+STR_COM2237,Universal Serial Bus (USB),STR_COM
+STR_COM2238,Personally Identifiable Information (PII),STR_COM
+STR_COM2239,Attribute-Based Access Control (ABAC),STR_COM
+STR_COM2240,Attribute,STR_COM
+STR_COM2241,Access Control,STR_COM
+STR_COM2242,Application Programming Interface (API),STR_COM
+STR_COM2243,Software Development Kit (SDK),STR_COM
+STR_COM2244,CCITT V.17,STR_COM
+STR_COM2245,2-wire modem,STR_COM
+STR_COM2246,synchronous line transmission,STR_COM
+STR_COM2247,Signal element codings,STR_COM
+STR_COM2248,Two separate sequences,STR_COM
+STR_COM2249,equalizer,STR_COM
+STR_COM2250,ITU-T V.18,STR_COM
+STR_COM2251,Frequency Shift Keyed Modem,STR_COM
+STR_COM2252,frequency shift-keyed modulation,STR_COM
+STR_COM2253,ITU-T Recommendation V.19,STR_COM
+STR_COM2254,TELEPHONE SIGNALLING FREQUENCIES,STR_COM
+STR_COM2255,push-button telephone sets,STR_COM
+STR_COM2256,Systems for parallel data transmission,STR_COM
+STR_COM2257,transmitting sets (outstations),STR_COM
+STR_COM2258,signalling frequencies,STR_COM
+STR_COM2259,central receiving set (instation),STR_COM
+STR_COM2260,switched telephone network,STR_COM
+STR_COM2261,keyboard telephone sets,STR_COM
+STR_COM2262,outstations,STR_COM
+STR_COM2263,common instation,STR_COM
+STR_COM2264,Data channel,STR_COM
+STR_COM2265,two sets of frequencies,STR_COM
+STR_COM2266,two simultaneously transmitted frequencies,STR_COM
+STR_COM2267,transmission system,STR_COM
+STR_COM2268,low group frequencies,STR_COM
+STR_COM2269,Hz,STR_COM
+STR_COM2270,high group frequencies,STR_COM
+STR_COM2271,a telephone channel not simultaneous with data transmission in the forward direction,STR_COM
+STR_COM2272,Recommendation V.23 type modem,STR_COM
+STR_COM2273,FM backward channel,STR_COM
+STR_COM2274,No. 2 transmission channel,STR_COM
+STR_COM2275,Recommendation V.21 type modem,STR_COM
+STR_COM2276,Data frequency tolerances,STR_COM
+STR_COM2277,Line power levels,STR_COM
+STR_COM2278,relative zero point,STR_COM
+STR_COM2279,Power levels on reception,STR_COM
+STR_COM2280,instation receiver,STR_COM
+STR_COM2281,DTE interface,STR_COM
+STR_COM2282,two frequencies,STR_COM
+STR_COM2283,ON position,STR_COM
+STR_COM2284,silent period,STR_COM
+STR_COM2285,the system,STR_COM
+STR_COM2286,signal,STR_COM
+STR_COM2287,data wires,STR_COM
+STR_COM2288,Interface of instation modem,STR_COM
+STR_COM2289,Interface of outstation modems,STR_COM
+STR_COM2290,data lifecycle,STR_COM
+STR_COM2291,big data lifecycle management,STR_COM
+STR_COM2292,data categories,STR_COM
+STR_COM2293,ITU-T X.1752,STR_COM
+STR_COM2294,platform,STR_COM
+STR_COM2295,CYBERSPACE,STR_COM
+STR_COM2296,ITU-T X.1770,STR_COM
+STR_COM2297,multi-party computation (MPC),STR_COM
+STR_COM2298,technical standard basis,STR_COM
+STR_COM2299,parties,STR_COM
+STR_COM2300,Technical framework for MPC,STR_COM
+STR_COM2301,elements,STR_COM
+STR_COM2302,security model,STR_COM
+STR_COM2303,Garbled Circuit (GC),STR_COM
+STR_COM2304,Homomorphic Encryption (HE),STR_COM
+STR_COM2305,Oblivious Transfer (OT),STR_COM
+STR_COM2306,Secret Sharing (SS),STR_COM
+STR_COM2307,Open Application Programming Interface (OpenAPI),STR_COM
+STR_COM2308,format,STR_COM
+STR_COM2309,standard,STR_COM
+STR_COM2310,language-agnostic machine-readable interface,STR_COM
+STR_COM2311,ITU-T X.1771,STR_COM
+STR_COM2312,association,STR_COM
+STR_COM2313,set of identifiable attributes,STR_COM
+STR_COM2314,trusted third party,STR_COM
+STR_COM2315,de-identified data,STR_COM
+STR_COM2316,data controller,STR_COM
+STR_COM2317,natural persons,STR_COM
+STR_COM2318,data processor,STR_COM
+STR_COM2319,data principal,STR_COM
+STR_COM2320,dataset,STR_COM
+STR_COM2321,Collection of data,STR_COM
+STR_COM2322,de-identified dataset,STR_COM
+STR_COM2323,combining key,STR_COM
+STR_COM2324,de-identified datasets,STR_COM
+STR_COM2325,combining organization,STR_COM
+STR_COM2326,different organizations,STR_COM
+STR_COM2327,extensive data,STR_COM
+STR_COM2328,scalable technology,STR_COM
+STR_COM2329,data record,STR_COM
+STR_COM2330,Set of attributes,STR_COM
+STR_COM2331,Information and Communication Technology,STR_COM
+STR_COM2332,ITU -T study groups,STR_COM
+STR_COM2333,ITU-T Recommendation X.180,STR_COM
+STR_COM2334,international CUGs,STR_COM
+STR_COM2335,international CUG,STR_COM
+STR_COM2336,CUG,STR_COM
+STR_COM2337,coordinating Administration,STR_COM
+STR_COM2338,other Administrations,STR_COM
+STR_COM2339,DNIC or DCC,STR_COM
+STR_COM2340,public network,STR_COM
+STR_COM2341,data network,STR_COM
+STR_COM2342,INIC,STR_COM
+STR_COM2343,national network digit(s),STR_COM
+STR_COM2344,ISDN Network Identification Code (INIC),STR_COM
+STR_COM2345,four-digit field,STR_COM
+STR_COM2346,ITU-T Recommendation X.181,STR_COM
+STR_COM2347,permanent virtual circuit service,STR_COM
+STR_COM2348,DTE/DCE interface characteristics,STR_COM
+STR_COM2349,international circuits,STR_COM
+STR_COM2350,two STEs,STR_COM
+STR_COM2351,administrative procedures,STR_COM
+STR_COM2352,international PVC,STR_COM
+STR_COM2353,country housing,STR_COM
+STR_COM2354,the Administration housing the non-responsible subscriber,STR_COM
+STR_COM2355,subscriber DTEs,STR_COM
+STR_COM2356,This information should include: d),STR_COM
+STR_COM2357,STE X/Y interface,STR_COM
+STR_COM2358,ITU-T X.2,STR_COM
+STR_COM2359,ISDNs,STR_COM
+STR_COM2360,optional user facility,STR_COM
+STR_COM2361,essential optional user facility,STR_COM
+STR_COM2362,packet switched data transmission service,STR_COM
+STR_COM2363,TELECOMMUNICATION STANDARDIZATION SECTOR,STR_COM
+STR_COM2364,Recommendation X.20,STR_COM
+STR_COM2365,Interface definition,STR_COM
+STR_COM2366,Data Circuit-Terminating Equipment (DCE),STR_COM
+STR_COM2367,Recommendation X.96,STR_COM
+STR_COM2368,Recommendation X.24,STR_COM
+STR_COM2369,Recommendation X.26,STR_COM
+STR_COM2370,Recommendation X.27,STR_COM
+STR_COM2371,Electrical characteristics,STR_COM
+STR_COM2372,ISO 4903,STR_COM
+STR_COM2373,Call control characters,STR_COM
+STR_COM2374,Recommendation T.50,STR_COM
+STR_COM2375,IA5 characters,STR_COM
+STR_COM2376,State diagram,STR_COM
+STR_COM2377,call control procedures,STR_COM
+STR_COM2378,ITU-T Recommendation X.20 bis,STR_COM
+STR_COM2379,Fascicle VIII.2 of the Blue Book,STR_COM
+STR_COM2380,Data Circuit Terminating Equipment (DCE),STR_COM
+STR_COM2381,V-Series modems,STR_COM
+STR_COM2382,start-stop DTEs,STR_COM
+STR_COM2383,Table 1/X.20 bis,STR_COM
+STR_COM2384,Table 2/X.20 bis,STR_COM
+STR_COM2385,Table 3/X.20 bis,STR_COM
+STR_COM2386,Table 4/X.20 bis,STR_COM
+STR_COM2387,ITU-T Recommendation V.31,STR_COM
+STR_COM2388,two conductors,STR_COM
+STR_COM2389,go and return leads,STR_COM
+STR_COM2390,signal source,STR_COM
+STR_COM2391,ground or earth,STR_COM
+STR_COM2392,data circuit-terminating equipment,STR_COM
+STR_COM2393,data terminal equipment,STR_COM
+STR_COM2394,internal resistance of signal source R1, R0,STR_COM
+STR_COM2395,d.c. resistance of the closed contact R1,STR_COM
+STR_COM2396,resistance of the interface cable,STR_COM
+STR_COM2397,capacitance of signal source Cg,STR_COM
+STR_COM2398,interface cable,STR_COM
+STR_COM2399,signal receive side,STR_COM
+STR_COM2400,data-circuit terminating equipment,STR_COM
+STR_COM2401,internal resistance of the signal source,STR_COM
+STR_COM2402,internal resistance of signal receive side Rr,STR_COM
+STR_COM2403,capacitance of signal receive side Cr,STR_COM
+STR_COM2404,capacitance of the cable up to the interface,STR_COM
+STR_COM2405,signal source C g,STR_COM
+STR_COM2406,digital signals,STR_COM
+STR_COM2407,ITU-T Recommendation V.31 bis,STR_COM
+STR_COM2408,electrical characteristics,STR_COM
+STR_COM2409,Table 1/V.31 bis,STR_COM
+STR_COM2410,optocouplers,STR_COM
+STR_COM2411,either leg to ground or to any other interchange circuit,STR_COM
+STR_COM2412,Figure 1/V.31 bis,STR_COM
+STR_COM2413,reverse current of the optocouplers in the OFF condition,STR_COM
+STR_COM2414,signal receive side in the DCE,STR_COM
+STR_COM2415,signal receive side of the DCE,STR_COM
+STR_COM2416,signal receive side in the DTE,STR_COM
+STR_COM2417,ground,STR_COM
+STR_COM2418,interface (see Figure 1/V.31 bis),STR_COM
+STR_COM2419,capacitance of the cable,STR_COM
+STR_COM2420,Recommendation V.32,STR_COM
+STR_COM2421,Radiocommunication Sector,STR_COM
+STR_COM2422,General Switched Telephone Network (GSTN),STR_COM
+STR_COM2423,point-to-point leased telephone-type circuits,STR_COM
+STR_COM2424,2-wire point-to-point leased circuits,STR_COM
+STR_COM2425,Modulation schemes,STR_COM
+STR_COM2426,16 carrier states,STR_COM
+STR_COM2427,trellis coding with 32 carrier states,STR_COM
+STR_COM2428,Table 4,STR_COM
+STR_COM2429,synchronous data,STR_COM
+STR_COM2430,switch (or similar means),STR_COM
+STR_COM2431,Electrical characteristics of interchange circuits,STR_COM
+STR_COM2432,connector and pin assignment plan,STR_COM
+STR_COM2433,ITU-T Recommendation X.21 bis,STR_COM
+STR_COM2434,V-Series DTEs,STR_COM
+STR_COM2435,DTEs with V-Series-type interface,STR_COM
+STR_COM2436,25-pole DTE/DCE interface connector,STR_COM
+STR_COM2437,37-pole DTE/DCE interface connector,STR_COM
+STR_COM2438,ISO 2110,STR_COM
+STR_COM2439,ISO 4902,STR_COM
+STR_COM2440,Recommendation V.35,STR_COM
+STR_COM2441,connector and electrical characteristics,STR_COM
+STR_COM2442,ISO 2593,STR_COM
+STR_COM2443,34-pin interface connector,STR_COM
+STR_COM2444,Recommendation V.36,STR_COM
+STR_COM2445,Table 1/X.21 bis,STR_COM
+STR_COM2446,ITU-T Recommendation X.22,STR_COM
+STR_COM2447,multiplex DCE,STR_COM
+STR_COM2448,DCE side,STR_COM
+STR_COM2449,DTE side,STR_COM
+STR_COM2450,cable termination,STR_COM
+STR_COM2451,load,STR_COM
+STR_COM2452,15-pole DTE/DCE interface connector and contact number assignments,STR_COM
+STR_COM2453,interchange circuits G, T, R, C, I, S and F,STR_COM
+STR_COM2454,subscriber channel,STR_COM
+STR_COM2455,receiver circuit,STR_COM
+STR_COM2456,circuit R,STR_COM
+STR_COM2457,circuit I,STR_COM
+STR_COM2458,each channel,STR_COM
+STR_COM2459,Multiplex structure,STR_COM
+STR_COM2460,multiplexed bit stream,STR_COM
+STR_COM2461,6-bit byte interleaved multiplexed bit stream,STR_COM
+STR_COM2462,subscriber channels,STR_COM
+STR_COM2463,8-bit byte interleaved multiplexed bit stream,STR_COM
+STR_COM2464,ITU-T Recommendation X.24,STR_COM
+STR_COM2465,connector,STR_COM
+STR_COM2466,Figure 1/X.24,STR_COM
+STR_COM2467,Circuit G,STR_COM
+STR_COM2468,Circuit Ga,STR_COM
+STR_COM2469,DTE common return,STR_COM
+STR_COM2470,Circuit Gb,STR_COM
+STR_COM2471,DCE common return,STR_COM
+STR_COM2472,Circuit T,STR_COM
+STR_COM2473,Circuit R,STR_COM
+STR_COM2474,Circuit C,STR_COM
+STR_COM2475,Circuit I,STR_COM
+STR_COM2476,Circuit S,STR_COM
+STR_COM2477,Circuit B,STR_COM
+STR_COM2478,Circuit F,STR_COM
+STR_COM2479,Circuit X,STR_COM
+STR_COM2480,procedural characteristics for call control functions,STR_COM
+STR_COM2481,DTE/DCE interfaces,STR_COM
+STR_COM2482,Plenary,STR_COM
+STR_COM2483,public correspondence,STR_COM
+STR_COM2484,Constitution of the ITU,STR_COM
+STR_COM2485,modulo 8,STR_COM
+STR_COM2486,modulo 32 768,STR_COM
+STR_COM2487,erroneous packet,STR_COM
+STR_COM2488,erroneous DTE packet,STR_COM
+STR_COM2489,diagnostic packet,STR_COM
+STR_COM2490,diagnostic explanation field,STR_COM
+STR_COM2491,bits 8, 7, 6 and 5,STR_COM
+STR_COM2492,first octet,STR_COM
+STR_COM2493,logical channel,STR_COM
+STR_COM2494,bits 4 to 1 of the first octet,STR_COM
+STR_COM2495,bits 8 to 1 of the second octet,STR_COM
+STR_COM2496,bits 4 to 1 of the first octet and bits 8 to 1 of the second octet,STR_COM
+STR_COM2497,virtual call,STR_COM
+STR_COM2498,bits 1 to 4 of the octet containing the GFI,STR_COM
+STR_COM2499,bits 1 to 8 of the following octet unequal to zero,STR_COM
+STR_COM2500,ITU-T Recommendation X.28,STR_COM
+STR_COM2501,Packet Assembly/Disassembly facility (PAD),STR_COM
+STR_COM2502,PAD parameter settings,STR_COM
+STR_COM2503,PAD service signals,STR_COM
+STR_COM2504,Extensions of PAD parameter settings,STR_COM
+STR_COM2505,WTSC Resolution 1,STR_COM
+STR_COM2506,Parameter setting for ITU-T standard profile,STR_COM
+STR_COM2507,Possible PAD service signals text in Chinese for extended dialogue mode,STR_COM
+STR_COM2508,Table 5,STR_COM
+STR_COM2509,Table 6,STR_COM
+STR_COM2510,Table 7,STR_COM
+STR_COM2511,ITU-T X.29,STR_COM
+STR_COM2512,Packet Assembly/Disassembly (PAD) facility,STR_COM
+STR_COM2513,packet mode DTE,STR_COM
+STR_COM2514,another PAD,STR_COM
+STR_COM2515,PAD facility,STR_COM
+STR_COM2516,user classes of service and facilities,STR_COM
+STR_COM2517,PAD,STR_COM
+STR_COM2518,Multi-Aspect PAD (MAP) framework,STR_COM
+STR_COM2519,service definition,STR_COM
+STR_COM2520,start-stop mode DTE,STR_COM
+STR_COM2521,packet-switched transmission service,STR_COM
+STR_COM2522,Multi-Aspect PAD (MAP),STR_COM
+STR_COM2523,ITU-T Recommendation X.3,STR_COM
+STR_COM2524,Packet assembly/disassembly facility (PAD),STR_COM
+STR_COM2525,Start-stop mode DTE,STR_COM
+STR_COM2526,Packet mode DTE,STR_COM
+STR_COM2527,PAD parameters,STR_COM
+STR_COM2528,Recommendation X.29,STR_COM
+STR_COM2529,network control information,STR_COM
+STR_COM2530,user information,STR_COM
+STR_COM2531,packets,STR_COM
+STR_COM2532,user facilities,STR_COM
+STR_COM2533,call progress signals,STR_COM
+STR_COM2534,ITU-T Study Group VII,STR_COM
+STR_COM2535,Integrated Services Digital Network (ISDN),STR_COM
+STR_COM2536,universal interfaces,STR_COM
+STR_COM2537,subscriber terminals,STR_COM
+STR_COM2538,ITU-T Study Group VII (1988-1993),STR_COM
+STR_COM2539,Terminal adaptor (TA),STR_COM
+STR_COM2540,X.21,STR_COM
+STR_COM2541,X.21 bis,STR_COM
+STR_COM2542,X.20 bis,STR_COM
+STR_COM2543,TA X.21,STR_COM
+STR_COM2544,X.21 terminal adaptors,STR_COM
+STR_COM2545,TA X.21 bis,STR_COM
+STR_COM2546,X.21 bis terminal adaptors,STR_COM
+STR_COM2547,TA X.20 bis,STR_COM
+STR_COM2548,X.20 bis terminal adaptors,STR_COM
+STR_COM2549,universal TA,STR_COM
+STR_COM2550,Packet Switched Public Data Network (PSPDN),STR_COM
+STR_COM2551,Circuit Switched Public Data Network (CSPDN),STR_COM
+STR_COM2552,Frame Relay Public Data Network (FRPDN),STR_COM
+STR_COM2553,Public Data Network,STR_COM
+STR_COM2554,Common Channel Signalling Network (CCSN),STR_COM
+STR_COM2555,Public mobile systems,STR_COM
+STR_COM2556,Private networks,STR_COM
+STR_COM2557,OSI-NS,STR_COM
+STR_COM2558,subnetworks,STR_COM
+STR_COM2559,Type I subnetwork,STR_COM
+STR_COM2560,Type II subnetwork,STR_COM
+STR_COM2561,Type III subnetwork,STR_COM
+STR_COM2562,Type IV subnetwork,STR_COM
+STR_COM2563,Reference Model of OSI for ITU-T applications,STR_COM
+STR_COM2564,ISO/IEC 8348/Amd.1,STR_COM
+STR_COM2565,OSI connectionless-mode network service,STR_COM
+STR_COM2566,physical equipment,STR_COM
+STR_COM2567,Recommendation X.302,STR_COM
+STR_COM2568,other Recommendations,STR_COM
+STR_COM2569,international user classes of service,STR_COM
+STR_COM2570,PDNs,STR_COM
+STR_COM2571,Recommendation X.351,STR_COM
+STR_COM2572,Recommendation X.352,STR_COM
+STR_COM2573,Recommendation I.420,STR_COM
+STR_COM2574,Recommendation I.421,STR_COM
+STR_COM2575,Recommendation X.61,STR_COM
+STR_COM2576,Recommendation X.70,STR_COM
+STR_COM2577,reference model of open systems interconnection,STR_COM
+STR_COM2578,connection-mode Network Service (NS),STR_COM
+STR_COM2579,Quality of Service parameters and values,STR_COM
+STR_COM2580,Recommendation X.134,STR_COM
+STR_COM2581,Recommendation X.135,STR_COM
+STR_COM2582,Recommendation X.136,STR_COM
+STR_COM2583,Recommendation X.137,STR_COM
+STR_COM2584,Fascicle VIII.6 of the Blue Book,STR_COM
+STR_COM2585,common channel signalling network (CCSN),STR_COM
+STR_COM2586,Administrations,STR_COM
+STR_COM2587,network identifier (NI),STR_COM
+STR_COM2588,name of the number,STR_COM
+STR_COM2589,DCC,STR_COM
+STR_COM2590,network of a country,STR_COM
+STR_COM2591,international data numbering plan,STR_COM
+STR_COM2592,DNIC,STR_COM
+STR_COM2593,ISDN network identification code (INIC),STR_COM
+STR_COM2594,4-digit,STR_COM
+STR_COM2595,originating network of a call,STR_COM
+STR_COM2596,destination network of a call,STR_COM
+STR_COM2597,transit network(s),STR_COM
+STR_COM2598,call,STR_COM
+STR_COM2599,network utility,STR_COM
+STR_COM2600,ITU-T Recommendation X.305,STR_COM
+STR_COM2601,network service definition,STR_COM
+STR_COM2602,open systems interconnection,STR_COM
+STR_COM2603,real pieces of network equipment,STR_COM
+STR_COM2604,OSI network layer service,STR_COM
+STR_COM2605,QOS-parameter set,STR_COM
+STR_COM2606,NS-user-data,STR_COM
+STR_COM2607,all elements described in §§ 6.1 to 6.3 above,STR_COM
+STR_COM2608,elements described in §§ 6.1 to 6.3 above,STR_COM
+STR_COM2609,a subset of these elements,STR_COM
+STR_COM2610,responding address,STR_COM
+STR_COM2611,network-connection,STR_COM
+STR_COM2612,network layer,STR_COM
+STR_COM2613,type I subnetwork,STR_COM
+STR_COM2614,type II subnetwork,STR_COM
+STR_COM2615,type III subnetwork,STR_COM
+STR_COM2616,Model and Notation X.200-X.209,STR_COM
+STR_COM2617,Service Definitions X.210-X.219,STR_COM
+STR_COM2618,Connection-mode Protocol Specifications X.220-X.229,STR_COM
+STR_COM2619,Connectionless-mode Protocol Specifications X.230-X.239,STR_COM
+STR_COM2620,PICS Proformas X.240-X.259,STR_COM
+STR_COM2621,Protocol Identification X.260-X.269,STR_COM
+STR_COM2622,Security Protocols X.270-X.279,STR_COM
+STR_COM2623,Layer Managed Objects X.280-X.289,STR_COM
+STR_COM2624,Conformance Testing X.290-X.299,STR_COM
+STR_COM2625,Networking X.600-X.649,STR_COM
+STR_COM2626,Naming, Addressing and Registration X.650-X.679,STR_COM
+STR_COM2627,Abstract Syntax Notation One (ASN.1) X.680-X.699,STR_COM
+STR_COM2628,OSI MANAGEMENT X.700-X.799,STR_COM
+STR_COM2629,SECURITY X.800-X.849,STR_COM
+STR_COM2630,Commitment, Concurrency and Recovery X.850-X.859,STR_COM
+STR_COM2631,Transaction Processing X.860-X.879,STR_COM
+STR_COM2632,Remote Operations X.880-X.899,STR_COM
+STR_COM2633,OPEN DISTRIBUTED PROCESSING X.900-X.999,STR_COM
+STR_COM2634,Public Switched Network (PSN),STR_COM
+STR_COM2635,packet mode user classes of service DTEs,STR_COM
+STR_COM2636,Recommendation X.320,STR_COM
+STR_COM2637,Specific interworking arrangements,STR_COM
+STR_COM2638,facilities related to specific routing conditions,STR_COM
+STR_COM2639,protection mechanisms,STR_COM
+STR_COM2640,user data,STR_COM
+STR_COM2641,normal data flow,STR_COM
+STR_COM2642,packet switched bearer,STR_COM
+STR_COM2643,circuit switched bearer,STR_COM
+STR_COM2644,Recommendation X.321,STR_COM
+STR_COM2645,CSPDN,STR_COM
+STR_COM2646,I.230-Series Recommendations,STR_COM
+STR_COM2647,I.250-Series Recommendations,STR_COM
+STR_COM2648,Mobile Satellite System (MSS),STR_COM
+STR_COM2649,Closed User Group (CUG),STR_COM
+STR_COM2650,Closed User Group with Outgoing Access (CUG/OA),STR_COM
+STR_COM2651,Interworking Function (IWF),STR_COM
+STR_COM2652,Signalling System No. 7 (SS No. 7),STR_COM
+STR_COM2653,Terminal Equipment (TE),STR_COM
+STR_COM2654,Transit Network Identification Code (TNIC),STR_COM
+STR_COM2655,Clearing Network Identification Code (CNIC),STR_COM
+STR_COM2656,Recommendation X.305,STR_COM
+STR_COM2657,Recommendation X.10,STR_COM
+STR_COM2658,public data transmission services,STR_COM
+STR_COM2659,Recommendation X.76,STR_COM
+STR_COM2660,Recommendation E.166/X.122,STR_COM
+STR_COM2661,Recommendation I.500,STR_COM
+STR_COM2662,General structure of the ISDN interworking Recommendations,STR_COM
+STR_COM2663,PACKET SWITCHED PUBLIC DATA NETWORKS (PSPDNs),STR_COM
+STR_COM2664,CIRCUIT SWITCHED PUBLIC DATA NETWORKS (CSPDNs),STR_COM
+STR_COM2665,general arrangements for internal network utilities within a subnetwork and between subnetworks,STR_COM
+STR_COM2666,OSI network service,STR_COM
+STR_COM2667,OSI connection-mode network service,STR_COM
+STR_COM2668,network-independent basic transport service,STR_COM
+STR_COM2669,PSPDN,STR_COM
+STR_COM2670,categories of access C and D,STR_COM
+STR_COM2671,MSS,STR_COM
+STR_COM2672,PSTN (X.10 category L, P),STR_COM
+STR_COM2673,CSPDN (X.10 category K, O and this Recommendation),STR_COM
+STR_COM2674,PSPDN (Recommendation X.75),STR_COM
+STR_COM2675,ISDN (Recommendation X.325),STR_COM
+STR_COM2676,X.10 category of access D,STR_COM
+STR_COM2677,mobile systems,STR_COM
+STR_COM2678,private networks,STR_COM
+STR_COM2679,parameters,STR_COM
+STR_COM2680,X.21 subscriber interface,STR_COM
+STR_COM2681,PBX type (circuit switched) of networks,STR_COM
+STR_COM2682,LANs,STR_COM
+STR_COM2683,ITU-T Recommendation X.323,STR_COM
+STR_COM2684,internal network utilities,STR_COM
+STR_COM2685,packet switching signalling system,STR_COM
+STR_COM2686,CNIC,STR_COM
+STR_COM2687,Closed User Group,STR_COM
+STR_COM2688,CUG/OA,STR_COM
+STR_COM2689,CUG with outgoing access,STR_COM
+STR_COM2690,TNIC,STR_COM
+STR_COM2691,ITU-T Recommendation X.324,STR_COM
+STR_COM2692,Fascicle VIII.6,STR_COM
+STR_COM2693,Q.1000 series of Recommendations,STR_COM
+STR_COM2694,International Maritime Satellite Organization (INMARSAT),STR_COM
+STR_COM2695,Standard-A,STR_COM
+STR_COM2696,maritime satellite system,STR_COM
+STR_COM2697,Standard-B,STR_COM
+STR_COM2698,Standard-C,STR_COM
+STR_COM2699,Aeronautical,STR_COM
+STR_COM2700,PSPDNs,STR_COM
+STR_COM2701,interworking arrangements,STR_COM
+STR_COM2702,Network utilities,STR_COM
+STR_COM2703,TE,STR_COM
+STR_COM2704,DTEs/TEs,STR_COM
+STR_COM2705,FRPDN,STR_COM
+STR_COM2706,SS No. 7,STR_COM
+STR_COM2707,ITU-T Recommendation V.2,STR_COM
+STR_COM2708,devices such as signalling receivers or echo suppressors,STR_COM
+STR_COM2709,multichannel carrier systems,STR_COM
+STR_COM2710,data circuits,STR_COM
+STR_COM2711,transmission systems,STR_COM
+STR_COM2712,multichannel system,STR_COM
+STR_COM2713,nonspeech applications (including data),STR_COM
+STR_COM2714,subscriber' s line terminals,STR_COM
+STR_COM2715,local exchanges,STR_COM
+STR_COM2716,data modulators,STR_COM
+STR_COM2717,international circuit,STR_COM
+STR_COM2718,national transmission plan,STR_COM
+STR_COM2719,leased telephone circuits,STR_COM
+STR_COM2720,private wires,STR_COM
+STR_COM2721,carrier systems,STR_COM
+STR_COM2722,subscriber' s equipment,STR_COM
+STR_COM2723,frequency-modulation systems,STR_COM
+STR_COM2724,systems transmitting tones continuously,STR_COM
+STR_COM2725,300 BITS PER SECOND DUPLEX MODEM,STR_COM
+STR_COM2726,300 BITS PER SECOND DUPLEX MODEM STANDARDIZED,STR_COM
+STR_COM2727,current types of data sources and sinks,STR_COM
+STR_COM2728,electromechanical devices,STR_COM
+STR_COM2729,Duplex circuit,STR_COM
+STR_COM2730,Binary modulation,STR_COM
+STR_COM2731,Channel No. 1,STR_COM
+STR_COM2732,Channel No. 2,STR_COM
+STR_COM2733,Frequency deviation,STR_COM
+STR_COM2734,Characteristic frequencies,STR_COM
+STR_COM2735,modulator output,STR_COM
+STR_COM2736,Demodulation equipment,STR_COM
+STR_COM2737,frequencies received,STR_COM
+STR_COM2738,the modem,STR_COM
+STR_COM2739,ITU-T Recommendation V.22,STR_COM
+STR_COM2740,General Switched Telephone Networks (GSTNs),STR_COM
+STR_COM2741,point-to-point circuits,STR_COM
+STR_COM2742,2-wire GSTN,STR_COM
+STR_COM2743,point-to-point leased circuits,STR_COM
+STR_COM2744,frequency division,STR_COM
+STR_COM2745,scrambler,STR_COM
+STR_COM2746,Alternative A,STR_COM
+STR_COM2747,Alternative B,STR_COM
+STR_COM2748,Alternative C,STR_COM
+STR_COM2749,asynchronous mode,STR_COM
+STR_COM2750,carrier frequencies,STR_COM
+STR_COM2751,guard tone,STR_COM
+STR_COM2752,groups of 2 consecutive bits (dibits),STR_COM
+STR_COM2753,phase of the preceding signal element,STR_COM
+STR_COM2754,ITU-T Recommendation X.326,STR_COM
+STR_COM2755,detailed procedures,STR_COM
+STR_COM2756,signalling connection control part (SCCP),STR_COM
+STR_COM2757,CCSN,STR_COM
+STR_COM2758,Common channel signalling network,STR_COM
+STR_COM2759,Public data network,STR_COM
+STR_COM2760,Packet switched public data network,STR_COM
+STR_COM2761,Open systems interconnection,STR_COM
+STR_COM2762,OA&M,STR_COM
+STR_COM2763,SCCP,STR_COM
+STR_COM2764,Signalling connection control part,STR_COM
+STR_COM2765,NC,STR_COM
+STR_COM2766,Network connection,STR_COM
+STR_COM2767,NS,STR_COM
+STR_COM2768,NL,STR_COM
+STR_COM2769,Network layer,STR_COM
+STR_COM2770,Interworking function (IWF),STR_COM
+STR_COM2771,OSI Network-connection,STR_COM
+STR_COM2772,(OSI) Network layer,STR_COM
+STR_COM2773,OSI) Network layer service,STR_COM
+STR_COM2774,(SCCP) Message,STR_COM
+STR_COM2775,Recommendation X.327,STR_COM
+STR_COM2776,Private Data Network,STR_COM
+STR_COM2777,network service for Open Systems Interconnection,STR_COM
+STR_COM2778,Type I subnetworks,STR_COM
+STR_COM2779,CLEAR REQUEST packet,STR_COM
+STR_COM2780,INCOMING CALL packet,STR_COM
+STR_COM2781,CALL CONNECTED packet,STR_COM
+STR_COM2782,Frame Relay Data Transmission Services (FRDTS),STR_COM
+STR_COM2783,category of access E,STR_COM
+STR_COM2784,Frame Relaying,STR_COM
+STR_COM2785,Circuit Switched Data Transmission Services/Bearer Services,STR_COM
+STR_COM2786,Packet Switched,STR_COM
+STR_COM2787,ITU-T Recommendation X.329,STR_COM
+STR_COM2788,B-ISDN,STR_COM
+STR_COM2789,Frame Relay Data Transmission Services,STR_COM
+STR_COM2790,reference configurations,STR_COM
+STR_COM2791,protocol stacks,STR_COM
+STR_COM2792,other general arrangements,STR_COM
+STR_COM2793,B-ISDN SVC,STR_COM
+STR_COM2794,AAL type 5,STR_COM
+STR_COM2795,SAR and CPCS,STR_COM
+STR_COM2796,FR-SSCS,STR_COM
+STR_COM2797,ATM layer,STR_COM
+STR_COM2798,AAL,STR_COM
+STR_COM2799,SAR,STR_COM
+STR_COM2800,CPCS,STR_COM
+STR_COM2801,Frame Relay Switched Virtual Circuit,STR_COM
+STR_COM2802,Permanent Virtual Circuit,STR_COM
+STR_COM2803,Circuit Switched,STR_COM
+STR_COM2804,Access Unit (AU),STR_COM
+STR_COM2805,Backward Explicit Congestion Notification,STR_COM
+STR_COM2806,Data Link Connection (DLC),STR_COM
+STR_COM2807,Data Link Connection Identifier (DLCI),STR_COM
+STR_COM2808,Data Network Identification Code (DNIC),STR_COM
+STR_COM2809,Extension Address (EA),STR_COM
+STR_COM2810,Exchange Termination (ET),STR_COM
+STR_COM2811,Forward Explicit Congestion Notification,STR_COM
+STR_COM2812,Frame Handler (FH),STR_COM
+STR_COM2813,Frame Relay,STR_COM
+STR_COM2814,International Electrotechnical Commission (IEC),STR_COM
+STR_COM2815,ITU-T X.34,STR_COM
+STR_COM2816,collaborative basis,STR_COM
+STR_COM2817,ITU-T I.362,STR_COM
+STR_COM2818,Study Group 13,STR_COM
+STR_COM2819,ITU-T I.363.5,STR_COM
+STR_COM2820,B-ISDN ATM adaptation layer AAL specification Type 5 AAL,STR_COM
+STR_COM2821,ITU-T Q.2610,STR_COM
+STR_COM2822,6.4.5/Q.2931,STR_COM
+STR_COM2823,CCITT V.32 bis,STR_COM
+STR_COM2824,duplex modem,STR_COM
+STR_COM2825,The modem,STR_COM
+STR_COM2826,The transmitted power level,STR_COM
+STR_COM2827,systematic convolutional encoder,STR_COM
+STR_COM2828,redundant bit Y0n,STR_COM
+STR_COM2829,signal space diagram,STR_COM
+STR_COM2830,specific circuits,STR_COM
+STR_COM2831,generating polynomial,STR_COM
+STR_COM2832,ITU-T Recommendation V.33,STR_COM
+STR_COM2833,14 400 BITS PER SECOND MODEM,STR_COM
+STR_COM2834,duplex mode,STR_COM
+STR_COM2835,continuous carrier,STR_COM
+STR_COM2836,combined amplitude and phase modulation with synchronous mode of operation,STR_COM
+STR_COM2837,amplitude and phase modulation,STR_COM
+STR_COM2838,eight state trellis coded modulation,STR_COM
+STR_COM2839,multiplexer for combining data rates of 12 000, 9600, 7200, 4800 and 2400 bits per second,STR_COM
+STR_COM2840,groups of six consecutive data bits,STR_COM
+STR_COM2841,differentially encoded bits Yln and Y2n,STR_COM
+STR_COM2842,redundant bit,STR_COM
+STR_COM2843,six information-carrying bits Yln, Y2n, Q3n, Q4n, Q5n, and Q6n,STR_COM
+STR_COM2844,coordinates of the signal element,STR_COM
+STR_COM2845,connections,STR_COM
+STR_COM2846,Standards,STR_COM
+STR_COM2847,primary channel,STR_COM
+STR_COM2848,signal constellations,STR_COM
+STR_COM2849,mapping parameters,STR_COM
+STR_COM2850,Signal constellations,STR_COM
+STR_COM2851,Glossary,STR_COM
+STR_COM2852,international telex network,STR_COM
+STR_COM2853,categories of access,STR_COM
+STR_COM2854,integrated service digital network (ISDNs),STR_COM
+STR_COM2855,packet assembly/disassembly (PAD) facility,STR_COM
+STR_COM2856,packet switched signalling system,STR_COM
+STR_COM2857,international telex service,STR_COM
+STR_COM2858,other services,STR_COM
+STR_COM2859,terminals on the international telex network,STR_COM
+STR_COM2860,Access unit (AU),STR_COM
+STR_COM2861,Data terminal equipment (DTE),STR_COM
+STR_COM2862,International Telegraph Alphabet No. 2 (ITA2),STR_COM
+STR_COM2863,Maritime satellite service (MSS),STR_COM
+STR_COM2864,Open systems interconnection (OSI),STR_COM
+STR_COM2865,Telex-Packet interworking function (TPIWF),STR_COM
+STR_COM2866,Recommendation X.35,STR_COM
+STR_COM2867,general procedure and interface,STR_COM
+STR_COM2868,Private PSDN,STR_COM
+STR_COM2869,general procedure,STR_COM
+STR_COM2870,Virtual Private Networks (VPNs),STR_COM
+STR_COM2871,PSPDNs resources,STR_COM
+STR_COM2872,Packet Switched Signalling System,STR_COM
+STR_COM2873,PSPDN address space,STR_COM
+STR_COM2874,Interworking Unit (IWU),STR_COM
+STR_COM2875,PSPvtDN DTEs,STR_COM
+STR_COM2876,Network User Identification (NUI),STR_COM
+STR_COM2877,Packet Switched Data Network (PSDN),STR_COM
+STR_COM2878,Packet Switched Private Data Network (PSPvtDN),STR_COM
+STR_COM2879,Recognized Operating Agency (ROA),STR_COM
+STR_COM2880,Type of Address/Numbering Plan Identifier (TOA/NPI),STR_COM
+STR_COM2881,ISO/IEC 8208:1993,STR_COM
+STR_COM2882,X.25 packet layer protocol for data terminal equipment,STR_COM
+STR_COM2883,Fascicle I.3,STR_COM
+STR_COM2884,terms and definitions,STR_COM
+STR_COM2885,Virtual calls (VCs),STR_COM
+STR_COM2886,permanent virtual circuits (PVCs),STR_COM
+STR_COM2887,Permanent virtual circuits (PVCs),STR_COM
+STR_COM2888,Topology A,STR_COM
+STR_COM2889,X.25 link,STR_COM
+STR_COM2890,Topology B,STR_COM
+STR_COM2891,X.25 links,STR_COM
+STR_COM2892,Topology C,STR_COM
+STR_COM2893,Topology D,STR_COM
+STR_COM2894,Topology E,STR_COM
+STR_COM2895,Topology F,STR_COM
+STR_COM2896,ITU-T X.350,STR_COM
+STR_COM2897,the procedure laid down,STR_COM
+STR_COM2898,Open System Interconnection,STR_COM
+STR_COM2899,Message Handling Systems,STR_COM
+STR_COM2900,Directory,STR_COM
+STR_COM2901,OSI Networking and System Aspects,STR_COM
+STR_COM2902,OSI Management,STR_COM
+STR_COM2903,Security,STR_COM
+STR_COM2904,OSI Applications,STR_COM
+STR_COM2905,Open Distributed Processing,STR_COM
+STR_COM2906,Mobile Satellite Data Switching Exchange,STR_COM
+STR_COM2907,public maritime satellite data transmission system,STR_COM
+STR_COM2908,Network Coordination Station,STR_COM
+STR_COM2909,public mobile satellite system,STR_COM
+STR_COM2910,maritime satellite circuits,STR_COM
+STR_COM2911,satellite coverage area,STR_COM
+STR_COM2912,ITU-T Recommendation X.351,STR_COM
+STR_COM2913,Recommendation X.350,STR_COM
+STR_COM2914,start-stop mode DTEs,STR_COM
+STR_COM2915,maritime PAD,STR_COM
+STR_COM2916,coast earth station,STR_COM
+STR_COM2917,mobile satellite data switching exchanges (MSDSEs),STR_COM
+STR_COM2918,packet switched public data networks,STR_COM
+STR_COM2919,coast earth stations,STR_COM
+STR_COM2920,on-board DTE,STR_COM
+STR_COM2921,ITU-T Recommendation X.352,STR_COM
+STR_COM2922,Maritime Satellite,STR_COM
+STR_COM2923,Public Mobile Satellite Systems,STR_COM
+STR_COM2924,Recommendation X.353,STR_COM
+STR_COM2925,data terminals,STR_COM
+STR_COM2926,Recommendation X.141,STR_COM
+STR_COM2927,mobile satellite data switching exchange (MSDSE),STR_COM
+STR_COM2928,public mobile satellite data transmission system,STR_COM
+STR_COM2929,Packet Switched Data Access Unit (PSDAU),STR_COM
+STR_COM2930,mobile DTE,STR_COM
+STR_COM2931,terrestrial packet switched public data network,STR_COM
+STR_COM2932,mobile earth station,STR_COM
+STR_COM2933,Layer 1 (physical layer),STR_COM
+STR_COM2934,Recommendation X.21 bis,STR_COM
+STR_COM2935,Recommendation E.215/F.125,STR_COM
+STR_COM2936,calling mobile earth station,STR_COM
+STR_COM2937,calling DTE address field,STR_COM
+STR_COM2938,call request packet,STR_COM
+STR_COM2939,called DTE,STR_COM
+STR_COM2940,Public Maritime Mobile Satellite Service,STR_COM
+STR_COM2941,various elements,STR_COM
+STR_COM2942,international data switching exchange (IDSE),STR_COM
+STR_COM2943,public data networks (PDN),STR_COM
+STR_COM2944,INMARSAT Standard A, B and C,STR_COM
+STR_COM2945,Public Maritime Mobile Satellite System,STR_COM
+STR_COM2946,public maritime mobile earth station,STR_COM
+STR_COM2947,MSDSE,STR_COM
+STR_COM2948,IDSE,STR_COM
+STR_COM2949,satellite link,STR_COM
+STR_COM2950,permanent virtual circuits,STR_COM
+STR_COM2951,switched virtual circuits,STR_COM
+STR_COM2952,frame relay link layer protocol,STR_COM
+STR_COM2953,service classes,STR_COM
+STR_COM2954,closed user group,STR_COM
+STR_COM2955,multiprotocol encapsulation,STR_COM
+STR_COM2956,ITU-T Rec. Q.933,STR_COM
+STR_COM2957,clause 11 on PVC management procedures,STR_COM
+STR_COM2958,intellectual property,STR_COM
+STR_COM2959,patents,STR_COM
+STR_COM2960,ITU-T X.21 interface,STR_COM
+STR_COM2961,X.21 bis interface,STR_COM
+STR_COM2962,V-series interfaces,STR_COM
+STR_COM2963,G-series interfaces,STR_COM
+STR_COM2964,I-series interfaces,STR_COM
+STR_COM2965,optical network elements,STR_COM
+STR_COM2966,optical network elements (ONEs),STR_COM
+STR_COM2967,photonic cross-connects (PXCs),STR_COM
+STR_COM2968,optical add-drop multiplexers (OADMs),STR_COM
+STR_COM2969,list of parameters,STR_COM
+STR_COM2970,physical impairments,STR_COM
+STR_COM2971,line segments,STR_COM
+STR_COM2972,optical path,STR_COM
+STR_COM2973,electrical regenerators,STR_COM
+STR_COM2974,optical transport networks (OTN),STR_COM
+STR_COM2975,optical paths,STR_COM
+STR_COM2976,optical transmission system,STR_COM
+STR_COM2977,3R electrical regenerators,STR_COM
+STR_COM2978,all-optical network,STR_COM
+STR_COM2979,single-channel long-haul STM-4, STM-16 and STM-64 systems,STR_COM
+STR_COM2980,optical preamplifiers and/or optical booster amplifiers,STR_COM
+STR_COM2981,STM-64,STR_COM
+STR_COM2982,SDH systems,STR_COM
+STR_COM2983,Optical interfaces,STR_COM
+STR_COM2984,optical preamplifiers,STR_COM
+STR_COM2985,optical booster amplifiers,STR_COM
+STR_COM2986,ITU-T G.692,STR_COM
+STR_COM2987,multichannel optical line system interfaces,STR_COM
+STR_COM2988,fibres,STR_COM
+STR_COM2989,Recommendations G.652, G.653 and G.655,STR_COM
+STR_COM2990,frequency grid,STR_COM
+STR_COM2991,interchannel spacings,STR_COM
+STR_COM2992,individual transmitter outputs,STR_COM
+STR_COM2993,point MPI-S,STR_COM
+STR_COM2994,point S',STR_COM
+STR_COM2995,optical line amplifier parameters,STR_COM
+STR_COM2996,single channel intra-office systems,STR_COM
+STR_COM2997,Synchronous Digital Hierarchy (SDH),STR_COM
+STR_COM2998,Optical Transport Network (OTN),STR_COM
+STR_COM2999,optical fiber links,STR_COM
+STR_COM3000,ITU-T G.694.1,STR_COM
+STR_COM3001,DWDM frequency grid,STR_COM
+STR_COM3002,integer multiples of 100 GHz,STR_COM
+STR_COM3003,flexible grid,STR_COM
+STR_COM3004,193.1 THz,STR_COM
+STR_COM3005,frequency slot,STR_COM
+STR_COM3006,flexible DWDM grid,STR_COM
+STR_COM3007,slot width,STR_COM
+STR_COM3008,CWDM devices,STR_COM
+STR_COM3009,DWDM devices,STR_COM
+STR_COM3010,reference set of frequencies,STR_COM
+STR_COM3011,coarse WDM (CWDM),STR_COM
+STR_COM3012,12.5 GHz,STR_COM
+STR_COM3013,VSAT system,STR_COM
+STR_COM3014,Private Data Network (PvtDN),STR_COM
+STR_COM3015,VSAT network,STR_COM
+STR_COM3016,HUB station,STR_COM
+STR_COM3017,star network,STR_COM
+STR_COM3018,remote VSATs,STR_COM
+STR_COM3019,X.25 DTE,STR_COM
+STR_COM3020,Permanent Virtual Circuit (PVC),STR_COM
+STR_COM3021,Switched Virtual Circuit (SVC),STR_COM
+STR_COM3022,Recommendation X.37,STR_COM
+STR_COM3023,encapsulation function,STR_COM
+STR_COM3024,Packet Switched Public Data Network,STR_COM
+STR_COM3025,local interface,STR_COM
+STR_COM3026,Protocol Data Units,STR_COM
+STR_COM3027,user equipment,STR_COM
+STR_COM3028,Packet Switched Data Transmission Service,STR_COM
+STR_COM3029,ISO/IEC TR 9577,STR_COM
+STR_COM3030,dedicated circuits,STR_COM
+STR_COM3031,ITU-T Recommendation X.29,STR_COM
+STR_COM3032,CCITT Recommendation X.39,STR_COM
+STR_COM3033,Facsimile Packet Assembly/Disassembly (FPAD) facility,STR_COM
+STR_COM3034,packet mode Data Terminal Equipment (DTE),STR_COM
+STR_COM3035,another FPAD,STR_COM
+STR_COM3036,ITU-T Recommendation X.224,STR_COM
+STR_COM3037,ISO/IEC 8073:1992,STR_COM
+STR_COM3038,ITU-T Recommendation X.622,STR_COM
+STR_COM3039,second edition,STR_COM
+STR_COM3040,encapsulation format,STR_COM
+STR_COM3041,X.25 virtual call,STR_COM
+STR_COM3042,Frame Relay permanent virtual circuit,STR_COM
+STR_COM3043,switched virtual call,STR_COM
+STR_COM3044,IP datagrams,STR_COM
+STR_COM3045,ITU-T X.371/Y.1402,STR_COM
+STR_COM3046,the Internet,STR_COM
+STR_COM3047,Internet,STR_COM
+STR_COM3048,InterWorking Function (IWF),STR_COM
+STR_COM3049,Adapter,STR_COM
+STR_COM3050,Address Resolution Entity (ARE),STR_COM
+STR_COM3051,IP-TE,STR_COM
+STR_COM3052,ITU-T X.25,STR_COM
+STR_COM3053,VC,STR_COM
+STR_COM3054,ITU-T X.115,STR_COM
+STR_COM3055,ITU-T X.116,STR_COM
+STR_COM3056,G3 facsimile equipment (G3FE),STR_COM
+STR_COM3057,necessary ancillary control device,STR_COM
+STR_COM3058,FPAD,STR_COM
+STR_COM3059,G3 facsimile equipment,STR_COM
+STR_COM3060,Access Information Path (AIP),STR_COM
+STR_COM3061,user classes of service and user facilities,STR_COM
+STR_COM3062,logical control links,STR_COM
+STR_COM3063,G3 facsimile or associated equipments,STR_COM
+STR_COM3064,network control information and user information,STR_COM
+STR_COM3065,dual-tone multi-frequency codes,STR_COM
+STR_COM3066,data fields,STR_COM
+STR_COM3067,address field,STR_COM
+STR_COM3068,call user data field,STR_COM
+STR_COM3069,protocol identifier field,STR_COM
+STR_COM3070,call data field,STR_COM
+STR_COM3071,bits 2 and 1 of octet 3 of the protocol identifier field,STR_COM
+STR_COM3072,user sequences,STR_COM
+STR_COM3073,facsimile image data,STR_COM
+STR_COM3074,FPAD messages,STR_COM
+STR_COM3075,FPAD control information,STR_COM
+STR_COM3076,signals, commands and responses as defined in Recommendation T.30,STR_COM
+STR_COM3077,ancillary signals, commands and responses,STR_COM
+STR_COM3078,Recommendation T.30,STR_COM
+STR_COM3079,signals, commands and responses,STR_COM
+STR_COM3080,data packets,STR_COM
+STR_COM3081,user data fields,STR_COM
+STR_COM3082,complete packet sequences,STR_COM
+STR_COM3083,GENERAL STRUCTURE OF SIGNALS,STR_COM
+STR_COM3084,International Organization for Standardization (ISO),STR_COM
+STR_COM3085,seven-unit alphabet,STR_COM
+STR_COM3086,five-unit,STR_COM
+STR_COM3087,parity unit,STR_COM
+STR_COM3088,start-stop systems,STR_COM
+STR_COM3089,electromechanical equipment,STR_COM
+STR_COM3090,stop element,STR_COM
+STR_COM3091,Recommendations X.1 and S.31,STR_COM
+STR_COM3092,stop element lasting at least two units,STR_COM
+STR_COM3093,public anisochronous data networks,STR_COM
+STR_COM3094,two-unit stop element,STR_COM
+STR_COM3095,start-stop receivers,STR_COM
+STR_COM3096,start-stop signals,STR_COM
+STR_COM3097,receivers,STR_COM
+STR_COM3098,parity unit of the signal,STR_COM
+STR_COM3099,links or connections,STR_COM
+STR_COM3100,synchronous equipment,STR_COM
+STR_COM3101,characters on perforated tape,STR_COM
+STR_COM3102,character out-of-parity,STR_COM
+STR_COM3103,reverse question mark graphic character,STR_COM
+STR_COM3104,single character position on a screen or printer,STR_COM
+STR_COM3105,capital letter SB,STR_COM
+STR_COM3106,ISO 2047,STR_COM
+STR_COM3107,SUB character,STR_COM
+STR_COM3108,tape,STR_COM
+STR_COM3109,other storage medium,STR_COM
+STR_COM3110,storage medium,STR_COM
+STR_COM3111,paper tape,STR_COM
+STR_COM3112,ITU-T X.42,STR_COM
+STR_COM3113,generalized polling protocol,STR_COM
+STR_COM3114,Point to Multipoint (PMP) network,STR_COM
+STR_COM3115,Longitudinal Redundancy Check (LRC),STR_COM
+STR_COM3116,Diagonal Redundancy Check (DRC),STR_COM
+STR_COM3117,Recommendation X.45,STR_COM
+STR_COM3118,INTERFACE BETWEEN,STR_COM
+STR_COM3119,Interfaces,STR_COM
+STR_COM3120,Packet Mode,STR_COM
+STR_COM3121,HDLC layer 2.a,STR_COM
+STR_COM3122,underlying layers,STR_COM
+STR_COM3123,ATM-VPs and VCs,STR_COM
+STR_COM3124,CPCS of AAL 5,STR_COM
+STR_COM3125,X.45 DTEs,STR_COM
+STR_COM3126,each virtual circuit,STR_COM
+STR_COM3127,each DTE/DCE interface,STR_COM
+STR_COM3128,Virtual circuit,STR_COM
+STR_COM3129,unassured virtual circuit option,STR_COM
+STR_COM3130,virtual circuits,STR_COM
+STR_COM3131,virtual circuit,STR_COM
+STR_COM3132,ITU-T X.46,STR_COM
+STR_COM3133,FRDTS,STR_COM
+STR_COM3134,Frame Relay Data Transmission Service (FRDTS),STR_COM
+STR_COM3135,Network interworking scenario,STR_COM
+STR_COM3136,port access method of interworking,STR_COM
+STR_COM3137,ITU-T Recommendation I.211,STR_COM
+STR_COM3138,ITU-T Recommendation I.356,STR_COM
+STR_COM3139,ITU-T Recommendation I.361,STR_COM
+STR_COM3140,B-ISDN ATM layer specification,STR_COM
+STR_COM3141,ITU-T Recommendation I.362,STR_COM
+STR_COM3142,B-ISDN ATM adaptation layer (AAL) functional description,STR_COM
+STR_COM3143,ITU-T Recommendations I.363.X. series,STR_COM
+STR_COM3144,B-ISDN ATM adaptation layer specification,STR_COM
+STR_COM3145,ITU-T Recommendation I.365.1,STR_COM
+STR_COM3146,B-ISDN ATM adaptation layer sublayers: Frame Relaying Service Specific Convergence Sublayer (FR-SSCS),STR_COM
+STR_COM3147,ITU-T Recommendation I.413,STR_COM
+STR_COM3148,B-ISDN user-network interface,STR_COM
+STR_COM3149,ITU-T Recommendation I.430,STR_COM
+STR_COM3150,Basic user-network interface – Layer 1 specification,STR_COM
+STR_COM3151,ITU-T Recommendations I.431,STR_COM
+STR_COM3152,Primary rate user-network interface – Layer 1 specification,STR_COM
+STR_COM3153,ITU-T Recommendations I.432.X series,STR_COM
+STR_COM3154,B-ISDN user-network interface – Physical layer specification,STR_COM
+STR_COM3155,ITU-T Recommendation I.580,STR_COM
+STR_COM3156,ITU-T Recommendation Q.933,STR_COM
+STR_COM3157,ITU-T Recommendation Q.2110,STR_COM
+STR_COM3158,B-ISDN ATM adaptation layer,STR_COM
+STR_COM3159,ITU-T Recommendation Q.2130,STR_COM
+STR_COM3160,B-ISDN signalling ATM adaptation layer,STR_COM
+STR_COM3161,ITU-T Recommendation Q.2761,STR_COM
+STR_COM3162,B-ISDN user part (B-ISUP),STR_COM
+STR_COM3163,Signalling System No.7,STR_COM
+STR_COM3164,ITU-T Recommendation Q.2931,STR_COM
+STR_COM3165,Digital Subscriber Signalling System No. 2,STR_COM
+STR_COM3166,Recommendation X.48,STR_COM
+STR_COM3167,additional protocol elements,STR_COM
+STR_COM3168,other elements of procedures,STR_COM
+STR_COM3169,Packet Layer Protocol (PLP),STR_COM
+STR_COM3170,Multicast group,STR_COM
+STR_COM3171,Multicast call,STR_COM
+STR_COM3172,Active group,STR_COM
+STR_COM3173,Call initiator,STR_COM
+STR_COM3174,One-way mode of communication,STR_COM
+STR_COM3175,Two-way mode of communication,STR_COM
+STR_COM3176,N-way mode of communication,STR_COM
+STR_COM3177,Multicast server,STR_COM
+STR_COM3178,Participant,STR_COM
+STR_COM3179,Capability,STR_COM
+STR_COM3180,Ordering,STR_COM
+STR_COM3181,multicast service,STR_COM
+STR_COM3182,Service Data Unit (SDU),STR_COM
+STR_COM3183,basic multicast service,STR_COM
+STR_COM3184,X.25 PLP,STR_COM
+STR_COM3185,extended multicast service,STR_COM
+STR_COM3186,Packet multicast service,STR_COM
+STR_COM3187,protocol elements,STR_COM
+STR_COM3188,elements of procedures,STR_COM
+STR_COM3189,multicast service capabilities,STR_COM
+STR_COM3190,active group integrity (AGI),STR_COM
+STR_COM3191,Set of conditions concerning the active group which must be true in order for the participants in a multicast call to transfer data,STR_COM
+STR_COM3192,quorum,STR_COM
+STR_COM3193,PDUs,STR_COM
+STR_COM3194,dialogue control,STR_COM
+STR_COM3195,Recommendation X.49,STR_COM
+STR_COM3196,X.25 Packet Layer Protocol (PLP),STR_COM
+STR_COM3197,connection-oriented,STR_COM
+STR_COM3198,Recommendation X.6,STR_COM
+STR_COM3199,Protocol Data Unit (PDU),STR_COM
+STR_COM3200,DTE/DCE Interface,STR_COM
+STR_COM3201,public telephone network,STR_COM
+STR_COM3202,Recommendation X.39,STR_COM
+STR_COM3203,facsimile equipment,STR_COM
+STR_COM3204,Recommendation Q.23,STR_COM
+STR_COM3205,Recommendation T.4,STR_COM
+STR_COM3206,FPAD parameters,STR_COM
+STR_COM3207,ITU-T V.22 bis,STR_COM
+STR_COM3208,telecommunications standard,STR_COM
+STR_COM3209,frequency division technique,STR_COM
+STR_COM3210,Carrier Frequencies,STR_COM
+STR_COM3211,low and high channels,STR_COM
+STR_COM3212,Tone,STR_COM
+STR_COM3213,Equalizer,STR_COM
+STR_COM3214,modem transmitter,STR_COM
+STR_COM3215,Spectrum and Group Delay Characteristics,STR_COM
+STR_COM3216,transmitted line signals,STR_COM
+STR_COM3217,frequency amplitude spectrum,STR_COM
+STR_COM3218,group delay,STR_COM
+STR_COM3219,data bits,STR_COM
+STR_COM3220,frequency offsets,STR_COM
+STR_COM3221,Interchange Circuits,STR_COM
+STR_COM3222,Electrical Characteristics of Interchange Circuits,STR_COM
+STR_COM3223,electrical properties,STR_COM
+STR_COM3224,Different configurations,STR_COM
+STR_COM3225,ITU-T Recommendation V.23,STR_COM
+STR_COM3226,600/1200-BAUD MODEM,STR_COM
+STR_COM3227,carrier circuits,STR_COM
+STR_COM3228,switched network,STR_COM
+STR_COM3229,leased circuit,STR_COM
+STR_COM3230,received line signal,STR_COM
+STR_COM3231,receive line terminals,STR_COM
+STR_COM3232,2-wire line,STR_COM
+STR_COM3233,fault condition of interchange circuits,STR_COM
+STR_COM3234,electrical characteristics of interchange circuits,STR_COM
+STR_COM3235,connector pin assignment plan,STR_COM
+STR_COM3236,ITU-T Recommendation V.230,STR_COM
+STR_COM3237,General Data Communications Interface (GDCI),STR_COM
+STR_COM3238,ISDN basic user-network interface,STR_COM
+STR_COM3239,BV and DV channels,STR_COM
+STR_COM3240,Layer 1,STR_COM
+STR_COM3241,appropriately encoded bit streams,STR_COM
+STR_COM3242,layer 1,STR_COM
+STR_COM3243,layer 2,STR_COM
+STR_COM3244,-,STR_COM
+STR_COM3245,Attached V-DCE,STR_COM
+STR_COM3246,Attached V-DTE,STR_COM
+STR_COM3247,Attached NT,STR_COM
+STR_COM3248,Attached TE,STR_COM
+STR_COM3249,source (transmitter),STR_COM
+STR_COM3250,sink (receiver),STR_COM
+STR_COM3251,more than one equipment (source and sink pair),STR_COM
+STR_COM3252,BV channel,STR_COM
+STR_COM3253,independent,STR_COM
+STR_COM3254,Bit timing,STR_COM
+STR_COM3255,equipment,STR_COM
+STR_COM3256,aggregate bit stream,STR_COM
+STR_COM3257,Octet timing,STR_COM
+STR_COM3258,Frame alignment,STR_COM
+STR_COM3259,time division multiplexed channels,STR_COM
+STR_COM3260,DV channel,STR_COM
+STR_COM3261,bit rate,STR_COM
+STR_COM3262,DV channel access procedure,STR_COM
+STR_COM3263,common resource,STR_COM
+STR_COM3264,Power feeding,STR_COM
+STR_COM3265,Connected/disconnected indication,STR_COM
+STR_COM3266,Frame structure,STR_COM
+STR_COM3267,frames,STR_COM
+STR_COM3268,Bit rate,STR_COM
+STR_COM3269,Binary organization of the frame,STR_COM
+STR_COM3270,frame structures,STR_COM
+STR_COM3271,Slave to master,STR_COM
+STR_COM3272,frame,STR_COM
+STR_COM3273,groups of bits,STR_COM
+STR_COM3274,Fascicle VIII.1 - Rec. V.230,STR_COM
+STR_COM3275,Recommendation X.211,STR_COM
+STR_COM3276,the syntax and use of the primitives,STR_COM
+STR_COM3277,ITU-T Recommendation X.50,STR_COM
+STR_COM3278,multiplexing scheme,STR_COM
+STR_COM3279,public synchronous data networks,STR_COM
+STR_COM3280,international links,STR_COM
+STR_COM3281,8-bit envelope,STR_COM
+STR_COM3282,four 8-bit envelopes grouping,STR_COM
+STR_COM3283,10-bit envelope,STR_COM
+STR_COM3284,Recommendation X.51,STR_COM
+STR_COM3285,10-bit envelope structure,STR_COM
+STR_COM3286,framing information for the channels,STR_COM
+STR_COM3287,8-bit envelopes,STR_COM
+STR_COM3288,signal elements,STR_COM
+STR_COM3289,8-bit envelope interleaved structure,STR_COM
+STR_COM3290,envelope interleaved,STR_COM
+STR_COM3291,distributed framing pattern,STR_COM
+STR_COM3292,multiplex signal framing,STR_COM
+STR_COM3293,framing bits,STR_COM
+STR_COM3294,5th 8-bit envelope,STR_COM
+STR_COM3295,10th 8-bit envelope,STR_COM
+STR_COM3296,20th 8-bit envelope,STR_COM
+STR_COM3297,80th 8-bit envelope,STR_COM
+STR_COM3298,multiplexing structure,STR_COM
+STR_COM3299,80 8-bit envelopes,STR_COM
+STR_COM3300,72-bit long framing pattern,STR_COM
+STR_COM3301,80-bit pattern,STR_COM
+STR_COM3302,primitive polynomial,STR_COM
+STR_COM3303,1 + x4 + x7,STR_COM
+STR_COM3304,27 Galois field,STR_COM
+STR_COM3305,Galois field,STR_COM
+STR_COM3306,forcing configuration,STR_COM
+STR_COM3307,Table 1/X.50,STR_COM
+STR_COM3308,the first F bit,STR_COM
+STR_COM3309,short bursts of the alarm indication signal (AIS),STR_COM
+STR_COM3310,transmission equipment,STR_COM
+STR_COM3311,19-bit long framing pattern,STR_COM
+STR_COM3312,20-bit pattern,STR_COM
+STR_COM3313,Galois 25 field,STR_COM
+STR_COM3314,1 + x2 + x5,STR_COM
+STR_COM3315,four 8-bit envelopes grouping alignment,STR_COM
+STR_COM3316,ITU-T Recommendation X.50 bis,STR_COM
+STR_COM3317,FUNDAMENTAL PARAMETERS,STR_COM
+STR_COM3318,SYNCHRONOUS DATA NETWORKS,STR_COM
+STR_COM3319,bits 2-7,STR_COM
+STR_COM3320,information bits,STR_COM
+STR_COM3321,F bit,STR_COM
+STR_COM3322,status bit S,STR_COM
+STR_COM3323,8-bit envelope structure,STR_COM
+STR_COM3324,Fundamental multiplex,STR_COM
+STR_COM3325,information bearer channels,STR_COM
+STR_COM3326,10-bit envelopes,STR_COM
+STR_COM3327,Status bit S bit,STR_COM
+STR_COM3328,8-bit data byte,STR_COM
+STR_COM3329,10-bit envelope interleaved structure,STR_COM
+STR_COM3330,envelope interleaved structure,STR_COM
+STR_COM3331,interleaved envelopes,STR_COM
+STR_COM3332,Overall structure,STR_COM
+STR_COM3333,Frame alignment patterns,STR_COM
+STR_COM3334,International housekeeping bits,STR_COM
+STR_COM3335,National housekeeping signals,STR_COM
+STR_COM3336,one subframe (640 bits),STR_COM
+STR_COM3337,ITU-T Recommendation V.36,STR_COM
+STR_COM3338,MODEMS FOR SYNCHRONOUS DATA TRANSMISSION,STR_COM
+STR_COM3339,60-108 kHz GROUP BAND CIRCUITS,STR_COM
+STR_COM3340,high amplitude spectral components,STR_COM
+STR_COM3341,logical arrangements,STR_COM
+STR_COM3342,Baseband signal,STR_COM
+STR_COM3343,binary coded partial response pulse,STR_COM
+STR_COM3344,Line signal in 60-108 kHz band,STR_COM
+STR_COM3345,single sideband signal,STR_COM
+STR_COM3346,Group reference pilot,STR_COM
+STR_COM3347,Voice channel,STR_COM
+STR_COM3348,service speech channel,STR_COM
+STR_COM3349,Adjacent channel interference,STR_COM
+STR_COM3350,Line characteristics,STR_COM
+STR_COM3351,group links,STR_COM
+STR_COM3352,Error performance,STR_COM
+STR_COM3353,hypothetical reference circuit,STR_COM
+STR_COM3354,two through-group connection equipments,STR_COM
+STR_COM3355,Input level variation,STR_COM
+STR_COM3356,Interference from adjacent group bands,STR_COM
+STR_COM3357,sinusoidal signal,STR_COM
+STR_COM3358,data line signal,STR_COM
+STR_COM3359,input of the receiver,STR_COM
+STR_COM3360,ITU-T Recommendation V.37,STR_COM
+STR_COM3361,class IV partial response pulse amplitude single sideband signalling and modulation,STR_COM
+STR_COM3362,partial response,STR_COM
+STR_COM3363,pulse amplitude,STR_COM
+STR_COM3364,single sideband,STR_COM
+STR_COM3365,overhead-free multiplexer,STR_COM
+STR_COM3366,existing data signalling rates,STR_COM
+STR_COM3367,optional voice channel,STR_COM
+STR_COM3368,Scrambler/descrambler,STR_COM
+STR_COM3369,automatic equalizer,STR_COM
+STR_COM3370,binary bit stream A,STR_COM
+STR_COM3371,consecutive groups of 2 bits Al and A2 (dibits),STR_COM
+STR_COM3372,Line signal in the 60-108 kHz band,STR_COM
+STR_COM3373,carrier frequency pilot,STR_COM
+STR_COM3374,timing pilot,STR_COM
+STR_COM3375,external source,STR_COM
+STR_COM3376,Optional voice channel,STR_COM
+STR_COM3377,Hypothetical Reference Circuit,STR_COM
+STR_COM3378,Optional multiplexing,STR_COM
+STR_COM3379,single aggregate bit stream,STR_COM
+STR_COM3380,Digital interface requirements,STR_COM
+STR_COM3381,interchange circuit table,STR_COM
+STR_COM3382,main channel,STR_COM
+STR_COM3383,subchannel interfaces,STR_COM
+STR_COM3384,Optional PCM interface alternative,STR_COM
+STR_COM3385,WTSC (Geneva, October 9-18, 1996),STR_COM
+STR_COM3386,two functional interfaces,STR_COM
+STR_COM3387,opposite types of interfaces,STR_COM
+STR_COM3388,1 + x–18 + x–23,STR_COM
+STR_COM3389,self synchronizing descrambler,STR_COM
+STR_COM3390,receiver of the DCE,STR_COM
+STR_COM3391,international 64-kbit/s bearer circuit,STR_COM
+STR_COM3392,Recommendation X.51 bis,STR_COM
+STR_COM3393,USER DATA,STR_COM
+STR_COM3394,status bit,STR_COM
+STR_COM3395,envelope alignment bit,STR_COM
+STR_COM3396,user data information bits,STR_COM
+STR_COM3397,bits 3-10,STR_COM
+STR_COM3398,padding bits,STR_COM
+STR_COM3399,framing pattern,STR_COM
+STR_COM3400,envelopes,STR_COM
+STR_COM3401,padding bit,STR_COM
+STR_COM3402,Figure 2/X.51 bis,STR_COM
+STR_COM3403,more complex framing patterns,STR_COM
+STR_COM3404,consecutive envelopes,STR_COM
+STR_COM3405,Other patterns on the A bits,STR_COM
+STR_COM3406,common channel signalling,STR_COM
+STR_COM3407,user classes of service in public data networks,STR_COM
+STR_COM3408,data terminal equipment (DTE),STR_COM
+STR_COM3409,data circuit-terminating equipment (DCE),STR_COM
+STR_COM3410,international interface,STR_COM
+STR_COM3411,signalling system,STR_COM
+STR_COM3412,synchronous user channel,STR_COM
+STR_COM3413,start signal,STR_COM
+STR_COM3414,stop signal,STR_COM
+STR_COM3415,ITU-T Study Group IX,STR_COM
+STR_COM3416,multiplexing schemes,STR_COM
+STR_COM3417,64 kbit/s multiplex link,STR_COM
+STR_COM3418,Tributary data channels,STR_COM
+STR_COM3419,80 8-bit envelope structure,STR_COM
+STR_COM3420,20 8-bit envelope structure,STR_COM
+STR_COM3421,first envelope,STR_COM
+STR_COM3422,channel,STR_COM
+STR_COM3423,Recommendation X.54,STR_COM
+STR_COM3424,Title of the recommendation,STR_COM
+STR_COM3425,Recommendations X.50 and X.51,STR_COM
+STR_COM3426,tributary channels,STR_COM
+STR_COM3427,multiplex frame,STR_COM
+STR_COM3428,Table 1/X.54,STR_COM
+STR_COM3429,64-kbit/s multiplex frame,STR_COM
+STR_COM3430,48 kbit/s channel,STR_COM
+STR_COM3431,X.51 multiplex frame,STR_COM
+STR_COM3432,i + 5j,STR_COM
+STR_COM3433,9.6-kbit/s,STR_COM
+STR_COM3434,channels,STR_COM
+STR_COM3435,4.8-kbit/s,STR_COM
+STR_COM3436,2.4-kbit/s,STR_COM
+STR_COM3437,0.6-kbit/s,STR_COM
+STR_COM3438,Recommendation X.55,STR_COM
+STR_COM3439,SCPC SATELLITE CHANNELS,STR_COM
+STR_COM3440,F bits (framing bits),STR_COM
+STR_COM3441,SCPC 56-kbit/s channel,STR_COM
+STR_COM3442,S bits (status bits),STR_COM
+STR_COM3443,7-bit envelope,STR_COM
+STR_COM3444,Bits 1-6,STR_COM
+STR_COM3445,tributary channel,STR_COM
+STR_COM3446,bit 7,STR_COM
+STR_COM3447,72-bit framing pattern,STR_COM
+STR_COM3448,housekeeping bits ABCDEFGH,STR_COM
+STR_COM3449,8 consecutive F bits,STR_COM
+STR_COM3450,Outgoing signals,STR_COM
+STR_COM3451,the state,STR_COM
+STR_COM3452,the distant end,STR_COM
+STR_COM3453,6 + 2 envelope structure,STR_COM
+STR_COM3454,bearers,STR_COM
+STR_COM3455,Title of the document,STR_COM
+STR_COM3456,Recommendation X.56,STR_COM
+STR_COM3457,INTERFACE BETWEEN SYNCHRONOUS DATA NETWORKS USING AN 8 + 2 ENVELOPE STRUCTURE AND SINGLE CHANNEL PER CARRIER (SCPC) SATELLITE CHANNELS,STR_COM
+STR_COM3458,satellite,STR_COM
+STR_COM3459,Multiplexing scheme,STR_COM
+STR_COM3460,Fundamental multiplex structure,STR_COM
+STR_COM3461,A bit,STR_COM
+STR_COM3462,the multiplex system,STR_COM
+STR_COM3463,the SCPC 56-kbit/s channel,STR_COM
+STR_COM3464,9-bit envelopes,STR_COM
+STR_COM3465,Signal elements assembly,STR_COM
+STR_COM3466,status bit (S bit),STR_COM
+STR_COM3467,envelope,STR_COM
+STR_COM3468,9-bit envelope interleaved structure,STR_COM
+STR_COM3469,Structure used for interleaving,STR_COM
+STR_COM3470,Frame length,STR_COM
+STR_COM3471,fundamental multiplex,STR_COM
+STR_COM3472,padding units,STR_COM
+STR_COM3473,frame alignment patterns,STR_COM
+STR_COM3474,Patterns,STR_COM
+STR_COM3475,11111001101010,STR_COM
+STR_COM3476,14-bit pattern,STR_COM
+STR_COM3477,sub-frame identifier,STR_COM
+STR_COM3478,SF1 = 00,SF2 = 01, SF3 = 10, SF4 = 11,STR_COM
+STR_COM3479,ITU-T Recommendation X.57,STR_COM
+STR_COM3480,Recommendation X.57,STR_COM
+STR_COM3481,section,STR_COM
+STR_COM3482,Recommendation X.50,STR_COM
+STR_COM3483,envelope data formats,STR_COM
+STR_COM3484,64 kbit/s data stream,STR_COM
+STR_COM3485,single lower speed synchronous data channel,STR_COM
+STR_COM3486,64 kbit/s bearer rate,STR_COM
+STR_COM3487,single low speed synchronous data channel,STR_COM
+STR_COM3488,receive end,STR_COM
+STR_COM3489,original data signal,STR_COM
+STR_COM3490,8 kHz envelope timing,STR_COM
+STR_COM3491,alignment circuit,STR_COM
+STR_COM3492,alignment pattern,STR_COM
+STR_COM3493,framing bit position,STR_COM
+STR_COM3494,housekeeping information,STR_COM
+STR_COM3495,8 + 2 envelope structure,STR_COM
+STR_COM3496,ITU-T Recommendation X.58,STR_COM
+STR_COM3497,Multiplex scheme,STR_COM
+STR_COM3498,Data octets,STR_COM
+STR_COM3499,24 channels of 2.4 kbit/s,STR_COM
+STR_COM3500,12 channels of 4.8 kbit/s,STR_COM
+STR_COM3501,6 channels of 9.6 kbit/s,STR_COM
+STR_COM3502,3 channels of 19.2 kbit/s,STR_COM
+STR_COM3503,Synchronization octets,STR_COM
+STR_COM3504,Service octets,STR_COM
+STR_COM3505,T1 through T4,STR_COM
+STR_COM3506,receiving multiplexer,STR_COM
+STR_COM3507,ITU-T X.6,STR_COM
+STR_COM3508,Frame relay PVC multicast service definition,STR_COM
+STR_COM3509,optional configurations,STR_COM
+STR_COM3510,multicast server,STR_COM
+STR_COM3511,one-way multicast connection,STR_COM
+STR_COM3512,data link connection identifier (DLCI),STR_COM
+STR_COM3513,single data unit,STR_COM
+STR_COM3514,multiple destinations,STR_COM
+STR_COM3515,multicast group ID,STR_COM
+STR_COM3516,set of members,STR_COM
+STR_COM3517,multicast DLCI (Mdlc),STR_COM
+STR_COM3518,frame relay access interface,STR_COM
+STR_COM3519,Standardized signalling system,STR_COM
+STR_COM3520,Message Transfer Part,STR_COM
+STR_COM3521,User Parts,STR_COM
+STR_COM3522,Components,STR_COM
+STR_COM3523,Data User Part,STR_COM
+STR_COM3524,Specific user part,STR_COM
+STR_COM3525,ITU-T X.7,STR_COM
+STR_COM3526,Technical characteristics,STR_COM
+STR_COM3527,ITU-T Recommendation X.7,STR_COM
+STR_COM3528,TERMINAL AND TRANSIT CONTROL SIGNALLING SYSTEM,STR_COM
+STR_COM3529,ANISOCHRONOUS DATA NETWORKS,STR_COM
+STR_COM3530,international control signalling schemes,STR_COM
+STR_COM3531,anisochronous data networks,STR_COM
+STR_COM3532,control signalling scheme,STR_COM
+STR_COM3533,start-stop user classes of service,STR_COM
+STR_COM3534,synchronous user classes of service,STR_COM
+STR_COM3535,anisochronous networks,STR_COM
+STR_COM3536,synchronous and anisochronous networks,STR_COM
+STR_COM3537,decentralized terminal and transit control signalling system,STR_COM
+STR_COM3538,50-baud trunks,STR_COM
+STR_COM3539,numbering scheme,STR_COM
+STR_COM3540,network or service identification signals,STR_COM
+STR_COM3541,network or service digit,STR_COM
+STR_COM3542,high-usage circuits,STR_COM
+STR_COM3543,adequately provided routes between centres,STR_COM
+STR_COM3544,originating Administration,STR_COM
+STR_COM3545,links between public data networks of anisochronous type,STR_COM
+STR_COM3546,high-usage direct links,STR_COM
+STR_COM3547,switching equipment,STR_COM
+STR_COM3548,international link,STR_COM
+STR_COM3549,7-unit signalling characters,STR_COM
+STR_COM3550,one parity bit,STR_COM
+STR_COM3551,one start,STR_COM
+STR_COM3552,two stop elements,STR_COM
+STR_COM3553,ITU-T Recommendation X.71,STR_COM
+STR_COM3554,DECENTRALIZED TERMINAL AND TRANSIT CONTROL SIGNALLING SYSTEM,STR_COM
+STR_COM3555,decentralized control signalling techniques,STR_COM
+STR_COM3556,Recommendation X.80,STR_COM
+STR_COM3557,common channel,STR_COM
+STR_COM3558,decentralized signalling,STR_COM
+STR_COM3559,data network identification code (DNIC),STR_COM
+STR_COM3560,Recommendation D.10,STR_COM
+STR_COM3561,calling Administration,STR_COM
+STR_COM3562,Call Confirmation Protocol (CCP),STR_COM
+STR_COM3563,incoming network,STR_COM
+STR_COM3564,Proceed-To-Select Protocol (PTSP),STR_COM
+STR_COM3565,International Alphabet No. 5 (IA5),STR_COM
+STR_COM3566,All groups of contiguous characters,STR_COM
+STR_COM3567,SYN characters,STR_COM
+STR_COM3568,three successive signalling characters,STR_COM
+STR_COM3569,one channel,STR_COM
+STR_COM3570,multiplex structure,STR_COM
+STR_COM3571,8 + 2 envelope,STR_COM
+STR_COM3572,Proceed-to-select Protocol (PTSP),STR_COM
+STR_COM3573,ITU-T X.75,STR_COM
+STR_COM3574,SERIES X: DATA NETWORKS AND OPEN SYSTEM COMMUNICATIONS,STR_COM
+STR_COM3575,Public data networks – Transmission, signalling and switching,STR_COM
+STR_COM3576,ITU-T Recommendation X.75 – Corrigendum 1,STR_COM
+STR_COM3577,frame relay network-to-network interface,STR_COM
+STR_COM3578,Physical layer,STR_COM
+STR_COM3579,network-to-network interface,STR_COM
+STR_COM3580,physical layer,STR_COM
+STR_COM3581,ITU-T Rec. X.36,STR_COM
+STR_COM3582,ITU-T X.77,STR_COM
+STR_COM3583,Type 5 AAL,STR_COM
+STR_COM3584,AAL functions,STR_COM
+STR_COM3585,Service class C,STR_COM
+STR_COM3586,Type 5 of the AAL functions,STR_COM
+STR_COM3587,X.77-STE,STR_COM
+STR_COM3588,AAL parameters,STR_COM
+STR_COM3589,traffic parameters,STR_COM
+STR_COM3590,ITU-T X.78,STR_COM
+STR_COM3591,B-ISDN ATM adaptation layer AAL specification,STR_COM
+STR_COM3592,Series X: DATA NETWORKS AND OPEN SYSTEM COMMUNICATIONS,STR_COM
+STR_COM3593,Multi-Aspect Packet Assembly/Disassembly facility (MAP),STR_COM
+STR_COM3594,basic framework,STR_COM
+STR_COM3595,MAP,STR_COM
+STR_COM3596,basic framework and service Aspects,STR_COM
+STR_COM3597,Access Information Path,STR_COM
+STR_COM3598,Access Interface,STR_COM
+STR_COM3599,physical (e.g. speed, parity),STR_COM
+STR_COM3600,logical (e.g. default PAD Aspects),STR_COM
+STR_COM3601,PAD Aspects,STR_COM
+STR_COM3602,PAD Aspect,STR_COM
+STR_COM3603,PAD Instance,STR_COM
+STR_COM3604,Data-terminating Circuit Equipment,STR_COM
+STR_COM3605,Data-Terminating Equipment,STR_COM
+STR_COM3606,Packet Switched Puclic Data Network,STR_COM
+STR_COM3607,PAD Aspect currently active,STR_COM
+STR_COM3608,PAD Aspects available on the interface,STR_COM
+STR_COM3609,PAD Aspect set as the default,STR_COM
+STR_COM3610,interworking function,STR_COM
+STR_COM3611,two interworking signalling systems,STR_COM
+STR_COM3612,two circuits,STR_COM
+STR_COM3613,different signalling systems,STR_COM
+STR_COM3614,CCITT Specifications and Descriptions Language (SDL),STR_COM
+STR_COM3615,flow charts,STR_COM
+STR_COM3616,Table 1/X.80,STR_COM
+STR_COM3617,interworking point,STR_COM
+STR_COM3618,additional protocols,STR_COM
+STR_COM3619,time-outs,STR_COM
+STR_COM3620,ITU-T Recommendation X.81,STR_COM
+STR_COM3621,ISDN CIRCUIT -SWITCHED,STR_COM
+STR_COM3622,CIRCUIT-SWITCHED PUBLIC DATA NETWORK,STR_COM
+STR_COM3623,OSI Network Service,STR_COM
+STR_COM3624,I.230 Series Recommendations,STR_COM
+STR_COM3625,Data terminal equipment,STR_COM
+STR_COM3626,Data circuit-terminating equipment,STR_COM
+STR_COM3627,OSI-NLS,STR_COM
+STR_COM3628,Open system interconnection,STR_COM
+STR_COM3629,HDLC,STR_COM
+STR_COM3630,High level data link control,STR_COM
+STR_COM3631,UC,STR_COM
+STR_COM3632,ACM,STR_COM
+STR_COM3633,ANS,STR_COM
+STR_COM3634,IAM,STR_COM
+STR_COM3635,Initial address,STR_COM
+STR_COM3636,INF,STR_COM
+STR_COM3637,INR,STR_COM
+STR_COM3638,information message,STR_COM
+STR_COM3639,REL,STR_COM
+STR_COM3640,RLC,STR_COM
+STR_COM3641,RLSD,STR_COM
+STR_COM3642,CC,STR_COM
+STR_COM3643,CCF,STR_COM
+STR_COM3644,CDI,STR_COM
+STR_COM3645,CLEAR,STR_COM
+STR_COM3646,Clearing signal,STR_COM
+STR_COM3647,CLEAR C.,STR_COM
+STR_COM3648,SEL,STR_COM
+STR_COM3649,Selection signals,STR_COM
+STR_COM3650,TTC,STR_COM
+STR_COM3651,CDIR,STR_COM
+STR_COM3652,CLIR,STR_COM
+STR_COM3653,Recommendation G.703,STR_COM
+STR_COM3654,2048/1544 kbit/s interface,STR_COM
+STR_COM3655,32/24 x 64 kbit/s channels,STR_COM
+STR_COM3656,Recommendation G.708,STR_COM
+STR_COM3657,Recommendation G.811,STR_COM
+STR_COM3658,digital link,STR_COM
+STR_COM3659,ITU-T Recommendation X.82,STR_COM
+STR_COM3660,administrations,STR_COM
+STR_COM3661,CSPDNs,STR_COM
+STR_COM3662,Recommendation T.70,STR_COM
+STR_COM3663,Recommendation X.322,STR_COM
+STR_COM3664,Recommendations X.21/X.21 bis,STR_COM
+STR_COM3665,Circuit switched public data network,STR_COM
+STR_COM3666,ITU-T X.84,STR_COM
+STR_COM3667,MPLS,STR_COM
+STR_COM3668,core networks,STR_COM
+STR_COM3669,single common core infrastructure,STR_COM
+STR_COM3670,MPLS core network architecture,STR_COM
+STR_COM3671,user plane protocol stack used at the edges of the MPLS core network,STR_COM
+STR_COM3672,Provider Edge (PE),STR_COM
+STR_COM3673,Virtual Connection Label Switched Path (VC LSP),STR_COM
+STR_COM3674,frame relay Virtual Connection (VC),STR_COM
+STR_COM3675,two PEs,STR_COM
+STR_COM3676,Tunnel LSPs,STR_COM
+STR_COM3677,MPLS Label Switched Paths (LSPs),STR_COM
+STR_COM3678,ITU-T X.85/Y.1321,STR_COM
+STR_COM3679,SDH,STR_COM
+STR_COM3680,TCP/IP,STR_COM
+STR_COM3681,Header,STR_COM
+STR_COM3682,ITU-T X.86/Y.1323,STR_COM
+STR_COM3683,Ethernet over LAPS,STR_COM
+STR_COM3684,Ethernet frames,STR_COM
+STR_COM3685,transmission payloads,STR_COM
+STR_COM3686,Media Access Control (MAC) control frames,STR_COM
+STR_COM3687,SDH VC-4,STR_COM
+STR_COM3688,Link Access Procedure-SDH (LAPS),STR_COM
+STR_COM3689,SDH VC-4 payloads,STR_COM
+STR_COM3690,sub-VC-4 payloads,STR_COM
+STR_COM3691,ITU-T Recommendation X.86/Y.1323,STR_COM
+STR_COM3692,ITU-T Recommendation X.92,STR_COM
+STR_COM3693,five hypothetical reference connections,STR_COM
+STR_COM3694,64 kbit/s digital paths,STR_COM
+STR_COM3695,digital sections using modems over analogue facilities,STR_COM
+STR_COM3696,logical links,STR_COM
+STR_COM3697,dotted lines,STR_COM
+STR_COM3698,packet assembly/disassembly facilities,STR_COM
+STR_COM3699,logical Link D of Figure 1/X.92,STR_COM
+STR_COM3700,Figure 2/X.92,STR_COM
+STR_COM3701,transmission path,STR_COM
+STR_COM3702,national or local link,STR_COM
+STR_COM3703,ITU-T Recommendation X.96,STR_COM
+STR_COM3704,Frame relay data networks,STR_COM
+STR_COM3705,Virtual Circuit (VC),STR_COM
+STR_COM3706,packet-switched service,STR_COM
+STR_COM3707,frame-relay service,STR_COM
+STR_COM3708,network out-of-order,STR_COM
+STR_COM3709,long-term network congestion,STR_COM
+STR_COM3710,no connection,STR_COM
+STR_COM3711,local DTE/DCE interface,STR_COM
+STR_COM3712,ITU-T G.694.2,STR_COM
+STR_COM3713,CWDM wavelength grid,STR_COM
+STR_COM3714,WDM technology,STR_COM
+STR_COM3715,ITU-T Recommendation G.671,STR_COM
+STR_COM3716,Coarse Wavelength Division Multiplexing (CWDM),STR_COM
+STR_COM3717,Dense WDM (DWDM),STR_COM
+STR_COM3718,upper wavelength bound,STR_COM
+STR_COM3719,lower wavelength bound,STR_COM
+STR_COM3720,uncooled lasers,STR_COM
+STR_COM3721,wide passband filters,STR_COM
+STR_COM3722,ITU-T Recommendation G.983.3,STR_COM
+STR_COM3723,video distribution signals,STR_COM
+STR_COM3724,ITU-T Recs J.185 and J.186,STR_COM
+STR_COM3725,vacuum optical wavelengths,STR_COM
+STR_COM3726,wavelength grid,STR_COM
+STR_COM3727,central wavelength of the channel,STR_COM
+STR_COM3728,interconnecting circuits,STR_COM
+STR_COM3729,binary data,STR_COM
+STR_COM3730,control and timing signals,STR_COM
+STR_COM3731,interface between DTE and DCE,STR_COM
+STR_COM3732,Intermediate equipment,STR_COM
+STR_COM3733,both sides,STR_COM
+STR_COM3734,separate intermediate equipment,STR_COM
+STR_COM3735,two classes of equipment,STR_COM
+STR_COM3736,Mechanical characteristics,STR_COM
+STR_COM3737,Signal converters,STR_COM
+STR_COM3738,timing generators,STR_COM
+STR_COM3739,pulse regenerators,STR_COM
+STR_COM3740,control circuitry,STR_COM
+STR_COM3741,Timing generators,STR_COM
+STR_COM3742,signal converters,STR_COM
+STR_COM3743,Pulse regenerators,STR_COM
+STR_COM3744,Control circuitry,STR_COM
+STR_COM3745,Interface connector,STR_COM
+STR_COM3746,Interconnecting cable,STR_COM
+STR_COM3747,other electrical characteristics,STR_COM
+STR_COM3748,Circuit 102 – Signal ground or common return,STR_COM
+STR_COM3749,Circuit 102a – DTE common return,STR_COM
+STR_COM3750,Circuit 102b – DCE common return,STR_COM
+STR_COM3751,Circuit 102c – Common return,STR_COM
+STR_COM3752,data set,STR_COM
+STR_COM3753,Automatic answering equipment,STR_COM
+STR_COM3754,Echo control devices,STR_COM
+STR_COM3755,ITU-T Recommendation V.25,STR_COM
+STR_COM3756,Answering tone,STR_COM
+STR_COM3757,continuous,STR_COM
+STR_COM3758,network echo cancellers,STR_COM
+STR_COM3759,echo suppressors,STR_COM
+STR_COM3760,Network echo cancellers,STR_COM
+STR_COM3761,ITU-T V.250,STR_COM
+STR_COM3762,asynchronous DTE-DCE connections,STR_COM
+STR_COM3763,ITU-T Q.13/16,STR_COM
+STR_COM3764,+A, +D, +E, +G, +I, +M, +S, +T, +P,STR_COM
+STR_COM3765,TIA TR-30.2,STR_COM
+STR_COM3766,ETSI/SMG/SMG 4,STR_COM
+STR_COM3767,6.1.4/V.250,STR_COM
+STR_COM3768,4.1.1/IS-131,STR_COM
+STR_COM3769,6.1.5/V.250,STR_COM
+STR_COM3770,4.1.2/IS-131,STR_COM
+STR_COM3771,6.1.6/V.250,STR_COM
+STR_COM3772,4.1.3/IS-131,STR_COM
+STR_COM3773,6.1.7/V.250,STR_COM
+STR_COM3774,4.1.4/IS-131,STR_COM
+STR_COM3775,5.6/IS-99 5.1/GSM07.07,STR_COM
+STR_COM3776,5.6/IS-99 5.2/GSM07.07,STR_COM
+STR_COM3777,5.6/IS-99 5.3/GSM07.07,STR_COM
+STR_COM3778,5.6/IS-99,STR_COM
+STR_COM3779,5.4/GSM07.07,STR_COM
+STR_COM3780,6.1.9/V.250,STR_COM
+STR_COM3781,4.1.6/IS-131,STR_COM
+STR_COM3782,5.6/GSM07.07,STR_COM
+STR_COM3783,ITU-T Recommendation V.4,STR_COM
+STR_COM3784,five-unit International Telegraph Alphabet No. 2 (ITA2),STR_COM
+STR_COM3785,start element,STR_COM
+STR_COM3786,first information unit,STR_COM
+STR_COM3787,seven information units,STR_COM
+STR_COM3788,duration of this start element,STR_COM
+STR_COM3789,electromechanical data terminal equipments,STR_COM
+STR_COM3790,seven-unit code,STR_COM
+STR_COM3791,switched telephone networks,STR_COM
+STR_COM3792,tape or other storage medium,STR_COM
+STR_COM3793,intermediate equipment,STR_COM
+STR_COM3794,asynchronous transmission,STR_COM
+STR_COM3795,error-control equipment,STR_COM
+STR_COM3796,communication equipment,STR_COM
+STR_COM3797,modems to Recommendation V.23,STR_COM
+STR_COM3798,block,STR_COM
+STR_COM3799,cyclic encoder,STR_COM
+STR_COM3800,forward bit stream,STR_COM
+STR_COM3801,blocks,STR_COM
+STR_COM3802,four service bits,STR_COM
+STR_COM3803,16 error-detection (or check) bits,STR_COM
+STR_COM3804,distribution of errors,STR_COM
+STR_COM3805,block size of 260 bits,STR_COM
+STR_COM3806,geostationary orbit satellites,STR_COM
+STR_COM3807,block length,STR_COM
+STR_COM3808,x16 + x12 + x5 + 1,STR_COM
+STR_COM3809,16-stage cyclic shift register,STR_COM
+STR_COM3810,appropriate feedback gates,STR_COM
+STR_COM3811,self-synchronizing scramblers,STR_COM
+STR_COM3812,scramblers,STR_COM
+STR_COM3813,message polynomial,STR_COM
+STR_COM3814,scrambler polynomial,STR_COM
+STR_COM3815,received polynomial,STR_COM
+STR_COM3816,common factors,STR_COM
+STR_COM3817,additive scramblers,STR_COM
+STR_COM3818,non-self-synchronizing,STR_COM
+STR_COM3819,synchronizing sequence prefix,STR_COM
+STR_COM3820,synchronizing filler,STR_COM
+STR_COM3821,synchronizing pattern,STR_COM
+STR_COM3822,XID command frame,STR_COM
+STR_COM3823,HDLC optional function,STR_COM
+STR_COM3824,32-bit mask,STR_COM
+STR_COM3825,octets,STR_COM
+STR_COM3826,TEST frame,STR_COM
+STR_COM3827,V.8 protocol octet,STR_COM
+STR_COM3828,V.92 short phase 1 signals,STR_COM
+STR_COM3829,ITU-T G.695,STR_COM
+STR_COM3830,coarse wavelength division multiplexing (CWDM),STR_COM
+STR_COM3831,optical parameter values,STR_COM
+STR_COM3832,physical layer interfaces,STR_COM
+STR_COM3833,4-channel,STR_COM
+STR_COM3834,FOIC2.4,STR_COM
+STR_COM3835,Characteristics of a single-mode optical fibre and cable,STR_COM
+STR_COM3836,Characteristics of a dispersion-shifted, single-mode optical fibre and cable,STR_COM
+STR_COM3837,Characteristics of a non-zero dispersion-shifted single-mode optical fibre and cable,STR_COM
+STR_COM3838,ITU-T G.691,STR_COM
+STR_COM3839,ITU-T G.707,STR_COM
+STR_COM3840,Network node interface for the synchronous digital hierarchy (SDH),STR_COM
+STR_COM3841,ITU-T G.709,STR_COM
+STR_COM3842,ITU-T G.709.1,STR_COM
+STR_COM3843,ITU-T G.872,STR_COM
+STR_COM3844,Architecture of optical transport networks,STR_COM
+STR_COM3845,ITU-T G.959.1,STR_COM
+STR_COM3846,Optical transport network physical layer interfaces,STR_COM
+STR_COM3847,IEC 60825-1,STR_COM
+STR_COM3848,IEC 60825-2,STR_COM
+STR_COM3849,IEEE 802.3bs,STR_COM
+STR_COM3850,Standard for Ethernet Amendment 10,STR_COM
+STR_COM3851,optical wavelength multiplexer/demultiplexer,STR_COM
+STR_COM3852,completely standardized OTUk (OTUk),STR_COM
+STR_COM3853,physical layer specifications,STR_COM
+STR_COM3854,optical fibre cables,STR_COM
+STR_COM3855,continuous digital signal,STR_COM
+STR_COM3856,optical fibres,STR_COM
+STR_COM3857,ITU-T G.697,STR_COM
+STR_COM3858,dense wavelength division multiplexing (DWDM) systems,STR_COM
+STR_COM3859,polarization mode dispersion (PMD) (1st and higher orders),STR_COM
+STR_COM3860,amplified spontaneous emission (ASE) noise in optical amplification (OA),STR_COM
+STR_COM3861,four-wave mixing (FWM),STR_COM
+STR_COM3862,reflections (see reflectance),STR_COM
+STR_COM3863,cross-phase modulation (XPM),STR_COM
+STR_COM3864,self-phase modulation (SPM),STR_COM
+STR_COM3865,stimulated Raman scattering (SRS),STR_COM
+STR_COM3866,ITU-T G.698.1,STR_COM
+STR_COM3867,DWDM systems,STR_COM
+STR_COM3868,optical interface parameters,STR_COM
+STR_COM3869,single-channel connection points,STR_COM
+STR_COM3870,optical transmitters,STR_COM
+STR_COM3871,optical multiplexer,STR_COM
+STR_COM3872,optical receivers,STR_COM
+STR_COM3873,optical demultiplexer (OD),STR_COM
+STR_COM3874,DWDM system,STR_COM
+STR_COM3875,DWDM,STR_COM
+STR_COM3876,100 GHz channel frequency spacing,STR_COM
+STR_COM3877,black link,STR_COM
+STR_COM3878,multiplexer / demultiplexer,STR_COM
+STR_COM3879,ITU-T G.698.2,STR_COM
+STR_COM3880,optical demultiplexer,STR_COM
+STR_COM3881,single-channel optical interfaces,STR_COM
+STR_COM3882,transponders,STR_COM
+STR_COM3883,single channel optical interfaces,STR_COM
+STR_COM3884,multivendor DWDM optical transmission networks,STR_COM
+STR_COM3885,channel frequency spacing,STR_COM
+STR_COM3886,Characteristics of a dispersion-shifted single-mode optical fibre and cable,STR_COM
+STR_COM3887,ITU-T G.709.2,STR_COM
+STR_COM3888,OTU4 long-reach interface,STR_COM
+STR_COM3889,ITU-T G.709.3,STR_COM
+STR_COM3890,Flexible OTN long-reach interfaces,STR_COM
+STR_COM3891,DP-DQPSK 100G,STR_COM
+STR_COM3892,continuous digital signals,STR_COM
+STR_COM3893,non-return to zero differential quadrature phase shift keying modulation,STR_COM
+STR_COM3894,two orthogonal polarizations of a carrier,STR_COM
+STR_COM3895,OTL4.4-SC,STR_COM
+STR_COM3896,OTU4-SC,STR_COM
+STR_COM3897,FOIC1.4-SC,STR_COM
+STR_COM3898,ITU-T G.698.3,STR_COM
+STR_COM3899,seeded dense wavelength division multiplexing (DWDM) systems,STR_COM
+STR_COM3900,Dense wavelength division multiplexing,STR_COM
+STR_COM3901,head-end,STR_COM
+STR_COM3902,TEE,STR_COM
+STR_COM3903,seed signal source,STR_COM
+STR_COM3904,transmitters and receivers,STR_COM
+STR_COM3905,OD/OM,STR_COM
+STR_COM3906,optical multiplexer and demultiplexer (OD/OM),STR_COM
+STR_COM3907,tail-end equipment (TEE),STR_COM
+STR_COM3908,MPI-SM,STR_COM
+STR_COM3909,multichannel reference point,STR_COM
+STR_COM3910,head-end aggregate output,STR_COM
+STR_COM3911,MPI-RM,STR_COM
+STR_COM3912,SS,STR_COM
+STR_COM3913,single-channel reference point,STR_COM
+STR_COM3914,TEE output,STR_COM
+STR_COM3915,RS,STR_COM
+STR_COM3916,TEE input,STR_COM
+STR_COM3917,single-channel point,STR_COM
+STR_COM3918,direct wavelength-multiplexing configuration,STR_COM
+STR_COM3919,ITU-T G.698.4,STR_COM
+STR_COM3920,dense wavelength division multiplexing,STR_COM
+STR_COM3921,transmitters,STR_COM
+STR_COM3922,OADM,STR_COM
+STR_COM3923,optical add -drop multiplexer,STR_COM
+STR_COM3924,port,STR_COM
+STR_COM3925,ITU-T G.698.5,STR_COM
+STR_COM3926,O -band,STR_COM
+STR_COM3927,head-end equipment (HEE),STR_COM
+STR_COM3928,central office,STR_COM
+STR_COM3929,remote antenna site,STR_COM
+STR_COM3930,port agnostic single-channel optical interfaces,STR_COM
+STR_COM3931,ITU-T G.709.4,STR_COM
+STR_COM3932,short-reach interfaces,STR_COM
+STR_COM3933,ITU-T G.972,STR_COM
+STR_COM3934,optical fibre submarine cable systems,STR_COM
+STR_COM3935,Part 1: Equipment classification and requirements,STR_COM
+STR_COM3936,Part 2: Safety of optical fibre communication systems (OFCS),STR_COM
+STR_COM3937,ITU-T G.698.6,STR_COM
+STR_COM3938,wavelength division multiplexing (WDM) systems,STR_COM
+STR_COM3939,Head-End Equipment (HEE),STR_COM
+STR_COM3940,Tail-End Equipment (TEE),STR_COM
+STR_COM3941,single bidirectional transmission fibre,STR_COM
+STR_COM3942,pair of unidirectional transmission fibres,STR_COM
+STR_COM3943,O-band,STR_COM
+STR_COM3944,equipments and systems,STR_COM
+STR_COM3945,ITU-T Recommendation M.729,STR_COM
+STR_COM3946,Data Coordinating Point (DCP),STR_COM
+STR_COM3947,maintenance organization,STR_COM
+STR_COM3948,subscriber locations,STR_COM
+STR_COM3949,ITU-T Recommendation O.71,STR_COM
+STR_COM3950,Fascicle IV.4 of the Blue Book,STR_COM
+STR_COM3951,requirements for the characteristics of an instrument,STR_COM
+STR_COM3952,instrument,STR_COM
+STR_COM3953,input signal,STR_COM
+STR_COM3954,counter,STR_COM
+STR_COM3955,pulse,STR_COM
+STR_COM3956,Input impedance,STR_COM
+STR_COM3957,Balanced, earth free,STR_COM
+STR_COM3958,Terminating impedance,STR_COM
+STR_COM3959,High impedance,STR_COM
+STR_COM3960,midpoint of the source impedance,STR_COM
+STR_COM3961,earth terminal of the instrument,STR_COM
+STR_COM3962,sine wave,STR_COM
+STR_COM3963,Attenuation/frequency characteristics,STR_COM
+STR_COM3964,additional filters,STR_COM
+STR_COM3965,external filters,STR_COM
+STR_COM3966,continuous sinusoidal 1000 Hz signal,STR_COM
+STR_COM3967,rectangular pulses,STR_COM
+STR_COM3968,Impulsive noise counter,STR_COM
+STR_COM3969,Timer,STR_COM
+STR_COM3970,Binary numbering,STR_COM
+STR_COM3971,two digits,STR_COM
+STR_COM3972,Transmission channels,STR_COM
+STR_COM3973,a modulation having two significant conditions,STR_COM
+STR_COM3974,two-condition modulation,STR_COM
+STR_COM3975,Two-condition modulation,STR_COM
+STR_COM3976,Binary digits 0 and 1,STR_COM
+STR_COM3977,idle condition of the line,STR_COM
+STR_COM3978,VF telegraph systems,STR_COM
+STR_COM3979,Perforated tape,STR_COM
+STR_COM3980,circuit,STR_COM
+STR_COM3981,Amplitude modulation,STR_COM
+STR_COM3982,tone,STR_COM
+STR_COM3983,Frequency modulation,STR_COM
+STR_COM3984,Phase modulation,STR_COM
+STR_COM3985,reference phase,STR_COM
+STR_COM3986,Differential two-phase modulation,STR_COM
+STR_COM3987,Table 1/V.1,STR_COM
+STR_COM3988,Recommendation V.10,STR_COM
+STR_COM3989,unbalanced interchange circuit,STR_COM
+STR_COM3990,generator,STR_COM
+STR_COM3991,interconnecting leads,STR_COM
+STR_COM3992,differential receiver,STR_COM
+STR_COM3993,equipment implemented in discrete component technology,STR_COM
+STR_COM3994,interconnecting cable,STR_COM
+STR_COM3995,extraneous noise sources,STR_COM
+STR_COM3996,ITU-T Recommendation V.100,STR_COM
+STR_COM3997,Public Switched Telephone Networks (PSTN),STR_COM
+STR_COM3998,data station,STR_COM
+STR_COM3999,packet switched public data network (PSPDN),STR_COM
+STR_COM4000,national1) PSTN,STR_COM
+STR_COM4001,half-duplex,STR_COM
+STR_COM4002,full duplex,STR_COM
+STR_COM4003,types of modems,STR_COM
+STR_COM4004,Table 1/V.100,STR_COM
+STR_COM4005,V.27 ter modem,STR_COM
+STR_COM4006,V.26 ter,STR_COM
+STR_COM4007,Recommendation G.164,STR_COM
+STR_COM4008,Recommendation V.11,STR_COM
+STR_COM4009,balanced interchange circuit,STR_COM
+STR_COM4010,balanced generator and load components,STR_COM
+STR_COM4011,load components,STR_COM
+STR_COM4012,differential signalling (balanced) interchange circuit,STR_COM
+STR_COM4013,balanced generator,STR_COM
+STR_COM4014,outlet potentials,STR_COM
+STR_COM4015,earth,STR_COM
+STR_COM4016,balanced receiver,STR_COM
+STR_COM4017,balanced interconnecting pair,STR_COM
+STR_COM4018,interconnecting pair,STR_COM
+STR_COM4019,degree of balance,STR_COM
+STR_COM4020,other essential parameters,STR_COM
+STR_COM4021,Appendix I,STR_COM
+STR_COM4022,Cable and termination,STR_COM
+STR_COM4023,Appendix II,STR_COM
+STR_COM4024,adjacent balanced or unbalanced interchange circuits,STR_COM
+STR_COM4025,interface cabling,STR_COM
+STR_COM4026,ITU-T V.110,STR_COM
+STR_COM4027,data terminal equipments,STR_COM
+STR_COM4028,V-series type interfaces,STR_COM
+STR_COM4029,V-series Recommendations,STR_COM
+STR_COM4030,Terminals,STR_COM
+STR_COM4031,terminal adaptor (TA),STR_COM
+STR_COM4032,DTEs of differing rates,STR_COM
+STR_COM4033,Members of the ITU-T,STR_COM
+STR_COM4034,Reference configurations,STR_COM
+STR_COM4035,terminal adaptor reference model,STR_COM
+STR_COM4036,connection types,STR_COM
+STR_COM4037,Line signals at S and T reference points,STR_COM
+STR_COM4038,Recommendation V.12,STR_COM
+STR_COM4039,balanced digital interchange circuit,STR_COM
+STR_COM4040,data and timing, or control circuits,STR_COM
+STR_COM4041,serial binary signals,STR_COM
+STR_COM4042,generator (G),STR_COM
+STR_COM4043,balanced interconnecting cable,STR_COM
+STR_COM4044,receiver (R),STR_COM
+STR_COM4045,termination/fail-safe network,STR_COM
+STR_COM4046,generator output terminals,STR_COM
+STR_COM4047,test load,STR_COM
+STR_COM4048,resistors,STR_COM
+STR_COM4049,centre point of the test load,STR_COM
+STR_COM4050,generator circuit common,STR_COM
+STR_COM4051,generator output,STR_COM
+STR_COM4052,alternating binary states,STR_COM
+STR_COM4053,110 Ω test load,STR_COM
+STR_COM4054,receiver circuit common,STR_COM
+STR_COM4055,differential input voltage,STR_COM
+STR_COM4056,ITU-T Recommendation V.120,STR_COM
+STR_COM4057,Bits 6-1,STR_COM
+STR_COM4058,duplex data systems,STR_COM
+STR_COM4059,remote circuit 109,STR_COM
+STR_COM4060,local circuit 105,STR_COM
+STR_COM4061,modem carrier,STR_COM
+STR_COM4062,sub-channels of modems,STR_COM
+STR_COM4063,multiplex facilities,STR_COM
+STR_COM4064,modems with long equalizer/echo canceller training sequences,STR_COM
+STR_COM4065,long equalizer/echo canceller training sequences,STR_COM
+STR_COM4066,high efficiency multiplexers,STR_COM
+STR_COM4067,no control channels,STR_COM
+STR_COM4068,PCM channels,STR_COM
+STR_COM4069,loop device,STR_COM

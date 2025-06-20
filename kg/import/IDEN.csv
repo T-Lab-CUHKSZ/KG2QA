@@ -1,0 +1,2817 @@
+ID,name,LABEL
+IDEN001,ITU-T E.166/X.122,IDEN
+IDEN002,E.164 numbering plan,IDEN
+IDEN003,X.121 numbering plan,IDEN
+IDEN004,Integrated Services Digital Networks (ISDNs),IDEN
+IDEN005,Public Switched Telephone Networks (PSTNs),IDEN
+IDEN006,Packet Switched Public Data Networks (PSPDNs),IDEN
+IDEN007,World Telecommunication Standardization Conference (WTSC),IDEN
+IDEN008,ITU-T Study Groups,IDEN
+IDEN009,Recommendation I.330,IDEN
+IDEN010,Recommendation X.121,IDEN
+IDEN011,Recommendation E.160,IDEN
+IDEN012,Recommendation E.164,IDEN
+IDEN013,Recommendation E.165,IDEN
+IDEN014,Recommendation E.170,IDEN
+IDEN015,Recommendation E.172,IDEN
+IDEN016,Recommendation E.173,IDEN
+IDEN017,Recommendation Q.931,IDEN
+IDEN018,Recommendation X.25,IDEN
+IDEN019,Recommendation X.28,IDEN
+IDEN020,Recommendation X.31,IDEN
+IDEN021,ISDN,IDEN
+IDEN022,Recommendation X.32,IDEN
+IDEN023,Recommendation X.38,IDEN
+IDEN024,Recommendation X.75,IDEN
+IDEN025,Recommendation X.110,IDEN
+IDEN026,Recommendation X.300,IDEN
+IDEN027,Recommendation X.301,IDEN
+IDEN028,Data Terminal Equipment (DTE),IDEN
+IDEN029,Data Circuit-terminating Equipment (DCE),IDEN
+IDEN030,DTE,IDEN
+IDEN031,ITU-T G.650.1,IDEN
+IDEN032,Recommendation ITU-T G.650.1,IDEN
+IDEN033,appendices I, II and III,IDEN
+IDEN034,clauses 3.4 and 5.2,IDEN
+IDEN035,clause 5.1.4,IDEN
+IDEN036,appendices IV, V and VI,IDEN
+IDEN037,Annex A,IDEN
+IDEN038,ITU-T G.652 fibre,IDEN
+IDEN039,ITU-T G.654.E fibre,IDEN
+IDEN040,ITU-T G.655,IDEN
+IDEN041,ITU-T G.656,IDEN
+IDEN042,ITU-T G.653,IDEN
+IDEN043,International Telecommunication Union (ITU),IDEN
+IDEN044,International Telecommunication Union,IDEN
+IDEN045,ITU-T G.650.2,IDEN
+IDEN046,differential group delay (DGD),IDEN
+IDEN047,DGD,IDEN
+IDEN048,PMDAVG,IDEN
+IDEN049,n2/Aeff,IDEN
+IDEN050,CCITT,IDEN
+IDEN051,ITU,IDEN
+IDEN052,Recommendation V.42 bis,IDEN
+IDEN053,Resolution No. 2,IDEN
+IDEN054,V-Series DCEs,IDEN
+IDEN055,general switched telephone network (GSTN),IDEN
+IDEN056,Recommendation V.42,IDEN
+IDEN057,DCEs,IDEN
+IDEN058,Figure 1/V.42 bis,IDEN
+IDEN059,error-correcting DCE,IDEN
+IDEN060,Recommendations V.7 [4] and V.14 [5],IDEN
+IDEN061,characters,IDEN
+IDEN062,EID,IDEN
+IDEN063,command code,IDEN
+IDEN064,ETM,IDEN
+IDEN065,ECM,IDEN
+IDEN066,ITU-T Recommendation V.43,IDEN
+IDEN067,WTSC Resolution No. 1,IDEN
+IDEN068,DCE,IDEN
+IDEN069,Circuit 106,IDEN
+IDEN070,Circuit 112,IDEN
+IDEN071,DC3/DC1 characters,IDEN
+IDEN072,circuit 104,IDEN
+IDEN073,Circuit 114,IDEN
+IDEN074,ITU-T V.44,IDEN
+IDEN075,Corrigendum 1,IDEN
+IDEN076,ITU-T Study Group 16,IDEN
+IDEN077,ITU-T Recommendation V.44,IDEN
+IDEN078,WTSA Resolution 1,IDEN
+IDEN079,ITU Telecommunication Standardization Sector (ITU-T),IDEN
+IDEN080,World Telecommunication Standardization Assembly (WTSA),IDEN
+IDEN081,ISO and IEC,IDEN
+IDEN082,Administration,IDEN
+IDEN083,Intellectual Property Rights,IDEN
+IDEN084,TSB patent database,IDEN
+IDEN085,XID capability parameter,IDEN
+IDEN086,V.44 capability parameter value,IDEN
+IDEN087,V.44 capability parameter,IDEN
+IDEN088,SABME,IDEN
+IDEN089,initiating modem,IDEN
+IDEN090,Table A.1/V.44,IDEN
+IDEN091,Encoder History,IDEN
+IDEN092,17,IDEN
+IDEN093,Decoder History,IDEN
+IDEN094,Clause II.1,IDEN
+IDEN095,Stage 10,IDEN
+IDEN096,Geneva, 2002,IDEN
+IDEN097,ITU-T Recommendation V.50,IDEN
+IDEN098,Recommendation V.50,IDEN
+IDEN099,Recommendation V.53,IDEN
+IDEN100,modem V.21,IDEN
+IDEN101,modem V.23,IDEN
+IDEN102,signals at point A - Figure 1/V.51,IDEN
+IDEN103,Recommendation V.21 modem,IDEN
+IDEN104,ISO,IDEN
+IDEN105,ITU-T G.652,IDEN
+IDEN106,M,IDEN
+IDEN107,Dispersion un-shifted optical fibre,IDEN
+IDEN108,I.1,IDEN
+IDEN109,I.6,IDEN
+IDEN110,G.652.D fibre,IDEN
+IDEN111,clause 7,IDEN
+IDEN112,cable cut-off wavelength λcc,IDEN
+IDEN113,fibre cut-off wavelength λc,IDEN
+IDEN114,wavelength,IDEN
+IDEN115,wavelengths,IDEN
+IDEN116,ITU-T G.650.3,IDEN
+IDEN117,optical time domain reflectometer (OTDR),IDEN
+IDEN118,ITU-T G.657,IDEN
+IDEN119,IEC 60793-1-40,IDEN
+IDEN120,IEC 61280-4-2,IDEN
+IDEN121,IEC 61280-4-4,IDEN
+IDEN122,IEC 61281-1,IDEN
+IDEN123,IEC/TR 61282-7,IDEN
+IDEN124,IEC/TR 61282-9,IDEN
+IDEN125,IEC 61300-3-6,IDEN
+IDEN126,IEC 61300-3-35,IDEN
+IDEN127,IEC/TR 61931,IDEN
+IDEN128,ITU-T G.651.1,IDEN
+IDEN129,50/125 µm multimode graded index optical fibre cable,IDEN
+IDEN130,IEC 60793-2-10,IDEN
+IDEN131,IEEE 802.3 Ethernet system standards,IDEN
+IDEN132,ISO/IEC 11801-1,IDEN
+IDEN133,multimode fibre,IDEN
+IDEN134,OMx cabled fibre categories,IDEN
+IDEN135,ITU-T,IDEN
+IDEN136,ITU-T Study Group 14,IDEN
+IDEN137,ITU-T Recommendation V.130,IDEN
+IDEN138,Terminal Adaptor (TA),IDEN
+IDEN139,TE2,IDEN
+IDEN140,TE2 (non-ISDN) terminal,IDEN
+IDEN141,Recommendation I.411,IDEN
+IDEN142,modec,IDEN
+IDEN143,digital modem,IDEN
+IDEN144,modem,IDEN
+IDEN145,codec,IDEN
+IDEN146,BC,IDEN
+IDEN147,CLI,IDEN
+IDEN148,Calling Line Identification,IDEN
+IDEN149,HLC,IDEN
+IDEN150,IPE,IDEN
+IDEN151,IWF,IDEN
+IDEN152,LLC,IDEN
+IDEN153,MIB,IDEN
+IDEN154,MSN,IDEN
+IDEN155,MTA,IDEN
+IDEN156,NT,IDEN
+IDEN157,PID,IDEN
+IDEN158,SUB,IDEN
+IDEN159,UDI-TA,IDEN
+IDEN160,R reference point,IDEN
+IDEN161,S reference points,IDEN
+IDEN162,S reference point,IDEN
+IDEN163,Functional Groups,IDEN
+IDEN164,Terminal Adaptor,IDEN
+IDEN165,TA,IDEN
+IDEN166,V-Series DTE,IDEN
+IDEN167,GSTN,IDEN
+IDEN168,3.1 kHz audio bearer service,IDEN
+IDEN169,ITU-T G.654,IDEN
+IDEN170,Recommendation ITU-T G.654,IDEN
+IDEN171,cut-off shifted fibre (CSF),IDEN
+IDEN172,6.6,IDEN
+IDEN173,6.10,IDEN
+IDEN174,ITU-T G.696.1,IDEN
+IDEN175,ITU-T G.957,IDEN
+IDEN176,ITU-T G.973,IDEN
+IDEN177,b-ITU-T G.973.1,IDEN
+IDEN178,b-ITU-T G.973.2,IDEN
+IDEN179,b-ITU-T G.977.1,IDEN
+IDEN180,ITU-T G.973.1,IDEN
+IDEN181,b-ITU-T G.973,IDEN
+IDEN182,ITU-T G.973.2,IDEN
+IDEN183,ITU-T G.977.1,IDEN
+IDEN184,ITU-T Study Group 15,IDEN
+IDEN185,Recommendation ITU-T G.655,IDEN
+IDEN186,ITU-T Recommendations,IDEN
+IDEN187,Recommendation ITU-T G.656,IDEN
+IDEN188,CWDM,IDEN
+IDEN189,DWDM,IDEN
+IDEN190,λcc,IDEN
+IDEN191,ITU-T Recommendation V.53,IDEN
+IDEN192,Telegraph distortion limits,IDEN
+IDEN193,Recommendation V.23 modem,IDEN
+IDEN194,Bit error rate,IDEN
+IDEN195,Table 1/V.53,IDEN
+IDEN196,Block error rate,IDEN
+IDEN197,error rate for sequences of 511 bits,IDEN
+IDEN198,bit error rate,IDEN
+IDEN199,Uniform-spectrum random noise,IDEN
+IDEN200,Recommendation G.153,IDEN
+IDEN201,Impulsive noise,IDEN
+IDEN202,Recommendation V.2,IDEN
+IDEN203,Recommendation M.1020,IDEN
+IDEN204,Recommendation 0.71,IDEN
+IDEN205,Note 1,IDEN
+IDEN206,ITU-T Recommendation V.54,IDEN
+IDEN207,Loop 1,IDEN
+IDEN208,Loop 3,IDEN
+IDEN209,Loop 2,IDEN
+IDEN210,station A,IDEN
+IDEN211,DCE B,IDEN
+IDEN212,Loop 4,IDEN
+IDEN213,Circuit 103,IDEN
+IDEN214,Circuit 104,IDEN
+IDEN215,circuit 103,IDEN
+IDEN216,Circuit 105,IDEN
+IDEN217,Circuit 125,IDEN
+IDEN218,Circuit 108,IDEN
+IDEN219,108/1 or 108/2,IDEN
+IDEN220,Circuit 109,IDEN
+IDEN221,circuit 105,IDEN
+IDEN222,Circuit 107,IDEN
+IDEN223,Circuit 115,IDEN
+IDEN224,circuit 113,IDEN
+IDEN225,Circuit 113,IDEN
+IDEN226,circuit 115,IDEN
+IDEN227,Circuit 140,IDEN
+IDEN228,loop 2,IDEN
+IDEN229,circuit 141,IDEN
+IDEN230,loop 3,IDEN
+IDEN231,Circuit 141,IDEN
+IDEN232,Circuit 142,IDEN
+IDEN233,DTE A,IDEN
+IDEN234,Figure 1/V.54,IDEN
+IDEN235,DTE B,IDEN
+IDEN236,DCE A,IDEN
+IDEN237,loop initiation signal,IDEN
+IDEN238,ITU-T Recommendation V.56,IDEN
+IDEN239,Table 1/V.56,IDEN
+IDEN240,Figure 1 /V.56,IDEN
+IDEN241,bit error rate (pS),IDEN
+IDEN242,signal-to-noise ratio (S/N),IDEN
+IDEN243,CCITT Recommendation Characteristics of special quality international leased circuits with special bandwidth conditioning,IDEN
+IDEN244,Rec. M.1020,IDEN
+IDEN245,CCITT Recommendation Characteristics of special quality international leased circuits with basic bandwidth conditioning,IDEN
+IDEN246,Rec. M.1025,IDEN
+IDEN247,ITU-T Recommendation V.56 bis,IDEN
+IDEN248,Network Model Coverage (NMC),IDEN
+IDEN249,Likelihood Of Occurrence (LOO),IDEN
+IDEN250,ANSI TIA TR-30.3,IDEN
+IDEN251,ANSI TIA TSB-37A,IDEN
+IDEN252,Private Branch Exchange (PBX),IDEN
+IDEN253,Signal-to-Noise Ratio (SNR),IDEN
+IDEN254,1 kHz Tone to Total Distortion ratio,IDEN
+IDEN255,T/TD,IDEN
+IDEN256,Test Loop Combination (TLC),IDEN
+IDEN257,LOO,IDEN
+IDEN258,End-Office-to-End-Office (EO-EO),IDEN
+IDEN259,ITU-T SG 14,IDEN
+IDEN260,Round-Trip Delay (RTD),IDEN
+IDEN261,adaptive differential pulse coded modulation (ADPCM),IDEN
+IDEN262,ITU-T Recommendation V.58,IDEN
+IDEN263,Recommendation V.58,IDEN
+IDEN264,Telecommunications Management Network (TMN),IDEN
+IDEN265,Recommendation M.3010,IDEN
+IDEN266,Generic Network Information Model,IDEN
+IDEN267,Recommendation M.3100,IDEN
+IDEN268,Network Elements (NEs),IDEN
+IDEN269,Element Manager to Element interface,IDEN
+IDEN270,vSeriesDce Managed Object,IDEN
+IDEN271,Managed Object Template,IDEN
+IDEN272,vSeriesCallControl,IDEN
+IDEN273,callControlPkg,IDEN
+IDEN274,audioMonitor,IDEN
+IDEN275,autoAnswerEnable,IDEN
+IDEN276,autoCallEnable,IDEN
+IDEN277,autoCallModeSelect,IDEN
+IDEN278,autoCallModesSupported,IDEN
+IDEN279,autoRestoralEnable,IDEN
+IDEN280,availableNumberCapacity,IDEN
+IDEN281,blackListingActive,IDEN
+IDEN282,callProgressState,IDEN
+IDEN283,dceModeActive,IDEN
+IDEN284,dceModeSelect,IDEN
+IDEN285,dceModesSupported,IDEN
+IDEN286,defaultCallAttemptsTimer,IDEN
+IDEN287,dialBackupEnable,IDEN
+IDEN288,directCallNumber,IDEN
+IDEN289,displayCallProgressMessages,IDEN
+IDEN290,pauseDuringDialTime,IDEN
+IDEN291,ringsBeforeAnswer,IDEN
+IDEN292,ITU-T V.59,IDEN
+IDEN293,Corrigendum 2,IDEN
+IDEN294,SERIES V: DATA COMMUNICATION OVER THE TELEPHONE NETWORK,IDEN
+IDEN295,Managed objects for diagnostic information of public switched telephone network connected V-series modem DCEs,IDEN
+IDEN296,ITU-T Recommendation V.59,IDEN
+IDEN297,ASN.1,IDEN
+IDEN298,ITU-T X.680,IDEN
+IDEN299,Packed Encoding Rules (PER),IDEN
+IDEN300,ASN.1 encoding,IDEN
+IDEN301,DTEDCE,IDEN
+IDEN302,txFlowControl,IDEN
+IDEN303,rxFlowControl,IDEN
+IDEN304,protocol,IDEN
+IDEN305,txSpeed,IDEN
+IDEN306,rxSpeed,IDEN
+IDEN307,txThroughput,IDEN
+IDEN308,rxThroughput,IDEN
+IDEN309,txErrors,IDEN
+IDEN310,rxErrors,IDEN
+IDEN311,V59String,IDEN
+IDEN312,ModeV42,IDEN
+IDEN313,2F00,IDEN
+IDEN314,protocolNegotiation,IDEN
+IDEN315,2F01,IDEN
+IDEN316,v42featureNegotiation,IDEN
+IDEN317,txFrameSize,IDEN
+IDEN318,rxFrameSize,IDEN
+IDEN319,txWindow,IDEN
+IDEN320,2F05,IDEN
+IDEN321,rxWindow,IDEN
+IDEN322,2F06,IDEN
+IDEN323,linkTimeout,IDEN
+IDEN324,framesSentAck,IDEN
+IDEN325,framesRetransmitted,IDEN
+IDEN326,framesReceivedDiscard,IDEN
+IDEN327,ITU-T V.61,IDEN
+IDEN328,TELECOMMUNICATION STANDARDIZATION SECTOR OF ITU,IDEN
+IDEN329,A simultaneous voice plus data modem,IDEN
+IDEN330,General Switched Telephone Network,IDEN
+IDEN331,leased point-to-point 2-wire telephone type circuits,IDEN
+IDEN332,ITU-T Recommendation V.61 (1996) – Corrigendum 1,IDEN
+IDEN333,ITU-T V-SERIES RECOMMENDATIONS,IDEN
+IDEN334,General V.1–V.9,IDEN
+IDEN335,Interfaces and voiceband modems V.10–V.34,IDEN
+IDEN336,V.10,IDEN
+IDEN337,V.34,IDEN
+IDEN338,Wideband modems V.35–V.39,IDEN
+IDEN339,V.35–V.39,IDEN
+IDEN340,Error control V.40–V.49,IDEN
+IDEN341,V.40–V.49,IDEN
+IDEN342,Transmission quality and maintenance V.50–V.59,IDEN
+IDEN343,V.50–V.59,IDEN
+IDEN344,V.60–V.99,IDEN
+IDEN345,V.100–V.199,IDEN
+IDEN346,Interface layer specifications for data communication V.200–V.249,IDEN
+IDEN347,V.200–V.249,IDEN
+IDEN348,V.250,IDEN
+IDEN349,V.299,IDEN
+IDEN350,Modems on digital circuits V.300–V.399,IDEN
+IDEN351,V.300–V.399,IDEN
+IDEN352,ITU-T Rec. V.61 (1996)/Cor.1 (01/2005),IDEN
+IDEN353,Cor.1 (01/2005),IDEN
+IDEN354,ITU-T Rec. V.61 (1996),IDEN
+IDEN355,ITU-T Study Group 16 (2005-2008),IDEN
+IDEN356,Corrigendum 1 to ITU-T Recommendation V.61 (1996),IDEN
+IDEN357,ITU-T Recommendation A.8 procedure,IDEN
+IDEN358,ITU-T Recommendation V.7,IDEN
+IDEN359,control signals,IDEN
+IDEN360,circuit 103 or 104,IDEN
+IDEN361,ITU-T V.70,IDEN
+IDEN362,H.245,IDEN
+IDEN363,G.729 Annex B,IDEN
+IDEN364,G.729,IDEN
+IDEN365,V.8 bis,IDEN
+IDEN366,terminal,IDEN
+IDEN367,mode,IDEN
+IDEN368,ITU-T V.75,IDEN
+IDEN369,ITU-T Recommendation V.75,IDEN
+IDEN370,ITU-T Rec. V.75 (1996),IDEN
+IDEN371,ISO 13239,IDEN
+IDEN372,V.75,IDEN
+IDEN373,V.42 bis,IDEN
+IDEN374,H.245 codepoints,IDEN
+IDEN375,ITU-T Recommendation V.75 (1996),IDEN
+IDEN376,V.76,IDEN
+IDEN377,N401 timer,IDEN
+IDEN378,DLCI values,IDEN
+IDEN379,ITU-T Recommendation V.76 (1996),IDEN
+IDEN380,Generic multiplexer using V.42 LAPM-based procedures,IDEN
+IDEN381,suspend/resume flags,IDEN
+IDEN382,generator polynomial x8 + x2 + x + 1,IDEN
+IDEN383,generator polynomial x16 + x12 + x5 + 1,IDEN
+IDEN384,generator polynomial x32 + x26 + x23 + x22 + x16 + x12 + x11 + x10 + x8 + x7 + x5 + x4 + x2 + x + 1,IDEN
+IDEN385,N401,IDEN
+IDEN386,DLC-opener,IDEN
+IDEN387,remote station,IDEN
+IDEN388,ITU-T Recommendation V.8,IDEN
+IDEN389,PSTN,IDEN
+IDEN390,Call indicator signal (CI),IDEN
+IDEN391,Call menu signal (CM),IDEN
+IDEN392,Joint menu signal (JM),IDEN
+IDEN393,ANSam,IDEN
+IDEN394,PCM Modem,IDEN
+IDEN395,ITU-T V.9x series of Recommendations,IDEN
+IDEN396,ITU-T V.21,IDEN
+IDEN397,V.21(L),IDEN
+IDEN398,ITU-T V.25,IDEN
+IDEN399,ITU-T V.34,IDEN
+IDEN400,ITU-T V.90,IDEN
+IDEN401,ITU-T V.92,IDEN
+IDEN402,Circuit Multiplication Equipments (CMEs),IDEN
+IDEN403,ITU-T V.80,IDEN
+IDEN404,Amendment 1,IDEN
+IDEN405,ITU-T Recommendation V.80,IDEN
+IDEN406,Table 10/V.80,IDEN
+IDEN407,Additional data signalling rate codes,IDEN
+IDEN408,World Telecommunication Standardization Assembly,IDEN
+IDEN409,Geneva, 2001,IDEN
+IDEN410,Series of ITU-T Recommendations,IDEN
+IDEN411,Telecommunication administration,IDEN
+IDEN412,Recognized operating agency,IDEN
+IDEN413,ITU-T V.8 bis,IDEN
+IDEN414,Data Circuit-terminating Equipments (DCEs),IDEN
+IDEN415,Data Terminal Equipments (DTEs),IDEN
+IDEN416,Public Switched Telephone Network (PSTN),IDEN
+IDEN417,Escape Signal (ES),IDEN
+IDEN418,Mode Request (MR),IDEN
+IDEN419,Capabilities Request (CR),IDEN
+IDEN420,6.3,IDEN
+IDEN421,Mode Select (MS),IDEN
+IDEN422,Capabilities List (CL),IDEN
+IDEN423,6.5,IDEN
+IDEN424,Capabilities List Request (CLR),IDEN
+IDEN425,Acknowledge Message (ACK),IDEN
+IDEN426,Negative Acknowledge Message (NAK),IDEN
+IDEN427,ITU-T Recommendation V.8 bis,IDEN
+IDEN428,PCM Modems,IDEN
+IDEN429,V.91,IDEN
+IDEN430,V.92,IDEN
+IDEN431,ITU-T Recommendation V.90,IDEN
+IDEN432,IEC,IDEN
+IDEN433,recognized operating agency (ROA),IDEN
+IDEN434,ITU-T V.91,IDEN
+IDEN435,ITU-T Recommendation V.91,IDEN
+IDEN436,8.4.1,IDEN
+IDEN437,PHIL,IDEN
+IDEN438,DIL,IDEN
+IDEN439,peer modem,IDEN
+IDEN440,The corrigendum,IDEN
+IDEN441,ITU-T Recommendation V.92 (2000),IDEN
+IDEN442,Tone A,IDEN
+IDEN443,Tone B,IDEN
+IDEN444,Tone A phase reversal,IDEN
+IDEN445,Tone RT,IDEN
+IDEN446,V.42,IDEN
+IDEN447,Figure 20/V.92,IDEN
+IDEN448,Amendment 1 to V.92,IDEN
+IDEN449,ITU-T Recommendation X.1,IDEN
+IDEN450,1,IDEN
+IDEN451,Recommendations X.3,IDEN
+IDEN452,Recommendation X.2,IDEN
+IDEN453,Recommendation X.3,IDEN
+IDEN454,Recommendation X.5,IDEN
+IDEN455,Recommendation X.8,IDEN
+IDEN456,Recommendation X.30,IDEN
+IDEN457,Recommendation X.4,IDEN
+IDEN458,Recommendation V.14,IDEN
+IDEN459,Recommendation X.52,IDEN
+IDEN460,International Alphabet No. 5,IDEN
+IDEN461,International Telegraph Alphabet No. 2,IDEN
+IDEN462,ITU-T Recommendation V.251,IDEN
+IDEN463,V.25 ter Annex A,IDEN
+IDEN464,V.8,IDEN
+IDEN465,Recommendation V.8,IDEN
+IDEN466,data modem,IDEN
+IDEN467,V-Series modems,IDEN
+IDEN468,text telephone,IDEN
+IDEN469,Recommendation V.18,IDEN
+IDEN470,G3 facsimile,IDEN
+IDEN471,simple voice telephony,IDEN
+IDEN472,analog simultaneous Voice and data,IDEN
+IDEN473,digital simultaneous Voice and data,IDEN
+IDEN474,multimedia terminal,IDEN
+IDEN475,Recommendation H.324,IDEN
+IDEN476,hexadecimal octet coding,IDEN
+IDEN477,hexadecimal octet sequence,IDEN
+IDEN478,<CR> (T.50 0/13) character,IDEN
+IDEN479,V.8 signal format,IDEN
+IDEN480,CI,IDEN
+IDEN481,CM,IDEN
+IDEN482,JM,IDEN
+IDEN483,V.8 bis signal and message format,IDEN
+IDEN484,+A8E,IDEN
+IDEN485,<v8o>,IDEN
+IDEN486,<v8a>,IDEN
+IDEN487,<v8cf>,IDEN
+IDEN488,<v8b>,IDEN
+IDEN489,<cfrange>,IDEN
+IDEN490,<protrange>,IDEN
+IDEN491,ITU-T Recommendation V.252,IDEN
+IDEN492,V.70 DSVD entity,IDEN
+IDEN493,H.324 entity,IDEN
+IDEN494,V.76 multiplexer,IDEN
+IDEN495,V.70 entity,IDEN
+IDEN496,V.75 control unit,IDEN
+IDEN497,H.223 multiplexer,IDEN
+IDEN498,H.324,IDEN
+IDEN499,H.245 control unit,IDEN
+IDEN500,FCLASS=17.0,IDEN
+IDEN501,FCLASS=18.0,IDEN
+IDEN502,V.70 DSVD,IDEN
+IDEN503,V.70 DSVD device,IDEN
+IDEN504,Class 17.0,IDEN
+IDEN505,H.324 terminal,IDEN
+IDEN506,Class 18.0,IDEN
+IDEN507,Figure 1/V.252,IDEN
+IDEN508,V.70 DSVD DCE,IDEN
+IDEN509,V.76 multiplexing,IDEN
+IDEN510,V.75 control functions,IDEN
+IDEN511,H.223 multiplexing,IDEN
+IDEN512,H.245 control functions,IDEN
+IDEN513,audio and video transducers and codecs,IDEN
+IDEN514,data channels,IDEN
+IDEN515,H.324 DCE,IDEN
+IDEN516,ITU-T V.253,IDEN
+IDEN517,Asynchronous DCE AT command set,IDEN
+IDEN518,Recommendation V.250,IDEN
+IDEN519,V.253,IDEN
+IDEN520,V.253-equipped DCE,IDEN
+IDEN521,ITU-T Recommendation V.253,IDEN
+IDEN522,Section 4,IDEN
+IDEN523,Subsection 4.1,IDEN
+IDEN524,Subsections 4.1.1 and 4.2.1,IDEN
+IDEN525,Section 5,IDEN
+IDEN526,Subsection 5.3.2,IDEN
+IDEN527,Subsection 6.2,IDEN
+IDEN528,Subsection 6.3,IDEN
+IDEN529,AT commands,IDEN
+IDEN530,Subsection 6.3.1,IDEN
+IDEN531,Subsection 6.3.2,IDEN
+IDEN532,Subsection 6.3.3,IDEN
+IDEN533,Subsection 6.4,IDEN
+IDEN534,Subsection 6.4.2,IDEN
+IDEN535,ITU-T X.1011,IDEN
+IDEN536,SERIES X: DATA NETWORKS, OPEN SYSTEM COMMUNICATIONS AND SECURITY,IDEN
+IDEN537,Recommendation ITU-T X.1011,IDEN
+IDEN538,ITU-T X-SERIES RECOMMENDATIONS,IDEN
+IDEN539,PUBLIC DATA NETWORKS X.1–X.199,IDEN
+IDEN540,X.1–X.199,IDEN
+IDEN541,OPEN SYSTEMS INTERCONNECTION X.200–X.299,IDEN
+IDEN542,X.200–X.299,IDEN
+IDEN543,INTERWORKING BETWEEN NETWORKS X.300–X.399,IDEN
+IDEN544,X.300–X.399,IDEN
+IDEN545,MESSAGE HANDLING SYSTEMS X.400–X.499,IDEN
+IDEN546,X.400–X.499,IDEN
+IDEN547,DIRECTORY X.500–X.599,IDEN
+IDEN548,X.500,IDEN
+IDEN549,X.599,IDEN
+IDEN550,OSI NETWORKING AND SYSTEM ASPECTS X.600–X.699,IDEN
+IDEN551,X.600–X.699,IDEN
+IDEN552,OSI MANAGEMENT X.700–X.799,IDEN
+IDEN553,X.700–X.799,IDEN
+IDEN554,SECURITY X.800–X.849,IDEN
+IDEN555,X.800–X.849,IDEN
+IDEN556,OSI APPLICATIONS X.850–X.899,IDEN
+IDEN557,X.850,IDEN
+IDEN558,X.899,IDEN
+IDEN559,OPEN DISTRIBUTED PROCESSING X.900–X.999,IDEN
+IDEN560,X.900–X.999,IDEN
+IDEN561,INFORMATION AND NETWORK SECURITY,IDEN
+IDEN562,X.1000–X.1029,IDEN
+IDEN563,Network security X.1030–X.1049,IDEN
+IDEN564,X.1030–X.1049,IDEN
+IDEN565,Security management X.1050–X.1069,IDEN
+IDEN566,X.1050–X.1069,IDEN
+IDEN567,Telebiometrics X.1080–X.1099,IDEN
+IDEN568,X.1080–X.1099,IDEN
+IDEN569,SECURE APPLICATIONS AND SERVICES (1),IDEN
+IDEN570,Multicast security X.1100–X.1109,IDEN
+IDEN571,X.1100–X.1109,IDEN
+IDEN572,Home network security X.1110–X.1119,IDEN
+IDEN573,X.1110–X.1119,IDEN
+IDEN574,Mobile security X.1120–X.1139,IDEN
+IDEN575,X.1120–X.1139,IDEN
+IDEN576,Web security (1) X.1140–X.1149,IDEN
+IDEN577,X.1140–X.1149,IDEN
+IDEN578,Application Security (1) X.1150–X.1159,IDEN
+IDEN579,X.1150–X.1159,IDEN
+IDEN580,Peer-to-peer security X.1160–X.1169,IDEN
+IDEN581,X.1160–X.1169,IDEN
+IDEN582,Networked ID security X.1170–X.1179,IDEN
+IDEN583,X.1170–X.1179,IDEN
+IDEN584,IPTV security X.1180–X.1199,IDEN
+IDEN585,X.1180–X.1199,IDEN
+IDEN586,CYBERSPACE SECURITY,IDEN
+IDEN587,Cybersecurity X.1200–X.1229,IDEN
+IDEN588,ITU-T X.1031,IDEN
+IDEN589,Recommendation ITU-T X.805,IDEN
+IDEN590,End users,IDEN
+IDEN591,Telecommunications networks,IDEN
+IDEN592,end users,IDEN
+IDEN593,ITU-T X.805,IDEN
+IDEN594,ITU-T Study Group 17,IDEN
+IDEN595,Recommendation ITU-T X.1031,IDEN
+IDEN596,ITU-T X.1032,IDEN
+IDEN597,Telecommunication IP-based network security system (TNSS),IDEN
+IDEN598,Security system,IDEN
+IDEN599,Information and Communication Technologies (ICT),IDEN
+IDEN600,National regulatory authorities,IDEN
+IDEN601,Trusted third parties,IDEN
+IDEN602,Organizations using telecommunication IP-based network services,IDEN
+IDEN603,Security threats,IDEN
+IDEN604,ITU-T X.1033,IDEN
+IDEN605,Information and Communication Technology (ICT),IDEN
+IDEN606,Bearer service,IDEN
+IDEN607,Teleservice,IDEN
+IDEN608,Individual information service,IDEN
+IDEN609,Informationization service,IDEN
+IDEN610,Customer Resource Management (CRM),IDEN
+IDEN611,Internet Content Provider (ICP),IDEN
+IDEN612,Internet Protocol TeleVision (IPTV),IDEN
+IDEN613,Quality of Service (QoS),IDEN
+IDEN614,Short Message Service (SMS),IDEN
+IDEN615,Office Automation (OA),IDEN
+IDEN616,E-government,IDEN
+IDEN617,E-commerce,IDEN
+IDEN618,Digital live,IDEN
+IDEN619,Digital entertainment,IDEN
+IDEN620,E-health,IDEN
+IDEN621,E-education,IDEN
+IDEN622,Telephone services,IDEN
+IDEN623,ITU-T X.1034,IDEN
+IDEN624,Extensible Authentication Protocol (EAP),IDEN
+IDEN625,supplicant,IDEN
+IDEN626,authentication server,IDEN
+IDEN627,AAA protocol,IDEN
+IDEN628,EAP message,IDEN
+IDEN629,RADIUS,IDEN
+IDEN630,Diameter,IDEN
+IDEN631,authenticator,IDEN
+IDEN632,backend authentication server,IDEN
+IDEN633,pair-wise master key,IDEN
+IDEN634,temporal key (TK),IDEN
+IDEN635,attacker,IDEN
+IDEN636,ITU-T X.1035,IDEN
+IDEN637,password,IDEN
+IDEN638,ITU-T Recommendation X.1035,IDEN
+IDEN639,SHA-1,IDEN
+IDEN640,b-FIPS 180-2,IDEN
+IDEN641,b-TIA 1050,IDEN
+IDEN642,NIST,IDEN
+IDEN643,SHA-256,IDEN
+IDEN644,ITU-T X.1036,IDEN
+IDEN645,Network security policy information model (NSPIM),IDEN
+IDEN646,Policy Core Information Model (PCIM),IDEN
+IDEN647,IETF,IDEN
+IDEN648,ITU-T Recommendation X.1036,IDEN
+IDEN649,ITU-T X.1037,IDEN
+IDEN650,IPv6,IDEN
+IDEN651,Internet Protocol version 6,IDEN
+IDEN652,IPv4,IDEN
+IDEN653,ICMPv6,IDEN
+IDEN654,IPv6 addresses,IDEN
+IDEN655,Router Advertisement (RA) messages,IDEN
+IDEN656,DHCPv6,IDEN
+IDEN657,Dynamic Host Configuration Protocol,IDEN
+IDEN658,NAT,IDEN
+IDEN659,IDS,IDEN
+IDEN660,Firewall (FW),IDEN
+IDEN661,OSPFv3,IDEN
+IDEN662,Open Shortest Path First version 3,IDEN
+IDEN663,SEND,IDEN
+IDEN664,MLDv2,IDEN
+IDEN665,Multicast Listener Discovery Version 2,IDEN
+IDEN666,NAT64,IDEN
+IDEN667,IPv6 Clients,IDEN
+IDEN668,IPv4 Servers,IDEN
+IDEN669,NAT66,IDEN
+IDEN670,NPTv6,IDEN
+IDEN671,PMTUD,IDEN
+IDEN672,uRPF,IDEN
+IDEN673,DAD,IDEN
+IDEN674,NDP,IDEN
+IDEN675,Neighbour Discovery Protocol,IDEN
+IDEN676,ITU-T X.1038,IDEN
+IDEN677,software-defined networking (SDN),IDEN
+IDEN678,SDN,IDEN
+IDEN679,7.4,IDEN
+IDEN680,distributed denial-of-service (DDoS),IDEN
+IDEN681,ONF OpenFlow,IDEN
+IDEN682,ITU-T Y.3300,IDEN
+IDEN683,Use case 1,IDEN
+IDEN684,ITU-T X.800,IDEN
+IDEN685,IETF RFC 4210,IDEN
+IDEN686,IETF RFC 5246,IDEN
+IDEN687,NIST AES,IDEN
+IDEN688,National Institute of Standards and Technology,IDEN
+IDEN689,NIST DSS,IDEN
+IDEN690,NIST FIPS PUB 186-4 (2013),IDEN
+IDEN691,b-ISO/IEC 18014-2,IDEN
+IDEN692,ITU-T V.14,IDEN
+IDEN693,09/98,IDEN
+IDEN694,ITU-T Recommendation V.14,IDEN
+IDEN695,V.10–V.34,IDEN
+IDEN696,Wideband modems V.35 –V.39,IDEN
+IDEN697,V.35 –V.39,IDEN
+IDEN698,Recognized operating agency (ROA),IDEN
+IDEN699,ITU-T V.140,IDEN
+IDEN700,V.140 signature,IDEN
+IDEN701,H.320,IDEN
+IDEN702,V.140,IDEN
+IDEN703,ITU-T Recommendation V.140,IDEN
+IDEN704,ITU-T Recommendation V.15,IDEN
+IDEN705,V Series modem,IDEN
+IDEN706,V.21,IDEN
+IDEN707,V.23,IDEN
+IDEN708,Recommendation V.25,IDEN
+IDEN709,ITU-T X.1039,IDEN
+IDEN710,identity of an entity,IDEN
+IDEN711,b-ITU-T X.800,IDEN
+IDEN712,SECURE APPLICATIONS AND SERVICES,IDEN
+IDEN713,Web security X.1140–X.1149,IDEN
+IDEN714,Security protocols X.1150–X.1159,IDEN
+IDEN715,CYBERSECURITY INFORMATION EXCHANGE,IDEN
+IDEN716,CLOUD COMPUTING SECURITY,IDEN
+IDEN717,ITU-T X.1040,IDEN
+IDEN718,seller,IDEN
+IDEN719,buyer,IDEN
+IDEN720,enterprise,IDEN
+IDEN721,individual,IDEN
+IDEN722,data,IDEN
+IDEN723,ITU-T X.1041,IDEN
+IDEN724,VoLTE,IDEN
+IDEN725,IMS,IDEN
+IDEN726,SIP,IDEN
+IDEN727,EPC,IDEN
+IDEN728,MME,IDEN
+IDEN729,S-GW,IDEN
+IDEN730,P-GW,IDEN
+IDEN731,IP addresses,IDEN
+IDEN732,CSCF,IDEN
+IDEN733,P-CSCF,IDEN
+IDEN734,UE,IDEN
+IDEN735,I-CSCF,IDEN
+IDEN736,S-CSCF,IDEN
+IDEN737,HSS,IDEN
+IDEN738,TAS,IDEN
+IDEN739,telephony application server,IDEN
+IDEN740,ITU-T X.1042,IDEN
+IDEN741,requesting party,IDEN
+IDEN742,ITU-T X.1043,IDEN
+IDEN743,ITU-T X.1044,IDEN
+IDEN744,Network virtualization,IDEN
+IDEN745,different vendors,IDEN
+IDEN746,LINPs,IDEN
+IDEN747,LINP operators,IDEN
+IDEN748,ITU-T X.1045,IDEN
+IDEN749,NFV,IDEN
+IDEN750,Annex C,IDEN
+IDEN751,ITU-T X.1046,IDEN
+IDEN752,SDN/NFV security,IDEN
+IDEN753,security controller,IDEN
+IDEN754,software-defined security,IDEN
+IDEN755,security policy,IDEN
+IDEN756,policy conflict,IDEN
+IDEN757,distribution of security policy,IDEN
+IDEN758,flow collection function,IDEN
+IDEN759,forwarding policy,IDEN
+IDEN760,switches,IDEN
+IDEN761,SDN controller,IDEN
+IDEN762,network traffic,IDEN
+IDEN763,lifecycle management of virtualized security function instance,IDEN
+IDEN764,network topology,IDEN
+IDEN765,optimization of security policy,IDEN
+IDEN766,security configuration parameter,IDEN
+IDEN767,security device,IDEN
+IDEN768,security information and event management system,IDEN
+IDEN769,security function vendor,IDEN
+IDEN770,security function,IDEN
+IDEN771,ITU-T X.1047,IDEN
+IDEN772,3GPP TR 33.811,IDEN
+IDEN773,3GPP TS 33.501,IDEN
+IDEN774,3GPP TR 33.813,IDEN
+IDEN775,users or customers,IDEN
+IDEN776,ITU-T X.1051,IDEN
+IDEN777,ISO/IEC 27002,IDEN
+IDEN778,Technical Corrigendum 1,IDEN
+IDEN779,ITU-T X.1051 recommendation,IDEN
+IDEN780,ISO/IEC 27011:2016/Cor.1:2018 (E),IDEN
+IDEN781,ITU-T X.1052,IDEN
+IDEN782,PDCA,IDEN
+IDEN783,ITU-T X.1053,IDEN
+IDEN784,Code of practice for information security controls based on ITU-T X.1051 for small and medium-sized telecommunication organizations,IDEN
+IDEN785,Recommendation ITU-T X.1053,IDEN
+IDEN786,small and medium-sized telecommunication organizations (SMTOs),IDEN
+IDEN787,Recommendation ITU -T X. 1053,IDEN
+IDEN788,Recommendation ITU-T X.1051,IDEN
+IDEN789,SMTOs,IDEN
+IDEN790,ITU-T X.1054,IDEN
+IDEN791,Information security,IDEN
+IDEN792,ISO/IEC 27014,IDEN
+IDEN793,Recommendation ITU-T X.1054,IDEN
+IDEN794,ISO/IEC JTC 1,IDEN
+IDEN795,Information security management system (ISMS),IDEN
+IDEN796,ISO/IEC 27001,IDEN
+IDEN797,ITU-T X.1055,IDEN
+IDEN798,risks,IDEN
+IDEN799,Recommendation ITU-T X.1055,IDEN
+IDEN800,customers,IDEN
+IDEN801,staff,IDEN
+IDEN802,ITU-T X.1056,IDEN
+IDEN803,ISIRT,IDEN
+IDEN804,process,IDEN
+IDEN805,Security incident,IDEN
+IDEN806,Recommendation ITU-T X.1056,IDEN
+IDEN807,WTSA,IDEN
+IDEN808,ITU-T X.1057,IDEN
+IDEN809,Telecommunication organizations,IDEN
+IDEN810,Asset manager,IDEN
+IDEN811,person,IDEN
+IDEN812,organization,IDEN
+IDEN813,asset owner,IDEN
+IDEN814,Asset owner,IDEN
+IDEN815,ISMS (information security management system),IDEN
+IDEN816,ITU-T X.1058,IDEN
+IDEN817,Telecommunication Standardization Sector,IDEN
+IDEN818,Information and network security,IDEN
+IDEN819,Code of practice for personally identifiable information protection,IDEN
+IDEN820,PUBLIC DATA NETWORKS,IDEN
+IDEN821,OPEN SYSTEMS INTERCONNECTION,IDEN
+IDEN822,INTERWORKING BETWEEN NETWORKS,IDEN
+IDEN823,MESSAGE HANDLING SYSTEMS,IDEN
+IDEN824,DIRECTORY,IDEN
+IDEN825,X.500–X.599,IDEN
+IDEN826,OSI NETWORKING AND SYSTEM ASPECTS,IDEN
+IDEN827,OSI MANAGEMENT,IDEN
+IDEN828,SECURITY,IDEN
+IDEN829,OSI APPLICATIONS,IDEN
+IDEN830,X.850–X.899,IDEN
+IDEN831,OPEN DISTRIBUTED PROCESSING,IDEN
+IDEN832,Network security,IDEN
+IDEN833,Security management,IDEN
+IDEN834,Telebiometrics,IDEN
+IDEN835,Multicast security,IDEN
+IDEN836,Home network security,IDEN
+IDEN837,Mobile security,IDEN
+IDEN838,Web security,IDEN
+IDEN839,Security protocols,IDEN
+IDEN840,Peer-to-peer security,IDEN
+IDEN841,Networked ID security,IDEN
+IDEN842,IPTV security,IDEN
+IDEN843,ITU-T X.1059,IDEN
+IDEN844,Assets Globally accessible in IP-based network for Telecommunication organizations (AGIT),IDEN
+IDEN845,Recommendation ITU-T X.1059,IDEN
+IDEN846,AGIT,IDEN
+IDEN847,AGIT profile,IDEN
+IDEN848,Assets globally accessible in IP-based network for telecommunication organizations (AGIT),IDEN
+IDEN849,ITU-T V.254,IDEN
+IDEN850,vCalendar,IDEN
+IDEN851,ITU-T V.250,IDEN
+IDEN852,ETSI TS 127 007,IDEN
+IDEN853,ISO 639-1,IDEN
+IDEN854,ISO 639-2,IDEN
+IDEN855,ISO/IEC 24751-2,IDEN
+IDEN856,2008,IDEN
+IDEN857,AT,IDEN
+IDEN858,Attention,IDEN
+IDEN859,IrDA,IDEN
+IDEN860,Infrared Data Association,IDEN
+IDEN861,MMS,IDEN
+IDEN862,Multimedia Messaging Service,IDEN
+IDEN863,OBEX,IDEN
+IDEN864,SMS,IDEN
+IDEN865,Short Message Service,IDEN
+IDEN866,USB,IDEN
+IDEN867,industry standard,IDEN
+IDEN868,ITU-T Recommendation V.26,IDEN
+IDEN869,2400 BITS PER SECOND MODEM,IDEN
+IDEN870,dibits,IDEN
+IDEN871,dibit,IDEN
+IDEN872,circuits 105 and 106,IDEN
+IDEN873,Table 2/V.26,IDEN
+IDEN874,ITU-T Recommendation V.26 bis,IDEN
+IDEN875,Blue Book,IDEN
+IDEN876,Recommendation V.26,IDEN
+IDEN877,carrier frequency,IDEN
+IDEN878,Figure 1/V.26 bis,IDEN
+IDEN879,Table 1/V.26 bis,IDEN
+IDEN880,circuits 105 or 107 and 106,IDEN
+IDEN881,binary 0,IDEN
+IDEN882,binary 1,IDEN
+IDEN883,ITU-T X.1060,IDEN
+IDEN884,CDC,IDEN
+IDEN885,cyber defence centre (CDC),IDEN
+IDEN886,chief security officer (CSO),IDEN
+IDEN887,chief information security officer (CISO),IDEN
+IDEN888,Security Information and Event Management (SIEM),IDEN
+IDEN889,Intrusion Detection System (IDS),IDEN
+IDEN890,Intrusion Prevention System (IPS),IDEN
+IDEN891,Web Application Firewall (WAF),IDEN
+IDEN892,Advanced Persistent Threat (APT),IDEN
+IDEN893,stealthy threat actor,IDEN
+IDEN894,Computer Security Incident Response Team (CSIRT),IDEN
+IDEN895,Service Level Agreement (SLA),IDEN
+IDEN896,Framework for the creation and operation of a cyber defence centre,IDEN
+IDEN897,ITU-T X.1061,IDEN
+IDEN898,Recommendation ITU-T X.1061,IDEN
+IDEN899,cyber insurance,IDEN
+IDEN900,insurer,IDEN
+IDEN901,cyber incident,IDEN
+IDEN902,insured,IDEN
+IDEN903,effective date of insurance cover,IDEN
+IDEN904,ITU-T X.1080.0,IDEN
+IDEN905,Diffie-Hellman,IDEN
+IDEN906,PKI,IDEN
+IDEN907,http://www.itu.int/ITU-T/ipr/,IDEN
+IDEN908,ITU-T X.1080.1,IDEN
+IDEN909,e-Health,IDEN
+IDEN910,telebiometrics,IDEN
+IDEN911,object identifiers,IDEN
+IDEN912,CMS,IDEN
+IDEN913,ITUEHP protocol,IDEN
+IDEN914,ITU-T E-Health Protocol,IDEN
+IDEN915,telemedicines,IDEN
+IDEN916,biometric processing unit (BPU),IDEN
+IDEN917,operator,IDEN
+IDEN918,ITU-T X.1080.2,IDEN
+IDEN919,Biology-to-machine (B2M) protocol,IDEN
+IDEN920,Recommendation ITU-T X.1080.2,IDEN
+IDEN921,Recommendation ITU-T X.1081,IDEN
+IDEN922,Recommendation ITU-T G.657,IDEN
+IDEN923,category A,IDEN
+IDEN924,ITU-T G.652 single-mode fibres,IDEN
+IDEN925,category B,IDEN
+IDEN926,Recommendation ITU-T G.652,IDEN
+IDEN927,ITU-T G.661,IDEN
+IDEN928,ITU-T Recommendation G.661,IDEN
+IDEN929,ITU-T Recommendation G.662,IDEN
+IDEN930,ITU-T Recommendation G.663,IDEN
+IDEN931,ITU-T Recommendation G.665,IDEN
+IDEN932,ITU-T Recommendation G.680,IDEN
+IDEN933,IEC 61290,IDEN
+IDEN934,IEC 61291-1,IDEN
+IDEN935,Amplified Spontaneous Emission (ASE),IDEN
+IDEN936,Bit Error Ratio (BER),IDEN
+IDEN937,Differential Group Delay (DGD),IDEN
+IDEN938,Erbium-Doped (silica-based) Fibre Amplifier (EDFA),IDEN
+IDEN939,EDFA,IDEN
+IDEN940,Noise Figure (NF),IDEN
+IDEN941,Optical Network Element (ONE),IDEN
+IDEN942,Semiconductor Optical Amplifier (SOA),IDEN
+IDEN943,SOA,IDEN
+IDEN944,State Of Polarization (SOP),IDEN
+IDEN945,Test Method (TM),IDEN
+IDEN946,Optically Amplified Transmitter (OAT),IDEN
+IDEN947,Optically Amplified Receiver (OAR),IDEN
+IDEN948,[ITU-T G.665],IDEN
+IDEN949,manufacturer,IDEN
+IDEN950,OA,IDEN
+IDEN951,temperature,IDEN
+IDEN952,gain,IDEN
+IDEN953,pump laser injection current,IDEN
+IDEN954,ITU-T G.662,IDEN
+IDEN955,ITU-T Recommendation A.8,IDEN
+IDEN956,IEC 61292-3,IDEN
+IDEN957,ITU-T G.663,IDEN
+IDEN958,Recommendation ITU-T G.663,IDEN
+IDEN959,ITU-T G.664,IDEN
+IDEN960,IEC 60825-2,IDEN
+IDEN961,ITU-T X.1081,IDEN
+IDEN962,ISO/IEC 80000-series,IDEN
+IDEN963,human being,IDEN
+IDEN964,International System of Units,IDEN
+IDEN965,ISO/IEC 80000,IDEN
+IDEN966,ITU-T X.1082,IDEN
+IDEN967,Amendment 2,IDEN
+IDEN968,Recommendation ITU-T X.1082,IDEN
+IDEN969,CALOR,IDEN
+IDEN970,TANGO-IN,IDEN
+IDEN971,TANGO-OUT,IDEN
+IDEN972,VIDEO-IN,IDEN
+IDEN973,VIDEO-OUT,IDEN
+IDEN974,AUDIO-IN,IDEN
+IDEN975,AUDIO-OUT,IDEN
+IDEN976,CHEMO-IN,IDEN
+IDEN977,CHEMO-OUT,IDEN
+IDEN978,RADIO-IN,IDEN
+IDEN979,RADIO-OUT,IDEN
+IDEN980,CALOR-IN,IDEN
+IDEN981,CALOR-OUT,IDEN
+IDEN982,ITU-T study groups,IDEN
+IDEN983,telebiometric multimodal model (TMM),IDEN
+IDEN984,ITU-T V.150.0,IDEN
+IDEN985,ITU-T Recommendation V.150.0,IDEN
+IDEN986,ITU-T Rec. V.150.1,IDEN
+IDEN987,modem signals,IDEN
+IDEN988,FoIP,IDEN
+IDEN989,MoIP,IDEN
+IDEN990,PDU,IDEN
+IDEN991,SDP,IDEN
+IDEN992,Session Description Protocol,IDEN
+IDEN993,ToIP,IDEN
+IDEN994,VoIP,IDEN
+IDEN995,ITU-T V.150.1,IDEN
+IDEN996,V-series DCEs,IDEN
+IDEN997,ITU-T Rec. V.151,IDEN
+IDEN998,ITU-T Rec. V.152,IDEN
+IDEN999,ITU-T Rec. T.38,IDEN
+IDEN1000,FoIP/ToIP,IDEN
+IDEN1001,ITU-T V.151,IDEN
+IDEN1002,ITU-T Recommendation V.151,IDEN
+IDEN1003,Annex E,IDEN
+IDEN1004,T.140 character data,IDEN
+IDEN1005,IETF RFC 2198,IDEN
+IDEN1006,historic RFC,IDEN
+IDEN1007,Text over IP,IDEN
+IDEN1008,V.150.1,IDEN
+IDEN1009,V.152,IDEN
+IDEN1010,V.8 CI/XCI,IDEN
+IDEN1011,ITU-T X.1083,IDEN
+IDEN1012,BioAPI interworking protocol (BIP),IDEN
+IDEN1013,ITU-T Rec. X.1083 | ISO/IEC 24708,IDEN
+IDEN1014,ISO/IEC 24708,IDEN
+IDEN1015,ITU-T Recommendation X.1083,IDEN
+IDEN1016,BioAPI-conforming application,IDEN
+IDEN1017,BioAPI framework,IDEN
+IDEN1018,ISO/IEC 19784-1,IDEN
+IDEN1019,BIP messages,IDEN
+IDEN1020,ITU-T X.1084,IDEN
+IDEN1021,Telebiometric authentication profiles,IDEN
+IDEN1022,telebiometric authentication protocol,IDEN
+IDEN1023,Recommendation ITU-T X.1084,IDEN
+IDEN1024,ISO/IEC JTC 1/SC 37,IDEN
+IDEN1025,b-SC37SD2V8,IDEN
+IDEN1026,ITU-T X.1085,IDEN
+IDEN1027,Biometric hardware security module (BHSM),IDEN
+IDEN1028,ITU-T X.509 certificate,IDEN
+IDEN1029,proposed scheme,IDEN
+IDEN1030,ISO/IEC 17922,IDEN
+IDEN1031,Registration authority (RA),IDEN
+IDEN1032,Certification authority (CA),IDEN
+IDEN1033,BHSM,IDEN
+IDEN1034,Pseudonymous identifier (PSID),IDEN
+IDEN1035,ISO/IEC 24761,IDEN
+IDEN1036,ITU-T X.1086,IDEN
+IDEN1037,Recommendation ITU-T X.1086,IDEN
+IDEN1038,ITU-T X.1087,IDEN
+IDEN1039,Biometric technology,IDEN
+IDEN1040,Mobile devices,IDEN
+IDEN1041,Telebiometric applications,IDEN
+IDEN1042,E-payment,IDEN
+IDEN1043,Fast identity on-line (FIDO),IDEN
+IDEN1044,Telebiometric authentication model,IDEN
+IDEN1045,Biometric hardware security module,IDEN
+IDEN1046,Personally identifiable information (PII),IDEN
+IDEN1047,ITU-T X.1088,IDEN
+IDEN1048,biometric certificate,IDEN
+IDEN1049,Telebiometrics digital key framework (TDK),IDEN
+IDEN1050,Recommendation ITU-T X.1088,IDEN
+IDEN1051,ITU-T X.1089,IDEN
+IDEN1052,Telebiometrics authentication infrastructure (TAI),IDEN
+IDEN1053,X.509,IDEN
+IDEN1054,ITU-T X.509,IDEN
+IDEN1055,Recommendation ITU-T X.509,IDEN
+IDEN1056,Public key infrastructure (PKI),IDEN
+IDEN1057,Privilege management infrastructure (PMI),IDEN
+IDEN1058,Biometric certificate,IDEN
+IDEN1059,Biometric policy certificate,IDEN
+IDEN1060,Biometric device certificate,IDEN
+IDEN1061,X.509 certificates,IDEN
+IDEN1062,ITU-T X.1090,IDEN
+IDEN1063,client,IDEN
+IDEN1064,server,IDEN
+IDEN1065,ITU-T X.1091,IDEN
+IDEN1066,Recommendation ITU-T X.1091,IDEN
+IDEN1067,ISO 24745,IDEN
+IDEN1068,ISO/IEC 24745:2011,IDEN
+IDEN1069,biometric data subject,IDEN
+IDEN1070,individuals,IDEN
+IDEN1071,ITU-T X.1092,IDEN
+IDEN1072,e-health,IDEN
+IDEN1073,biometric data,IDEN
+IDEN1074,private information,IDEN
+IDEN1075,e-health centre,IDEN
+IDEN1076,e-health terminal,IDEN
+IDEN1077,medical staff,IDEN
+IDEN1078,doctors,IDEN
+IDEN1079,nurses,IDEN
+IDEN1080,sensor,IDEN
+IDEN1081,remote medical systems,IDEN
+IDEN1082,public-key infrastructure (PKI),IDEN
+IDEN1083,electronic signature passwords,IDEN
+IDEN1084,biometric technology,IDEN
+IDEN1085,security technologies,IDEN
+IDEN1086,telemedicine,IDEN
+IDEN1087,ITU-T X.1093,IDEN
+IDEN1088,encrypted digital certificate,IDEN
+IDEN1089,other relevant identity information,IDEN
+IDEN1090,ITU-T X.1094,IDEN
+IDEN1091,electroencephalogram (EEG),IDEN
+IDEN1092,electrocardiogram (ECG),IDEN
+IDEN1093,photoplethysmogram (PPG),IDEN
+IDEN1094,ballistocardiogram (BCG),IDEN
+IDEN1095,Recommendation ITU-T X.1094,IDEN
+IDEN1096,ITU-T X.1095,IDEN
+IDEN1097,multimodal telebiometrics,IDEN
+IDEN1098,pet animals,IDEN
+IDEN1099,biometric capture devices,IDEN
+IDEN1100,digital cameras,IDEN
+IDEN1101,mobile cameras,IDEN
+IDEN1102,infrared cameras,IDEN
+IDEN1103,high-speed cameras,IDEN
+IDEN1104,optical scanners,IDEN
+IDEN1105,nose patterns,IDEN
+IDEN1106,faces,IDEN
+IDEN1107,guardian,IDEN
+IDEN1108,ITU-T X.110,IDEN
+IDEN1109,X.25,IDEN
+IDEN1110,Frame Relay,IDEN
+IDEN1111,ITU-T Recommendation X.110,IDEN
+IDEN1112,ITU-T X.111,IDEN
+IDEN1113,Recommendation X.111,IDEN
+IDEN1114,ITU-T Recommendation X.111,IDEN
+IDEN1115,ITU-T Rec. X.76,IDEN
+IDEN1116,PVC,IDEN
+IDEN1117,SVC,IDEN
+IDEN1118,ITU-T Rec. X.110,IDEN
+IDEN1119,E.164,IDEN
+IDEN1120,X.121,IDEN
+IDEN1121,X.124,IDEN
+IDEN1122,X.125,IDEN
+IDEN1123,international network identification codes,IDEN
+IDEN1124,ITU-T Recommendation V.27,IDEN
+IDEN1125,4800 BITS PER SECOND MODEM WITH MANUAL EQUALIZER,IDEN
+IDEN1126,M.1020,IDEN
+IDEN1127,Recommendation V.23,IDEN
+IDEN1128,Recommendation V.27 bis,IDEN
+IDEN1129,ITU-T Recommendation V.27 bis,IDEN
+IDEN1130,4800/2400 BITS PER SECOND MODEM,IDEN
+IDEN1131,Table 6/V.27 bis,IDEN
+IDEN1132,ITU-T Recommendation V.27 ter,IDEN
+IDEN1133,ITU-T Study Group 7,IDEN
+IDEN1134,ITU-T Recommendation X.115,IDEN
+IDEN1135,Recommendation X.115,IDEN
+IDEN1136,address,IDEN
+IDEN1137,desired address,IDEN
+IDEN1138,ATM,IDEN
+IDEN1139,ARE,IDEN
+IDEN1140,N1,IDEN
+IDEN1141,DTE A, B or C,IDEN
+IDEN1142,alternative address,IDEN
+IDEN1143,Alternative address N1,IDEN
+IDEN1144,E.164 address a,IDEN
+IDEN1145,E.164 address b,IDEN
+IDEN1146,ARP,IDEN
+IDEN1147,IARE,IDEN
+IDEN1148,ITU-T Recommendation X.116,IDEN
+IDEN1149,Recommendation X.116,IDEN
+IDEN1150,ISO/IEC 8208,IDEN
+IDEN1151,Address Resolution Entity,IDEN
+IDEN1152,DTEs,IDEN
+IDEN1153,Network Layer,IDEN
+IDEN1154,Recommendation X.200,IDEN
+IDEN1155,ISO/IEC 7498-1,IDEN
+IDEN1156,Network Service Access Point,IDEN
+IDEN1157,Recommendation X.200 | ISO/IEC 7498-1,IDEN
+IDEN1158,Network Service Access Point Address,IDEN
+IDEN1159,Network Point of Attachment,IDEN
+IDEN1160,Network Protocol Data Unit,IDEN
+IDEN1161,Routeing,IDEN
+IDEN1162,Subnetwork,IDEN
+IDEN1163,Alternative Address,IDEN
+IDEN1164,alternative address related information,IDEN
+IDEN1165,E.164 addresses,IDEN
+IDEN1166,redirection information,IDEN
+IDEN1167,address resolution entity,IDEN
+IDEN1168,ECQ-PDU,IDEN
+IDEN1169,ENC-PDU,IDEN
+IDEN1170,ESC-PDU,IDEN
+IDEN1171,ESH-PDU,IDEN
+IDEN1172,RD-PDU,IDEN
+IDEN1173,SCC-PDU,IDEN
+IDEN1174,SCR-PDU,IDEN
+IDEN1175,SNC-PDU,IDEN
+IDEN1176,SRN-PDU,IDEN
+IDEN1177,AA,IDEN
+IDEN1178,BCD,IDEN
+IDEN1179,NPA,IDEN
+IDEN1180,X.121 address,IDEN
+IDEN1181,E.164 address,IDEN
+IDEN1182,QOS,IDEN
+IDEN1183,SNAcF,IDEN
+IDEN1184,SNAcP,IDEN
+IDEN1185,ITU-T Recommendation X.121,IDEN
+IDEN1186,International Numbering Plan for Public Data Networks,IDEN
+IDEN1187,Data Country Codes,IDEN
+IDEN1188,Data Network Identification Codes,IDEN
+IDEN1189,Global Data Network Identification Code,IDEN
+IDEN1190,Private Network Identification Codes,IDEN
+IDEN1191,Data Country codes,IDEN
+IDEN1192,ITU Telecommunication Standardization Sector,IDEN
+IDEN1193,Public data networks,IDEN
+IDEN1194,Numbering Plan,IDEN
+IDEN1195,International data number,IDEN
+IDEN1196,ITU-T Recommendation X.123,IDEN
+IDEN1197,Recommendation X.123,IDEN
+IDEN1198,Escape code 0,IDEN
+IDEN1199,Escape code 9,IDEN
+IDEN1200,escape codes 9 and 0,IDEN
+IDEN1201,TOA/NPI,IDEN
+IDEN1202,escape codes,IDEN
+IDEN1203,Numbering Plan Identifier (NPI),IDEN
+IDEN1204,E.164 number,IDEN
+IDEN1205,Escape code 0,IDEN
+IDEN1206,Recommendation E.165.1 (1996),IDEN
+IDEN1207,escape code 0,IDEN
+IDEN1208,ITU-T Recommendation E.164,IDEN
+IDEN1209,ITU-T Recommendation E.165,IDEN
+IDEN1210,ITU-T Recommendation E.165.1,IDEN
+IDEN1211,ITU-T Recommendation E.166/X.122,IDEN
+IDEN1212,ITU-T Recommendation X.25,IDEN
+IDEN1213,ITU-T Recommendation X.75,IDEN
+IDEN1214,ITU-T Recommendation X.124,IDEN
+IDEN1215,Public Frame Relay Data Networks (PFRDNs),IDEN
+IDEN1216,B-ISDN (ATM) networks,IDEN
+IDEN1217,Numbering Plan Identifier (NPI) method,IDEN
+IDEN1218,ATM End System Address (AESA),IDEN
+IDEN1219,NSAP,IDEN
+IDEN1220,Network Service Access Point (NSAP),IDEN
+IDEN1221,AESA,IDEN
+IDEN1222,ITU-T X.125,IDEN
+IDEN1223,International Network Identification Codes,IDEN
+IDEN1224,Telecommunication Standardization Bureau (TSB),IDEN
+IDEN1225,Recommendation I.610,IDEN
+IDEN1226,Network Identification Codes,IDEN
+IDEN1227,ITU-T Recommendation X.125,IDEN
+IDEN1228,International Network Identification Code,IDEN
+IDEN1229,ITU-T Recommendation X.130,IDEN
+IDEN1230,Recommendations X.21 and X.21 bis,IDEN
+IDEN1231,Recommendation X.1,IDEN
+IDEN1232,Recommendation X.21,IDEN
+IDEN1233,Recommendation X.60,IDEN
+IDEN1234,Recommendation X.71,IDEN
+IDEN1235,Recommendation X.92,IDEN
+IDEN1236,Recommendation X.213,IDEN
+IDEN1237,Recommendation X.140,IDEN
+IDEN1238,ITU-T Recommendation X.131,IDEN
+IDEN1239,X.21 bis,IDEN
+IDEN1240,Recommendation X.130,IDEN
+IDEN1241,Recommendation X.131,IDEN
+IDEN1242,Type 1,IDEN
+IDEN1243,Type 2,IDEN
+IDEN1244,Figure 1 /X.131,IDEN
+IDEN1245,blocking probability,IDEN
+IDEN1246,forecast traffic,IDEN
+IDEN1247,calling DTE,IDEN
+IDEN1248,called DTE,IDEN
+IDEN1249,Connection type 1,IDEN
+IDEN1250,Connection type 2,IDEN
+IDEN1251,Table 1/X.131,IDEN
+IDEN1252,ITU-T Recommendation X.134,IDEN
+IDEN1253,World Telecommunication Standardization Conference,IDEN
+IDEN1254,ITU-T Recommendation X.135,IDEN
+IDEN1255,ITU-T Recommendation X.136,IDEN
+IDEN1256,ITU-T Recommendation X.137,IDEN
+IDEN1257,access circuit section,IDEN
+IDEN1258,local DSE,IDEN
+IDEN1259,internetwork circuit section,IDEN
+IDEN1260,circuit section,IDEN
+IDEN1261,network section,IDEN
+IDEN1262,access network section,IDEN
+IDEN1263,transit network section,IDEN
+IDEN1264,basic section,IDEN
+IDEN1265,section boundary,IDEN
+IDEN1266,national portion,IDEN
+IDEN1267,international portion,IDEN
+IDEN1268,packet-layer reference events,IDEN
+IDEN1269,performance matrix,IDEN
+IDEN1270,primary parameters,IDEN
+IDEN1271,X.135,IDEN
+IDEN1272,X.136,IDEN
+IDEN1273,two-state model,IDEN
+IDEN1274,binary random process,IDEN
+IDEN1275,Recommendation X.137,IDEN
+IDEN1276,OSI Network service,IDEN
+IDEN1277,DTE/DCE interface,IDEN
+IDEN1278,ITU-T X.135,IDEN
+IDEN1279,CCITT X.136,IDEN
+IDEN1280,Recommendation X.323,IDEN
+IDEN1281,Recommendation X.96,IDEN
+IDEN1282,Recommendation X.134,IDEN
+IDEN1283,Recommendation X.135,IDEN
+IDEN1284,Recommendation X.136,IDEN
+IDEN1285,X.130-Series Recommendations,IDEN
+IDEN1286,5.1,IDEN
+IDEN1287,Each parameter,IDEN
+IDEN1288,ITU-T Recommendation X.138,IDEN
+IDEN1289,International packet-switched services,IDEN
+IDEN1290,speed of service,IDEN
+IDEN1291,Recommendations X.136 and X.137,IDEN
+IDEN1292,clause 4/X.136,IDEN
+IDEN1293,clause 5/X.136,IDEN
+IDEN1294,ITU (International Telecommunication Union),IDEN
+IDEN1295,C,M/C,M,IDEN
+IDEN1296,ITU-T Recommendation X.139,IDEN
+IDEN1297,Recommendation X.138,IDEN
+IDEN1298,4.1/X.138,IDEN
+IDEN1299,4.2/X.135,IDEN
+IDEN1300,Figure 2/X.135,IDEN
+IDEN1301,clause 5/X.135,IDEN
+IDEN1302,clause 6/X.135,IDEN
+IDEN1303,clause 7/X.135,IDEN
+IDEN1304,X.75,IDEN
+IDEN1305,X.96,IDEN
+IDEN1306,X.110,IDEN
+IDEN1307,X.134,IDEN
+IDEN1308,X.137,IDEN
+IDEN1309,X.138,IDEN
+IDEN1310,ITU-T Recommendation X.138 (1997),IDEN
+IDEN1311,X.140,IDEN
+IDEN1312,X.213,IDEN
+IDEN1313,X.323,IDEN
+IDEN1314,PSPDNs,IDEN
+IDEN1315,OSI,IDEN
+IDEN1316,RR,IDEN
+IDEN1317,STE,IDEN
+IDEN1318,CCITT X.140,IDEN
+IDEN1319,Study Group VII,IDEN
+IDEN1320,General Quality of Service Parameters,IDEN
+IDEN1321,Public Data Networks (PDNs),IDEN
+IDEN1322,Quality of Service (QOS),IDEN
+IDEN1323,Open Systems Interconnection (OSI),IDEN
+IDEN1324,OSI network service,IDEN
+IDEN1325,Electronic funds transfer (EFT),IDEN
+IDEN1326,Hypothetical reference connection (HRX),IDEN
+IDEN1327,X.131,IDEN
+IDEN1328,X.130,IDEN
+IDEN1329,ITU-T V.152,IDEN
+IDEN1330,Voice-band data (VBD),IDEN
+IDEN1331,Internet Protocol (IP),IDEN
+IDEN1332,Echo canceller,IDEN
+IDEN1333,Session Description Protocol (SDP),IDEN
+IDEN1334,clause 7.1,IDEN
+IDEN1335,ITU-T H.245,IDEN
+IDEN1336,State Signalling Events (SSE),IDEN
+IDEN1337,ITU-T G.711,IDEN
+IDEN1338,ITU-T G.726,IDEN
+IDEN1339,ITU-T V.153,IDEN
+IDEN1340,ITU-T T.38,IDEN
+IDEN1341,ITU-T Recommendation V.16,IDEN
+IDEN1342,ECG (electro-cardiogram),IDEN
+IDEN1343,modems,IDEN
+IDEN1344,fn,IDEN
+IDEN1345,pn,IDEN
+IDEN1346,Recommendations V.3 and V.4,IDEN
+IDEN1347,Recommendation V.24,IDEN
+IDEN1348,recorder,IDEN
+IDEN1349,Recommendation V.28,IDEN
+IDEN1350,V.31,IDEN
+IDEN1351,ITU-T X.142,IDEN
+IDEN1352,ITU-T Rec. X.140,IDEN
+IDEN1353,7.2,IDEN
+IDEN1354,ITU-T Recommendation X.142,IDEN
+IDEN1355,ITU-T X.144,IDEN
+IDEN1356,ITU-T Rec. X.147,IDEN
+IDEN1357,ITU-T Rec. X.146,IDEN
+IDEN1358,ITU-T Rec. X.148,IDEN
+IDEN1359,ITU-T X.145,IDEN
+IDEN1360,Recommendation X.145,IDEN
+IDEN1361,ITU-T Rec. X.144,IDEN
+IDEN1362,ITU-T Recommendation X.145,IDEN
+IDEN1363,ITU-T Recommendation X.146,IDEN
+IDEN1364,SVC service,IDEN
+IDEN1365,frame relay PVC,IDEN
+IDEN1366,committed frame loss ratio,IDEN
+IDEN1367,frame transfer delay,IDEN
+IDEN1368,service class,IDEN
+IDEN1369,ITU-T X.36,IDEN
+IDEN1370,X.76,IDEN
+IDEN1371,ITU-T X.76,IDEN
+IDEN1372,ITU-T X.134,IDEN
+IDEN1373,Figure 1,IDEN
+IDEN1374,Abstract Syntax Notation One (ASN.1),IDEN
+IDEN1375,X.680–X.699,IDEN
+IDEN1376,X.700–X.709,IDEN
+IDEN1377,ITU-T X.147,IDEN
+IDEN1378,8.3,IDEN
+IDEN1379,ITU-T Rec. G.827,IDEN
+IDEN1380,Table 2,IDEN
+IDEN1381,ITU-T Recommendation G.827,IDEN
+IDEN1382,MTBO,IDEN
+IDEN1383,air-route distance,IDEN
+IDEN1384,ITU-T X.148,IDEN
+IDEN1385,SVCs,IDEN
+IDEN1386,PVCs,IDEN
+IDEN1387,ITU-T Recommendation X.148 (2003),IDEN
+IDEN1388,ITU-T Rec. X.l38,IDEN
+IDEN1389,ITU-T X.149,IDEN
+IDEN1390,Recommendation X.149,IDEN
+IDEN1391,ITU-T Recommendation X.149,IDEN
+IDEN1392,ITU-T Rec. Y.1541,IDEN
+IDEN1393,ITU-T Recommendation E.651,IDEN
+IDEN1394,ITU-T Recommendation G.114,IDEN
+IDEN1395,ITU-T Recommendation G.1000,IDEN
+IDEN1396,ITU-T Recommendation G.1010,IDEN
+IDEN1397,ITU-T Recommendation X.36,IDEN
+IDEN1398,ITU-T Recommendation X.76,IDEN
+IDEN1399,ITU-T Recommendation X.140,IDEN
+IDEN1400,ITU-T Recommendation X.144,IDEN
+IDEN1401,ITU-T Recommendation Y.1221,IDEN
+IDEN1402,ITU-T Recommendation Y.1231,IDEN
+IDEN1403,ITU-T Recommendation Y.1540,IDEN
+IDEN1404,ITU-T Recommendation Y.1541,IDEN
+IDEN1405,IETF RFC 791,IDEN
+IDEN1406,ITU-T Recommendation X.150,IDEN
+IDEN1407,Loop 3d,IDEN
+IDEN1408,Loop 3c,IDEN
+IDEN1409,Loop 3b,IDEN
+IDEN1410,Loop 3a,IDEN
+IDEN1411,Loop 4a,IDEN
+IDEN1412,Loop 4b,IDEN
+IDEN1413,Loop 2b,IDEN
+IDEN1414,Administration's test centre(s),IDEN
+IDEN1415,remote DTE,IDEN
+IDEN1416,Loop 2a,IDEN
+IDEN1417,ITU-T X.151,IDEN
+IDEN1418,ITU-T Recommendation X.151,IDEN
+IDEN1419,FRF.19,IDEN
+IDEN1420,Frame Relay OAM Maintenance Point,IDEN
+IDEN1421,Figures 1 and 2,IDEN
+IDEN1422,ITU-T Recommendation I.370,IDEN
+IDEN1423,ITU-T Recommendation I.555,IDEN
+IDEN1424,ITU-T Recommendation I.610,IDEN
+IDEN1425,ITU-T Recommendation X.160,IDEN
+IDEN1426,Customer Network Management (CNM),IDEN
+IDEN1427,Recommendations,IDEN
+IDEN1428,Public Data Networks,IDEN
+IDEN1429,TMN,IDEN
+IDEN1430,ITU-T Recommendation X.281,IDEN
+IDEN1431,ISO/IEC 13642:1996,IDEN
+IDEN1432,ITU-T Recommendation X.281 (1995),IDEN
+IDEN1433,CCITT Recommendation X.701,IDEN
+IDEN1434,ISO/IEC 10040:1992,IDEN
+IDEN1435,ITU-T X.161,IDEN
+IDEN1436,ITU-T X.161 recommendation,IDEN
+IDEN1437,ITU-T Recommendation X.161,IDEN
+IDEN1438,ISO/IEC 10040:1997,IDEN
+IDEN1439,ITU-T Recommendation X.701,IDEN
+IDEN1440,CCITT Recommendation X.721 (1992),IDEN
+IDEN1441,Recommendation X.160,IDEN
+IDEN1442,Recommendations X.162 and X.163,IDEN
+IDEN1443,ITU-T Study Group XVII,IDEN
+IDEN1444,ITU-T Recommendation V.28,IDEN
+IDEN1445,Figure 3,IDEN
+IDEN1446,clause 3,IDEN
+IDEN1447,ITU-T Recommendation V.29,IDEN
+IDEN1448,9600 BITS PER SECOND MODEM,IDEN
+IDEN1449,Recommendation M.1025,IDEN
+IDEN1450,Recommendation V.27,IDEN
+IDEN1451,Figure 1/V.29,IDEN
+IDEN1452,ITU-T V.300,IDEN
+IDEN1453,ITU-T Recommendation V.300,IDEN
+IDEN1454,7,IDEN
+IDEN1455,ITU-T Recommendation V.38,IDEN
+IDEN1456,Recommendation V.38,IDEN
+IDEN1457,G.797,IDEN
+IDEN1458,V.24,IDEN
+IDEN1459,X.24,IDEN
+IDEN1460,ITU-T Recommendation X.162,IDEN
+IDEN1461,6.3.2,IDEN
+IDEN1462,6.3.3,IDEN
+IDEN1463,6.3.5,IDEN
+IDEN1464,ITU-T Recommendation X.163,IDEN
+IDEN1465,Recommendation X.163,IDEN
+IDEN1466,CNMe realisation,IDEN
+IDEN1467,7.1.1,IDEN
+IDEN1468,7.1.2,IDEN
+IDEN1469,7.1.3,IDEN
+IDEN1470,7.2.1,IDEN
+IDEN1471,7.2.2,IDEN
+IDEN1472,7.2.5,IDEN
+IDEN1473,7.3.2,IDEN
+IDEN1474,7.4.1,IDEN
+IDEN1475,7.4.2,IDEN
+IDEN1476,7.4.3,IDEN
+IDEN1477,CNM Service Request,IDEN
+IDEN1478,8.1.1.2,IDEN
+IDEN1479,8.1.1.3,IDEN
+IDEN1480,ITU-T X.170,IDEN
+IDEN1481,Recommendation X.170,IDEN
+IDEN1482,X.200–X.209,IDEN
+IDEN1483,X.300–X.349,IDEN
+IDEN1484,X.600–X.629,IDEN
+IDEN1485,X.850–X.859,IDEN
+IDEN1486,ITU-T Recommendation X.170,IDEN
+IDEN1487,ITU-T X.1702,IDEN
+IDEN1488,NRBG,IDEN
+IDEN1489,ITU-T X.171,IDEN
+IDEN1490,Network-Network Management (NNM),IDEN
+IDEN1491,ITU-T Recommendation X.171,IDEN
+IDEN1492,WTSC Resolution 1,IDEN
+IDEN1493,carrier,IDEN
+IDEN1494,TMN X-Interface,IDEN
+IDEN1495,CNM,IDEN
+IDEN1496,NNM Alarm Notification Service,IDEN
+IDEN1497,NNM manager,IDEN
+IDEN1498,NNM Fault History Service,IDEN
+IDEN1499,NNM Trouble Report Service,IDEN
+IDEN1500,NNM Loop Set-up Service,IDEN
+IDEN1501,NNM Test Host Service,IDEN
+IDEN1502,NNM Protocol Monitoring Service,IDEN
+IDEN1503,NNM Configuration Inquiry Service,IDEN
+IDEN1504,NNM Reconfiguration Service,IDEN
+IDEN1505,NNM Ordering Service,IDEN
+IDEN1506,NNM Inventory Inquiry Service,IDEN
+IDEN1507,NNM Usage Metering Accounting Service,IDEN
+IDEN1508,NNM Traffic Information Service,IDEN
+IDEN1509,CNM Quality of Service Information Service,IDEN
+IDEN1510,NNM Network Statistics Service,IDEN
+IDEN1511,ITU-T X.1710,IDEN
+IDEN1512,Quantum communication,IDEN
+IDEN1513,Recommendation ITU-T X.1710,IDEN
+IDEN1514,Quantum key distribution networks (QKDNs),IDEN
+IDEN1515,QKDNs,IDEN
+IDEN1516,ITU-T Y.3800,IDEN
+IDEN1517,ITU-T G.665,IDEN
+IDEN1518,ITU-T G.666,IDEN
+IDEN1519,polarization mode dispersion (PMD),IDEN
+IDEN1520,PMD compensators (PMDCs),IDEN
+IDEN1521,optical signal-to-noise ratio (OSNR) penalty due to DGD,IDEN
+IDEN1522,polarization rotation speed (PRS),IDEN
+IDEN1523,principal state of polarization (PSP) rate of change,IDEN
+IDEN1524,second-order PMD (SOPMD),IDEN
+IDEN1525,ITU-T G.667,IDEN
+IDEN1526,ITU-T Recommendation G.667,IDEN
+IDEN1527,ITU-T G.671,IDEN
+IDEN1528,Recommendation ITU-T G.671,IDEN
+IDEN1529,IEC 61300-3 series,IDEN
+IDEN1530,clause 5,IDEN
+IDEN1531,ITU-T G.672,IDEN
+IDEN1532,MD-ROADM,IDEN
+IDEN1533,flexible grid,IDEN
+IDEN1534,Recommendation ITU-T G.672,IDEN
+IDEN1535,MD-ROADMs,IDEN
+IDEN1536,ITU-T X.1712,IDEN
+IDEN1537,Recommendation ITU-T X.1712,IDEN
+IDEN1538,T-K1,IDEN
+IDEN1539,T_K3,IDEN
+IDEN1540,T_A1,IDEN
+IDEN1541,T_K2-1,IDEN
+IDEN1542,T_K2-2,IDEN
+IDEN1543,T_C,IDEN
+IDEN1544,T_M,IDEN
+IDEN1545,T_C&M,IDEN
+IDEN1546,T_KMA,IDEN
+IDEN1547,T_KSA,IDEN
+IDEN1548,ITU-T X.1713,IDEN
+IDEN1549,Quantum Key Distribution (QKD),IDEN
+IDEN1550,QKD Network (QKDN),IDEN
+IDEN1551,Trusted Node (TN),IDEN
+IDEN1552,Key Manager (KM),IDEN
+IDEN1553,Key Management Agent (KMA),IDEN
+IDEN1554,Key Supply Agent (KSA),IDEN
+IDEN1555,Quantum Key Distribution Module,IDEN
+IDEN1556,Quantum Key Distribution Link,IDEN
+IDEN1557,Information Theoretic Security (ITS),IDEN
+IDEN1558,ITU-T X.1714,IDEN
+IDEN1559,Quantum communication – Security design for QKDN,IDEN
+IDEN1560,QKDN,IDEN
+IDEN1561,Recommendation ITU-T X.1714,IDEN
+IDEN1562,DATA NETWORKS, OPEN SYSTEM COMMUNICATIONS AND SECURITY,IDEN
+IDEN1563,INFORMATION,IDEN
+IDEN1564,NETWORK SECURITY,IDEN
+IDEN1565,General security aspects X.1000–X.1029,IDEN
+IDEN1566,Security protocols (1) X.1150–X.1159,IDEN
+IDEN1567,ITU-T X.1715,IDEN
+IDEN1568,Recommendation ITU-T X.1715,IDEN
+IDEN1569,ITU-T X.1716,IDEN
+IDEN1570,Quantum Key Distribution Network (QKDN),IDEN
+IDEN1571,Identifiers (IDs),IDEN
+IDEN1572,ITU-T X.1717,IDEN
+IDEN1573,QKDN controller,IDEN
+IDEN1574,QKDN manager,IDEN
+IDEN1575,Quantum key distribution (QKD),IDEN
+IDEN1576,QKD link,IDEN
+IDEN1577,QKD module,IDEN
+IDEN1578,ITU-T X.1750,IDEN
+IDEN1579,Big Data Security,IDEN
+IDEN1580,Big Data as a Service (BDaaS),IDEN
+IDEN1581,Recommendation ITU-T X.1750,IDEN
+IDEN1582,Big data service providers (BDSPs),IDEN
+IDEN1583,Big data service user (BDSU),IDEN
+IDEN1584,Big data service partner (BDSN),IDEN
+IDEN1585,Data provider (DP),IDEN
+IDEN1586,Public Key Infrastructure (PKI),IDEN
+IDEN1587,Security Assertion Markup Language (SAML),IDEN
+IDEN1588,Secure Socket Layer (SSL),IDEN
+IDEN1589,Transport Layer Security (TLS),IDEN
+IDEN1590,Universal Serial Bus (USB),IDEN
+IDEN1591,Information Technology (IT),IDEN
+IDEN1592,Personally Identifiable Information (PII),IDEN
+IDEN1593,Attribute-Based Access Control (ABAC),IDEN
+IDEN1594,Application Programming Interface (API),IDEN
+IDEN1595,Software Development Kit (SDK),IDEN
+IDEN1596,CCITT V.17,IDEN
+IDEN1597,Study Group XVII,IDEN
+IDEN1598,Recommendation V.17,IDEN
+IDEN1599,ITU-T V.18,IDEN
+IDEN1600,ITU-T Recommendation V.18,IDEN
+IDEN1601,ANSI TIA/EIA-825 (2000),IDEN
+IDEN1602,5-bit mode,IDEN
+IDEN1603,Frequency Shift Keyed Modem,IDEN
+IDEN1604,Public Switched Telephone Network,IDEN
+IDEN1605,ITU-T Recommendation V.19,IDEN
+IDEN1606,MODEMS FOR PARALLEL DATA TRANSMISSION,IDEN
+IDEN1607,Recommendation Q.23,IDEN
+IDEN1608,Recommendation V.23 type modem,IDEN
+IDEN1609,Recommendation V.21 type modem,IDEN
+IDEN1610,ITU-T X.1751,IDEN
+IDEN1611,X.1750–X.1759,IDEN
+IDEN1612,telecommunication operators,IDEN
+IDEN1613,big data technology,IDEN
+IDEN1614,telecommunication big data services,IDEN
+IDEN1615,ITU-T X.1752,IDEN
+IDEN1616,General security aspects,IDEN
+IDEN1617,Web security (1),IDEN
+IDEN1618,Application Security (1),IDEN
+IDEN1619,ITU-T X.1770,IDEN
+IDEN1620,MPC,IDEN
+IDEN1621,ITU-T X.1771,IDEN
+IDEN1622,data principal,IDEN
+IDEN1623,Stakeholder,IDEN
+IDEN1624,privacy stakeholder,IDEN
+IDEN1625,data controller,IDEN
+IDEN1626,combining key,IDEN
+IDEN1627,identifying attributes,IDEN
+IDEN1628,ICT,IDEN
+IDEN1629,PII,IDEN
+IDEN1630,Personally Identifiable Information,IDEN
+IDEN1631,TTP,IDEN
+IDEN1632,ITU -T,IDEN
+IDEN1633,ITU-T Recommendation X.180,IDEN
+IDEN1634,international CUGs,IDEN
+IDEN1635,responsible subscriber,IDEN
+IDEN1636,coordinating Administration,IDEN
+IDEN1637,international CUG number (ICN),IDEN
+IDEN1638,DNIC or DCC,IDEN
+IDEN1639,ICN,IDEN
+IDEN1640,INIC,IDEN
+IDEN1641,E.164 country code,IDEN
+IDEN1642,ISDN Network Identification Code (INIC),IDEN
+IDEN1643,ITU-T Recommendation X.181,IDEN
+IDEN1644,permanent virtual circuit service,IDEN
+IDEN1645,international permanent virtual circuit,IDEN
+IDEN1646,source Administration,IDEN
+IDEN1647,destination Administration,IDEN
+IDEN1648,Source Administration,IDEN
+IDEN1649,international numbers of both subscriber DTEs,IDEN
+IDEN1650,throughput class,IDEN
+IDEN1651,name of the international PVC,IDEN
+IDEN1652,Note 3,IDEN
+IDEN1653,quality of service parameters,IDEN
+IDEN1654,Note 4,IDEN
+IDEN1655,service inauguration date and lifetime of the international PVC,IDEN
+IDEN1656,STE X/Y interface,IDEN
+IDEN1657,logical channel group number and logical channel number,IDEN
+IDEN1658,window size,IDEN
+IDEN1659,§ 4.1,IDEN
+IDEN1660,packet size,IDEN
+IDEN1661,ITU-T X.2,IDEN
+IDEN1662,ITU-T Recommendation X.2,IDEN
+IDEN1663,PSPDN,IDEN
+IDEN1664,INTERNATIONAL TELECOMMUNICATION UNION,IDEN
+IDEN1665,TELECOMMUNICATION STANDARDIZATION SECTOR,IDEN
+IDEN1666,Recommendation X.20,IDEN
+IDEN1667,Data Circuit-Terminating Equipment (DCE),IDEN
+IDEN1668,Recommendation X.24,IDEN
+IDEN1669,Recommendation X.26,IDEN
+IDEN1670,Recommendation X.27,IDEN
+IDEN1671,ISO 4903,IDEN
+IDEN1672,Recommendation T.50,IDEN
+IDEN1673,ITU-T Recommendation X.20 bis,IDEN
+IDEN1674,Data Circuit Terminating Equipment (DCE),IDEN
+IDEN1675,circuit 107 - Data set ready,IDEN
+IDEN1676,circuit 108/1 - Connect data set to line,IDEN
+IDEN1677,circuit 108/2,IDEN
+IDEN1678,circuit 108/2 - Data terminal ready,IDEN
+IDEN1679,circuit 108/1,IDEN
+IDEN1680,circuit 125 - Calling indicator,IDEN
+IDEN1681,circuit 107,IDEN
+IDEN1682,ITU-T Recommendation V.31,IDEN
+IDEN1683,Figure 1/V.31,IDEN
+IDEN1684,open circuit voltage Vr,IDEN
+IDEN1685,current IS,IDEN
+IDEN1686,Table 1/V.31,IDEN
+IDEN1687,ITU-T Recommendation V.31 bis,IDEN
+IDEN1688,Recommendation V.31,IDEN
+IDEN1689,capacitance,IDEN
+IDEN1690,Vs,IDEN
+IDEN1691,Vr,IDEN
+IDEN1692,I1,IDEN
+IDEN1693,I0,IDEN
+IDEN1694,ITU-T Recommendation V.32,IDEN
+IDEN1695,Recommendation V.32,IDEN
+IDEN1696,Radiocommunication Sector,IDEN
+IDEN1697,CCIR,IDEN
+IDEN1698,IFRB,IDEN
+IDEN1699,General Switched Telephone Network (GSTN),IDEN
+IDEN1700,Recommendations V.14 or V.42,IDEN
+IDEN1701,circuit 113 or 114,IDEN
+IDEN1702,circuit 114,IDEN
+IDEN1703,circuit 111,IDEN
+IDEN1704,ISO 2110,IDEN
+IDEN1705,ITU-T Recommendation X.21 bis,IDEN
+IDEN1706,V-Series DTEs,IDEN
+IDEN1707,ISO 4902,IDEN
+IDEN1708,Recommendation V.35,IDEN
+IDEN1709,ISO standard for the assignment of the 34-pin interface connector ISO 2593,IDEN
+IDEN1710,ISO 2593,IDEN
+IDEN1711,Recommendation V.36,IDEN
+IDEN1712,X.26/X.27,IDEN
+IDEN1713,X.26,IDEN
+IDEN1714,V.36,IDEN
+IDEN1715,Table 1/X.21 bis,IDEN
+IDEN1716,modem Recommendations,IDEN
+IDEN1717,circuit 109,IDEN
+IDEN1718,ITU-T Recommendation X.22,IDEN
+IDEN1719,multiplex DCE,IDEN
+IDEN1720,public data network,IDEN
+IDEN1721,ITU-T Recommendation X.24,IDEN
+IDEN1722,Figure 1/X.24,IDEN
+IDEN1723,Circuit G,IDEN
+IDEN1724,Circuit Ga,IDEN
+IDEN1725,Circuit Gb,IDEN
+IDEN1726,Circuit T,IDEN
+IDEN1727,Circuit R,IDEN
+IDEN1728,Circuit C,IDEN
+IDEN1729,Circuit I,IDEN
+IDEN1730,Circuit S,IDEN
+IDEN1731,Circuit B,IDEN
+IDEN1732,Circuit F,IDEN
+IDEN1733,Circuit X,IDEN
+IDEN1734,public data networks,IDEN
+IDEN1735,dedicated circuit,IDEN
+IDEN1736,Corrigendum 1 to ITU-T Recommendation X.25,IDEN
+IDEN1737,ROA,IDEN
+IDEN1738,public correspondence,IDEN
+IDEN1739,modulo 8,IDEN
+IDEN1740,modulo 128,IDEN
+IDEN1741,modulo 32 768,IDEN
+IDEN1742,DCE REJ (modulo 32 768)a),IDEN
+IDEN1743,diagnostic packet,IDEN
+IDEN1744,erroneous DTE packet,IDEN
+IDEN1745,DCE time-out,IDEN
+IDEN1746,Table D.1,IDEN
+IDEN1747,general format identifier,IDEN
+IDEN1748,logical channel,IDEN
+IDEN1749,time-out T10,IDEN
+IDEN1750,time-out T12,IDEN
+IDEN1751,time-out T13,IDEN
+IDEN1752,virtual call,IDEN
+IDEN1753,super extended sequence numbering,IDEN
+IDEN1754,6.2,IDEN
+IDEN1755,Restart request,IDEN
+IDEN1756,DTE restart confirmation,IDEN
+IDEN1757,ITU-T Recommendation X.28,IDEN
+IDEN1758,占 (5328),IDEN
+IDEN1759,线 (4763),IDEN
+IDEN1760,空 (3153),IDEN
+IDEN1761,闲 (4748),IDEN
+IDEN1762,ITU-T X.29,IDEN
+IDEN1763,ITU-T Recommendation X.29,IDEN
+IDEN1764,PAD,IDEN
+IDEN1765,start-stop mode DTE,IDEN
+IDEN1766,packet mode DTE,IDEN
+IDEN1767,ITU-T Recommendation X.3,IDEN
+IDEN1768,Recommendation X.29,IDEN
+IDEN1769,X.2,IDEN
+IDEN1770,Recommendations X.1,IDEN
+IDEN1771,ITU-T Study Group VII,IDEN
+IDEN1772,ITU-T Recommendation X.30,IDEN
+IDEN1773,Integrated Services Digital Network (ISDN),IDEN
+IDEN1774,Terminal adaptor (TA),IDEN
+IDEN1775,X.21,IDEN
+IDEN1776,X.20 bis,IDEN
+IDEN1777,ISDN numbering scheme,IDEN
+IDEN1778,Terminals TE1 and TE2,IDEN
+IDEN1779,TA X.21,IDEN
+IDEN1780,TA X.21 bis,IDEN
+IDEN1781,TA X.20 bis,IDEN
+IDEN1782,universal TA,IDEN
+IDEN1783,ITU-T Recommendation X.300,IDEN
+IDEN1784,Packet Switched Public Data Network (PSPDN),IDEN
+IDEN1785,Circuit Switched Public Data Network (CSPDN),IDEN
+IDEN1786,CSPDN,IDEN
+IDEN1787,Frame Relay Public Data Network (FRPDN),IDEN
+IDEN1788,Common Channel Signalling Network (CCSN),IDEN
+IDEN1789,Public mobile systems,IDEN
+IDEN1790,Private networks,IDEN
+IDEN1791,5.8,IDEN
+IDEN1792,OSI-NS,IDEN
+IDEN1793,Type I subnetwork,IDEN
+IDEN1794,Type II subnetwork,IDEN
+IDEN1795,Type III subnetwork,IDEN
+IDEN1796,Type IV subnetwork,IDEN
+IDEN1797,Reference Model of OSI for ITU-T applications,IDEN
+IDEN1798,ISO/IEC 8348/Amd.1,IDEN
+IDEN1799,ITU-T Recommendation X.301,IDEN
+IDEN1800,subnetworks,IDEN
+IDEN1801,data transmission services,IDEN
+IDEN1802,Recommendation X.302,IDEN
+IDEN1803,X.28,IDEN
+IDEN1804,X.29,IDEN
+IDEN1805,X.32,IDEN
+IDEN1806,X.351,IDEN
+IDEN1807,X.352,IDEN
+IDEN1808,X.20,IDEN
+IDEN1809,Recommendation X.351,IDEN
+IDEN1810,Recommendation X.352,IDEN
+IDEN1811,X.31,IDEN
+IDEN1812,I.420,IDEN
+IDEN1813,I.421,IDEN
+IDEN1814,X.30,IDEN
+IDEN1815,Recommendation I.420,IDEN
+IDEN1816,Recommendation I.421,IDEN
+IDEN1817,Recommendation X.61,IDEN
+IDEN1818,X.70,IDEN
+IDEN1819,X.71,IDEN
+IDEN1820,Recommendation X.70,IDEN
+IDEN1821,X.61,IDEN
+IDEN1822,PDNs,IDEN
+IDEN1823,Telematic services,IDEN
+IDEN1824,ISDNs,IDEN
+IDEN1825,ITU-T Recommendation X.302,IDEN
+IDEN1826,network identifier (NI),IDEN
+IDEN1827,DCC,IDEN
+IDEN1828,DNIC,IDEN
+IDEN1829,ISDN network identification code (INIC),IDEN
+IDEN1830,PDN DNIC,IDEN
+IDEN1831,ITU-T Recommendation X.305,IDEN
+IDEN1832,called address,IDEN
+IDEN1833,calling address,IDEN
+IDEN1834,NS-user-data,IDEN
+IDEN1835,responding address,IDEN
+IDEN1836,Type II subnetworks,IDEN
+IDEN1837,Type I,IDEN
+IDEN1838,reason,IDEN
+IDEN1839,originator,IDEN
+IDEN1840,§ 8,IDEN
+IDEN1841,calling network service user,IDEN
+IDEN1842,called network service user,IDEN
+IDEN1843,ITU-T Recommendation X.31,IDEN
+IDEN1844,General X.300-X.349,IDEN
+IDEN1845,Mobile Data Transmission Systems X.350-X.369,IDEN
+IDEN1846,Management X.370-X.399,IDEN
+IDEN1847,X.400-X.499,IDEN
+IDEN1848,X.500-X.599,IDEN
+IDEN1849,ITU-T Recommendation X.32,IDEN
+IDEN1850,Public Switched Network (PSN),IDEN
+IDEN1851,ITU-T Recommendation X.320,IDEN
+IDEN1852,Recommendation X.320,IDEN
+IDEN1853,6.1,IDEN
+IDEN1854,7.1.4,IDEN
+IDEN1855,7.1.7,IDEN
+IDEN1856,7.1.8,IDEN
+IDEN1857,7.3,IDEN
+IDEN1858,ITU-T Recommendation X.321,IDEN
+IDEN1859,Recommendation X.321,IDEN
+IDEN1860,I.230-Series,IDEN
+IDEN1861,I.230-Series Recommendations,IDEN
+IDEN1862,I.250-Series Recommendations,IDEN
+IDEN1863,Mobile Satellite System (MSS),IDEN
+IDEN1864,X.1,IDEN
+IDEN1865,MSS,IDEN
+IDEN1866,Closed User Group (CUG),IDEN
+IDEN1867,Closed User Group with Outgoing Access (CUG/OA),IDEN
+IDEN1868,CUG/OA,IDEN
+IDEN1869,Interworking Function (IWF),IDEN
+IDEN1870,Signalling System No. 7 (SS No. 7),IDEN
+IDEN1871,SS No. 7,IDEN
+IDEN1872,Terminal Equipment (TE),IDEN
+IDEN1873,Transit Network Identification Code (TNIC),IDEN
+IDEN1874,TNIC,IDEN
+IDEN1875,Clearing Network Identification Code (CNIC),IDEN
+IDEN1876,Recommendation X.305,IDEN
+IDEN1877,Recommendation X.10,IDEN
+IDEN1878,Recommendation X.76,IDEN
+IDEN1879,Recommendation E.166/X.122,IDEN
+IDEN1880,Recommendation I.500,IDEN
+IDEN1881,OSI connection-mode network service,IDEN
+IDEN1882,Recommendation X.322,IDEN
+IDEN1883,Recommendations X.61 and X.71,IDEN
+IDEN1884,Recommendation X.223,IDEN
+IDEN1885,Recommendation T.70,IDEN
+IDEN1886,Recommendation X.82,IDEN
+IDEN1887,CSPDNs,IDEN
+IDEN1888,X.10 category L, P,IDEN
+IDEN1889,X.10 category K, O,IDEN
+IDEN1890,Recommendation X.325,IDEN
+IDEN1891,X.10 category B,IDEN
+IDEN1892,mobile systems,IDEN
+IDEN1893,signalling system X.71,IDEN
+IDEN1894,X.21 subscriber interface,IDEN
+IDEN1895,ITU-T Recommendation X.323,IDEN
+IDEN1896,CNIC,IDEN
+IDEN1897,Clearing Network Identification Code,IDEN
+IDEN1898,CUG,IDEN
+IDEN1899,Transit Network Identification Code,IDEN
+IDEN1900,ITU-T Recommendation X.324,IDEN
+IDEN1901,Q.1000 series of Recommendations,IDEN
+IDEN1902,PLMNs,IDEN
+IDEN1903,International Maritime Satellite Organization (INMARSAT),IDEN
+IDEN1904,Standard-A,IDEN
+IDEN1905,Standard-B,IDEN
+IDEN1906,Standard-C,IDEN
+IDEN1907,Aeronautical,IDEN
+IDEN1908,ITU-T Recommendation X.325,IDEN
+IDEN1909,TE,IDEN
+IDEN1910,FRPDN,IDEN
+IDEN1911,Recommendations X.75,IDEN
+IDEN1912,ITU-T Recommendation V.2,IDEN
+IDEN1913,P,IDEN
+IDEN1914,subscriber,IDEN
+IDEN1915,ITU-T Recommendation V.21,IDEN
+IDEN1916,300 BITS PER SECOND DUPLEX MODEM,IDEN
+IDEN1917,Channel No. 1,IDEN
+IDEN1918,Channel No. 2,IDEN
+IDEN1919,Data,IDEN
+IDEN1920,ITU-T Recommendation V.22,IDEN
+IDEN1921,General Switched Telephone Networks (GSTNs),IDEN
+IDEN1922,Alternative A,IDEN
+IDEN1923,Alternative B,IDEN
+IDEN1924,Alternative C,IDEN
+IDEN1925,low channel,IDEN
+IDEN1926,high channel,IDEN
+IDEN1927,ITU-T Recommendation X.326,IDEN
+IDEN1928,Recommendations Q.711 to 716,IDEN
+IDEN1929,operations, administration and maintenance (OA and M) applications,IDEN
+IDEN1930,CCSN,IDEN
+IDEN1931,PDN,IDEN
+IDEN1932,OA&M,IDEN
+IDEN1933,SCCP,IDEN
+IDEN1934,NC,IDEN
+IDEN1935,NS,IDEN
+IDEN1936,NL,IDEN
+IDEN1937,Interworking function (IWF),IDEN
+IDEN1938,OSI Network-connection,IDEN
+IDEN1939,(OSI) Network layer,IDEN
+IDEN1940,OSI) Network layer service,IDEN
+IDEN1941,(SCCP) Message,IDEN
+IDEN1942,Recommendations Q.711, Q.712, Q.713 and Q.714,IDEN
+IDEN1943,ITU-T Recommendation X.327,IDEN
+IDEN1944,Recommendation X.327,IDEN
+IDEN1945,private data networks,IDEN
+IDEN1946,Private Data Network,IDEN
+IDEN1947,Logical Channel number,IDEN
+IDEN1948,PvtDN,IDEN
+IDEN1949,Quality of Service (QOS) parameters,IDEN
+IDEN1950,CLEAR INDICATION packet,IDEN
+IDEN1951,CALL REQUEST packet,IDEN
+IDEN1952,CALL ACCEPTED packet,IDEN
+IDEN1953,ITU-T Recommendation X.328,IDEN
+IDEN1954,Frame Relay Data Transmission Services (FRDTS),IDEN
+IDEN1955,ISDN (SS No. 7, Recommendations X.75 and X.1, category Y),IDEN
+IDEN1956,Frame Relaying Bearer Service (FRBS),IDEN
+IDEN1957,Recommendation I.233.1,IDEN
+IDEN1958,Packet Switched Data Transmission Services (PSDTS),IDEN
+IDEN1959,Circuit Switched Data Transmission Services,IDEN
+IDEN1960,Packet Layer Protocol (PLP),IDEN
+IDEN1961,ITU-T Recommendation X.329,IDEN
+IDEN1962,B-ISDN,IDEN
+IDEN1963,FRDTS,IDEN
+IDEN1964,B-TE,IDEN
+IDEN1965,AU,IDEN
+IDEN1966,Recommendation I.361,IDEN
+IDEN1967,Recommendation I.363.5,IDEN
+IDEN1968,ITU-T Recommendation X.33,IDEN
+IDEN1969,Frame Relay Service,IDEN
+IDEN1970,Packet Switched Service,IDEN
+IDEN1971,Bearer Service,IDEN
+IDEN1972,R reference Point,IDEN
+IDEN1973,Interworking,IDEN
+IDEN1974,Access Unit (AU),IDEN
+IDEN1975,Backward Explicit Congestion Notification (BECN),IDEN
+IDEN1976,BECN,IDEN
+IDEN1977,Command/Response (C/R),IDEN
+IDEN1978,C/R,IDEN
+IDEN1979,Circuit Switched Bearer Service (CSBS),IDEN
+IDEN1980,CSBS,IDEN
+IDEN1981,Direct-Dialling-In (DDI),IDEN
+IDEN1982,DDI,IDEN
+IDEN1983,Discard Eligibility (DE),IDEN
+IDEN1984,Data Link Connection (DLC),IDEN
+IDEN1985,DLC,IDEN
+IDEN1986,Data Link Connection Identifier (DLCI),IDEN
+IDEN1987,DLCI,IDEN
+IDEN1988,Data Network Identification Code (DNIC),IDEN
+IDEN1989,Data Transfer Phase (DTP),IDEN
+IDEN1990,DTP,IDEN
+IDEN1991,Extension Address (EA),IDEN
+IDEN1992,Exchange Termination (ET),IDEN
+IDEN1993,Frame Check Sequence (FCS),IDEN
+IDEN1994,FCS,IDEN
+IDEN1995,Forward Explicit Congestion Notification (FECN),IDEN
+IDEN1996,FECN,IDEN
+IDEN1997,Frame Handler (FH),IDEN
+IDEN1998,Frame Relay Bearer Service (FRBS),IDEN
+IDEN1999,FRBS,IDEN
+IDEN2000,High Level Data Link Control (HDLC),IDEN
+IDEN2001,HDLC,IDEN
+IDEN2002,International Electrotechnical Commission (IEC),IDEN
+IDEN2003,ITU-T X.34,IDEN
+IDEN2004,ITU-T Recommendation X.34,IDEN
+IDEN2005,ITU-T I.362,IDEN
+IDEN2006,ITU-T I.363.5,IDEN
+IDEN2007,Q.2931 cause, Code 10,IDEN
+IDEN2008,Q.2931 cause, Code 51,IDEN
+IDEN2009,Code 37,IDEN
+IDEN2010,Q.2931 cause, Code 93,IDEN
+IDEN2011,Code 73,IDEN
+IDEN2012,ITU-T Q.2610,IDEN
+IDEN2013,6.4.5/Q.2931,IDEN
+IDEN2014,Code 93,IDEN
+IDEN2015,CCITT V.32 bis,IDEN
+IDEN2016,Recommendation V.32 bis,IDEN
+IDEN2017,Recommendation V.32 modems,IDEN
+IDEN2018,ITU-T Recommendation V.33,IDEN
+IDEN2019,14 400 BITS PER SECOND MODEM,IDEN
+IDEN2020,Notes 1 and 2,IDEN
+IDEN2021,ITU-T Recommendation V.34,IDEN
+IDEN2022,variables,IDEN
+IDEN2023,parameters,IDEN
+IDEN2024,ITU-T Recommendation X.340,IDEN
+IDEN2025,international telex network,IDEN
+IDEN2026,Recommendation F.60,IDEN
+IDEN2027,Recommendation F.59,IDEN
+IDEN2028,Recommendation F.80,IDEN
+IDEN2029,Recommendation F.83,IDEN
+IDEN2030,Recommendation U.203,IDEN
+IDEN2031,Access unit (AU),IDEN
+IDEN2032,Data terminal equipment (DTE),IDEN
+IDEN2033,International Telegraph Alphabet No. 2 (ITA2),IDEN
+IDEN2034,ITA2,IDEN
+IDEN2035,Maritime satellite service (MSS),IDEN
+IDEN2036,Open systems interconnection (OSI),IDEN
+IDEN2037,Packet assembly/disassembly facility (PAD),IDEN
+IDEN2038,Telex-Packet interworking function (TPIWF),IDEN
+IDEN2039,TPIWF,IDEN
+IDEN2040,F.69 numbering plan,IDEN
+IDEN2041,ITU-T Recommendation X.35,IDEN
+IDEN2042,Recommendation X.35,IDEN
+IDEN2043,private PSDN,IDEN
+IDEN2044,Private PSDN,IDEN
+IDEN2045,Virtual Private Networks (VPNs),IDEN
+IDEN2046,PSPvtDN DTE,IDEN
+IDEN2047,PSPDN address,IDEN
+IDEN2048,Interworking Unit (IWU),IDEN
+IDEN2049,PSPvtDN DTE address,IDEN
+IDEN2050,Network User Identification (NUI),IDEN
+IDEN2051,NUI,IDEN
+IDEN2052,Packet Switched Data Network (PSDN),IDEN
+IDEN2053,Packet Switched Private Data Network (PSPvtDN),IDEN
+IDEN2054,PSPvtDN,IDEN
+IDEN2055,Recognized Operating Agency (ROA),IDEN
+IDEN2056,Type of Address/Numbering Plan Identifier (TOA/NPI),IDEN
+IDEN2057,ISO/IEC 8208:1993,IDEN
+IDEN2058,Fascicle I.3,IDEN
+IDEN2059,Virtual calls (VCs),IDEN
+IDEN2060,Permanent virtual circuits (PVCs),IDEN
+IDEN2061,X.25 virtual calls (VCs),IDEN
+IDEN2062,Topology A,IDEN
+IDEN2063,Topology B,IDEN
+IDEN2064,Topology C,IDEN
+IDEN2065,Topology D,IDEN
+IDEN2066,Topology E,IDEN
+IDEN2067,PSPvtDNs,IDEN
+IDEN2068,Topology F,IDEN
+IDEN2069,ITU-T X.350,IDEN
+IDEN2070,ITU-T Recommendation X.350,IDEN
+IDEN2071,X.1 –X.199 series,IDEN
+IDEN2072,Open System Interconnection,IDEN
+IDEN2073,X.200–X.299 series,IDEN
+IDEN2074,Message Handling Systems,IDEN
+IDEN2075,X.400 –X.499 series,IDEN
+IDEN2076,Directory,IDEN
+IDEN2077,OSI Networking and System Aspects,IDEN
+IDEN2078,X.600–X.699 series,IDEN
+IDEN2079,OSI Management,IDEN
+IDEN2080,X.700–X.799 series,IDEN
+IDEN2081,Security,IDEN
+IDEN2082,OSI Applications,IDEN
+IDEN2083,X.850–X.899 series,IDEN
+IDEN2084,Open Distributed Processing,IDEN
+IDEN2085,X.900–X.999 series,IDEN
+IDEN2086,Mobile Satellite Data Switching Exchange,IDEN
+IDEN2087,Network Coordination Station,IDEN
+IDEN2088,ITU-T Recommendation X.351,IDEN
+IDEN2089,Recommendation X.350,IDEN
+IDEN2090,maritime satellite service,IDEN
+IDEN2091,maritime PAD,IDEN
+IDEN2092,mobile satellite data switching exchanges (MSDSEs),IDEN
+IDEN2093,PADs,IDEN
+IDEN2094,network user identification (NUI) facility,IDEN
+IDEN2095,ITU-T Recommendation X.352,IDEN
+IDEN2096,Recommendation X.353,IDEN
+IDEN2097,Recommendation X.141,IDEN
+IDEN2098,mobile satellite data switching exchange (MSDSE),IDEN
+IDEN2099,Packet Switched Data Access Unit (PSDAU),IDEN
+IDEN2100,mobile DTE,IDEN
+IDEN2101,PSDAU,IDEN
+IDEN2102,Recommendation X.21 bis,IDEN
+IDEN2103,V.25,IDEN
+IDEN2104,Recommendation E.215/F.125,IDEN
+IDEN2105,MSDE,IDEN
+IDEN2106,INMARSAT mobile number,IDEN
+IDEN2107,international data number,IDEN
+IDEN2108,ITU-T Recommendation X.353,IDEN
+IDEN2109,§ 1.7,IDEN
+IDEN2110,international data switching exchange (IDSE),IDEN
+IDEN2111,MSDSE,IDEN
+IDEN2112,public data networks (PDN),IDEN
+IDEN2113,IDSEs,IDEN
+IDEN2114,INMARSAT Standard A, B and C,IDEN
+IDEN2115,public maritime mobile earth station,IDEN
+IDEN2116,Network Terminal Number,IDEN
+IDEN2117,T,IDEN
+IDEN2118,T digit,IDEN
+IDEN2119,T digit,IDEN
+
+IDEN2120,coast earth station,IDEN
+IDEN2121,ITU-T Rec. Q.933,IDEN
+IDEN2122,ITU-T Rec. X.36 (2000),IDEN
+IDEN2123,ITU-T Recs Q.933 (2003),IDEN
+IDEN2124,ITU-T X.21 interface,IDEN
+IDEN2125,X.21 bis interface,IDEN
+IDEN2126,V-series interfaces,IDEN
+IDEN2127,G-series interfaces,IDEN
+IDEN2128,I-series interfaces,IDEN
+IDEN2129,7.6,IDEN
+IDEN2130,8.4,IDEN
+IDEN2131,ITU-T G.680,IDEN
+IDEN2132,dense wavelength division multiplexing (DWDM),IDEN
+IDEN2133,optical transport networks (OTN),IDEN
+IDEN2134,MPI-S M,IDEN
+IDEN2135,MPI-R M,IDEN
+IDEN2136,ITU-T G.691,IDEN
+IDEN2137,STM-64,IDEN
+IDEN2138,SDH systems,IDEN
+IDEN2139,single channel STM-64,IDEN
+IDEN2140,ITU-T Recommendation G.691,IDEN
+IDEN2141,ITU-T G.692,IDEN
+IDEN2142,Recommendations G.652, G.653 and G.655,IDEN
+IDEN2143,ITU-T Recommendation G.692,IDEN
+IDEN2144,MPI-S,IDEN
+IDEN2145,S',IDEN
+IDEN2146,ITU-T G.693,IDEN
+IDEN2147,Synchronous Digital Hierarchy (SDH),IDEN
+IDEN2148,Optical Transport Network (OTN),IDEN
+IDEN2149,ITU-T G.694.1,IDEN
+IDEN2150,Dense Wavelength Division Multiplexing (DWDM),IDEN
+IDEN2151,frequency slot,IDEN
+IDEN2152,Coarse Wavelength Division Multiplexing (CWDM),IDEN
+IDEN2153,[ITU-T G.671],IDEN
+IDEN2154,Wavelength Division Multiplexing (WDM),IDEN
+IDEN2155,VSAT system,IDEN
+IDEN2156,X.25 protocol,IDEN
+IDEN2157,X.130-Series performance Recommendations,IDEN
+IDEN2158,X.25/X.75 packet-switched performance,IDEN
+IDEN2159,Private Data Network (PvtDN),IDEN
+IDEN2160,VSAT network,IDEN
+IDEN2161,HUB station,IDEN
+IDEN2162,X.25 DTE,IDEN
+IDEN2163,VSAT DTE,IDEN
+IDEN2164,Switched Virtual Circuit (SVC),IDEN
+IDEN2165,Permanent Virtual Circuit (PVC),IDEN
+IDEN2166,store-and-forward gateway,IDEN
+IDEN2167,Link Access Procedure Balanced (LAPB),IDEN
+IDEN2168,LAPB,IDEN
+IDEN2169,ITU-T Recommendation X.37,IDEN
+IDEN2170,Recommendation X.37,IDEN
+IDEN2171,ISO/IEC TR 9577,IDEN
+IDEN2172,protocol identifiers,IDEN
+IDEN2173,CCITT Recommendation X.39,IDEN
+IDEN2174,ITU-T Recommendation X.224,IDEN
+IDEN2175,ISO/IEC 8073:1992,IDEN
+IDEN2176,ITU-T Recommendation X.622,IDEN
+IDEN2177,ISO/IEC 8473-3,IDEN
+IDEN2178,8.2,IDEN
+IDEN2179,ITU-T X.371/Y.1402,IDEN
+IDEN2180,ITU-T Recommendation X.371/Y.1402,IDEN
+IDEN2181,ITU-T X.37,IDEN
+IDEN2182,ITU-T X.115,IDEN
+IDEN2183,ITU-T X.116,IDEN
+IDEN2184,Internet,IDEN
+IDEN2185,ITU-T X.25,IDEN
+IDEN2186,Adapter,IDEN
+IDEN2187,ITU-T Recommendation X.38,IDEN
+IDEN2188,G3 facsimile equipment (G3FE),IDEN
+IDEN2189,Recommendations T.4 and T.30,IDEN
+IDEN2190,FPAD,IDEN
+IDEN2191,Access Information Path (AIP),IDEN
+IDEN2192,Recommendations X.1 and X.2,IDEN
+IDEN2193,Recommendation X.39,IDEN
+IDEN2194,Recommendation T.4,IDEN
+IDEN2195,Recommendation T.30,IDEN
+IDEN2196,Recommendations T.4,IDEN
+IDEN2197,ITU-T Recommendation X.39,IDEN
+IDEN2198,Facsimile Packet Assembly/Disassembly (FPAD),IDEN
+IDEN2199,call request packet,IDEN
+IDEN2200,telephone number,IDEN
+IDEN2201,destination G3FE,IDEN
+IDEN2202,call user data field,IDEN
+IDEN2203,protocol identifier field,IDEN
+IDEN2204,call data field,IDEN
+IDEN2205,user sequences,IDEN
+IDEN2206,remote FPAD,IDEN
+IDEN2207,FPAD messages,IDEN
+IDEN2208,data packets,IDEN
+IDEN2209,D-bit,IDEN
+IDEN2210,International Organization for Standardization (ISO),IDEN
+IDEN2211,International Alphabet No. 5 code,IDEN
+IDEN2212,Recommendations X.1 and S.31,IDEN
+IDEN2213,public anisochronous data networks,IDEN
+IDEN2214,reverse question mark graphic character,IDEN
+IDEN2215,capital letter SB,IDEN
+IDEN2216,ISO 2047,IDEN
+IDEN2217,SUB character,IDEN
+IDEN2218,ITU-T X.42,IDEN
+IDEN2219,GPAD,IDEN
+IDEN2220,ITU-T Rec. X.42,IDEN
+IDEN2221,ITU-T Recommendation X.42,IDEN
+IDEN2222,PMP,IDEN
+IDEN2223,B.1,IDEN
+IDEN2224,ITU-T Recommendation X.45,IDEN
+IDEN2225,Recommendation X.45,IDEN
+IDEN2226,Packet Mode,IDEN
+IDEN2227,terminals,IDEN
+IDEN2228,HDLC layer 2.a,IDEN
+IDEN2229,Protocol of this Recommendation,IDEN
+IDEN2230,ATM-VPs and VCs,IDEN
+IDEN2231,CPCS of AAL 5,IDEN
+IDEN2232,X.45 DTEs,IDEN
+IDEN2233,X.25 DTEs,IDEN
+IDEN2234,X.25 compatible services,IDEN
+IDEN2235,ITU-T X.46,IDEN
+IDEN2236,ITU-T Recommendation X.46,IDEN
+IDEN2237,Frame Relay Data Transmission Service (FRDTS),IDEN
+IDEN2238,Recommendation I.555,IDEN
+IDEN2239,X.300-series Recommendations,IDEN
+IDEN2240,ITU-T Recommendation I.211,IDEN
+IDEN2241,ITU-T Recommendation I.356,IDEN
+IDEN2242,ITU-T Recommendation I.361,IDEN
+IDEN2243,ITU-T Recommendation I.362,IDEN
+IDEN2244,ITU-T Recommendations I.363.X. series,IDEN
+IDEN2245,ITU-T Recommendation I.365.1,IDEN
+IDEN2246,ITU-T Recommendation I.413,IDEN
+IDEN2247,ITU-T Recommendation I.430,IDEN
+IDEN2248,ITU-T Recommendations I.431,IDEN
+IDEN2249,ITU-T Recommendations I.432.X series,IDEN
+IDEN2250,ITU-T Recommendation I.580,IDEN
+IDEN2251,ITU-T Recommendation Q.933,IDEN
+IDEN2252,ITU-T Recommendation Q.2110,IDEN
+IDEN2253,ITU-T Recommendation Q.2130,IDEN
+IDEN2254,SSCF at UNI,IDEN
+IDEN2255,ITU-T Recommendation Q.2761,IDEN
+IDEN2256,ITU-T Recommendation Q.2931,IDEN
+IDEN2257,Q.2971,IDEN
+IDEN2258,ITU-T Recommendation X.48,IDEN
+IDEN2259,Recommendation X.48,IDEN
+IDEN2260,10/96,IDEN
+IDEN2261,Recommendation X.6,IDEN
+IDEN2262,X.25 Packet Layer Protocol (PLP),IDEN
+IDEN2263,Multicast group,IDEN
+IDEN2264,Multicast call,IDEN
+IDEN2265,Active group,IDEN
+IDEN2266,Call initiator,IDEN
+IDEN2267,One-way mode of communication,IDEN
+IDEN2268,Two-way mode of communication,IDEN
+IDEN2269,N-way mode of communication,IDEN
+IDEN2270,Multicast server,IDEN
+IDEN2271,Participant,IDEN
+IDEN2272,Capability,IDEN
+IDEN2273,Ordering,IDEN
+IDEN2274,multicast service,IDEN
+IDEN2275,service users,IDEN
+IDEN2276,basic multicast service,IDEN
+IDEN2277,extended multicast service,IDEN
+IDEN2278,X.25 PLP,IDEN
+IDEN2279,active group integrity (AGI),IDEN
+IDEN2280,multicast call,IDEN
+IDEN2281,Pause state,IDEN
+IDEN2282,quorum,IDEN
+IDEN2283,AGI,IDEN
+IDEN2284,sender,IDEN
+IDEN2285,dialogue control,IDEN
+IDEN2286,ITU-T Recommendation X.49,IDEN
+IDEN2287,Recommendation X.49,IDEN
+IDEN2288,Protocol Data Unit (PDU),IDEN
+IDEN2289,ITU-T Rec. X.200 | ISO/IEC 7498-1,IDEN
+IDEN2290,Service Data Unit (SDU),IDEN
+IDEN2291,DTE/DCE Interface,IDEN
+IDEN2292,ITU-T Rec. X.25,IDEN
+IDEN2293,ITU-T Recommendation X.5,IDEN
+IDEN2294,G3 facsimile equipment,IDEN
+IDEN2295,Recommendations T.30,IDEN
+IDEN2296,FPAD parameters,IDEN
+IDEN2297,ITU-T V.22 bis,IDEN
+IDEN2298,2400 BITS PER SECOND DUPLEX MODEM,IDEN
+IDEN2299,Point-to-Point 2-Wire Leased Telephone-Type Circuits,IDEN
+IDEN2300,Specifications,IDEN
+IDEN2301,ITU-T Recommendation V.23,IDEN
+IDEN2302,600/1200-BAUD MODEM,IDEN
+IDEN2303,Mode 1,IDEN
+IDEN2304,Mode 2,IDEN
+IDEN2305,FA and FZ frequencies,IDEN
+IDEN2306,FZ FA,IDEN
+IDEN2307,symbol 1,IDEN
+IDEN2308,symbol 0,IDEN
+IDEN2309,mark,IDEN
+IDEN2310,space,IDEN
+IDEN2311,Tables 1/V.23 and 2/V.23,IDEN
+IDEN2312,circuit 106,IDEN
+IDEN2313,circuit 121,IDEN
+IDEN2314,circuit 122,IDEN
+IDEN2315,circuits 109/122 ON,IDEN
+IDEN2316,circuits 109/122 OFF,IDEN
+IDEN2317,ITU-T Recommendation V.230,IDEN
+IDEN2318,General Data Communications Interface (GDCI),IDEN
+IDEN2319,ISDN basic user-network interface,IDEN
+IDEN2320,Recommendation I.430,IDEN
+IDEN2321,BV and DV channels,IDEN
+IDEN2322,X,IDEN
+IDEN2323,X*,IDEN
+IDEN2324,layer 1,IDEN
+IDEN2325,S or T reference point,IDEN
+IDEN2326,GDCI,IDEN
+IDEN2327,slave mode equipment,IDEN
+IDEN2328,L bit,IDEN
+IDEN2329,Fascicle VIII.1 - Rec. V.230,IDEN
+IDEN2330,1 Recommendation V.230,IDEN
+IDEN2331,Recommendation X.211,IDEN
+IDEN2332,ITU-T Recommendation X.50,IDEN
+IDEN2333,Explanatory Note 1,IDEN
+IDEN2334,Explanatory Note 2,IDEN
+IDEN2335,Explanatory Note 3,IDEN
+IDEN2336,Recommendation X.51,IDEN
+IDEN2337,A to H,IDEN
+IDEN2338,Table 1/X.50,IDEN
+IDEN2339,A,IDEN
+IDEN2340,B,IDEN
+IDEN2341,C,IDEN
+IDEN2342,D,IDEN
+IDEN2343,E,IDEN
+IDEN2344,F,IDEN
+IDEN2345,G,IDEN
+IDEN2346,H,IDEN
+IDEN2347,bit errors,IDEN
+IDEN2348,error bursts,IDEN
+IDEN2349,ITU-T Recommendation X.50 bis,IDEN
+IDEN2350,48-kbit/s user data signalling rate transmission scheme,IDEN
+IDEN2351,Explanatory Note 3 of Recommendation X.50,IDEN
+IDEN2352,Recommendation X.51 bis,IDEN
+IDEN2353,64-kbit/s channel,IDEN
+IDEN2354,F bit,IDEN
+IDEN2355,status bit S,IDEN
+IDEN2356,bit 1,IDEN
+IDEN2357,bits 2-7,IDEN
+IDEN2358,bit 8,IDEN
+IDEN2359,X.60,IDEN
+IDEN2360,ITU-T Recommendation X.51,IDEN
+IDEN2361,Recommendation X.50,IDEN
+IDEN2362,bit 2,IDEN
+IDEN2363,bits 3-10,IDEN
+IDEN2364,3.2.1,IDEN
+IDEN2365,5,IDEN
+IDEN2366,5.2,IDEN
+IDEN2367,ITU-T Recommendation V.36,IDEN
+IDEN2368,group reference pilot frequency,IDEN
+IDEN2369,Appendix I,IDEN
+IDEN2370,class IV,IDEN
+IDEN2371,Recommendation H.52,IDEN
+IDEN2372,reference [8],IDEN
+IDEN2373,§ 1,IDEN
+IDEN2374,Recommendation H.14 [8],IDEN
+IDEN2375,ITU-T Recommendation V.37,IDEN
+IDEN2376,Al,IDEN
+IDEN2377,A2,IDEN
+IDEN2378,Table 3/V.37,IDEN
+IDEN2379,V.24-type interface,IDEN
+IDEN2380,X.24-type interface,IDEN
+IDEN2381,48-kbit/s channel,IDEN
+IDEN2382,position 16,IDEN
+IDEN2383,Figure 2/X.51 bis,IDEN
+IDEN2384,position 32,IDEN
+IDEN2385,ITU-T Recommendation X.52,IDEN
+IDEN2386,X.51,IDEN
+IDEN2387,Recommendations X.50,IDEN
+IDEN2388,synchronous user channel of 600 bit/s,IDEN
+IDEN2389,anisochronous signals,IDEN
+IDEN2390,synchronous user channel of 2400 bit/s,IDEN
+IDEN2391,ITU-T Study Group IX,IDEN
+IDEN2392,ITU-T Recommendation X.53,IDEN
+IDEN2393,R.113,IDEN
+IDEN2394,X.50,IDEN
+IDEN2395,Recommendation R.113,IDEN
+IDEN2396,D 1,IDEN
+IDEN2397,D 2,IDEN
+IDEN2398,position “n”,IDEN
+IDEN2399,Recommendation X.54,IDEN
+IDEN2400,Recommendations X.50 and X.51,IDEN
+IDEN2401,Table 1/X.54,IDEN
+IDEN2402,phase number i,IDEN
+IDEN2403,T-REC-X.55-198811-I!!PDF-E.pdf,IDEN
+IDEN2404,Recommendation X.55,IDEN
+IDEN2405,Bearer rate,IDEN
+IDEN2406,64 kbit/s bearer,IDEN
+IDEN2407,S bits,IDEN
+IDEN2408,Recommendation X.56,IDEN
+IDEN2409,INTERFACE BETWEEN SYNCHRONOUS DATA NETWORKS USING AN 8 + 2 ENVELOPE STRUCTURE AND SINGLE CHANNEL PER CARRIER (SCPC) SATELLITE CHANNELS,IDEN
+IDEN2410,56 kbit/s bearer channel,IDEN
+IDEN2411,Bit,IDEN
+IDEN2412,Identifier,IDEN
+IDEN2413,Sub-frame identifiers,IDEN
+IDEN2414,Criterion,IDEN
+IDEN2415,ITU-T Recommendation X.57,IDEN
+IDEN2416,telecommunication administration,IDEN
+IDEN2417,recognized operating agency,IDEN
+IDEN2418,Recommendation X.57,IDEN
+IDEN2419,synchronous user classes of services,IDEN
+IDEN2420,envelope data formats,IDEN
+IDEN2421,64 kbit/s data stream,IDEN
+IDEN2422,single lower speed synchronous data channel,IDEN
+IDEN2423,synchronous user data rates,IDEN
+IDEN2424,64 kbit/s bearer rate,IDEN
+IDEN2425,6 + 2 envelope structure,IDEN
+IDEN2426,single low speed synchronous data channel,IDEN
+IDEN2427,receive end,IDEN
+IDEN2428,original data signal,IDEN
+IDEN2429,8 kHz envelope timing,IDEN
+IDEN2430,alignment circuit,IDEN
+IDEN2431,alignment pattern,IDEN
+IDEN2432,framing bit position,IDEN
+IDEN2433,housekeeping information,IDEN
+IDEN2434,8 + 2 envelope structure,IDEN
+IDEN2435,ITU-T Recommendation X.58,IDEN
+IDEN2436,Figure 1/X.58,IDEN
+IDEN2437,ITU-T X.6,IDEN
+IDEN2438,Frame relay PVC multicast service definition,IDEN
+IDEN2439,ITU-T Recommendation X.6,IDEN
+IDEN2440,root,IDEN
+IDEN2441,data link connection identifier (DLCI),IDEN
+IDEN2442,data link connection management interface (DLCMI),IDEN
+IDEN2443,PVC management interface,IDEN
+IDEN2444,source,IDEN
+IDEN2445,multicast group ID,IDEN
+IDEN2446,multicast DLCI (Mdlc),IDEN
+IDEN2447,ITU-T Recommendation X.60,IDEN
+IDEN2448,Signalling System No. 7,IDEN
+IDEN2449,Recommendations Q.701-Q.707,IDEN
+IDEN2450,Integrated Service Digital Networks (ISDN),IDEN
+IDEN2451,ITU-T X.7,IDEN
+IDEN2452,X.1000,IDEN
+IDEN2453,ITU-T Recommendation X.7,IDEN
+IDEN2454,X-series ITU-T Recommendations,IDEN
+IDEN2455,ITU-T Recommendation X.70,IDEN
+IDEN2456,user class 1,IDEN
+IDEN2457,user class 2,IDEN
+IDEN2458,Telex service,IDEN
+IDEN2459,Recommendation U.12,IDEN
+IDEN2460,data network identification code (DNIC),IDEN
+IDEN2461,data country code (DCC),IDEN
+IDEN2462,Recommendation D.10,IDEN
+IDEN2463,international centre X,IDEN
+IDEN2464,international centre Y,IDEN
+IDEN2465,control signalling code (CSC),IDEN
+IDEN2466,Table 8/X.70,IDEN
+IDEN2467,International Alphabet (IA5),IDEN
+IDEN2468,ITU-T Recommendation X.71,IDEN
+IDEN2469,DECENTRALIZED TERMINAL AND TRANSIT CONTROL SIGNALLING SYSTEM,IDEN
+IDEN2470,Recommendation X.80,IDEN
+IDEN2471,Call Confirmation Protocol (CCP),IDEN
+IDEN2472,PTSP,IDEN
+IDEN2473,Proceed-To-Select Protocol (PTSP),IDEN
+IDEN2474,CCP,IDEN
+IDEN2475,International Alphabet No. 5 (IA5),IDEN
+IDEN2476,1/6 (SYN),IDEN
+IDEN2477,SYN,IDEN
+IDEN2478,SYN characters,IDEN
+IDEN2479,end-of-selection signal,IDEN
+IDEN2480,call confirmation and proceed-to-select signals,IDEN
+IDEN2481,IA5 character 2/10 (*),IDEN
+IDEN2482,Appendix V,IDEN
+IDEN2483,signalling characters,IDEN
+IDEN2484,Proceed-to-select Protocol (PTSP),IDEN
+IDEN2485,ITU-T X.75,IDEN
+IDEN2486,SERIES X: DATA NETWORKS AND OPEN SYSTEM COMMUNICATIONS,IDEN
+IDEN2487,Public data networks – Transmission, signalling and switching,IDEN
+IDEN2488,Packet-switched signalling system between public networks providing data transmission services,IDEN
+IDEN2489,ITU-T Recommendation X.75 – Corrigendum 1,IDEN
+IDEN2490,X.1 –X.19,IDEN
+IDEN2491,ITU-T Rec. X.36,IDEN
+IDEN2492,Case B,IDEN
+IDEN2493,ITU-T Rec. X.76 (2003),IDEN
+IDEN2494,ITU-T X.77,IDEN
+IDEN2495,ITU-T Recommendation X.77,IDEN
+IDEN2496,Type 5 AAL,IDEN
+IDEN2497,Service class C,IDEN
+IDEN2498,X.77-STE,IDEN
+IDEN2499,Q.2931 cause, Code 37,IDEN
+IDEN2500,Code 51,IDEN
+IDEN2501,Q.2931 cause, Code 73,IDEN
+IDEN2502,AAL parameters,IDEN
+IDEN2503,traffic parameters,IDEN
+IDEN2504,ITU-T X.78,IDEN
+IDEN2505,ITU-T Recommendation X.78,IDEN
+IDEN2506,Series X: DATA NETWORKS AND OPEN SYSTEM COMMUNICATIONS,IDEN
+IDEN2507,ITU-T Recommendation X.8,IDEN
+IDEN2508,Multi-Aspect Packet Assembly/Disassembly facility (MAP),IDEN
+IDEN2509,Packet Assembly/Disassembly (PAD),IDEN
+IDEN2510,Public Data Network,IDEN
+IDEN2511,Access Information Path,IDEN
+IDEN2512,MAP,IDEN
+IDEN2513,Access Interface,IDEN
+IDEN2514,Multi-Session,IDEN
+IDEN2515,PAD Aspect,IDEN
+IDEN2516,PAD Instance,IDEN
+IDEN2517,Virtual Call,IDEN
+IDEN2518,ITU-T Recommendation X.80,IDEN
+IDEN2519,Recommendations X.60 and X.71,IDEN
+IDEN2520,Recommendations X.60,IDEN
+IDEN2521,CCITT Specifications and Descriptions Language (SDL),IDEN
+IDEN2522,Recommendations Z.101 to Z.103,IDEN
+IDEN2523,Call Connected (CC) signal,IDEN
+IDEN2524,Recommendation X.71 signalling system,IDEN
+IDEN2525,Transit Through Connect (TTC) signal,IDEN
+IDEN2526,Call Accepted Message(s) (CAM),IDEN
+IDEN2527,calling line identity,IDEN
+IDEN2528,CAM 2,IDEN
+IDEN2529,called line identity,IDEN
+IDEN2530,positive call progress signal,IDEN
+IDEN2531,call connected (CC) signal,IDEN
+IDEN2532,clear request signal,IDEN
+IDEN2533,X.71 network,IDEN
+IDEN2534,clear confirmation signal,IDEN
+IDEN2535,X.60 network,IDEN
+IDEN2536,clear message,IDEN
+IDEN2537,internetwork data circuit clear request signal,IDEN
+IDEN2538,supervisory-timer,IDEN
+IDEN2539,ITU-T Recommendation X.81,IDEN
+IDEN2540,I-Series Recommendations,IDEN
+IDEN2541,I.230 Series Recommendations,IDEN
+IDEN2542,Common channel signalling system number 7,IDEN
+IDEN2543,OSI-NLS,IDEN
+IDEN2544,UC,IDEN
+IDEN2545,ACM,IDEN
+IDEN2546,ANS,IDEN
+IDEN2547,IAM,IDEN
+IDEN2548,INF,IDEN
+IDEN2549,INR,IDEN
+IDEN2550,REL,IDEN
+IDEN2551,RLC,IDEN
+IDEN2552,RLSD,IDEN
+IDEN2553,CC,IDEN
+IDEN2554,CCF,IDEN
+IDEN2555,CDI,IDEN
+IDEN2556,Calling line identification,IDEN
+IDEN2557,CLEAR,IDEN
+IDEN2558,CLEAR C.,IDEN
+IDEN2559,SEL,IDEN
+IDEN2560,TTC,IDEN
+IDEN2561,CDIR,IDEN
+IDEN2562,CLIR,IDEN
+IDEN2563,Recommendation G.703,IDEN
+IDEN2564,Recommendation G.708,IDEN
+IDEN2565,Recommendation G.811,IDEN
+IDEN2566,ITU-T Recommendation X.82,IDEN
+IDEN2567,Recommendations X.21/X.21 bis,IDEN
+IDEN2568,Circuit switched public data network,IDEN
+IDEN2569,Packet switched public data network,IDEN
+IDEN2570,Interworking Function,IDEN
+IDEN2571,T70,IDEN
+IDEN2572,IWF T70,IDEN
+IDEN2573,Call progress signal,IDEN
+IDEN2574,terminal called,IDEN
+IDEN2575,ITU-T X.84,IDEN
+IDEN2576,MPLS,IDEN
+IDEN2577,one-to-one,IDEN
+IDEN2578,ITU-T Recommendation X.84,IDEN
+IDEN2579,Provider Edge (PE),IDEN
+IDEN2580,Virtual Connection Label Switched Path (VC LSP),IDEN
+IDEN2581,frame relay Virtual Connection (VC),IDEN
+IDEN2582,PEs,IDEN
+IDEN2583,Tunnel LSPs,IDEN
+IDEN2584,ITU-T X.85/Y.1321,IDEN
+IDEN2585,SAPI values,IDEN
+IDEN2586,ST-II,IDEN
+IDEN2587,LBLB,IDEN
+IDEN2588,PPP-SDTP,IDEN
+IDEN2589,802.2,IDEN
+IDEN2590,RTP,IDEN
+IDEN2591,IPHC,IDEN
+IDEN2592,TCP,IDEN
+IDEN2593,ITU-T X.86/Y.1323,IDEN
+IDEN2594,IEEE 802.3x,IDEN
+IDEN2595,LAPS,IDEN
+IDEN2596,ITU-T Recommendation X.86/Y.1323,IDEN
+IDEN2597,ITU-T Recommendation X.92,IDEN
+IDEN2598,Figure 1/X.92,IDEN
+IDEN2599,Y and Z,IDEN
+IDEN2600,logical Links A and D,IDEN
+IDEN2601,Figures 3/X.92 and 4/X.92,IDEN
+IDEN2602,ITU-T Recommendation X.96,IDEN
+IDEN2603,Call progress signals,IDEN
+IDEN2604,Virtual Circuit (VC),IDEN
+IDEN2605,Called DTE,IDEN
+IDEN2606,ITU-T G.694.2,IDEN
+IDEN2607,Spectral grids for WDM applications: CWDM wavelength grid,IDEN
+IDEN2608,ITU-T Recommendation G.694.2,IDEN
+IDEN2609,Dense WDM (DWDM),IDEN
+IDEN2610,ITU-T Rec. G.671,IDEN
+IDEN2611,ITU-T Recommendation G.671,IDEN
+IDEN2612,Nominal central wavelengths,IDEN
+IDEN2613,ITU-T Recommendation G.983.3,IDEN
+IDEN2614,B-PON,IDEN
+IDEN2615,ITU-T Recs J.185 and J.186,IDEN
+IDEN2616,wavelength grid,IDEN
+IDEN2617,ITU-T V.24,IDEN
+IDEN2618,Recommendations X.20 bis and X.21 bis,IDEN
+IDEN2619,Recommendations V.10, V.11, V.12, V.28, V.31 and V.31 bis,IDEN
+IDEN2620,ISO/IEC 2110 (25-pole),IDEN
+IDEN2621,ISO/IEC 11569 (26-pole),IDEN
+IDEN2622,ISO/IEC 13575 (50-pole),IDEN
+IDEN2623,ISO/IEC 4902 (37-pole),IDEN
+IDEN2624,Circuit 102 – Signal ground or common return,IDEN
+IDEN2625,Circuit 102a – DTE common return,IDEN
+IDEN2626,Circuit 102b – DCE common return,IDEN
+IDEN2627,Circuit 102c – Common return,IDEN
+IDEN2628,Circuit 103 – Transmitted data,IDEN
+IDEN2629,Circuit 104 – Received data,IDEN
+IDEN2630,Circuit 105 – Request to send,IDEN
+IDEN2631,Circuit 106 – Ready for sending,IDEN
+IDEN2632,Circuit 107 – Data set ready,IDEN
+IDEN2633,Circuit 108/1 – Connect data set to line,IDEN
+IDEN2634,Circuit 108/2 – Data terminal ready,IDEN
+IDEN2635,Circuit 109 – Data channel received line signal detector,IDEN
+IDEN2636,Circuit 111 – Data signalling rate selector (DTE source),IDEN
+IDEN2637,Circuit 112 – Data signalling rate selector (DCE source),IDEN
+IDEN2638,Circuit 113 – Transmitter signal element timing (DTE source),IDEN
+IDEN2639,Circuit 114 – Transmitter signal element timing (DCE source),IDEN
+IDEN2640,Circuit 115 – Receiver signal element timing (DCE source),IDEN
+IDEN2641,Circuit 116/1 – Back-up switching in direct mode,IDEN
+IDEN2642,ITU-T Recommendation V.25,IDEN
+IDEN2643,answering modem,IDEN
+IDEN2644,ITU-T Q.13/16,IDEN
+IDEN2645,TIA TR-30.2,IDEN
+IDEN2646,+A,IDEN
+IDEN2647,+D,IDEN
+IDEN2648,+E,IDEN
+IDEN2649,+G,IDEN
+IDEN2650,+I,IDEN
+IDEN2651,+M,IDEN
+IDEN2652,+S,IDEN
+IDEN2653,+T,IDEN
+IDEN2654,+W,IDEN
+IDEN2655,+P,IDEN
+IDEN2656,ETSI/SMG/SMG 4,IDEN
+IDEN2657,6.1.1/V.250,IDEN
+IDEN2658,6.1.7/TIA-602,IDEN
+IDEN2659,6.1.2/V.250,IDEN
+IDEN2660,6.1.8/TIA-602,IDEN
+IDEN2661,8.3.6/T.32,IDEN
+IDEN2662,8.3.6/TIA-592,IDEN
+IDEN2663,10.1.1/IS-101,IDEN
+IDEN2664,10.1.1/V.253,IDEN
+IDEN2665,6.1.3/V.250,IDEN
+IDEN2666,6.1.10/TIA-602,IDEN
+IDEN2667,8.2.4/TIA-578-A,IDEN
+IDEN2668,8.2.4/TIA-592,IDEN
+IDEN2669,9.3.1/IS-101,IDEN
+IDEN2670,9.3.2/IS-101,IDEN
+IDEN2671,9.3.3/IS-101,IDEN
+IDEN2672,6.1.8/V.250,IDEN
+IDEN2673,4.1.5/IS-131,IDEN
+IDEN2674,5.6/IS-99,IDEN
+IDEN2675,8.2.1/T.31,IDEN
+IDEN2676,8.2.1/TIA-578-A,IDEN
+IDEN2677,8.2.1/T.32,IDEN
+IDEN2678,8.2.1/TIA-592,IDEN
+IDEN2679,5.4/IS-99,IDEN
+IDEN2680,9.2.1/IS-101,IDEN
+IDEN2681,4.1.42/IS-135,IDEN
+IDEN2682,5.2.4.4/TIA-678,IDEN
+IDEN2683,9.2.2/V.253,IDEN
+IDEN2684,6.1.10/V.250,IDEN
+IDEN2685,5.6.3/IS-99,IDEN
+IDEN2686,5.2.4.1,IDEN
+IDEN2687,TIA-678,IDEN
+IDEN2688,ITU-T Recommendation V.4,IDEN
+IDEN2689,ITU-T Recommendation V.41,IDEN
+IDEN2690,CODE-INDEPENDENT ERROR-CONTROL SYSTEM,IDEN
+IDEN2691,Recommendation V.5,IDEN
+IDEN2692,Recommendation V.41 generating polynomial,IDEN
+IDEN2693,ITU-T V.42,IDEN
+IDEN2694,ITU-T Recommendation V.42,IDEN
+IDEN2695,ISO/IEC 8885,IDEN
+IDEN2696,SREJ frame,IDEN
+IDEN2697,32-bit FCS,IDEN
+IDEN2698,ITU-T G.695,IDEN
+IDEN2699,coarse wavelength division multiplexing (CWDM),IDEN
+IDEN2700,Recommendation ITU-T G.695,IDEN
+IDEN2701,PAM4 50G,IDEN
+IDEN2702,FOIC2.4 (200G striped across four physical lanes),IDEN
+IDEN2703,FOIC2.4,IDEN
+IDEN2704,ITU-T G.707,IDEN
+IDEN2705,Y.1322,IDEN
+IDEN2706,ITU-T G.709,IDEN
+IDEN2707,Y.1331,IDEN
+IDEN2708,ITU-T G.709.1,IDEN
+IDEN2709,Y.1331.1,IDEN
+IDEN2710,ITU-T G.872,IDEN
+IDEN2711,ITU-T G.959.1,IDEN
+IDEN2712,IEC 60825-1,IDEN
+IDEN2713,IEEE 802.3bs,IDEN
+IDEN2714,IEEE Std 802.3bs-2017,IDEN
+IDEN2715,completely standardized OTUk (OTUk),IDEN
+IDEN2716,G.650–G.659,IDEN
+IDEN2717,client class 100G,IDEN
+IDEN2718,clause 8,IDEN
+IDEN2719,ITU-T G.697,IDEN
+IDEN2720,DWDM technology,IDEN
+IDEN2721,ITU-T. O.201,IDEN
+IDEN2722,ITU-T G.698.1,IDEN
+IDEN2723,Recommendation ITU-T G.698.1,IDEN
+IDEN2724,ITU-T G.698.2,IDEN
+IDEN2725,Recommendation ITU-T G.698.2,IDEN
+IDEN2726,ITU-T G.709.2,IDEN
+IDEN2727,Recommendation ITU-T G.709.2/Y.1331.2 (2018),IDEN
+IDEN2728,ITU-T G.709.3,IDEN
+IDEN2729,Recommendation ITU-T G.709.3/Y.1331.3 (2018),IDEN
+IDEN2730,IEC 60825-1:2014,IDEN
+IDEN2731,IEC 60825-2:2010,IDEN
+IDEN2732,DP-DQPSK 100G,IDEN
+IDEN2733,OTL4.4-SC,IDEN
+IDEN2734,FOIC1.4-SC,IDEN
+IDEN2735,OTU4-SC,IDEN
+IDEN2736,ITU-T G.698.3,IDEN
+IDEN2737,OD/OM,IDEN
+IDEN2738,MPI-SM,IDEN
+IDEN2739,MPI-RM,IDEN
+IDEN2740,SS,IDEN
+IDEN2741,RS,IDEN
+IDEN2742,section 9,IDEN
+IDEN2743,ITU-T G.698.4,IDEN
+IDEN2744,ITU-T G.698.5,IDEN
+IDEN2745,O -band,IDEN
+IDEN2746,O-band,IDEN
+IDEN2747,HEE,IDEN
+IDEN2748,TEE,IDEN
+IDEN2749,ITU-T G.709.4,IDEN
+IDEN2750,OTU25,IDEN
+IDEN2751,OTU50,IDEN
+IDEN2752,ITU-T G.972,IDEN
+IDEN2753,ITU-T G.698.6,IDEN
+IDEN2754,ITU-T Recommendation M.729,IDEN
+IDEN2755,Data Coordinating Point (DCP),IDEN
+IDEN2756,public switched telephone network,IDEN
+IDEN2757,maintenance organization,IDEN
+IDEN2758,Recommendation M.580,IDEN
+IDEN2759,Recommendation M.605,IDEN
+IDEN2760,ITU-T Recommendation O.71,IDEN
+IDEN2761,IMPULSIVE NOISE MEASURING EQUIPMENT FOR TELEPHONE-TYPE CIRCUITS,IDEN
+IDEN2762,Recommendation O.3, § 2.1,IDEN
+IDEN2763,ITU-T Recommendation V.1,IDEN
+IDEN2764,signals,IDEN
+IDEN2765,start,IDEN
+IDEN2766,stop,IDEN
+IDEN2767,condition A,IDEN
+IDEN2768,condition Z,IDEN
+IDEN2769,binary digits,IDEN
+IDEN2770,Recommendation R.31,IDEN
+IDEN2771,Recommendation R.35,IDEN
+IDEN2772,ITU-T Recommendation V.10,IDEN
+IDEN2773,Recommendation V.10,IDEN
+IDEN2774,Appendix II,IDEN
+IDEN2775,ITU-T Recommendation V.100,IDEN
+IDEN2776,Public Switched Telephone Networks (PSTN),IDEN
+IDEN2777,data station,IDEN
+IDEN2778,packet switched public data network (PSPDN),IDEN
+IDEN2779,Administrations,IDEN
+IDEN2780,Table 1/V.100,IDEN
+IDEN2781,Answer mode modem,IDEN
+IDEN2782,Call mode modem,IDEN
+IDEN2783,S1,IDEN
+IDEN2784,S2,IDEN
+IDEN2785,V.27 ter modem,IDEN
+IDEN2786,2100 ± 15 Hz tone,IDEN
+IDEN2787,echo suppressors,IDEN
+IDEN2788,V.26 ter,IDEN
+IDEN2789,Recommendation G.164,IDEN
+IDEN2790,ITU-T Recommendation V.11,IDEN
+IDEN2791,Recommendation V.11,IDEN
+IDEN2792,ITU-T V.110,IDEN
+IDEN2793,V-series Recommendations,IDEN
+IDEN2794,ITU-T Recommendation V.110,IDEN
+IDEN2795,ITU-T Recommendation V.12,IDEN
+IDEN2796,Recommendation V.12,IDEN
+IDEN2797,generator (G),IDEN
+IDEN2798,differential output voltage (Vt),IDEN
+IDEN2799,current (Ios),IDEN
+IDEN2800,Via (or Vib),IDEN
+IDEN2801,Vib (or Via),IDEN
+IDEN2802,Iia (or Iib),IDEN
+IDEN2803,ITU-T Recommendation V.120,IDEN
+IDEN2804,company,IDEN
+IDEN2805,corporation,IDEN
+IDEN2806,governmental organization,IDEN
+IDEN2807,User rate,IDEN
+IDEN2808,octet 5a,IDEN
+IDEN2809,Modem type,IDEN
+IDEN2810,octet 5d,IDEN
+IDEN2811,ITU-T Recommendation V.13,IDEN
+IDEN2812,Recommendation V.13,IDEN
+IDEN2813,local circuit 105,IDEN
+IDEN2814,remote circuit 109,IDEN
+IDEN2815,Recommendation V.54,IDEN
