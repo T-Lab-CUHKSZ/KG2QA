@@ -5,7 +5,7 @@
 **Paper:** [https://arxiv.org/abs/2506.07037](https://arxiv.org/abs/2506.07037) <br>
 
 [Zhongze Luo](https://luozhongze.github.io)#, Weixuan Wan#, Qizhi Zheng, Yanhong Bai, Jingyun Sun, Jian Wang♠, Dan Wang♠  <br>
-\# Equal Contribution; ♠Corresponding authors <br>
+\# Equal Contribution; ♠ Corresponding authors <br>
 
 **Email:** luozhongze0928@foxmail.com <br>
 
