@@ -153,7 +153,7 @@ ID,name,LABEL
 ```
 from,to,relation  
 ```
-## 3. rag_code
+## rag_code
 ### kg2llm.py
 Ollama Model Remote Access to Knowledge Graph
 ### eval.py
