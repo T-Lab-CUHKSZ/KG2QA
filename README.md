@@ -30,7 +30,7 @@ There are many types of standards in the field of communication. The traditional
 
 ![img](./kg2qa.png)
 
-## ft_dataset
+## ft
 
 This dataset can be used for fine-tuning large language models in the field of communication standards. The data is sourced from `ITU-T Recommendations` and the language is English. You can click [here](https://www.itu.int/en/ITU-T/publications/Pages/recs.aspx) to visit the ITU-T official website and view the source file.
 
@@ -94,6 +94,12 @@ X series：Data networks, open system communications and security (A total of 17
     X.1770-X.1799：Data protection (II)
 ```
 
+### qwen.yaml
+Fine-tuning Experimental Setting
+
+### deepseek_eval.py
+Fine-tuned Model Evaluation Code (DeepSeek example)
+
 ## kg
 
 ### View the ontology on Protege
@@ -153,7 +159,8 @@ ID,name,LABEL
 ```
 from,to,relation  
 ```
-## rag_code
+## rag
+
 ### kg2llm.py
 Ollama Model Remote Access to Knowledge Graph
 ### eval.py
