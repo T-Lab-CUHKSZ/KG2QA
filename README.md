@@ -25,7 +25,7 @@ The rapid evolution of communication technologies has led to an explosion of sta
 }
 ```
 
-![img](./kg2qa.png)
+![img](./KG2QA.png)
 
 ## ft
 
