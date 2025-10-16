@@ -17,11 +17,14 @@ The rapid evolution of communication technologies has led to an explosion of sta
 ## Citation
 
 ```
-@article{luo2025kg2qa,
-  title={KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering},
-  author={Luo, Zhongze and Wan, Weixuan and Zheng, Qizhi and Bai, Yanhong and Sun, Jingyun and Wang, Jian and Wang, Dan},
-  journal={arXiv preprint arXiv:2506.07037},
-  year={2025}
+@misc{luo2025kg2qaknowledgegraphenhancedretrievalaugmented,
+      title={KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering}, 
+      author={Zhongze Luo and Weixuan Wan and Tianya Zhang and Dan Wang and Xiaoying Tang},
+      year={2025},
+      eprint={2506.07037},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.07037}, 
 }
 ```
 
