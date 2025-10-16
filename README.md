@@ -1,4 +1,4 @@
-# KG2QA: Knowledge Graph-enhanced Retrieval-Augmented Generation for Communication Standards Question Answering
+# KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering
 
 <div align="center">
 
