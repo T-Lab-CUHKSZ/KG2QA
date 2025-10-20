@@ -2,6 +2,11 @@
 
 <div align="center">
 
+*Zhongze Luo1, Weixuan Wan2, Tianya Zhang1, Dan Wang2, Xiaoying Tang1**  <br>
+1 School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, China  <br>
+2 School of Microelectronics, Xi’an Jiaotong University, China  <br>
+*Corresponding author: Xiaoying Tang</em>  <br>
+
 **Paper:** [https://arxiv.org/abs/2506.07037](https://arxiv.org/abs/2506.07037) <br>
 
 **Email:** luozhongze0928@foxmail.com <br>
