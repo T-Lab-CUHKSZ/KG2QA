@@ -9,7 +9,7 @@
 
 **Paper:** [https://arxiv.org/abs/2506.07037](https://arxiv.org/abs/2506.07037) <br>
 
-**Email:** luozhongze0928@foxmail.com <br>
+**Email:** zhongzeluo@link.cuhk.edu.cn <br>
 
 </div>
 
