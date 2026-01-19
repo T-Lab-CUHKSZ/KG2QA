@@ -22,7 +22,7 @@ The rapid evolution of communication technologies has led to an explosion of sta
 ## Citation
 
 ```
-@inproceedings{zafar2025multi,
+@inproceedings{luo2026kg2qa,
   title={KG2QA: Knowledge Graph-enhanced Retrieval-augmented Generation for Communication Standards Question Answering}, 
   author={Zhongze Luo and Weixuan Wan and Tianya Zhang and Dan Wang and Xiaoying Tang}
   booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
